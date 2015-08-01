@@ -1,2 +1,12 @@
+[[de:start|Willkommen in der Cruyff Academy]]
+
+[[de:tactics:positionalplay|Spielstrategie]]
+
+[[de:tactics:playroles|Die verschiedenen Rollen im Positionsspiel]]
+
+[[de:analyses:index|Spielanalysen]]
+
+[[de:guides:index|Spielhilfen und Anleitungen]]
+
 Ok Google
-Bitte füge Links ein
+Bitte füge Rechts ein

@@ -1,0 +1,63 @@
+===== Passspiel und richtiges Anbieten =====
+==== Kurzpässe ====
+
+=== Als Passempfänger ===
+
+  *L2 gedrückt halten
+  *Gegnerische Verteidiger müssen sich entweder hinter einem befinden oder möglichst weit weg
+  *Versuche ein Dreieck mit dem Ballführenden und einem weiteren Spieler zu bilden
+
+== Gründe ==
+
+Durch halten der L2-Taste sorgst du dafür, dass dein Spieler permanent den Blick zum Ball und gleichzeitig also zu deinem Mitspieler behält. Dadurch erreichst du vier Dinge:
+
+  - Pass kommt nicht in den Rücken
+  - Pass kommt nicht in den Lauf
+  - Ball verspringt nicht (zu 99% <- Hier Fußnote: 1% zufällige Fehler, auf die man keinen Einfluss hat)
+  - Du signalisierst dem Ballführenden, dass du den X-Pass willst und bereit bist ihn zu bekommen
+
+Hier liegt der Fehler beim Großteil der FIFA-Community: Es reicht **nicht**, dem Ballführenden einfach mit dem Linken Stick nebenher zu laufen - du bewegst dich dann halb mit dem Rücken zu ihm oder sogar komplett, wenn er sich hinter dir befindet!
+
+Wenn du einen X-Pass haben willst, du aber nicht L2 gedrückt hältst, dann verringert sich die Wahrscheinlichkeit sehr, dass der Kurzpass tatsächlich in den Fuß gespielt wird. 
+
+Dafür ist es viel wahrscheinlicher, dass einer der folgenden Dinge geschieht, wenn man kurze Pässe spielen möchte:
+
+  *Pass kommt 2-3 Meter in den Rücken
+  *Pass kommt 2-3 Meter in den Lauf
+  *Ball verspringt, indem er von der Hacke des Passempfängers abprallt
+  *Passempfänger hat nicht mit dem Pass gerechnet, da er sich nicht anbietet
+
+=== Als Passspieler ===
+
+Deine Aufgabe als Passspieler ist es vorrangig darauf zu achten, wie sich deine Mitspieler bewegen und ob alle Voraussetzungen für einen X-Pass erfüllt sind (wie oben beschrieben).
+
+Nur, wenn sich dein gewünschter Passempfänger an die Regeln hält, kannst und darfst du einen X-Pass auf ihn spielen, um zu 99% dafür zu sorgen, dass der Pass funktioniert!
+
+Bieten sich mehrere Spieler korrekt an, dann musst du entscheiden, welcher von ihnen nach Passempfang mehr Optionen hat: //Kann er danach offensiv für mehr Gefahr sorgen? Hat er mehrere Anspielstationen? Steht er näher zum Tor?//
+----
+
+
+==== Steilpässe ====
+=== Als Passempfänger ===
+
+  *Nicht L2 gedrückt halten
+  *Die Laufrichtung frei halten
+  *Je nach Situation musst du entweder sprinten (langer Weg + viel Raum)...
+  *...oder normal laufen (kurzer Weg + wenig Raum)
+  *Den Lauf niemals unterbrechen oder die Richtung wechseln
+
+== Gründe ==
+
+Wenn man L2 gedrückt hält oder andernweitig stehen bleibt, wird der Steilpass nicht so kommen, wie man es möchte. Ein Steilpass auf einen stehenden Mitspieler wird meist entweder unerreichbar in den Lauf gespielt oder direkt in den Fuß, was einem X-Pass gleichkommt.
+
+Ist die Laufrichtung nach einem Steilpass nicht frei, wird der Pass sehr wahrscheinlich abgefangen werden.
+
+Ist der Passspieler nahe an dir dran und du sprintest mit voller Geschwindigkeit weg, ist die Abseitsgefahr sehr groß. Ist er jedoch weit weg von dir oder du musst noch weit in Richtung Lücke laufen, solltest du die Sprinttaste vergewaltigen bis der Arzt bzw. die Polizei kommt.
+
+**D.h. also grob:** //Je näher du am Passempfänger bist, desto weniger kannst du sprinten, um für einen erfolgreichen Steilpass zu sorgen und umgekehrt.//
+
+Steilpässe verhalten sich jedoch in FIFA 15 oft willkürlich. Manchmal kann man so gut in eine Lücke gehen, wie man möchte, der Steilpass kommt oft einfach viel zu weit und genau in die Hände des Torhüters - daran kann man leider nichts ändern.
+
+=== Als Passgeber ===
+
+Wie bei den Kurzpässen musst du als Passgeber darauf achten, dass der Mitspieler sich an die oben genannten Voraussetzungen hält. Dazu musst du noch die entsprechende Passdosierung wählen.

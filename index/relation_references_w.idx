@@ -1,7 +1,7 @@
 start
 wiki:syntax
 sidebar
-playground:playground
+de:tactics:playroles
 wiki:pagename
 some:namespaces
 wiki:nonexisting
@@ -9,3 +9,11 @@ wiki:dokuwiki
 de:tactics:positionalplay
 de:strategy
 en:strategie
+de:start
+de:analyses:index
+de:guides:index
+de:guides:passing
+de:guides:tacticaldribbling
+de:tactics:halfdefender
+de:tactics:playmaking8
+de:tactics:striker

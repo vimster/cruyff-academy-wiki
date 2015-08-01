@@ -1,0 +1,83 @@
+====== Die verschiedenen Rollen im Positionsspiel ======
+
+===== Halbverteidiger =====
+[size=3]//-> siehe hierzu den vollständigen Artikel: [[de:tactics:halfdefender|Halbverteidiger]]//[/size]
+
+{{ :playground:hiv.jpg?200|}}**Rot:** Der Bereich in dem sich der LIV/RIV bevorzugt aufhält ({{:playground:screen-shot-2015-05-06-at-22.32.51.png?linkonly|"defensiver Halbraum"}})
+
+**Orange:** Der Bereich in den der LIV/RIV "ausweicht", um das Spiel {{:playground:dffgdfg.jpg?linkonly|im Aufbau breit}} zu machen, wenn der Gegner früh angreift. Die jeweils unteren Bereiche treffen bei {{:playground:2q_.jpg?linkonly|Abstößen}} zu
+
+**Gelb:** Besonderer Bereich für den {{:playground:343hiv.jpg?linkonly|3-4-3-Diamanten}} und weiterer "Ausweichpunkt", um gegnerischem Mittelfeldpressing zu entgehen
+
+**Hellblau:** Im eigenen Strafraum halten sich LIV/RIV nur bei gegnerischen Standards und hohem Druck + signifikant mehr Ballbesitz des Gegners auf (bei gutem Positionsspiel also selten)
+
+~~CLEARFLOAT~~
+
+----
+===== Offensiver Halbraumlibero =====
+
+Alaba is King
+----
+
+===== Zentraler Libero =====
+
+{{ :playground:lib.jpg?200|}}Busquets = Bossquets
+
+
+~~CLEARFLOAT~~
+----
+
+===== Breitmachender Flügelspieler =====
+
+{{ :playground:lrrv.jpg?200|}}Klebt an der Seitenlinie, spielt linear und läuft auf und ab und auf und ab.
+
+Immer für Seitenwechsel bereit.
+
+LV/RV/RAV/LAV/LM/RM
+
+Bernat, Rafinha, Alba, Alves
+
+~~CLEARFLOAT~~
+----
+
+===== Halbraumspielmacher =====
+[size=3]//-> siehe hierzu den vollständigen Artikel: [[de:tactics:playmaking8|Halbraumspielmacher]]//[/size]
+
+{{ :playground:zm.jpg?200|}}**Rot:** Die Bereiche in denen sich die Spielmacher bevorzugt aufhalten, um mit den Flügelspielern gemeinsam Dreiecke zu bilden und durch diagonale Dribblings Offensiv-Signale senden (Halbräume)
+
+**Gelb:** Hier haltet sich einer der Spielmacher auf, wenn der zentrale Libero nicht anspielbar ist oder um in der Mitte Dreiecke zu bilden
+
+**Orange:** Der sogenannte "10er"-Raum in dem sich einer der beiden Spielmacher aufhält, um die Mitte zu überladen und auf der anderen Seite bzw. in der Mitte für Dreiecke zu sorgen
+
+**Hellgelb:** Hier dringen die Spielmacher am Ende für Kombinationen oder abschließende Aktionen ein, wenn es keinen echten Mittelstürmer gibt
+
+~~CLEARFLOAT~~
+----
+
+
+===== Mittelstürmer =====
+[size=3]//-> siehe hierzu den vollständigen Artikel: [[de:tactics:striker|Mittelstürmer]]//[/size]
+
+{{ :playground:st.jpg?200|}}**Rot:** Der Mittelstürmer steht permanent entlang der Verteidiger(Abseits-)linie des Gegners und wartet darauf, von den Spielmachern Richtung Strafraum geschickt zu werden
+
+**Hellgelb**: Bei eigenem Ballbesitz in tieferen Ebenen muss der Mittelstürmer stets im Zentrum und an vorderster Front bleiben, um den Flügelspielern und Mittelfeldspielern Platz zu verschaffen
+
+~~CLEARFLOAT~~
+----
+
+===== Falsche Neun =====
+
+{{ :playground:10f9.jpg?200|}}Messi 2009-2013
+
+~~CLEARFLOAT~~
+----
+
+
+===== Flügelstürmer =====
+
+{{ :playground:lfrf.jpg?200|}}Zieht in die Mitte für Doppelpässe im Halbraum, Steilpässe in den Strafraum oder zum überlappenden Außenverteidiger, schließt ab, startet nach Signalen des Halbraumspielmachers durch, geht außen steil und flankt.
+
+~~CLEARFLOAT~~
+----
+
+

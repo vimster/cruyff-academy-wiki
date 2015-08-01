@@ -1,0 +1,27 @@
+===== Spielhilfen und Anleitungen =====
+==== Passspiel und richtiges Anbieten ====
+[size=3]//-> siehe hierzu den vollständigen Artikel: [[de:guides:passing|Passspiel und richtiges Anbieten]]//[/size]
+
+Der Großteil der Spieler, die versuchen viele Kurzpässe zu spielen, achten zu wenig darauf, ob und wie sich die Mitspieler anbieten. So entstehen viele unnötige Fehlpässe und Missverständnisse. 
+
+Da sich aber die wenigsten dann damit beschäftigen, //wieso// viele Pässe nicht funktionieren, wird jeder Fehlpass auf angebliche Spielfehler geschoben und jegliche eigene Schuld ausgeschlossen.
+
+Nach Lesen des verlinkten Artikels sollten u.a. folgende Probleme möglichst effektiv ausgemerzt werden:
+
+  *Pässe in den Rücken
+  *Ungewollte Pässe in den Lauf
+  *Kurzpass, obwohl die Anspielstation steil läuft
+  *Steilpass, obwohl die Anspielstation stehen bleibt
+  *hektische Direktpässe ohne Raumgewinn
+==== Torschuss ====
+
+==== Balleroberung ====
+
+==== Dribbling ====
+=== Pressingresistenz ===
+[size=3]//-> siehe hierzu den vollständigen Artikel: [[de:guides:tacticaldribbling|Pressingresistenz]]//[/size]
+=== Verteidiger ausspielen ===
+
+==== Spielerattribute ====
+
+==== Vorlagen für den Virtual Pro ====
