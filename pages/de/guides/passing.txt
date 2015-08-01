@@ -13,7 +13,7 @@ Durch halten der L2-Taste sorgst du dafür, dass dein Spieler permanent den Blic
 
   - Pass kommt nicht in den Rücken
   - Pass kommt nicht in den Lauf
-  - Ball verspringt nicht (zu 99% <- Hier Fußnote: 1% zufällige Fehler, auf die man keinen Einfluss hat)
+  - Ball verspringt zu 99% nicht ((1% zufällige Fehler, auf die man keinen Einfluss hat))
   - Du signalisierst dem Ballführenden, dass du den X-Pass willst und bereit bist ihn zu bekommen
 
 Hier liegt der Fehler beim Großteil der FIFA-Community: Es reicht **nicht**, dem Ballführenden einfach mit dem Linken Stick nebenher zu laufen - du bewegst dich dann halb mit dem Rücken zu ihm oder sogar komplett, wenn er sich hinter dir befindet!

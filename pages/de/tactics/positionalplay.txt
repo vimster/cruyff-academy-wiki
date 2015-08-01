@@ -14,7 +14,7 @@ Weltherrschaft
 ----
 
 ==== Voraussetzungen ====
-PS4 Controller Monitor Strom FIFA-Diskette
+PS4 Controller Monitor Strom FIFA-Diskette oder VHS
 ----
 
 ==== Positionsspiel ====
@@ -29,7 +29,7 @@ Ebola
 ----
 
 === Die verschiedenen Rollen ===
-[size=3]//-> siehe hierzu den vollständigen Artikel:[[de:tactics:playroles|Die verschiedenen Rollen im Positionsspiel]]//[/size]
+[size=3]//-> siehe hierzu den vollständigen Artikel: [[de:tactics:playroles|Die verschiedenen Rollen im Positionsspiel]]//[/size]
 
 ----
 
@@ -49,16 +49,22 @@ Laufband
 ----
 
 ==== Gegnerische Spielweisen ====
+((Alle hier beschriebenen Mannschaftsanalysen entstammen einzig und allein meinen eigenen Erfahrungen aus Spielen entweder gegen sie, bei ihnen oder durch das ansehen von Twitch-Streams. Die Spielweisen können mehr oder weniger stark von meinen Ansichten abweichen, doch ich kann nur für das sprechen, was ich sehe.))
 === Niedrige Spieleranzahl ===
 === Hohe Spieleranzahl ===
-=== Beispiele aus der FVPA ===
-== Rising Phoenix ==
-== Royal Aces/Intoxicated ==
-== WL Diamonds ==
-== Pro Paganda ==
-== Stars von 14 ==
-----
+=== Royal Aces/Intoxicated und Rising Phoenix ===
+[size=3]//-> siehe hierzu den vollständigen Artikel: [[de:tactics:RAandRP|Royal Aces und Rising Phoenix]]//[/size]
 
+Deutschlands "Elite" und "Aushängeschild" mit den meisten Nationalspielern und Managern der FVPA und iFVPA.
+=== WL Diamonds ===
+[size=3]//-> siehe hierzu den vollständigen Artikel: [[de:tactics:wldfc|WL Diamonds]]//[/size]
+
+Der Club bei dem ich momentan in der 3. FVPA-Liga spiele.
+=== Pro Paganda ===
+
+Zu FIFA 12 Zeiten noch einer meiner absoluten Lieblingsclubs und nun zu einer Art Royal Aces Pressing-Maschinen-Kopie ohne Kreativität mutiert.
+=== Stars von 14 ===
+----
 ==== Spielanalysen ====
 === Gegen tiefstehende Gegner ===
 === Gegen hohes Pressing ===

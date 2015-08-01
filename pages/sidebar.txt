@@ -2,11 +2,17 @@
 
 [[de:tactics:positionalplay|Spielstrategie]]
 
-[[de:tactics:playroles|Die verschiedenen Rollen im Positionsspiel]]
+  *[[de:tactics:playroles|Die verschiedenen Rollen im Positionsspiel]]
+    *[[de:tactics:halfdefender|Halbverteidiger]]
+    *[[de:tactics:playmaking8|Halbraumspielmacher]]
+    *[[de:tactics:striker|Mittelstürmer]]
+  *Gegnerische Spielweisen
+    *[[de:tactics:raandrp|Royal Aces und Rising Phoenix]]
+    *[[de:tactics:wldfc|WL Diamonds]]
 
 [[de:analyses:index|Spielanalysen]]
-
+  
 [[de:guides:index|Spielhilfen und Anleitungen]]
 
-Ok Google
-Bitte füge Rechts ein
+  *[[de:guides:passing|Passspiel und richtiges Anbieten]]
+  *[[de:guides:tacticaldribbling|Pressingresistenz]]
