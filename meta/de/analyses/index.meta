@@ -1,4 +1,4 @@
-a:2:{s:7:"current";a:9:{s:4:"date";a:2:{s:7:"created";i:1438345215;s:8:"modified";i:1438371170;}s:7:"creator";s:14:"Johan Neeskens";s:4:"user";s:9:"jneeskens";s:11:"last_change";a:7:{s:4:"date";i:1438371170;s:2:"ip";s:14:"92.211.191.168";s:4:"type";s:1:"E";s:2:"id";s:17:"de:analyses:index";s:4:"user";s:7:"jcruyff";s:3:"sum";s:0:"";s:5:"extra";s:0:"";}s:11:"contributor";a:2:{s:9:"jneeskens";s:14:"Johan Neeskens";s:7:"jcruyff";s:12:"Johan Cruyff";}s:5:"title";s:13:"Spielanalysen";s:11:"description";a:2:{s:15:"tableofcontents";a:1:{i:0;a:4:{s:3:"hid";s:13:"spielanalysen";s:5:"title";s:13:"Spielanalysen";s:4:"type";s:2:"ul";s:5:"level";i:1;}}s:8:"abstract";s:124:"Spielanalysen
+a:2:{s:7:"current";a:9:{s:4:"date";a:2:{s:7:"created";i:1438345215;s:8:"modified";i:1438432856;}s:7:"creator";s:14:"Johan Neeskens";s:4:"user";s:9:"jneeskens";s:11:"last_change";a:7:{s:4:"date";i:1438432856;s:2:"ip";s:14:"92.208.203.220";s:4:"type";s:1:"E";s:2:"id";s:17:"de:analyses:index";s:4:"user";s:9:"jneeskens";s:3:"sum";s:0:"";s:5:"extra";s:0:"";}s:11:"contributor";a:2:{s:9:"jneeskens";s:14:"Johan Neeskens";s:7:"jcruyff";s:12:"Johan Cruyff";}s:5:"title";s:13:"Spielanalysen";s:11:"description";a:2:{s:15:"tableofcontents";a:1:{i:0;a:4:{s:3:"hid";s:13:"spielanalysen";s:5:"title";s:13:"Spielanalysen";s:4:"type";s:2:"ul";s:5:"level";i:1;}}s:8:"abstract";s:179:"Spielanalysen
 
 
 
@@ -7,4 +7,6 @@ YouTube funktioniert, das ist super!
 
 Weltklasse!!!
 
-Wie wollen wir das mit den Analysen machen?";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}s:8:"relation";a:1:{s:10:"firstimage";s:0:"";}}s:10:"persistent";a:5:{s:4:"date";a:2:{s:7:"created";i:1438345215;s:8:"modified";i:1438371170;}s:7:"creator";s:14:"Johan Neeskens";s:4:"user";s:9:"jneeskens";s:11:"last_change";a:7:{s:4:"date";i:1438371170;s:2:"ip";s:14:"92.211.191.168";s:4:"type";s:1:"E";s:2:"id";s:17:"de:analyses:index";s:4:"user";s:7:"jcruyff";s:3:"sum";s:0:"";s:5:"extra";s:0:"";}s:11:"contributor";a:2:{s:9:"jneeskens";s:14:"Johan Neeskens";s:7:"jcruyff";s:12:"Johan Cruyff";}}}
+Wie wollen wir das mit den Analysen machen?
+
+Wollen wir ein Template für Spielanalysen erstellen?";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}s:8:"relation";a:1:{s:10:"firstimage";s:0:"";}}s:10:"persistent";a:5:{s:4:"date";a:2:{s:7:"created";i:1438345215;s:8:"modified";i:1438432856;}s:7:"creator";s:14:"Johan Neeskens";s:4:"user";s:9:"jneeskens";s:11:"last_change";a:7:{s:4:"date";i:1438432856;s:2:"ip";s:14:"92.208.203.220";s:4:"type";s:1:"E";s:2:"id";s:17:"de:analyses:index";s:4:"user";s:9:"jneeskens";s:3:"sum";s:0:"";s:5:"extra";s:0:"";}s:11:"contributor";a:2:{s:9:"jneeskens";s:14:"Johan Neeskens";s:7:"jcruyff";s:12:"Johan Cruyff";}}}

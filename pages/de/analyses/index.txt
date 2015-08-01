@@ -8,3 +8,5 @@ YouTube funktioniert, das ist super!
 Weltklasse!!!
 
 Wie wollen wir das mit den Analysen machen?
+
+Wollen wir ein Template für Spielanalysen erstellen?
