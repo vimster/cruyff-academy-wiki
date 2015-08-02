@@ -52,30 +52,7 @@ Auch und vor allem für dich als einer der ersten Aufbauspieler gilt: [b][i]Kein
 ----
 
 ==== Balleroberung: ====
-
-<html><iframe width="640" height="390" src="https://www.youtube.com/embed/Vs3BqvnUp-8" frameborder="0" allowfullscreen></iframe></html>
-
-Halte Abstand zum Gegner indem du [b][i]L2 gedrückt[/i][/b] hältst und die Bewegungen des Gegners abwartest. Ist der Gegner in Reichweite, kannst du einen manuellen Zweikampf oder eine Grätsche ausführen, oft reicht es aber [b][i]mit L2 Abstand zu halten und zu warten[/i][/b], bis der Gegner einfach[b][i] in dich hinein läuft[/i][/b].
-
-Sehr wichtig ist es "einfach", dass du stets [b][i]näher am eigenen Tor bist, als dein Gegenspieler[/i][/b] - sobald ihr mindestens parallel zueinander steht und der Stürmer im Vollsprint ist, hast du so gut wie verloren. Deshalb gehe (besonders als letzter Mann ohne Absicherung) [b][i]nicht aggressiv auf den Ball[/i][/b] und [b][i]halte mit L2 Abstand[/i][/b], um den Raum vor deinem Gegner abzudecken.
-
-<html><iframe src="http://gfycat.com/ifr/InfantileAngelicGonolek" frameborder="0" scrolling="no" width="960" height="540" style="-webkit-backface-visibility: hidden;-webkit-transform: scale(1);" ></iframe></html>
-
-Was viele Verteidiger/Anys machen ist, dass sie L2 gedrückt halten und währenddessen vor dem Gegner ständig Bewegungen links/rechts bzw. oben/unten zu machen oder sich sogar im Kreis bewegen, sodass sie noch mehr Raum zum dribbeln und passen abdecken.
-
-Wichtig ist immer: gehst du als Verteidiger auf den Ballführenden zu, gibst du ihm die Möglichkeit dich auszuspielen oder an dir vorbeizupassen. Wartest du aber ab, nimmst du ihm mindestens eine der beiden Möglichkeiten weg und es ist sehr wahrscheinlich, dass er überfordert ist und in dich reinläuft.
-
-[b]Lasse die X Taste weg[/b], solange es nicht darum geht, Schüsse im eigenen Strafraum abzublocken!
-
-Wirst du aufgrund eines Stellungsfehlers überrant, versuche den Gegner mit Trikotziehen (Kreis) zu verlangsamen. 
-
-[b][i]Im Strafraum darfst du aber NIE den Körperkontakt suchen[/i][/b], da es sonst sehr wahrscheinlich Elfmeter geben wird. 
-
-[b][u]Also:[/u][/b] [b][i]
-Mit L2 Abstand halten, den Raum zum Tor/Mitspieler abdecken, nie auf Zweikampf (O) drücken![/i][/b]
-
-----
-
+[size=3]//-> siehe hierzu den Artikel: [[de:guides:defending|Balleroberung]]//[/size]
 ==== Joël Veltman ====
 
 <html><iframe width="854" height="510" src="https://www.youtube.com/embed/aMqXvG79WZg" frameborder="0" allowfullscreen></iframe></html>

@@ -117,10 +117,4 @@ Enorm wichtig, nicht nur für dich als ST: Ballannahmen in den Gegner DRINGENDST
 ----
 
 ==== Torschuss ====
-
-Ich werde mir überlegen, ob es Sinn macht, viel über das Tore schießen in FIFA 15 zu schreiben. Eigentlich ist es nicht nötig, da man sich nur 2 Dinge merken muss:
-  
-  - ins kurze Eck schießen
-  - ggf. am Torwart vorbeilaufen
-  
-Das einzig anspruchsvolle kann es sein, in die richtige Position zu kommen. Doch ist man in Position ist es zu 99% ((man muss immer davon ausgehen, dass man mal Pfosten oder Latte trifft bzw. knapp vorbeischießt)) ein Tor.
+[size=3]//-> siehe hierzu den Artikel: [[de:guides:shooting|Torschuss]]//[/size]

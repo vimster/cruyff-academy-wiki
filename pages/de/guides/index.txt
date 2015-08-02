@@ -14,14 +14,21 @@ Nach Lesen des verlinkten Artikels sollten u.a. folgende Probleme möglichst eff
   *Steilpass, obwohl die Anspielstation stehen bleibt
   *hektische Direktpässe ohne Raumgewinn
 ==== Torschuss ====
-
-==== Balleroberung ====
-
-==== Dribbling ====
-=== Pressingresistenz ===
-[size=3]//-> siehe hierzu den vollständigen Artikel: [[de:guides:tacticaldribbling|Pressingresistenz]]//[/size]
-=== Verteidiger ausspielen ===
+[size=3]//-> siehe hierzu den Artikel: [[de:guides:shooting|Torschuss]]//[/size]
+==== Balleroberung: ====
+[size=3]//-> siehe hierzu den Artikel: [[de:guides:defending|Balleroberung]]//[/size]
+==== Pressingresistenz ====
+[size=3]//-> siehe hierzu den Artikel: [[de:guides:tacticaldribbling|Pressingresistenz]]//[/size]
 
 ==== Spielerattribute ====
 
 ==== Vorlagen für den Virtual Pro ====
+
+Eine "Vorlage" aus dem echten Fußball zu wählen (Name, Aussehen, Größe, Gewicht) sorgt für einen kleinen Rollenspiel-Effekt bei dem man sich ggf. als Ziel setzen kann die Spielweise seines Vorbildes in den Pro Club Modus zu übertragen.
+
+Als Datenbank für alle Spieler - ob alt oder aktuell - empfehle ich folgende Seiten:
+
+  *[[http://futhead.com|futhead]]
+  *[[http://pesstatsdatabase.com|PESStatsDatabase]]
+
+Erstere umfasst eine Datenbank aller Spieler, die in den FIFA-Teilen vorhanden sind und letztere ist eine User-basierte Datenbank mit dem Ziel möglichst realitätsnahe Spielerattribute für Pro Evolution Soccer zu finden.

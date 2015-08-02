@@ -15,4 +15,6 @@
 [[de:guides:index|Spielhilfen und Anleitungen]]
 
   *[[de:guides:passing|Passspiel und richtiges Anbieten]]
+  *[[de:guides:shooting|Torschuss]]
+  *[[de:guides:defending|Balleroberung:]]
   *[[de:guides:tacticaldribbling|Pressingresistenz]]
