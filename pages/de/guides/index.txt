@@ -21,7 +21,7 @@ Nach Lesen des verlinkten Artikels sollten u.a. folgende Probleme möglichst eff
 [size=3]//-> siehe hierzu den Artikel: [[de:guides:tacticaldribbling|Pressingresistenz]]//[/size]
 
 ==== Spielerattribute ====
-
+[size=3]//-> siehe hierzu den Artikel: [[de:guides:attributes|Spielerattribute]]//[/size]
 ==== Vorlagen für den Virtual Pro ====
 
 Eine "Vorlage" aus dem echten Fußball zu wählen (Name, Aussehen, Größe, Gewicht) sorgt für einen kleinen Rollenspiel-Effekt bei dem man sich ggf. als Ziel setzen kann die Spielweise seines Vorbildes in den Pro Club Modus zu übertragen.

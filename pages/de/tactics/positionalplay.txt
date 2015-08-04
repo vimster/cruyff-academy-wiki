@@ -41,10 +41,7 @@ Schach matt
 ----
 
 === Trainingsübungen ===
-Rondo
-Liegestütz
-Sit ups
-Laufband
+[size=3]//-> siehe hierzu den Artikel: [[de:tactics:training|Trainingsübungen]]//[/size]
 
 ----
 

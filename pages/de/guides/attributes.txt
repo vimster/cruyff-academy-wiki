@@ -1,0 +1,33 @@
+===== Spielerattribute =====
+
+==== Mentale Attribute ====
+
+=== Aggressivität ===
+
+  *hängt zusammen mit: Stärke (Stärke=hoch -> Aggressivität=hoch)
+  *je höher dieser Wert ist, desto "aggressiver" führt der Spieler Zweikämpfe aus
+
+Beispiel: Lahm (=niedr. Aggr.) führt Zweikämpfe langsamer/seltener aus als Vidal (=hohe Aggr.)
+
+
+
+=== Stellungsspiel (Offensiv!!); betrifft nur K.I. ===
+
+  *hängt zusammen mit: Position (Sturm=hoch; Mittelfeld=mittel; Abwehr=niedrig)
+  *je höher dieser Wert ist, desto öfter versucht ein K.I.-Stürmer in Lücken zu laufen
+
+=== Abfangen ===
+
+  *hängt zusammen mit: Position (Sturm=niedr.; Mittelfeld=mittel; Abwehr=hoch)
+  *je höher dieser Wert, desto wahrscheinlicher "fährt" der Spieler ein Bein aus, um einen Ball abzufangen (K.I. und Mensch)
+  *je höher dieser Wert, desto besser positioniert sich ein verteidigender Spieler in freien Räumen, wo Pässe hineingespielt werden könnten (nur K.I.)
+
+=== Übersicht ===
+
+  *hängt nicht mit Stellungsspiel zusammen!
+  *hängt zusammen mit: Passspiel, Lange Bälle
+  *je höher dieser Wert ist, desto größer wird der Radius um den Spieler, in denen er genaue Pässe spielen kann
+
+Beispiel: du steuerst einen IV (niedr. Wert) und siehst einen freien Spieler weit vorne rechts und willst ihn anspielen -> die Wahrscheinlichkeit ist sehr niedrig, dass der Pass gut kommt, da der IV den Spieler nicht "sieht"
+
+<html><iframe width="640" height="360" src="https://www.youtube.com/embed/aWTTIwphjz4?feature=player_embedded" frameborder="0" allowfullscreen></iframe></html>

@@ -6,6 +6,7 @@
     *[[de:tactics:halfdefender|Halbverteidiger]]
     *[[de:tactics:playmaking8|Halbraumspielmacher]]
     *[[de:tactics:striker|Mittelstürmer]]
+  *[[de:tactics:training|Trainingsübungen]]
   *Gegnerische Spielweisen
     *[[de:tactics:raandrp|Royal Aces und Rising Phoenix]]
     *[[de:tactics:wldfc|WL Diamonds]]
@@ -18,3 +19,11 @@
   *[[de:guides:shooting|Torschuss]]
   *[[de:guides:defending|Balleroberung:]]
   *[[de:guides:tacticaldribbling|Pressingresistenz]]
+
+[[de:psychology:index|Psychologische Aspekte]]
+
+  *[[de:psychology:media|Fußball in den Medien]]
+  *[[de:psychology:thinkdifferent|Veraltete Ansichten verwerfen]]
+  *[[de:psychology:personal|Selbstreflexion]]
+
+[[de:faq|Häufig gestellte Fragen]]
