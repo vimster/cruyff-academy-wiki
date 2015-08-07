@@ -1,23 +1,22 @@
 ===== Welcome to the Cruyff Academy =====
 
-Dies ist ein Ort von und für Fußball- und Taktikverrückte, die den FIFA Pro Club Modus auf der PS4 etwas anders angehen, als der Großteil der FIFA-Community.
+{{ :de:cruyff1.jpg?200|}}
+This is a place made by and for football fanatics and tactic enthusiasts, who take a very different approach on FIFA Pro Clubs (PS4) than most parts of the FIFA-Community.
 
-Unser Ziel ist es Gleichgesinnte zu finden, die ebenso wie wir Fans des schönen und anspruchsvollen FuÃballs sind - genauer gesagt des **Positionsspiels** //(<- Link zur Positionsspiel-Seite)//, um ein schlagkräftiges Team aus ambitionierten, spielstarken und sympathischen Spielern zu schaffen.
+It's our aim to find like-minded people, who love beautiful and sophisticated football just as much as we do, to create a powerful team with ambitious, talented and friendly players at the same time.
 
-Die "Cruyff Academy" wurde gegründet, um nach genau diesen Spielern zu suchen und unsere [[de:tactics:positionalplay|Spielstrategie]] zu verfolgen - basierend auf den Spielweisen von u.a. Johan Cruyff, Pep Guardiola und Louis van Gaal.
+The "Cruyff Academy" was founded for this exact purpose so we can follow our [[en:tactics:positionalplay|Game strategy]] called "Positional Play" - a strategy based on the philosophy by the likes of Johan Cruyff, Louis van Gaal and Josep Guardiola.
 
-Dieses Wiki soll dabei folgende Dinge erfüllen:
+This wiki is here to provide following things:
 
-  * Anlaufpunkt für Spielhilfen, Guides und Tutorials
-  * Detaillierte Beschreibungen von Positionen und Formationen
-  * Erweiterung des eigenen Horizonts, bei weitem nicht nur für AnfÃ¤nger
-  * Endlich Spaß beim Pro Club!
+  * Guides and tutorials
+  * Detailed descriptions of positions, formations and playstyle
+  * Opening up your mind, not just for beginners
+  * Finally having fun in FIFA!
 
-Du lässt dich nicht von vielem Text abschrecken? Du willst anders sein als die anderen, typischen FIFA-Spieler? Du willst schönen, anspruchsvollen Fußball spielen?
+{{ :de:2-format43.jpg?200|}}Reading lot's of text is not too much for you? You want to be different from the typical FIFA players? You want to play beautiful and challenging football?
 
-What if I were to tell you that in nicht allzu ferner Zukunft mit Leuten zusammenzuspielen, die sehr selten den Ball verlieren und dabei stets den Blick zum Tor haben. Jeder wei? sofort, was der andere will und es gibt kaum Missverständnisse. Es weiß nicht nur jeder, was Positionsspiel bedeutet, sondern er kann es auch mit dem Controller umsetzen - und alles dank dieses schönen Wikis.
+What if I were to tell you that if you join us and follow the "rules" stated in this wiki you will achieve just that. In the near future you will play with people, who very rarely lose the ball without ever losing interest in scoring goals and taking risks in the right time. Everybody knows what the teammates are thinking without misunderstandings. Everybody knows what Positional Play means and can also use it with his controller - thanks to this precious wiki.
 
 **//Would that be something you might be interested in?//**
-
-**OK Google,
-Soll ich das ins Englische übersetzen?**
+{{ :de:van-gaal-540x404.jpg?300 |}}
