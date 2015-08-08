@@ -1,1 +1,98 @@
-Roles
+====== The Roles of Positional Play ======
+
+===== Halfdefender =====
+[size=3]//-> Main article: [[en:tactics:halfdefender|Halfdefender]]//[/size]
+
+{{ :playground:hiv.jpg?200|}}**Red:** The area where the LCB/RCB are usually to be found. ({{:playground:screen-shot-2015-05-06-at-22.32.51.png?linkonly|"defensive interior corridor"}})
+
+**Orange:** The area the LCB/RCB switches to, in order to make the game {{:playground:dffgdfg.jpg?linkonly|wide in the buildup phase}}, if the opponent is pressing high up the pitch. Die jeweils unteren Bereiche treffen bei {{:playground:2q_.jpg?linkonly|Abstößen}} zu
+
+**Yellow:** Special area for the {{:playground:343hiv.jpg?linkonly|3-4-3-diamond}} and further retreating point to evade the opponents midfield pressing.
+
+**Lightblue:** LCB/RCB are only allowed to stay in the penalty box at opponents set pieces, high pressure and significantly possession of the opponent (with good implementation of Positional Play this isn't often the case)
+
+~~CLEARFLOAT~~
+
+----
+===== Half sweeper =====
+
+Alaba is King
+----
+
+===== Center sweeper =====
+
+{{ :playground:lib.jpg?200|}}Busquets = Bossquets
+
+
+~~CLEARFLOAT~~
+----
+
+===== Wide making winger =====
+
+{{ :playground:lrrv.jpg?200|}}
+The wide making winger sticks to the touchline, plays linearly and
+runs back and forth and back and forth and back and forth.
+
+Always prepared for changeovers.
+
+Positions: LB/RB/LM/RM
+
+Role models: Bernat, Rafinha, Alba, Alves
+
+~~CLEARFLOAT~~
+----
+
+===== Halfspace playmaker =====
+[size=3]//-> Main article: [[en:tactics:playmaking8|Halfspace playmaker]]//[/size]
+
+{{ :playground:zm.jpg?200|}}**Red:** The area the playmaker is mainly present,
+in order to build triangles with the wingers and send offensive signals to the
+striker by diagonal dribblings.
+
+**Yellow:** In that zone the playmaker is supposed to stay if the center
+sweeper is not available for a pass or triangles are required in the center.
+
+**Orange:** The so-called space of the 10 where either of the two playmakers
+is to stay, in order to overload the center and generate triangles on the
+far side and in the center, respectively.
+
+**Lightyellow:** This area is supposed to be penetrated by the playmaker for a
+finishing action if there is now real center striker.
+
+~~CLEARFLOAT~~
+----
+
+
+===== Center forward =====
+[size=3]//-> Main article: [[en:tactics:striker|Mittelstürmer]]//[/size]
+
+{{ :playground:st.jpg?200|}}**Red:** The center forward stays permanently
+along the offside line and waits for through ball by the playmakers into the
+box.
+
+**Lightyellow**: In possesson in deeper zones the center forward needs to stay in
+frontline for the purpose of creating room for the wingers and midfielders.
+
+~~CLEARFLOAT~~
+----
+
+===== False 9 =====
+
+{{ :playground:10f9.jpg?200|}}Messi 2009-2013
+
+~~CLEARFLOAT~~
+----
+
+
+===== Winger =====
+
+{{ :playground:lfrf.jpg?200|}}
+The winger moves to the center for one-twos in the interior corridor, through
+balls into the box or overlapping of the fullbacks. Additionally, he starts
+runs vertically after getting signals by the playmakers and provides the
+center forward with crosses.
+
+~~CLEARFLOAT~~
+----
+
+

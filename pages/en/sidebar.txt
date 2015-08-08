@@ -1,0 +1,12 @@
+
+~~CLEARFLOAT~~
+**[[en:start|Welcome to the Cruyff Academy]]**
+
+[[en:tactics:positionalplay|Game strategy]]
+
+  *[[en:tactics:playroles|Roles of Positional Play]]
+    *[[en:tactics:halfdefender|Halbverteidiger]]
+    *[[en:tactics:playmaking8|Halbraumspielmacher]]
+    *[[en:tactics:striker|Mittelstürmer]]
+
+[[de:faq|Frequently asked questions]]
