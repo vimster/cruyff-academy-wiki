@@ -3,7 +3,7 @@
 ===== Halfdefender =====
 [size=3]//-> Main article: [[en:tactics:halfdefender|Halfdefender]]//[/size]
 
-{{ :playground:hiv.jpg?200|}}**Red:** The area where the LCB/RCB are usually to be found. ({{:playground:screen-shot-2015-05-06-at-22.32.51.png?linkonly|"defensive interior corridor"}})
+{{ :playground:hiv.jpg?200|}}**Red:** The area the LCB/RCB are usually to be found. ({{:playground:screen-shot-2015-05-06-at-22.32.51.png?linkonly|"defensive interior corridor"}})
 
 **Orange:** The area the LCB/RCB switches to, in order to make the game {{:playground:dffgdfg.jpg?linkonly|wide in the buildup phase}}, if the opponent is pressing high up the pitch. Die jeweils unteren Bereiche treffen bei {{:playground:2q_.jpg?linkonly|Abstößen}} zu
 
@@ -50,14 +50,14 @@ in order to build triangles with the wingers and send offensive signals to the
 striker by diagonal dribblings.
 
 **Yellow:** In that zone the playmaker is supposed to stay if the center
-sweeper is not available for a pass or triangles are required in the center.
+sweeper is not available for a pass or building triangles is required in the center.
 
 **Orange:** The so-called space of the 10 where either of the two playmakers
 is to stay, in order to overload the center and generate triangles on the
 far side and in the center, respectively.
 
 **Lightyellow:** This area is supposed to be penetrated by the playmaker for a
-finishing action if there is now real center striker.
+finishing action if there is no real center striker.
 
 ~~CLEARFLOAT~~
 ----
@@ -67,10 +67,10 @@ finishing action if there is now real center striker.
 [size=3]//-> Main article: [[en:tactics:striker|Mittelstürmer]]//[/size]
 
 {{ :playground:st.jpg?200|}}**Red:** The center forward stays permanently
-along the offside line and waits for through ball by the playmakers into the
+along the offside line and waits for through balls by the playmakers into the
 box.
 
-**Lightyellow**: In possesson in deeper zones the center forward needs to stay in
+**Lightyellow**: In possesson in deeper zones the center forward needs to stay in the
 frontline for the purpose of creating room for the wingers and midfielders.
 
 ~~CLEARFLOAT~~
