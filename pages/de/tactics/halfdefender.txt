@@ -2,7 +2,7 @@
 
 {{ :playground:hiv.jpg?200|}}**Rot:** Der Bereich in dem sich der LIV/RIV bevorzugt aufhält ({{:playground:screen-shot-2015-05-06-at-22.32.51.png?linkonly|"defensiver Halbraum"}})
 
-**Orange:** Der Bereich in den der LIV/RIV "ausweicht", um das Spiel {{:playground:dffgdfg.jpg?linkonly|im Aufbau breit}} zu machen, wenn der Gegner früh angreift. Die jeweils unteren Bereiche treffen bei {{:playground:2q_.jpg?linkonly|Abstößen}} zu
+**Orange:** Der Bereich in den der LIV/RIV "ausweicht", um das Spiel {{:playground:dffgdfg.jpg?linkonly|im Aufbau breit}} zu machen, wenn der Gegner früh angreift. Die jeweils unteren Bereiche treffen bei {{:playground:2q_.jpg?linkonly|Abstößen}} und allgemein bei Ballbesitz im eigenen Strafraum zu
 
 **Gelb:** Besonderer Bereich für den {{:playground:343hiv.jpg?linkonly|3-4-3-Diamanten}} und weiterer "Ausweichpunkt", um gegnerischem Mittelfeldpressing zu entgehen
 
@@ -22,6 +22,17 @@
 </code>
 Es ist dir ausdrücklich erlaubt und erwünscht, dass du versuchst, den Ball so kurz wie möglich in Nähe des eigenen Strafraums zu halten und ihn sicher möglichst weit Richtung gegnerisches Tor bringst.
 
+=== Die bevorzugten Passwege des Halbverteidigers ===
+{{ :de:tactics:livpasswege.jpg?300|}}Als Halbverteidiger solltest du versuchen Pässe möglichst weit und sicher Richtung gegnerisches Tor zu bringen.
+
+Habe immer den Radar im Blick und schau nach, ob jemand auf der anderen Seite oder weit vorne für einen langen Ball frei steht, wie z.B. an den Videos unten erkennbar ist (vergiss dabei nie den Ball so lange zu halten bis ein Gegner dich attackiert; dies kannst du als Zeit nutzen, um dir Überblick zu verschaffen).
+
+Ist kein langer Ball möglich bzw. nötig (um z.B. Pressing zu überspielen), dann versuche den Ball zu einem der beiden [[de:tactics:playmaking8|Halbraumspielmacher]] zu befördern.
+
+Ist überhaupt kein Pass Richtung gegnerisches Tor möglich (z.B. weil du selbst stark unter Druck gerätst, den du nicht durch [[de:guides:tacticaldribbling|Pressingresistenz]] überwinden kannst), musst du einen diagonal in Richtung des abkippenden Zentralen Liberos oder zum Torhüter ablegen.
+
+Zwischen **kurzen und langen diagonalen und vertikalen** Pässen ist dir alles erlaubt - aber **horizontale Pässe nach rechts oder links solltest du** (besonders bei hohem Druck zu 100000%) **vermeiden!** Diese können leicht von einem lauernden Stürmer des Gegners abgefangen werden, besonders wenn dein Querpass sehr langsam kommt.
+~~CLEARFLOAT~~
 === Voraussetzungen: ===
 
 <code>
@@ -39,8 +50,6 @@ Passiert es aber doch, dass der Gegner tatsächlich die Flügelspieler decken so
 
 <html><iframe src="http://gfycat.com/ifr/SpectacularSpotlessBoto" frameborder="0" scrolling="no" width="800" height="450" style="-webkit-backface-visibility: hidden;-webkit-transform: scale(1);" ></iframe></html>
 
-Spiele aber nie all deine Pässe entweder zum TW oder auf die Flügel, weil du dich nicht traust den Ball zu halten und auch mal durch die Mitte den Pass zu suchen! 
-
 Viele Pässe in "U"-Form, wie es die Bayern vor allem unter Van Gaal sehr lange gemacht haben, können das Offensivspiel deiner Mannschaft komplett zerstören - jeder Querpass in der eigenen Hälfte lässt die gegnerische Mannschaft weiter aufrücken und mehr Anspielstationen decken. Es entsteht die Gefahr, nie aus der eigenen Hälfte heraus zu kommen.
 
 <html><iframe src="http://gfycat.com/ifr/FrighteningCrispChrysalis" frameborder="0" scrolling="no" width="800" height="450" style="-webkit-backface-visibility: hidden;-webkit-transform: scale(1);" ></iframe></html>
@@ -50,7 +59,6 @@ Auch und vor allem für dich als einer der ersten Aufbauspieler gilt: [b][i]Kein
 [b][i]Halte den Ball, dribble solange bis du beim Gegner oder der Gegner bei dir angekommen ist. Währenddessen schaue immer NACH VORNE und suche den Pass durch die Mitte oder den Pass auf die offensiven Flügel, ob hoch oder flach, steil oder in den Fuß.[/i][/b] Sei nur kein Feigling, der immer so schnell wie möglich den Sicherheitspass sucht, um keine Verantwortung übernehmen zu müssen!
 
 ----
-
 ==== Balleroberung: ====
 [size=3]//-> siehe hierzu den Artikel: [[de:guides:defending|Balleroberung]]//[/size]
 ==== Joël Veltman ====
