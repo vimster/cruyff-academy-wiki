@@ -1,23 +1,40 @@
 ===== Zentraler Libero =====
 
-Mir gefällt die Bezeichnung nicht so gut. Bitte eine bessere einfallen lassen
+==== Begriff ====
 
-L1 Dreieck bitte abfangen usw. Pressing abhängig von Formation bzw. Staffelung
+Der Begriff "Libero"((Den "Zentralen Libero" gibt es wohl in keinem Taktiklexikon zu finden, das ist nur eine Bezeichnung meinerseits)) kommt aus dem Lateinischen und bedeutet u.a. befreien, frei machen, frei lassen, retten. Wer es moderner ergo passender haben möchte nimmt das italienische libero, was "freier Mann" bedeutet. (Libera wäre hingegen die "freie Frau", wer in FIFA 16 gerne mit den weiblichen Teams spielen möchte.)
 
-4er Kette und du = ZDM? -> Kein Pressing
+Der Libero ist also der freie Mann - warum ist er frei und was unterscheidet ihn von den anderen? 
 
-3er Kette und du = IV? -> Auch kein Pressing hahaha verarscht
+Der Libero ist in der Defensive meist der letzte Spieler in einer Zone, in diesem Fall im Zentrum. Er deckt dabei den Raum hinter seinen Mitspielern ab und hat selten einen direkten Gegenspieler. Während seine Mitspieler vor ihm den Gegner unter Druck setzen, bleibt der Libero dahinter und sichert den Raum hinter den pressenden Mitspielern ab, sollte ein Gegner durchbrechen.
 
-An der Stelle kann man auch gleich mal klären: Welche Position bekleidet denn der Libero?
+Er ist also von manndeckenden Aufgaben "befreit" und kann sich u. U. fast frei auf dem Feld bewegen ((vgl. "Halbraumlibero" Alaba 2014-2015, Matthias Sammer, Franz Beckenbauer, welche größtenteils freies Stellungsspiel durchführen bzw. -führten)).
 
-Naja, dumme Frage. Der Libero ist immer der letzte Mann. Halbraumlibero? Ist der letzte Mann im Halbraum. Zentraler Libero? Letzter Mann in der Mitte.
+==== Voraussetzungen ====
 
-In der Viererkette gibt es keinen letzten Mann in der Mitte. Außer man regelt vorher, wer von beiden den Libero macht. Oder man wechselt sich ab. Doch wer verteidigt dann den Halbraum, den einer von beiden verlässt? Nagut, es kann ein Außenverteidiger einrücken, doch wer verteidigt den Flügel, den dieser verlässt?
+Individuelle Voraussetzungen für einen starken Libero sind Pressingresistenz, Übersicht über freie Räume sowohl in gegnerischen als auch eigenen Zonen und das intelligente Nutzen dieser Räume. ((Im echten Leben sind natürlich auch physische Attribute wie Ausdauer und Schnelligkeit wichtig, bei Virtual Pros ist das allerdings bereits gegeben.))
 
-Natürlich ist das jetzt übertrieben - denn das ist ja situationsabhängig. Streng genommen ist sowieso alles situationsabhängig. Also stellen wir einfach mal bei Anstoss 11 Mann auf eine Linie und positionieren uns je nachdem, wie es die Situation fordert.
+Mannschaftstaktische Voraussetzungen sind v. a. das Füllen des Raumes, den der Libero beim Aufrücken hinterlässt. Z. B. im Falle eines Aufrückens des zentralen Liberos in den rechten offensiven Halbraum wäre es günstig, wenn einer der Spieler, die sich vor dem Libero im rechten Halbraum befanden, so lange die Rolle des letzten Mannes im Zentrum übernehmen bis dieser wieder zurückkehrt.
 
-Man kanns erraten: Bin kein Fan von "Situationsfußball". Es ist meiner Meinung nach immer besser, wenn man alles im Vorraus plant und auf alles was kommen kann die richtige Reaktion kennt. Klare, eindeutige Rollenverteilung, jeder weiß was er zu tun hat und basta.
+Der Libero sollte allerdings nur in die Räume aufrücken, die ohnehin unbesetzt waren und somit für eine zusätzliche Anspielstation sorgen, um z. B. einen der Halbräume zu überladen oder sogar ggf. beim Pressing zu helfen.
 
-Will jemand den Text etwas seriöser schreiben? Ich muss kurz auf Toilette.
+Wie man sieht sollte die Libero-"Position" dringend von dem oder zumindest einem von den spielintelligentesten und -besten Spielern einer Mannschaft bekleidet werden.
 
-Die einzige Formation mit nominellem ZDM //und// IV in einer Dreierkette ist der 3-4-3-Diamant. Der 3-4-3-Diamant hat sowieso seine eigenen Regeln, hoffentlich kriege ich noch mal einen einzelnen Beitrag dazu hin. Kommt drauf an, ob das noch als Ziel gegeben sein wird oder nicht.
+==== Absichern des Liberos ====
+
+  Es müssen nur bzw. immer die vom Gegner abhängigen 
+  strategisch-wichtigen Zonen in der Defensive besetzt werden. 
+  
+U. a. darum ist es im Fußball immer wichtig, im Voraus taktische Eigenschaften des Gegners wie z. B. Pressingverhalten((Wie hoch wird gepresst? Wird überhaupt gepresst? Wie viele Spieler pressen und in welchen Zonen? usw.)), Offensivstrategie ((In welcher Zone wird verstärkt angegriffen? Greift der Gegner lieber über Flügel oder im Zentrum an? Welche Zonen sind in der Offensive des Gegners immer besetzt? Wie viele Spieler hat der Gegner hinter dem Ball? usw.)) und Stärken/Schwächen auszuloten und die Taktik des Spiels entsprechend anzupassen. 
+
+Allerdings kann man natürlich nicht leugnen, dass das bei den Zufallsmatches in FIFA nicht so gut möglich ist - da aber die Taktiken der FIFA-Gegner primitiv sind, kann man sie meist bereits nach wenigen Spielminuten durchschauen und entsprechend reagieren.
+
+Ebenso reagieren muss man stets bei etwaigen Änderungen der Gegner oder unerwarteten Taktikkniffen, die aus vorhergehenden Analysen nicht vorhersehbar waren ((siehe z.B. Dante-Auswechslung gegen Hannover, weil der eigentliche Stürmer Briand fast Außenverteidiger war)).
+
+Starten wir z.B. mit einem 4-3-3 gegen ein 5-2-1-2. Der Busfahrer der Gegner hat keinen normalen Parkplatz gefunden und deshalb seinen Bus inklusive Spieler im eigenen Strafraum geparkt. Die Gegner "pressen" daher maximal mit 2 Stürmern in der Mitte, der Rest wartet weit hinten. 
+
+Gegen maximal 2 Mittelstürmer und keinerlei Flügelspieler des Gegners braucht man keine permanente 4er Kette in der Abwehr, weshalb unser Libero sehr gerne aufrücken kann und eigentlich sogar //muss// und somit in der Offensive für eine zusätzliche Option und Überladung sorgt. 
+
+Wenn der Gegner offensiv kaum bis keinen Zugriff findet, muss der Raum, den der Libero hinterlässt, ggf. sogar gar nicht abgesichert werden. Gegen offensiv-stärkere Gegner wäre das natürlich anders.
+
+==== Der Zentrale Libero in "unserem" Positionsspiel ====
