@@ -19,9 +19,9 @@
 Alaba is King
 ----
 
-===== Zentraler Libero =====
+===== Mittelfeldlibero =====
 
-[size=3]//-> siehe hierzu den vollständigen Artikel: [[de:tactics:sweeper|Zentraler Libero]]//[/size]
+[size=3]//-> siehe hierzu den vollständigen Artikel: [[de:tactics:sweeper|Mittelfeldlibero]]//[/size]
 
 {{ :playground:lib.jpg?200|}}Busquets = Bossquets
 
