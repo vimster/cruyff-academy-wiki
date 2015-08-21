@@ -1,0 +1,147 @@
+===== Teamwork =====
+
+Spieler mit dem größten "Teamwork" sind meist mit die wichtigsten, wenn nicht sogar die wichtigsten Spieler ihres Teams, wenn sie die einzigen ihrer Qualität in der Mannschaft sind.
+
+Je nach dem, welche Spieler man im Team hat, spielen diese auch meist im Mittelfeld.
+
+De Rossi, Lampard und Müller (völlig unterschiedliche Spielertypen) sind z.B. keine weltklasse Techniker, die 5 Spieler aussteigen lassen können, wissen aber, wie man sich perfekt anbietet und sind so meist anspielbar und somit ungemein wichtig fürs Team.
+
+==== Ballmagnet und Abhängigkeit ====
+
+Wenn man als Mitspieler weiß, dass man jemanden stets gefahrlos anspielen kann, mit dem Wissen, dass derjenige keinen Fehler macht, spielt man ihn immer und immer wieder gerne an.
+
+Spieler mit hohem Teamwork sieht man meist an der Anzahl der Ballkontakte, was jedoch auch stark vom Spielstil der eigenen und der gegnerischen Mannschaft abhängen kann.
+
+In meinen ersten zwei Jahren Pro Club, hatte ich oft die meisten Ballkontakte, manchmal mit weitem Abstand. Ich wusste aber nie wirklich wieso, oft dachte ich auch, dass ich sehr schwache Spiele gemacht habe. Ich war nämlich lange lange Zeit extrem torungefährlich und hatte allgemein sehr wenig Torbeteiligungen.
+
+Erst als ich begann mich genauer mit Taktiken zu beschäftigen, verstand ich es, wie wichtig man sein kann, ohne Tore zu schießen. 
+
+Dann verstand ich auch, wieso ich, wenn ich früher IV spielte die meisten Ballkontakte hatte. Denn ich war meist der einzige, der wusste, wie man sich 1. richtig anbietet und 2. den Ball stets sicher weitergibt. Als IV kann man aber leider offensiv nicht viel reißen, ab der Mittellinie war dann meist Schluss mit dem Spielaufbau.
+
+Wenn dann die "Manager" des jeweiligen Vereins kritisierten, dass man keine Tore schieße und offensiv komplett ungefährlich wäre und nur hinten rumspiele, aber nicht wussten, was man ändern muss, konnte man davon ausgehen, dass sie nicht wissen, was Teamwork bedeutet.
+<code>
+Hat ein Team nur einen Spieler, der hohes Teamwork besitzt, 
+sollte dieser immer im Mittelfeld spielen. 
+Sonst ist die Offensive gegen mindestens gleichstarke Gegner komplett nutzlos.
+</code>
+Gleichzeitig gilt: Gibt es keinen Spieler im Team, der ähnliches Teamwork aufweist, sind Spieler wie Alonso und Pirlo allein gelassen. Da sie nicht gleichzeitig für Spielaufbau //und// Toreschießen sorgen können, hängt die Mannschaft dann meist in der eigenen Hälfte fest.
+
+Siehe Real Madrid, welches ohne Alonso keinen Spielaufbau schaffte oder die Nationalmannschaft Italiens, wo Pirlo stets die meisten Ballkontakte hat, aber keine Tore geschossen werden, da eine konkrete Verbindung zwischen Mittelfeld und Angriff fehlt.
+
+==== Was ist nun dieses "Teamwork"? ====
+
+Viele reden immer davon, nennen sich selbst "Teamplayer" und wissen nicht, was es eigentlich ist.
+
+Der Begriff ist auch gut mit "Übersicht" zu vergleichen. Ebenso ein oft zu unrecht genutzter Begriff, da nicht verstanden.
+
+Zunächst eine Definition von "Teamwork", wie sie beim Attribut in Pro Evolution Soccer gilt (bzw. galt, da leider nicht mehr vorhanden):((aus dem offiziellen Spielführer zu Pro Evolution Soccer 5))
+<code>
+Dieses komplexe Charakteristikum bemisst die Teamfähigkeit 
+eines Spielers und das Verständnis der Teammitglieder untereinander. 
+Es liegt allerdings in der Natur der Sache, 
+dass der Teamwork-Wert eines einzelnen Spielers 
+nicht besonders aussagekräftig ist. (...) 
+
+Während einer Begegnung wirkt sich der Teamwork auf Positionierung 
+und Passspiel der Kicker aus. Ist der Teamwork auf hohem Niveau, 
+starten Ihre Kollegen wohl getimte Vorstöße 
+oder spielen und empfangen Pässe mit größerem Geschick
+ - sie sind einfach häufiger zur rechten Zeit am rechten Ort. 
+
+"Mit einem Wort: 'Abstimmung'. 
+Das ist es, worum es beim Teamwork-System geht",
+verrät Seabass (PES-Entwickler, Anm. v. mir).
+ 
+"Ein niedriger Teamwork-Wert sorgt verstärkt für Fehlpässe 
+und das Aufbauspiel ist weniger flüssig. 
+Gutes Teamwork bedeutet, dass sich die Spieler besser bewegen, 
+der Spielaufbau gerät also deutlich fließender". 
+
+"Im realen Fußball kann ein einzelner Superstar 
+ja auch nicht den gesamten Ablauf des Spieles verändern", 
+fährt Seabass fort. 
+
+"Dies wollten wir mit dem Teamwork-System ausdrücken. 
+So erreichen Zuspiele einen Superstar halt manchmal nicht, 
+oder nur in wenig aussichtsreicher Position. (...)
+ 
+Mein Traum ist es, dass der Teamwork-Wert 
+eine entscheidene Rolle dabei spielt, 
+wenn ein kleiner, aber gut aufeinander eingespielter Klub 
+beispielsweise Real Madrid schlägt. (...)"
+</code>
+
+Dies ist auch ein Grund, weshalb PES jahrelang konkurrenzlos war. Etwas ähnliches wie "Teamwork" gibt es in FIFA nämlich nicht.
+
+Im Spielführer zu Pro Evolution Soccer 6 heißt es dann:
+<code>
+Viele [Spieler] verzichten darauf, 
+bei der Aufstellung ihrer Mannschaft die Teamwork-Fähigkeit 
+der Fußballer zu berücksichtigen. 
+Ein bedauerliches Versäumnis, 
+denn der Wert hat einen sehr großen Einfluss 
+auf die Leistung Ihrer Digi-Sportler und darauf, 
+wie gut ihr Team als Einheit funktioniert. (...)
+
+Während des Spiels wirkt sich der Teamwork-Wert 
+auf das Pass- und Stellungsspiel aus. 
+Harmonisches Teamwork bewirkt, 
+dass sich die Spieler im passenden Moment freilaufen, 
+die Zuspiele sicherer annehmen 
+und generell öfter zur rechten Zeit am rechten Fleck zugegen sind. 
+Spieler mit schlechter Teamwork-Fähigkeit neigen zu Fehlpässen, 
+schlechtem Stellungsspiel oder beteiligen sich nur zögerlich an Angriffen. 
+Stellen Sie einen solchen Spieler auf,
+müssen Sie ihren Stil entsprechend anpassen, 
+um diesen Nachteil zu kompensieren.
+
+Ein paar Einzelgänger in seinem Team zu haben, 
+ist allerdings kein allzu großes Problem. 
+Tatsächlich gibt es viele sehr begabte [ZOM] 
+oder [LF/RF] mit eher bescheidenen Teamwork-Fähigkeiten. 
+
+Nimmt die Anzahl solcher Individualisten 
+in Ihrer Mannschaft aber überhand, 
+werden Sie Schwierigkeiten haben, 
+den Ballbesitz zu behaupten, 
+geschweige denn ein fließendes Passspiel zu betreiben. 
+
+Egal wie viele Fußballgenies Ihr Kader zu bieten hat: 
+Ganz wie in der Realität 
+sollten Sie sich für die besser harmonierende Elf entscheiden, 
+anstatt nur zwanghaft die Spieler 
+mit den spektakulärsten Attributen in Ihre Formation zu quetschen.
+</code>
+
+Hattest du also nicht verstanden, wieso Spieler wie Özil, Balotelli, Robinho, Ben Arfa und Götze oft trotz ihres überdurchschnittlichen Talents besonders in wichtigen Spielen untertauchen und kaum am Spiel teilnehmen, hast du nun eine gute Erklärung gefunden. Sie haben allesamt mangelhaftes "Teamwork".
+
+Spieler mit sehr hohem Teamwork können in jedem Verein spielen und eine große, wenn nicht sogar die größte Rolle spielen. Es ist keine Überraschung, wie sich Spieler wie Xabi Alonso und Thiago Alcántara ins Passspiel der Bayern nahtlos einfügten.
+
+==== Teamwork "lernen" ====
+
+Zunächst sei gesagt: Wer seit Jahren spielt hat seine Spielweise zum größten Teil schon festgelegt und kann sich nicht mehr viel ändern. Man kann maximal Kleinigkeiten verfeinern, jedoch nimmt man als quasi "Veteran" nur noch wenig Kritik an und kann oder will sich einfach nicht mehr verbessern. Man sei ja schon so erfahren und lässt sich somit nichts mehr sagen.
+
+Einem Mario Gomez kann man mit 27 nach vielen vielen Toren nicht mehr sagen, wie man sich im Spielaufbau richtig anbietet und den Ball stets sicher weitergibt. Er wird dir sagen: "Ich schieße Tore, das reicht doch".
+
+Bist du jedoch bereit zu lernen, Kritik anzunehmen, [[de:psychology:personal|selbstkritisch]] zu sein und nie zufrieden mit deiner Leistung zu sein, kann man mit den Einzelheiten beginnen:
+
+  *[[de:guides:passing|Passspiel und richtiges Anbieten]]
+  *Übersicht
+  *Raumerkennung und -nutzung
+
+Leichter gesagt als getan, jedoch weit vom Unmöglichen entfernt.
+
+==== Anforderung zum Umdenken ====
+
+Bevor du Teamwork "lernen" kannst musst du dir folgende Dinge vor Augen führen und zu Herzen nehmen, wenn du dich bislang wenig bis gar nicht mit diesen Themen beschäftigt hast:
+
+**Egal wie lange du schon FIFA spielst, du hast sehr wahrscheinlich keine Ahnung, wie man sich richtig anbietet.**
+
+**In Spielen gegen halbwegs gute Gegner tauchst du unter und kannst ohne Zufallsprodukte nichts zu einem möglichen Sieg deiner Mannschaft beitragen.**
+
+**Hohe Passquoten erreichst du nur, indem du stets Sicherheitspässe ohne Raumgewinn zur Seite oder zurück spielst.**
+
+**Du erkennst vor allem wichtige Räume mit und ohne Ball nur selten und kannst sie nicht bespielen.**
+
+
+Fortsetzung folgt..

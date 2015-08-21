@@ -1,10 +1,67 @@
 ===== Begriffslexikon =====
 
-==== Positionen ====
+==== Absichern ====
 
-=== Libero ===
-//siehe hierzu den Artikel: [[de:encyclopedia:libero|Libero]]//
+Durch das Absichern sollen vor allem sowohl Ballverluste verhindert und Gegenpressing ermöglicht werden. Ermöglicht wird das durch das Einhalten von gewissen Abständen zwischen den Spielern und durch das stete Mitlaufen mindestens eines weiteren Spielers (meist diagonal/schräg) zum Ballführenden.
 
-==== Formationen ====
+Da beim Ballführenden eine "Absicherung" diagonal hinter ihm (links oder rechts) steht, kann er Ballverlusten vorbeugen und ggf. zurückpassen. Verliert er allerdings doch den Ball, dann kann der absichernde Mitspieler helfen den Ball wieder zu erobern und Konter verhindern.
 
-==== Taktikbegriffe ====
+Absicherung Nummer 1 ist meist der ZDM bzw. Sechser, da er sich zentral sowohl hinter LIV/RIV als auch LZM/RZM abkippen/anbieten kann.
+
+==== Ausputzer ====
+
+Der Ausputzer oder auch Abräumer ist ein Spieler, dessen Hauptaufgabe es ist, steillaufende Gegner zu blockieren und Pässe Richtung Tor oder Stürmer abzufangen und zu klären. Solche Spieler sind meist sehr gut in der Antizipation und in Zweikämpfen, haben allerdings oft Defizite im Spielaufbau, Ballkontrolle und Pressingresistenz (Ausnahmen bestätigen die Regel).
+
+Berühmte Ausputzer sind/waren Spieler wie Gennaro Gattuso, Claude Makélélé, Arturo Vidal, Javier Mascherano, Jens Jeremies.
+
+==== Box-to-Box-Spieler ====
+
+Spieler, meist Achter bzw. LZM/RZM, die vertikal zwischen eigenem und gegnerischem Strafraum ("Box") herumlaufen und sich anbieten, Bälle erobern und verteilen, ggf. Distanzschüsse wagen und Schnittstellenpässe spielen. Sie sind meist das Nervensystem einer Mannschaft, von denen sowohl defensiver als auch offensiver Erfolg stark abhängt.
+
+==== Eckfahnenläufer ====
+
+(Flügel-)Spieler, die bei Ballbesitz (mit oder ohne Finten) geradeaus auf den Außen Richtung Eckfahne sprinten, um zu flanken. Diese Spieler ignorieren meist Anspielstationen auf kurze Distanz, den Halb- und Rückraum und sind nur aufs Flanken fixiert, egal ob sich jemand im Strafraum befindet oder nicht.
+
+==== Flügel ====
+
+Zonen/Räume horizontal von den Seitenlinien bis zu den äußersten Rändern des Strafraums, vertikal von einer Torauslinie bis zu anderen. Es gibt defensive und offensive Flügel, welche vor allem von Außenverteidigern (LV/LAV und RV/RAV), Flügelmittelfeldspielern (LM/RM) und Flügelstürmern (LF/RF) beackert werden.
+
+==== Halbräume ====
+
+Zonen/Räume zwischen Zehnerraum und Flügel, sowohl rechts als auch links, in eigener und gegnerischer Hälfte. Hauptsächlich besetzt von den "Achtern/8ern" (LZM/RZM), einer "Doppelsechs" (LDM/RDM), "Halbstürmern" (LS/RS) und/oder "Halbverteidigern" (LIV/RIV).
+
+==== Libero ====
+//-> siehe hierzu den Artikel: [[de:encyclopedia:libero|Libero]]//
+
+==== Pressingresistenz ====
+
+Die Fähigkeit den Ball bei gegnerischem Pressing zu behaupten (Ballkontrolle, Drehbewegungen) und Reaktions-/Handlungsschnelligkeit und Übersicht ("Schulterblick") zu bewahren. Grob gesagt kann man einen Spieler als pressingresistent bezeichnen, wenn er den Ball halten kann und nicht überfordert ist, wenn sich keine sofortige Anspielstation findet. 
+
+Der prominenteste Spieler, der zwar absolute weltklasse im Passspiel ist, dem aber Pressingresistenz fehlt, wäre Xabi Alonso. 
+
+Pressingresistenz in Person wären Spieler wie Lionel Messi, Marco Verratti, Andrea Pirlo, Sergio Busquets, Philipp Lahm, Xavi Hernández und Andrés Iniesta.
+
+==== Schnittstellenpässe ====
+
+(Steil-)Pässe zwischen Verteidigern hindurch bzw. an ihnen vorbei in Richtung Stürmer und gegnerisches Tor, die bei Erfolg oft zu Torchancen führen können.
+
+==== Sechserraum ====
+
+Der Sechserraum ist der "Spiegel" des Zehnerraums, also Zone/Raum im Zentrum vor dem eigenen Strafraum bis zur Mittellinie. Der Sechserraum wird hauptsächlich vom "Sechser/6er" (ZDM) und/oder von einem einzelnen Innenverteidiger (IV) einer Dreierkette besetzt.
+
+==== Steilpassläufer ====
+
+Stürmer, die bei Ballbesitz der eigenen Mannschaft einzig und allein versuchen, ständig Richtung Tor steilzulaufen und einen flachen oder hohen Steilpass zu fordern, egal ob es Sinn ergibt oder nicht.
+
+==== Teamwork ====
+//-> siehe hierzu den Artikel: [[de:encyclopedia:teamwork|Teamwork]]//
+
+==== Zehnerraum ====
+
+Zone/Raum ab der Mittellinie zentral Richtung gegnerischem Strafraum, hauptsächlich besetzt vom sogenannten "Zehner/10er" (ZOM).
+
+==== Zonen ====
+
+Zonen sind eine präzisere Bezeichnung für "Positionen" auf dem Feld und können ggf. auch als "Räume" bezeichnet werden. Je nach Spielsituation und Formation werden bestimmte Zonen besetzt oder nicht besetzt.
+
+Die wichtigsten Zonen sind dabei der "Sechserraum", "Halbraum" (defensiv und offensiv), "Zehnerraum", "Strafraum" und die "Flügel" (defensiv und offensiv)
