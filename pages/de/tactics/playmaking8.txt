@@ -1,4 +1,4 @@
-===== Halbraumspielmacher =====
+====== Halbraumspielmacher ======
 
 {{ :playground:zm.jpg?200|}}**Rot:** Die Bereiche in denen sich die Spielmacher bevorzugt aufhalten, um mit den Flügelspielern gemeinsam Dreiecke zu bilden und durch diagonale Dribblings Offensiv-Signale senden (Halbräume)
 
@@ -10,7 +10,7 @@
 
 ~~CLEARFLOAT~~
 
-==== Die 8 Regeln des spielmachenden 8ers ====
+===== Die 8 Regeln des spielmachenden 8ers =====
   
   1. Sei in deinem Halbraum stets durch korrektes Anbieten für andere Spieler anspielbar!
   2. Laufe bei Ballbesitz deiner Mitspieler nicht steil oder von ihnen weg!
@@ -37,7 +37,7 @@ Du musst lernen, wie man so lange den Ball hält bis entweder ein zentraler Spie
 
 //Wie man den Ball effektiv halten kann gibt es in folgendem Artikel zu lesen: [[de:guides:tacticaldribbling|Pressingresistenz]]
 //
-==== Bespielen der Halbräume ====
+===== Bespielen der Halbräume =====
 
 Wie man im Bild klar an den roten Bereichen erkennen kann gibt es zwei Halbräume: den linken und den rechten Halbraum.
 
@@ -54,7 +54,7 @@ Werden uns die Räume für schnelles Spielen gegeben müssen wir sie nutzen und 
   Hohe Ballbesitzzahlen sind nicht das Ziel der Spielweise, 
   sondern das Ergebnis davon!
   
-==== Schnittstellenpässe andeuten ====
+===== Schnittstellenpässe andeuten =====
 
 Vor allem wenn der Ball länger zirkuliert wird ist es für die Stürmer schwer zu erkennen, wann und ob ein Steilpass kommen wird. Darum müssen sich Spielmacher und Stürmer auf ein Signal einigen, woraufhin alle Beteiligten automatisch wissen, was nun Sache ist. Dafür benutzen wir folgende Regel:
   
@@ -70,7 +70,9 @@ U.a. Iniesta, Ribéry, Robben und Messi sind für solche Aktionen bekannt.
 Der ST ist einzig und allein dafür da geschickt zu werden und sollte vor allem in der eigenen Hälfte niemals mit X angespielt werden! Er wird sich immer von dir und deinen Mitspielern wegbewegen, sodass ihr mehr Platz für Dribblings und Kombinationen bekommt. Kombiniere mit deinen Mitspielern im Halbraum und im Zentrum, jedoch nicht mit dem ST!
 
 Wieso wir keine Fans vom mitspielenden Stürmer sind und totale Verfechter des klassischen Mittelstürmers kommt eventuell in einem anderen Artikel.
-==== Ballmagnet und permanente Anspielstation ====
+===== Ballmagnet und permanente Anspielstation =====
+
+===== Vorbilder =====
 
 ==== Xavi ====
 

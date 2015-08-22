@@ -1,4 +1,4 @@
-===== Halbverteidiger =====
+====== Halbverteidiger ======
 
 {{ :playground:hiv.jpg?200|}}**Rot:** Der Bereich in dem sich der LIV/RIV bevorzugt aufhält ({{:playground:screen-shot-2015-05-06-at-22.32.51.png?linkonly|"defensiver Halbraum"}})
 
@@ -12,7 +12,7 @@
 
 ----
 
-==== Aufbauspiel ====
+===== Aufbauspiel =====
 <code>
   - Dribble so lange (mit z.B. L2 oder L2+R2) bis ein Gegner dich unter Druck setzt bzw. du beim Gegner angekommen bist
   - Versuche Pässe in Richtung der anderen Verteidiger zu vermeiden (selten Pässe im "U")
@@ -59,8 +59,10 @@ Auch und vor allem für dich als einer der ersten Aufbauspieler gilt: [b][i]Kein
 [b][i]Halte den Ball, dribble solange bis du beim Gegner oder der Gegner bei dir angekommen ist. Währenddessen schaue immer NACH VORNE und suche den Pass durch die Mitte oder den Pass auf die offensiven Flügel, ob hoch oder flach, steil oder in den Fuß.[/i][/b] Sei nur kein Feigling, der immer so schnell wie möglich den Sicherheitspass sucht, um keine Verantwortung übernehmen zu müssen!
 
 ----
-==== Balleroberung: ====
+===== Balleroberung =====
 [size=3]//-> siehe hierzu den Artikel: [[de:guides:defending|Balleroberung]]//[/size]
+
+===== Vorbilder =====
 ==== Joël Veltman ====
 
 <html><iframe width="854" height="510" src="https://www.youtube.com/embed/aMqXvG79WZg" frameborder="0" allowfullscreen></iframe></html>

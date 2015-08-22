@@ -3,31 +3,89 @@
 ==== Begriff ====
 //siehe hierzu den Lexikon-Artikel: [[de:encyclopedia:libero|Libero]]//
 
-==== Voraussetzungen ====
 
-Individuelle Voraussetzungen für einen starken Libero sind Pressingresistenz, Übersicht über freie Räume sowohl in gegnerischen als auch eigenen Zonen und das intelligente Nutzen dieser Räume. ((Im echten Leben sind natürlich auch physische Attribute wie Ausdauer und Schnelligkeit wichtig, bei Virtual Pros ist das allerdings bereits gegeben.))
 
-Mannschaftstaktische Voraussetzungen sind v. a. das Füllen des Raumes, den der Libero beim Aufrücken hinterlässt. Z. B. im Falle eines Aufrückens des zentralen Liberos in den rechten offensiven Halbraum wäre es günstig, wenn einer der Spieler, die sich vor dem Libero im rechten Halbraum befanden, so lange die Rolle des letzten Mannes im Zentrum übernehmen bis dieser wieder zurückkehrt.
 
-Der Libero sollte allerdings nur in die Räume aufrücken, die ohnehin unbesetzt waren und somit für eine zusätzliche Anspielstation sorgen, um z. B. einen der Halbräume zu überladen oder sogar ggf. beim Pressing zu helfen.
+==== Pendler zwischen Mittelfeld und Abwehr ====
 
-Wie man sieht sollte die Libero-"Position" dringend von dem oder zumindest einem von den spielintelligentesten und -besten Spielern einer Mannschaft bekleidet werden.
+Der Begriff "Mittelfeldlibero" ist eigentlich unpassend, da man die Aufgabe des Sechsers in unserem Positionsspiel nicht (immer) als Libero bezeichnen kann.
 
-==== Absichern des Liberos ====
+Während der Libero früher immer hinter der Abwehr war, macht der ZDM hier mehr als das. Er "pendelt" je nach Spielsituation zwischen //Mann hinter dem Mittelfeld// und //Mann hinter der Abwehr// hin und her.
 
-  Es müssen nur bzw. immer die vom Gegner abhängigen 
-  strategisch-wichtigen Zonen in der Defensive besetzt werden. 
-  
-U. a. darum ist es im Fußball immer wichtig, im Voraus taktische Eigenschaften des Gegners wie z. B. Pressingverhalten((Wie hoch wird gepresst? Wird überhaupt gepresst? Wie viele Spieler pressen und in welchen Zonen? usw.)), Offensivstrategie ((In welcher Zone wird verstärkt angegriffen? Greift der Gegner lieber über Flügel oder im Zentrum an? Welche Zonen sind in der Offensive des Gegners immer besetzt? Wie viele Spieler hat der Gegner hinter dem Ball? usw.)) und Stärken/Schwächen auszuloten und die Taktik des Spiels entsprechend anzupassen. 
+Zusätzlich kann er durch das "Abkippen" in die Innenverteidigung dafür sorgen, dass die Außenverteidiger aufrücken können und die Halbverteidiger (LIV/RIV) breiter stehen können.
 
-Allerdings kann man natürlich nicht leugnen, dass das bei den Zufallsmatches in FIFA nicht so gut möglich ist - da aber die Taktiken der FIFA-Gegner primitiv sind, kann man sie meist bereits nach wenigen Spielminuten durchschauen und entsprechend reagieren.
+So hat der ZDM bei uns folgende Hauptaufgaben im Stellungsspiel, wenn wir bereits über der Mittellinie sind:
 
-Ebenso reagieren muss man stets bei etwaigen Änderungen der Gegner oder unerwarteten Taktikkniffen, die aus vorhergehenden Analysen nicht vorhersehbar waren ((siehe z.B. Dante-Auswechslung gegen Hannover, weil der eigentliche Stürmer Briand fast Außenverteidiger war)).
+  *Immer //hinter// LZM und RZM bleiben
+  *Immer //zwischen// LZM und RZM bleiben
+  *Also als Bindeglied zwischen und hinter LZM/RZM fungieren
+  *Noch konkreter: Als diagonale Ablagestation hinter LZM/RZM dienen
+  *Nochmal betont: Für das Dreieck LZM/ZDM/RZM sorgen
+  *Besonders wichtig bei hohem Druck: Seitenwechsel zum freien Flügelspieler
+  *Bitte nicht vergessen: Niemals //vor// LZM oder RZM stehen
+  *Und schon gar nicht: LZM/RZM überlaufen
+  *Also: Offensiver Zehnerraum ist für dich tabu!
+  *D.h. auch: Strafraum ist verbotenes Territorium!
+  *Achja: Halt dich von den Flügeln fern!
 
-Starten wir z.B. mit einem 4-3-3 gegen ein 5-2-1-2. Der Busfahrer der Gegner hat keinen normalen Parkplatz gefunden und deshalb seinen Bus inklusive Spieler im eigenen Strafraum geparkt. Die Gegner "pressen" daher maximal mit 2 Stürmern in der Mitte, der Rest wartet weit hinten. 
+In der eigenen Hälfte bzw. genauer gesagt im ersten Drittel bzw. noch genauer gesagt, wenn LIV oder RIV am Ball sind und sie unter Druck gesetzt werden, gelten folgende Regeln:
 
-Gegen maximal 2 Mittelstürmer und keinerlei Flügelspieler des Gegners braucht man keine permanente 4er Kette in der Abwehr, weshalb unser Libero sehr gerne aufrücken kann und eigentlich sogar //muss// und somit in der Offensive für eine zusätzliche Option und Überladung sorgt. 
+  *//Hinter// LIV oder RIV abkippen
+  *//Zwischen// LIV und RIV abkippen
+  *Also als Bindeglied zwischen udn hinter LIV/RIV fungieren
+  *Noch konkreter: Als diagonale Ablagestation hinter LIV/RIV dienen
+  *Nochmal betont: Für das Dreieck LIV/ZDM/RIV sorgen
+  *Besonders wichtig bei hohem Druck: Seitenwechsel zum freien Flügelspieler
+  *Also: Ist ein Verteidiger am Ball und hat keine Anspielstation, lasse dich zwischen LIV/RIV fallen, als wärst du ein IV oder Libero
+  *Was das heißt: Du bildest also temporär eine Dreier- oder sogar Fünferkette
 
-Wenn der Gegner offensiv kaum bis keinen Zugriff findet, muss der Raum, den der Libero hinterlässt, ggf. sogar gar nicht abgesichert werden. Gegen offensiv-stärkere Gegner wäre das natürlich anders.
+==== Beispiele ====
 
-==== Der Zentrale Libero in "unserem" Positionsspiel ====
+__Startformation:__ 4-3-3 (halten)
+{{ :de:tactics:433hold.jpg?300 |}}
+
+LIV ist in Ballbesitz und wird vom gegnerischen Pressing überrumpelt, hat keine Anspielstation auf kurze Distanz nach vorne:
+{{ :de:tactics:4336back.jpg?300 |}}
+
+Der ZDM muss abkippen, um so für eine Ablagestation für den LIV zu sorgen.
+
+Beispiel für die andere Seite und besser veranschaulicht:
+{{ :de:tactics:433dmhr.jpg?300 |}}
+
+Im Zentrum kann man die Veränderung in eine Dreier- oder Fünferkette besser erkennen: 
+{{ :de:tactics:433523.jpg?300 |}}
+
+Gleiches gilt für RZM im Ballbesitz. Der ZDM muss immer schräg hinter ihm und zentral zwischen RZM und LZM anspielbar sein:
+{{ :de:tactics:433rueckpass.jpg?300 |}}
+
+Beispiel für die andere Seite und besser veranschaulicht:
+{{ :de:tactics:433dml.jpg?300 |}}
+
+Achte bei jedem Bild darauf, dass der ZDM immer entweder Bindeglied hinter und zwischen LIV/RIV //oder// LZM und RZM ist. Er sorgt immer für ein Dreieck in der Mitte - würde der Sechser das nicht machen wird man als Mannschaft automatisch dazu gezwungen flügelfokussiert zu spielen und das Zentrum zu vernachlässigen.
+
+==== Zur Möglichkeit und Unmöglichkeit von Ablagen ====
+
+Rückpässe zum ZDM sind eigentlich //immer// möglich, da die Gegner meist nur Pässe Richtung eigenes Tor verhindern wollen. Nach erfolgreicher Ablage hat der ZDM (wie von mir durch Linien eingetragen) das ganze Feld vor sich und viele Möglichkeiten zum Weiterspielen.
+
+Gegner werden diese Ablagen zum ZDM nur verhindern wollen, wenn sie das selbst als wichtiges Spielmittel unserer Taktik erkannt haben((Denke z.B. an das aktive Stören von Alonso in der Bundesliga, was allerdings etwas leichter ist, da er nicht pressingresistent ist.)). 
+
+Durch das aktive Decken unseres ZDM's verhindern sie dann zwar (teilweise) das Ablegen zu ihm, jedoch spielt das komplett in unsere Hände: Wir müssen ja nur unter Druck zurückpassen - und wenn der Gegner einen Spieler opfert, der eigentlich einen unserer Offensivspieler decken würde, können wir nach vorne spielen ohne ablegen zu müssen.
+
+Versuche Fußball ein wenig wie Schach zu sehen: Der Gegner erkennt, dass wir immer einen Bauer zur Absicherung zurücklassen. Deshalb opfert der Gegner einen seiner Figuren, um den Bauer in Schach((Geniales Wortspiel des Autors.)) zu halten. Dabei erkennt er nicht die Absurdität dahinter und vergisst, dass wir noch viel wichtigere Schachfiguren zu bieten haben.
+
+==== Was machen mit Ball? ====
+
+Nun weißt du hoffentlich, was du ohne Ball machen musst - doch was machst du nun //mit// dem Ball?
+
+Mit Ball musst du zwei wichtige Grundregeln miteinander verknüpfen.
+
+=== Pressingresistenz ===
+
+Regel Nummer 1 besteht aus 6 Worten:
+
+  *[[de:guides:tacticaldribbling|Pressingresistenz]]
+  *[[de:guides:tacticaldribbling|Pressingresistenz]]
+  *[[de:guides:tacticaldribbling|Pressingresistenz]]
+  *[[de:guides:tacticaldribbling|Pressingresistenz]]
+  *[[de:guides:tacticaldribbling|Pressingresistenz]]
+  *[[de:guides:tacticaldribbling|Pressingresistenz]]

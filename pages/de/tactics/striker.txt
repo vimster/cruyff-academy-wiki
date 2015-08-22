@@ -1,4 +1,4 @@
-===== Mittelstürmer =====
+====== Mittelstürmer ======
 
 {{ :playground:st.jpg?200|}}**Rot:** Der Mittelstürmer steht permanent entlang der Verteidiger(Abseits-)linie des Gegners und wartet darauf, von den Spielmachern Richtung Strafraum geschickt zu werden
 
@@ -6,7 +6,7 @@
 
 ~~CLEARFLOAT~~
 
-==== Vorwort ====
+===== Vorwort =====
 
 Inzaghi konnte nichts am Ball und war kein großartiger Passgeber. Aber er wusste immer, wann und wohin er durchstarten musste, um ein Tor erzielen zu können.
 
@@ -16,7 +16,7 @@ Du möchtest Mittelstürmer sein? Da hast du Glück - denn es war noch nie so le
 
 ----
 
-==== Die 9 Gebote der #9 ====
+===== Die 9 Gebote der #9 =====
 
 <code>
 1. Nicht entgegenkommen, sondern von Mitspielern entfernen
@@ -32,7 +32,7 @@ Du möchtest Mittelstürmer sein? Da hast du Glück - denn es war noch nie so le
 
 ----
 
-==== Den Mitspielern Platz verschaffen ====
+===== Den Mitspielern Platz verschaffen =====
 
 Es ist sehr sehr wichtig, dass du als Mittelstürmer Verteidiger an dich bindest und so Räume für deine Mitspieler schaffst. Die meisten wollen leider immer entgegenkommen und die X-Pässe fordern, doch das ist Aufgabe der Spielmacher und nicht von dir. ((Sonderregeln gelten ggf. für die Falsche Neun))
 
@@ -67,7 +67,7 @@ Sollte sich je ein Flügelspieler oder Spielmacher bei dir beschweren, dass du w
 ----
 
 
-==== Auf Schnittstellenpässe lauern ====
+===== Auf Schnittstellenpässe lauern =====
 
 Ich betone es immer wieder: Komme den Ballführenden nie entgegen, sondern bewege dich von ihnen weg, füge dich in die gegnerische Abwehrkette ein, als wärst du "einer von ihnen" und bereite dich auf den Steilpass vor.
 
@@ -81,7 +81,7 @@ Eine zusätzliche Option wäre, dich zuerst für einen X-Pass anzubieten, dann m
 
 <html><iframe src="http://gfycat.com/ifr/ElasticAncientFritillarybutterfly" frameborder="0" scrolling="no" width="770" height="480" style="-webkit-backface-visibility: hidden;-webkit-transform: scale(1);" ></iframe></html>
 
-==== Kommunikation durch Signale ====
+===== Kommunikation durch Signale =====
 
 Du "kommunizierst" jederzeit mit deinen Mittelfeldspielern. Nicht, indem du mit ihnen sprichst, sondern indem du ihnen und sie dir bestimmte "Signale" geben.
 
@@ -97,7 +97,7 @@ Das gleiche gilt anders herum: Wenn du entgegen kommst (was sehr selten passiere
 
 ----
 
-==== Fehlinterpretationen ====
+===== Fehlinterpretationen =====
 
 Es gibt einige Stürmer, die zwar versuchen steil zu laufen, aber es trotzdem nicht möglich ist einen Pass auf sie zu spielen. Das kann aus folgenden Gründen passieren:
 
@@ -116,5 +116,5 @@ Enorm wichtig, nicht nur für dich als ST: Ballannahmen in den Gegner DRINGENDST
 
 ----
 
-==== Torschuss ====
+===== Torschuss =====
 [size=3]//-> siehe hierzu den Artikel: [[de:guides:shooting|Torschuss]]//[/size]
