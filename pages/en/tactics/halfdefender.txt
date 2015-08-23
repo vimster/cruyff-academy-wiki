@@ -1,4 +1,4 @@
-===== Halfdefender =====
+====== Halfdefender ======
 
 {{ :playground:hiv.jpg?200|}}**Rot:** Der Bereich in dem sich der LIV/RIV bevorzugt aufhält ({{:playground:screen-shot-2015-05-06-at-22.32.51.png?linkonly|"defensiver Halbraum"}})
 
@@ -12,7 +12,7 @@
 
 ----
 
-==== Build up phase ====
+===== Build up phase =====
 <code>
   - Dribble (with L2 or L2+R2) until you are attacked by an opponent or you approach the opponent
   - Try to avoid passes towards the other defenders (reduce passes in "U")
@@ -21,26 +21,26 @@
   - Don't be afraid of passing back to the goalkeeper if you can't conduct a changeover
 </code>
 
-Es ist dir ausdrücklich erlaubt und erwünscht, dass du versuchst, den Ball so kurz wie möglich in Nähe des eigenen Strafraums zu halten und ihn sicher möglichst weit Richtung gegnerisches Tor bringst.
+It is extremely crucial and desired that you keep the ball as short as possible near the own box. Instead try to forge ahead safely. 
 
-=== Voraussetzungen: ===
+=== Prerequisites ===
 
 <code>
-- die Halbraummittelfeldspieler (ZM's) müssen frei stehen und L2 gedrückt halten (für X-Pässe)
-- je Seite muss ein Flügelspieler komplett frei stehen (für hohe Pässe oder auch [hohe] Steilpässe)
+- the halfspace midfielders are required to be free for passing and hold L2 for demanding x-passes
+- on either wing the wingers need to be prepared for long balls and long through balls, respectively
 </code>
 
-Scheue dich nicht, den Pass durch die Mitte zu suchen. Halten sich deine ZM's an ihre Regeln, müsste mindestens einer anspielbar sein. Ist das nicht der Fall, weil der Gegner stark presst, muss ein Seitenwechsel funktionieren!
+Don't shy away from passes into the center. If the midfielders comply with their requirements at least one player should be free. If that isn't the case due to opponents high pressure a changeover is inevitable.
 
-((warte bitte ggf. einige Sekunden bis alle Videos auf dieser Seite vollständig geladen sind))
+((please wait for a few seconds until the videos are completely loaded))
 
 <html><iframe src="http://gfycat.com/ifr/EminentLinedCoral" frameborder="0" scrolling="no" width="800" height="450" style="-webkit-backface-visibility: hidden;-webkit-transform: scale(1);" ></iframe></html>
 
-Passiert es aber doch, dass der Gegner tatsächlich die Flügelspieler decken sollte, muss der zentrale Libero (ZDM oder IV) abkippen, wodurch er einen Gegenspieler mit sich zieht. Dann kannst du ein weiteres mal schauen, ob nun jemand frei steht, wenn nicht, spiele auf den Libero. Dann entsteht eine neue Situation. Ähnliches gilt für Rückpässe zum Torhüter: Jede Sekunde, in denen du nicht den Ball verlierst und der Ball in Bewegung bleibt, kann eine neue Spielsituation entstehen, in der jemand freistehen kann und wird.
+If both wingers are covered the central sweeper (CDM or CB) is requested to drop deeper. Either an opponent follows him and you need to reconsider the situation or the sweeper stays free for a pass, which leads to a new situation. The same applies to passes back to the goalkeeper. Keep in mind: As long as you don't lose the ball and the ball is circulated a new situation in game might occur generating a free man.
 
 <html><iframe src="http://gfycat.com/ifr/SpectacularSpotlessBoto" frameborder="0" scrolling="no" width="800" height="450" style="-webkit-backface-visibility: hidden;-webkit-transform: scale(1);" ></iframe></html>
 
-Spiele aber nie all deine Pässe entweder zum TW oder auf die Flügel, weil du dich nicht traust den Ball zu halten und auch mal durch die Mitte den Pass zu suchen! 
+Nonetheless, do not limit yourself to passes to the goalkeeper or the wingers because you are afraid of keeping the ball or passing through the center. 
 
 Viele Pässe in "U"-Form, wie es die Bayern vor allem unter Van Gaal sehr lange gemacht haben, können das Offensivspiel deiner Mannschaft komplett zerstören - jeder Querpass in der eigenen Hälfte lässt die gegnerische Mannschaft weiter aufrücken und mehr Anspielstationen decken. Es entsteht die Gefahr, nie aus der eigenen Hälfte heraus zu kommen.
 
@@ -52,8 +52,11 @@ Auch und vor allem für dich als einer der ersten Aufbauspieler gilt: [b][i]Kein
 
 ----
 
-==== Balleroberung: ====
+===== Winning the ball =====
 [size=3]//-> siehe hierzu den Artikel: [[de:guides:defending|Balleroberung]]//[/size]
+
+===== Role models =====
+
 ==== Joël Veltman ====
 
 <html><iframe width="854" height="510" src="https://www.youtube.com/embed/aMqXvG79WZg" frameborder="0" allowfullscreen></iframe></html>

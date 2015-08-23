@@ -1,25 +1,25 @@
 ~~CLEARFLOAT~~
-[[de:start|Willkommen in der Cruyff Academy]]
+**[[de:start|Willkommen in der Cruyff Academy]]**
 
 [[de:tactics:positionalplay|Spielstrategie]]
 
-  *[[de:tactics:playroles|Die verschiedenen Rollen im Positionsspiel]]
-    *[[de:tactics:halfdefender|Halbverteidiger]]
-    *[[de:tactics:sweeper|Mittelfeldlibero]]
-    *[[de:tactics:playmaking8|Halbraumspielmacher]]
-    *[[de:tactics:striker|Mittelstürmer]]
-  *[[de:tactics:training|Trainingsübungen]]
-  *Gegnerische Spielweisen
-    *[[de:tactics:raandrp|Royal Aces und Rising Phoenix]]
-    *[[de:tactics:wldfc|WL Diamonds]]
+[[de:tactics:playroles|Rollen im Positionsspiel]]
+  *[[de:tactics:halfdefender|Halbverteidiger]]
+  *[[de:tactics:sweeper|Mittelfeldlibero]]
+  *[[de:tactics:playmaking8|Halbraumspielmacher]]
+  *[[de:tactics:striker|Mittelstürmer]]
+
+Gegnerische Spielweisen
+  *[[de:tactics:raandrp|Royal Aces und Rising Phoenix]]
+  *[[de:tactics:wldfc|WL Diamonds]]
 
 [[de:analyses:index|Spielanalysen]]
   
 [[de:guides:index|Spielhilfen und Anleitungen]]
-
+  *[[de:tactics:training|Trainingsübungen]]
   *[[de:guides:passing|Passspiel und richtiges Anbieten]]
   *[[de:guides:shooting|Torschuss]]
-  *[[de:guides:defending|Balleroberung:]]
+  *[[de:guides:defending|Balleroberung]]
   *[[de:guides:tacticaldribbling|Pressingresistenz]]
   *[[de:guides:attributes|Spielerattribute]]
 

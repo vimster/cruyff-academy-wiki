@@ -1,0 +1,34 @@
+====== Guides ======
+===== Passing =====
+[size=3]//-> Main article: [[en:guides:passing|Passing]]//[/size]
+
+Der Großteil der Spieler, die versuchen viele Kurzpässe zu spielen, achten zu wenig darauf, ob und wie sich die Mitspieler anbieten. So entstehen viele unnötige Fehlpässe und Missverständnisse. 
+
+Da sich aber die wenigsten dann damit beschäftigen, //wieso// viele Pässe nicht funktionieren, wird jeder Fehlpass auf angebliche Spielfehler geschoben und jegliche eigene Schuld ausgeschlossen.
+
+After reading the main article following problems should be resolved:
+  *passes into the back
+  *unintended through passes
+  *short pass, although the receiver sprints
+  *through balls, while the receiver stands still
+  *hectic direct passes without gaining space
+
+===== Shooting =====
+[size=3]//-> Main article: [[en:guides:shooting|Shooting]]//[/size]
+===== Defending =====
+[size=3]//-> Main article: [[en:guides:defending|Defending]]//[/size]
+===== Pressingresistence =====
+[size=3]//-> Main article: [[en:guides:tacticaldribbling|Pressingresistence]]//[/size]
+
+===== Player attributes =====
+[size=3]//-> Main article: [[en:guides:attributes|Player attributes]]//[/size]
+===== Templates for Virtual Pro =====
+
+Eine "Vorlage" aus dem echten Fußball zu wählen (Name, Aussehen, Größe, Gewicht) sorgt für einen kleinen Rollenspiel-Effekt bei dem man sich ggf. als Ziel setzen kann die Spielweise seines Vorbildes in den Pro Club Modus zu übertragen.
+
+Als Datenbank für alle Spieler - ob alt oder aktuell - empfehle ich folgende Seiten:
+
+  *[[http://futhead.com|futhead]]
+  *[[http://pesstatsdatabase.com|PESStatsDatabase]]
+
+Erstere umfasst eine Datenbank aller Spieler, die in den FIFA-Teilen vorhanden sind und letztere ist eine User-basierte Datenbank mit dem Ziel möglichst realitätsnahe Spielerattribute für Pro Evolution Soccer zu finden.

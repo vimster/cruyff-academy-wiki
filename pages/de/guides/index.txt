@@ -1,5 +1,5 @@
-===== Spielhilfen und Anleitungen =====
-==== Passspiel und richtiges Anbieten ====
+====== Spielhilfen und Anleitungen ======
+===== Passspiel und richtiges Anbieten =====
 [size=3]//-> siehe hierzu den vollständigen Artikel: [[de:guides:passing|Passspiel und richtiges Anbieten]]//[/size]
 
 Der Großteil der Spieler, die versuchen viele Kurzpässe zu spielen, achten zu wenig darauf, ob und wie sich die Mitspieler anbieten. So entstehen viele unnötige Fehlpässe und Missverständnisse. 
@@ -13,16 +13,16 @@ Nach Lesen des verlinkten Artikels sollten u.a. folgende Probleme möglichst eff
   *Kurzpass, obwohl die Anspielstation steil läuft
   *Steilpass, obwohl die Anspielstation stehen bleibt
   *hektische Direktpässe ohne Raumgewinn
-==== Torschuss ====
+===== Torschuss =====
 [size=3]//-> siehe hierzu den Artikel: [[de:guides:shooting|Torschuss]]//[/size]
-==== Balleroberung: ====
+===== Balleroberung =====
 [size=3]//-> siehe hierzu den Artikel: [[de:guides:defending|Balleroberung]]//[/size]
-==== Pressingresistenz ====
+===== Pressingresistenz =====
 [size=3]//-> siehe hierzu den Artikel: [[de:guides:tacticaldribbling|Pressingresistenz]]//[/size]
 
-==== Spielerattribute ====
+===== Spielerattribute =====
 [size=3]//-> siehe hierzu den Artikel: [[de:guides:attributes|Spielerattribute]]//[/size]
-==== Vorlagen für den Virtual Pro ====
+===== Vorlagen für den Virtual Pro =====
 
 Eine "Vorlage" aus dem echten Fußball zu wählen (Name, Aussehen, Größe, Gewicht) sorgt für einen kleinen Rollenspiel-Effekt bei dem man sich ggf. als Ziel setzen kann die Spielweise seines Vorbildes in den Pro Club Modus zu übertragen.
 

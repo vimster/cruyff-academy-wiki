@@ -1,6 +1,6 @@
-===== Trainingsübungen =====
+====== Trainingsübungen ======
 
-==== Übung für sich selbst ====
+===== Übung für sich selbst =====
 
 Die ersten Monate FIFA 15 waren schwer und man fasst erste Entschlüsse:
 <code>
@@ -37,7 +37,7 @@ Du spielst also "Handball" am gegnerischen Tor ohne den Abschluss zu suchen. So 
 
 Vor allem lernst du auch welche Pässe ankommen können und welche nicht - denn das ist in FIFA 15 nicht leicht zu erkennen, wenn ich dem Großteil der FIFA-Spieler zusehe.
 
-==== Übung für ganze Mannschaften ====
+===== Übung für ganze Mannschaften =====
 
 Spielt man online immer wieder gegen die typischen Gegner, die sich nur hinten reinstellen, lange Bälle nach vorne schlagen und nach einem lächerlichen Glückstor die Wiederholungen nicht wegschalten, geht sehr schnell die Geduld verloren. Verliert man viele Spiele, verliert man auch die Spieler. Man hat dann keinen Bock mehr, gegen immer die gleichen Gegner zu spielen und so große Probleme zu haben, weil man sich erst einspielen muss.
 

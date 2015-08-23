@@ -4,9 +4,12 @@
 
 [[en:tactics:positionalplay|Game strategy]]
 
-  *[[en:tactics:playroles|Roles of Positional Play]]
-    *[[en:tactics:halfdefender|Halbverteidiger]]
-    *[[en:tactics:playmaking8|Halbraumspielmacher]]
-    *[[en:tactics:striker|Mittelstürmer]]
+[[en:tactics:playroles|Roles of Positional Play]]
+  *[[en:tactics:halfdefender|Halfdefender]]
+  *[[en:tactics:playmaking8|Halfspace Playmaker]]
+  *[[en:tactics:striker|Striker]]
 
-[[de:faq|Frequently asked questions]]
+[[en:guides:index|Guides]]
+  *[[en:guides:defending|Defending]]
+
+[[en:faq|Frequently asked questions]]
