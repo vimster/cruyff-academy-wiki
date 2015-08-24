@@ -2,15 +2,15 @@
 ===== Passing =====
 [size=3]//-> Main article: [[en:guides:passing|Passing]]//[/size]
 
-Der Großteil der Spieler, die versuchen viele Kurzpässe zu spielen, achten zu wenig darauf, ob und wie sich die Mitspieler anbieten. So entstehen viele unnötige Fehlpässe und Missverständnisse. 
+The vast majority of players, who try to play a lot of short passes, don't pay attention to the movements of their teammates. That leads to unnecessary bad passes and misunderstandings. 
 
-Da sich aber die wenigsten dann damit beschäftigen, //wieso// viele Pässe nicht funktionieren, wird jeder Fehlpass auf angebliche Spielfehler geschoben und jegliche eigene Schuld ausgeschlossen.
+As only a few players focus on the question, //why// so many passes don't work out, any bad pass is explained by game flaws. Oftentimes, one tries to blame others for obviously preventable mistakes. 
 
-After reading the main article following problems should be resolved:
-  *passes into the back
+After reading the main article, following problems should be resolved:
+  *passes into the back of the teammates
   *unintended through passes
   *short pass, although the receiver sprints
-  *through balls, while the receiver stands still
+  *through balls, whilst the receiver is standing still
   *hectic direct passes without gaining space
 
 ===== Shooting =====
@@ -24,11 +24,11 @@ After reading the main article following problems should be resolved:
 [size=3]//-> Main article: [[en:guides:attributes|Player attributes]]//[/size]
 ===== Templates for Virtual Pro =====
 
-Eine "Vorlage" aus dem echten Fußball zu wählen (Name, Aussehen, Größe, Gewicht) sorgt für einen kleinen Rollenspiel-Effekt bei dem man sich ggf. als Ziel setzen kann die Spielweise seines Vorbildes in den Pro Club Modus zu übertragen.
+Selecting a template for your virtual pro from real football (name, appearance, height, weigh) leads to a role-playing effect whereby you can try to imitate the game style of your role model in the pro clubs mode.
 
-Als Datenbank für alle Spieler - ob alt oder aktuell - empfehle ich folgende Seiten:
+We recommend following databases for all players:
 
   *[[http://futhead.com|futhead]]
   *[[http://pesstatsdatabase.com|PESStatsDatabase]]
 
-Erstere umfasst eine Datenbank aller Spieler, die in den FIFA-Teilen vorhanden sind und letztere ist eine User-basierte Datenbank mit dem Ziel möglichst realitätsnahe Spielerattribute für Pro Evolution Soccer zu finden.
+The former comprises attributes of all players that have been present in a FIFA game. The latter is a user based database aiming at collecting realistic player features for Pro Evolution Soccer.

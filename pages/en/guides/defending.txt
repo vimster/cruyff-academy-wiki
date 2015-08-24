@@ -15,9 +15,9 @@ Important: When you attack the player in possession, you are giving him the oppo
 
 **Prefer L2 (jockeying) over X (containing)** to block shots inside the own box! It prevents you from causing penalties. 
 
-Wirst du aufgrund eines Stellungsfehlers überrant, versuche den Gegner mit Trikotziehen (Kreis) zu verlangsamen. 
+If you are overrun by an opponent, try to slow down the opponent by pressing (cirlce). 
 
-[b][i]Im Strafraum darfst du aber NIE den Körperkontakt suchen[/i][/b], da es sonst sehr wahrscheinlich Elfmeter geben wird. 
+[b][i]In the box avoid physical contact[/i][/b] (eg. by sprinting into the opponent) as it causes most likely a penalty. 
 
-[b][u]Also:[/u][/b] [b][i]
-Mit L2 Abstand halten, den Raum zum Tor/Mitspieler abdecken, nie auf Zweikampf (O) drücken![/i][/b]
+[b][u]Keep in mind:[/u][/b] 
+[b][i]Keep distance with L2 covering the room between opponent and own goal and avoid tackles(O)![/i][/b]

@@ -53,7 +53,7 @@ Auch und vor allem für dich als einer der ersten Aufbauspieler gilt: [b][i]Kein
 ----
 
 ===== Winning the ball =====
-[size=3]//-> siehe hierzu den Artikel: [[de:guides:defending|Balleroberung]]//[/size]
+[size=3]//-> Main article: [[en:guides:defending|Defending]]//[/size]
 
 ===== Role models =====
 
