@@ -60,6 +60,9 @@ Stürmer, die bei Ballbesitz der eigenen Mannschaft einzig und allein versuchen,
 
 Zone/Raum ab der Mittellinie zentral Richtung gegnerischem Strafraum, hauptsächlich besetzt vom sogenannten "Zehner/10er" (ZOM).
 
+==== Zerfickender Pass ====
+
+siehe //Schnittstellenpässe//
 ==== Zonen ====
 
 Zonen sind eine präzisere Bezeichnung für "Positionen" auf dem Feld und können ggf. auch als "Räume" bezeichnet werden. Je nach Spielsituation und Formation werden bestimmte Zonen besetzt oder nicht besetzt.

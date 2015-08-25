@@ -1,0 +1,64 @@
+====== 4-1-4-1 mit ultra-offensivem Mittelfeld (4 vs 3) ======
+
+Für den ersten Versuch einer schriftlichen Analyse eines Pro Club Spiels habe ich eine Halbzeit gewählt, in der wir zu viert gegen drei Gegner spielten, welche in der 73. Minute das Spiel verließen.
+
+Doch diese knapp 30 Spielminuten sind zunächst genug, um mehrere typische Probleme aufzuzeigen.
+
+Im Folgenden werde ich die Teams "CYF" respektive "MAR" nennen.
+
+===== Formationen während des Spiels =====
+
+{{ :de:analyses:abjd9tnacs.png?300|}}CYF startete mit einem 4-1-4-1, MAR mit einem 4-3-3 oder 4-3-2-1 ohne Flügelspieler. Im Bild rechts sehen wir die beiden Hauptformationen während des Spiels: MAR hatte mit seinen drei Spielern LS/RS und ST besetzt und CYF die Positionen LZM/RZM/RIV((Der Autor entschuldigt sich zutiefst dafür vergessen zu haben, A. Herrera als RIV einzutragen.)) und ST.
+
+Besonders auffällig und spielentscheidend war das Stellungsspiel der beiden (eigentlichen) Halbraumspielmacher LZM und RZM, welcher aufgrund ihrer sehr offensiven Positionsfindung eher für ein 4-1-3-1-1 und manchmal sogar 4-1-2-2-1 sorgten. Wenn man streng sein möchte, können wir in diesem Spiel LZM und RZM fast als Halbraum**stürmer** (LS bzw. RS) bezeichnen.
+
+Der LZM war sehr selten im linken defensiven Halbraum zu finden und befand sich meiste Zeit vor dem bot-/anygesteuerten LM und teilweise sogar auf einer Höhe mit dem Stürmer und half in der Defensive nur sehr marginal mit und rückte sofort wieder weit auf, wenn er es nicht schaffte den Ball zu erobern.
+
+Der RZM währenddessen war wenigstens etwas bemüht, zumindest einige Male in der eigenen Hälfte anspielbar zu sein und etwas in der Defensive mitzuarbeiten, war jedoch trotzdem noch zu offensiv. Wäre er aber permanent auf einer Höhe mit dem LZM gewesen, hätte CYF auch mit einer Dreiersturm komplett ohne ZM's starten können.
+
+Die große Lücke, die der LZM im Halbraum hinterließ, wurde von MAR allerdings entweder wegen fehlender Spielintelligenz und/oder -stärke nur wenig genutzt. LS/RS haben auf ihrer rechten Seite untereinander rotiert, haben so zumindest teilweise (vielleicht unterbewusst) erkannt, dass ihre rechte Offensivseite völlig offen ist und spielten deshalb asymmetrisch und rechtslastig.
+
+~~CLEARFLOAT~~
+
+===== Flügellast und Any-Verantwortung =====
+
+{{ :de:analyses:abjeafjacb.png?300|}}Im Bild rechts((Ich muss unbedingt mal herausfinden, wie man direkt unter Bilder schreiben kann...)) sind die Hauptpasswege durch Pfeile eingezeichnet. Aufgrund der Positionierung der Halbraumspielmacher (eher -Stürmer) wird der Any gezwungen über die Flügel aufzubauen und sowohl Zentrum als auch Halbraum zu vernachlässigen.
+
+Es bleibt jedoch nicht dabei, dass der Any sowohl volle Verantwortung beim Spielaufbau hatte und nur seltenst vom RZM unterstützt wurde. Sobald der Any LZM oder RZM anspielte bekam er meist direkt den Ball wieder zurück auf den Flügel gespielt. 
+
+War es für die ZM's nicht möglich mit einem Direktpass wieder auf den Flügel zu spielen und sie mehrere Meter mit Ball gehen mussten, hatten sie oft Probleme bei der Entscheidungsfindung und begingen Fehler entweder durch Dribblings oder Fehlpässe in den Gegner .
+
+Wie an mehreren Stellen hier im Wiki betont: Wenn du - besonders als Mittelfeldspieler - größtenteils nur Direktpässe spielst, ist es ein Zeichen dafür, dass du nicht Verantwortung übernimmst, sondern anderen übergibst - entweder weil du es nicht möchtest oder weil du nicht dazu in der Lage bist.
+
+Das gilt genauso beim Spiel CYF-MAR, wo die beiden ZM's fast ausschließlich direkt kurz zurück bzw. auf den Flügel spielten. So lag die Verantwortung komplett auf den Schultern des Anys bzw. der Bots, die er steuern musste.
+~~CLEARFLOAT~~
+
+Typische Symptome von Mannschaften, dessen Mittelfeldspieler größtenteils Direktpässe zurück oder auf die Flügel spielen:
+
+  *Automatischer Flügelfokus der gesamten Mannschaft
+  *Das Zentrum wird ignoriert
+  *Der Mittelstürmer wird von den ZM's ignoriert
+  *Die ZM's ignorieren sich untereinander
+  *Torchancen müssen über die Flügel oder durch Einzelaktionen erarbeitet werden
+  *Überfordert, wenn keine Anspielstation für einen Direktpass vorhanden ist
+  *Keine Kombinationen und/oder effektives Ballhalten in den Halbräumen
+
+Die Folgen:
+
+  *Keine nachhaltig-effektive Chancenerarbeitung
+  *Kein effektives Kombinationsspiel
+  *Keine Pressingresistenz
+  *Keine effektive Raumnutzung
+  *Hektik
+  *Keine Chance gegen extrem pressende Gegner
+  *Kaum Chance gegen extrem tiefstehende Gegner
+
+Symptome und Folgen, die man bereits in großen Teilen in nur wenigen Minuten in der zweiten Halbzeit von CYF vs MAR sehen kann und wir demnächst in weiteren Analysen betrachten werden können.
+
+===== Fazit =====
+
+Der Any muss die überoffensiven ZM's durch ruhiges Aufbauspiel kompensieren und ist gezwungen komplett über die Flügel zu spielen. Die Gegner waren trotz Lücken in den Halbräumen in der 2. Halbzeit nicht effektiv genug, auch wenn CYF nur durch zwei Einzelaktionen und anschließenden (größtenteils glücklichen) Elfmetern gewinnen konnte.
+
+In 30 Spielminuten kann man bereits erkennen, wie viel vom Any abhängt, obwohl die extrem wichtigen Achter-Positionen von Virtual Pros besetzt sind, wenn diese keine Verantwortung übernehmen wollen oder können, bewusst oder unterbewusst. In kommenden Analysen wird auf die sehr negativen Folgen eingegangen, wenn mehrere Positionen mit dieser Art von Spielern besetzt werden.
+
+PS: Video wird nachgereicht.

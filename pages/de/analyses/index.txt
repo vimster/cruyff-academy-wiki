@@ -2,19 +2,6 @@
 
 <html><iframe width="350" height="200" src="https://www.youtube.com/embed/uNgA3ll00V0" frameborder="0" allowfullscreen></iframe></html>
 
-OK Google,
-YouTube funktioniert, das ist super!
+===== 4-1-4-1 mit ultra-offensivem Mittelfeld (4 vs 3) =====
 
-Weltklasse!!!
-
-Wie wollen wir das mit den Analysen machen?
-
-Wollen wir ein Template für Spielanalysen erstellen?
-
-Ja, auf jeden Fall! Wenn du mir sagst wie das aussehen soll
-
-Ok, ich werde zeitnah einen Vorschlag unterbreiten.
-
-Hast du den Beitrag schon gelesen? http://spielverlagerung.de/2015/07/30/peps-bayern-auf-zu-neuen-ufern/
-
-Yes, indeed indeed
+Ein erster schriftlicher Analyse-Versuch, der [[de:analyses:uberoffensive4141|hier]] zu finden ist.
