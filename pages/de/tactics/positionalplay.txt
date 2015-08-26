@@ -41,7 +41,7 @@ Schach matt
 ----
 
 === Trainingsübungen ===
-[size=3]//-> siehe hierzu den Artikel: [[de:tactics:training|Trainingsübungen]]//[/size]
+[size=3]//-> siehe hierzu den Artikel: [[de:guides:training|Trainingsübungen]]//[/size]
 
 ----
 

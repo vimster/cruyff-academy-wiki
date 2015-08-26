@@ -16,7 +16,7 @@ Gegnerische Spielweisen
 [[de:analyses:index|Spielanalysen]]
   
 [[de:guides:index|Spielhilfen und Anleitungen]]
-  *[[de:tactics:training|Trainingsübungen]]
+  *[[de:guides:training|Trainingsübungen]]
   *[[de:guides:passing|Passspiel und richtiges Anbieten]]
   *[[de:guides:shooting|Torschuss]]
   *[[de:guides:defending|Balleroberung]]
