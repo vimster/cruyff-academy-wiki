@@ -23,59 +23,68 @@ You want to be a striker? You have the luck that it has never been so easy to sc
 ===== 9 commandments of the #9 =====
 
 <code>
-1. Nicht entgegenkommen, sondern von Mitspielern entfernen
-2. Stets an der gegnerischen Abwehrkette lauern
-3. Signale der Spielmacher deuten
-4. Binde durch Fintenläufe gegnerische Verteidiger an dich
-5. Bleibe stets in der Mitte
-6. Suche den Abschluss und versuche nicht jedes mal querzulegen
-7. Das kurze Eck ist dein bester Freund
-8. Im 1gg1 gegen den Torwart kannst du meist mit R2 an ihm vorbeilaufen
-9. Positioniere dich vor dem Torwart für Flanken/Querleger und nicht im Rückraum
+1. Support your teammates by walking away and not closer to them
+2. Always try to stay along the defensive line, close to offside, to be ready for through balls
+3. Wait for and identify the "signals" from your teammates
+4. Drag defenders with you by dummy running
+5. Stay in the middle!
+6. Scoring is your priority - do not always try to pass if it isn't obvious
+7. FIFA 15: the near post is your best friend!
+8. FIFA 15: in a 1on1 against the goalie you can always try to run past him
+9. Teammate with ball on the wing: move away from him and close to goal for crosses 
 </code>
 
 ----
 
 ===== Making room for teammates =====
 
-Es ist sehr sehr wichtig, dass du als Mittelstürmer Verteidiger an dich bindest und so Räume für deine Mitspieler schaffst. Die meisten wollen leider immer entgegenkommen und die X-Pässe fordern, doch das ist Aufgabe der Spielmacher und nicht von dir. ((Sonderregeln gelten ggf. für die Falsche Neun))
+It is very important for you to lure away defenders by moving into spaces and/or away from your teammates on the ball. This procedure is called "Dummy Running" because you do not always get the pass from your teammate but you still drag a defender with you which creates spaces for your mates to either run oder dribble into.
 
-Nur wenn du dich von den Spielmachern und Flügelstürmern aktiv wegbewegst können sie ihr Können abrufen.
+Most strikers tend to move closer to their teammates on the ball to "support" them and ask for a short pass. However: you certainly do not support them - you actually take space away from them and take away the opportunity to make a possibly dangerous through ball in your direction because you...
+
+  -...move closer to them and not into space, so there is no possibility to move closer to the goal
+  -...drag a defender with you by moving closer to them which is taking away even more space for them to be creative
+
+The so called "False Nine" would be the only type of player to move closer and take part in combinational play rather than the "real" striker - which you must be.
+
+Never forget: Talented players can only unfold their talent fully if you move away from them to give them space to be creative.
  
-=== Beispiele === 
-((warte ggf. einige Sekunden, bis alle Videos auf dieser Seite vollständig geladen sind))
+=== Examples === 
+((please wait a few seconds for the HTML5-Videos to load, if needed))
 <html><iframe src="http://gfycat.com/ifr/GorgeousScientificIndochinahogdeer" frameborder="0" scrolling="no" width="800" height="450" style="-webkit-backface-visibility: hidden;-webkit-transform: scale(1);" ></iframe></html>
 
-Sobald Quaresma (7) hier in den rechten Halbraum eindringt bewegen sich die Spieler im Strafraum von ihm weg, sodass die gegnerischen Verteidiger dazu gezwungen werden den Passweg zu ihnen zu decken. 
+As soon as Quaresma (7) cuts inside on the right, his teammates in the box move //away// from him, so that the opponent's defenders have to follow and cover them. 
 
-Achte besonders auf Martínez (9), welcher sich aktiv Richtung Tor bewegt: Es besteht keinerlei Möglichkeit zum Pass und das will er auch nicht - er will nur mindestens einen Verteidiger an sich binden.
+Expecially look at Jackson Martínez (9), who actively moves towards the goalkeeper: He certainly doesn't expect a pass to him - he only wants to drag a defender with him (Dummy Running).
 
-So hat Quaresma genug Platz, um mit einem kleinen Haken in Schussposition zu kommen.
+All that makes it possible for Quaresma to make a little fake shot to get in a nice shooting position.
 
-Wären ihm 1 oder 2 Spieler von der Mitte entgegengekommen, wäre womöglich kein Platz für den Haken vorhanden gewesen. Denn eines musst du dir immer merken:
+An incredibly common mistake would have been that Quaresma's mates move closer to him to "help". However, if they moved closer, not only them would have moved closer: defenders would have followed them taking away even more space for Ricardo.
 
-  Du hilfst einem kreativen Spieler viel mehr, wenn du dich von ihm wegbewegst. 
-  Denn entgegenkommen bedeutet nicht nur, dass du dich zu ihm bewegst, sondern 
-  auch mindestens ein Gegenspieler.
+Please do not ever forget this simple but underestimated rule:
+
+  You help a creative player much more by moving away 
+  instead of moving towards him. 
+  Because by moving towards a creative player doesn't 
+  only mean that just you moves closer to him 
+  but at least one defender is going to follow you.
   
 <html><iframe src="http://gfycat.com/ifr/FirstAcclaimedDairycow" frameborder="0" scrolling="no" width="800" height="450" style="-webkit-backface-visibility: hidden;-webkit-transform: scale(1);" ></iframe></html>
 
-Während der Ball immer weiter nach rechts geht bewegt sich hier Lewandowski weiter nach links, um so Verteidiger an sich zu binden und immensen Raum zu schaffen.
+While the ball is moving more and more to the right, Lewandowski moves more and more to the left to draw defenders and create huge space on the right.
 
-Eine typische Aktion von FIFA-Spielern wäre hier gewesen, dass sie sobald Robben nach rechts außen geht, ihm möglichst nahe entgegenkommen, um ihm zu "helfen". Dann wäre die rechte Seite voll mit Spielern gewesen und der Raum für die Kombination mit Weiser wäre nie möglich gewesen.
+A common FIFA-player would have tried to //support// Robben here by moving more and more to the //right//, as soon as he moves there. By doing that, the right side would have been full of players and the little one two with Mitchell Weiser would have never been possible.
 
-Ich könnte viele weitere Beispiele zeigen, wie man als Stürmer durch weglaufen statt entgegenkommen Platz für seine Mitspieler schaffen kann, aber die Nachricht sollte angekommen sein.
+I could show even more examples to show how important it is to move away from your teammates but I hope you got the message.
 
-Sollte sich je ein Flügelspieler oder Spielmacher bei dir beschweren, dass du wegläufst, dann sollte derjenige auf einer Position spielen, wo man keine Kreativität braucht. Du hast alles richtig gemacht.
+If you ever encounter a specimen crying to you that you "always run away" and they "cannot do anything because of you", then this specimen should play on a position that requires no creativity. You're the striker and you're moving away, preferably closer to the goal? You're doing the right thing.
 
 ----
 
 
 ===== Lying in wait for through balls =====
 
-Ich betone es immer wieder: Komme den Ballführenden nie entgegen, sondern bewege dich von ihnen weg, füge dich in die gegnerische Abwehrkette ein, als wärst du "einer von ihnen" und bereite dich auf den Steilpass vor.
-
-Eine zusätzliche Option wäre, dich zuerst für einen X-Pass anzubieten, dann mit L1-X abzulegen und danach erst den Schnittstellenpass zu fordern. Doch das funktioniert nicht immer und besonders bei höherem Niveau wirst du selten genug Platz dafür bekommen.
+Let me emphasise it again and again: move away from your teammates on the ball, move inside the opponent's defending line as if you were one of them to always be ready for a through ball.
 
 === Examples ===
 
@@ -87,15 +96,16 @@ Eine zusätzliche Option wäre, dich zuerst für einen X-Pass anzubieten, dann m
 
 ===== Communication through signals =====
 
-Du "kommunizierst" jederzeit mit deinen Mittelfeldspielern. Nicht, indem du mit ihnen sprichst, sondern indem du ihnen und sie dir bestimmte "Signale" geben.
+You're in permanent communication with your teammates. Not certainly because you //talk// to them, but because there are certain signals that you have to follow to avoid misunderstandings:
 
-  Wenn sie nicht direkt passen, sondern den Ball 
-  halten und einige Schritte gehen, deuten sie an,
-  dass du vorne in eine Lücke durchstarten sollst.
-  So gibst du ihnen Raum für kreative Aktionen und/oder einen
-  Steilpass in deine Richtung.
+  If a teammate doesn't pass the ball immediately 
+  but dribbles a little (espacially if he cuts inside)
+  it means that he waits for YOU to run for a through ball.
+  If the pass works you have a good chance to score.
+  If the pass doesn't work you gave your teammate more space
+  to dribble by moving away from him.
 
-Das gleiche gilt anders herum: Wenn du entgegen kommst (was sehr selten passieren sollte), signalisierst du deinem Mitspieler, dass du mit X angespielt werden möchtest. Läufst du aber weg, signalisierst du das Gegenteil: "Kein X Bitte!"
+The same goes to other positions: while the striker should move //away// most of the time, there are also signals for short passes. If you move closer to your teammate whilst holding L2, you signalise him that you want to have a short pass with X. But if you move away you signalise that you do //not// want him to pass with X.
 
 **Sind diese Signale von vornherein nicht bewusst geschehen sehr viele Missverständnisse und vor allem hat man dann auf hohem Niveau enorme Probleme zum Torabschluss zu kommen!** 
 

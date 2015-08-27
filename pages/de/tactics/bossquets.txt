@@ -89,3 +89,14 @@ Regel Nummer 1 besteht aus 6 Worten:
   *[[de:guides:tacticaldribbling|Pressingresistenz]]
   *[[de:guides:tacticaldribbling|Pressingresistenz]]
   *[[de:guides:tacticaldribbling|Pressingresistenz]]
+
+==== Passspiel ====
+
+Regel Nummer 2 besteht ebenfalls aus 6 Worten:
+
+  *[[de:guides:passing|Passen]]
+  *[[de:guides:passing|Passen]]
+  *[[de:guides:passing|Passen]]
+  *[[de:guides:passing|Passen]]
+  *[[de:guides:passing|Passen]]
+  *[[de:guides:passing|Passen]]

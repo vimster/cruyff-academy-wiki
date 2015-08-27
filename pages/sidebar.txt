@@ -5,7 +5,7 @@
 
 [[de:tactics:playroles|Rollen im Positionsspiel]]
   *[[de:tactics:halfdefender|Halbverteidiger]]
-  *[[de:tactics:sweeper|Mittelfeldlibero]]
+  *[[de:tactics:bossquets|Mittelfeldlibero]]
   *[[de:tactics:playmaking8|Halbraumspielmacher]]
   *[[de:tactics:striker|Mittelstürmer]]
 

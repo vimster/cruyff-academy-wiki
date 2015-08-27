@@ -21,13 +21,14 @@ Alaba is King
 
 ===== Mittelfeldlibero =====
 
-[size=3]//-> siehe hierzu den vollständigen Artikel: [[de:tactics:sweeper|Mittelfeldlibero]]//[/size]
+[size=3]//-> siehe hierzu den vollständigen Artikel: [[de:tactics:bossquets|Mittelfeldlibero]]//[/size]
 
 {{ :playground:lib.jpg?200|}}Busquets = Bossquets
 
 
 ~~CLEARFLOAT~~
-----
+---
+-
 
 ===== Breitmachender Flügelspieler =====
 

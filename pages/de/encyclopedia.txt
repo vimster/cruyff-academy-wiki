@@ -18,21 +18,85 @@ Berühmte Ausputzer sind/waren Spieler wie Gennaro Gattuso, Claude Makélélé, 
 
 Spieler, meist Achter bzw. LZM/RZM, die vertikal zwischen eigenem und gegnerischem Strafraum ("Box") herumlaufen und sich anbieten, Bälle erobern und verteilen, ggf. Distanzschüsse wagen und Schnittstellenpässe spielen. Sie sind meist das Nervensystem einer Mannschaft, von denen sowohl defensiver als auch offensiver Erfolg stark abhängt.
 
+==== Catenaccio ====
+
+Der Begriff wird heute für jede sehr defensive Spielweise verwendet. Allerdings ist das "echte" Catenaccio bereits seit den 70ern ausgestorben. Die bekanntesten und erfolgreichsten Catenaccio-Teams waren Inter und AC Mailand in den 60ern.
+
+Catenaccio war ein striktes System mit extrem defensiver Ausrichtung mit dem Ziel die Offensivspieler des Gegners in (doppelte) Manndeckung zu nehmen und bei Balleroberung zu kontern. Man spielte mit 5 Verteidigern, 3 Mittelfeldspielern und 2 Stürmern, welche alle in verschiedene Rollen unterteilt wurden.
+
+==== Dreiecksspiel ====
+
+Das Dreiecksspiel bezeichnet das Formieren von Dreiecken durch drei Spieler, um dem ballführenden Mitspieler immer eine freie Anspielstation bieten zu können. Das bedeutet, dass der ballführende Akteur einen Eckpunkt dieses Dreiecks bildet, der mit zwei anderen Eckpunkten verbunden ist.
+
+Im Gegensatz zu einer einzigen Linie und Anspielstation gibt es hier eben zwei Optionen, die der Gegner abdecken muss. Der zweite Vorteil ist, dass auch der Passempfänger sofort wieder eine oder gar zwei Anspielstationen hat und somit die Passstafetten im Idealfall fortgesetzt werden können.(([[http://spielverlagerung.de/dreiecksspiel/|spielverlagerung.de - Dreiecksspiel]]))
 ==== Eckfahnenläufer ====
 
 (Flügel-)Spieler, die bei Ballbesitz (mit oder ohne Finten) geradeaus auf den Außen Richtung Eckfahne sprinten, um zu flanken. Diese Spieler ignorieren meist Anspielstationen auf kurze Distanz, den Halb- und Rückraum und sind nur aufs Flanken fixiert, egal ob sich jemand im Strafraum befindet oder nicht.
 
+==== "Falsche" Positionen ====
+
+Wenn ein Spieler nominell bzw. in der Startaufstellung in einer bestimmten Position eingetragen wird, sich jedoch in seiner Spielweise anders orientiert, wird die Position, die der Spieler bekleidet, oft (v.a. von den Medien) als "falsch" bezeichnet.
+
+Startet z.B. ein Spieler nominell im Sturmzentrum, steht während der Partie aber oft auf den Flügeln und/oder in der Tiefe, jedoch nur selten im Sturmzentrum selbst, kann man von einer "Falschen Neun" sprechen.
+
+Die bekanntesten "falschen" Positionen sind:
+
+  *Falsche Neun
+  *Falsche (meist "Inverse") Außenverteidiger
+  *Falsche Zehn (Spielmacher, der auf die Flügel ausweicht, z.B. Mesut Özil)
+  *Falscher Verteidiger (z.B. "Box-to-Box-Defender", Offensiver Verteidiger, "Halbraumlibero")
+  *Manuel Neuer als aggressiver Antizipationstorhüter
+  *Sergio Busquets-Position als halber Verteidiger und halber Mittelfeldspieler
+  *...sicherlich noch erweiterbar
 ==== Flügel ====
 
 Zonen/Räume horizontal von den Seitenlinien bis zu den äußersten Rändern des Strafraums, vertikal von einer Torauslinie bis zu anderen. Es gibt defensive und offensive Flügel, welche vor allem von Außenverteidigern (LV/LAV und RV/RAV), Flügelmittelfeldspielern (LM/RM) und Flügelstürmern (LF/RF) beackert werden.
 
+==== Gegenpressing ====
+
+Als Gegenpressing wird sofortiges Pressing nach Ballverlust bezeichnet, um den Gegner nach dessen Balleroberung beim Umschalten zu stören, ruhiges Aufbauspiel zu verhindern und ihn im Optimalfall zu hektischen Aktionen, langen Bällen und Ballverlusten zu zwingen.
+
+Das Gegenpressing kann man dabei noch in mehrere verschiedene Arten wie z.B. //mannorientiert//, //ballorientiert//, //raumorientiert// und //passwegorientiert// unerscheiden.
+
+Sehr effektives Gegenpressing lassen z.B. Pep Guardiola, Jupp Heynckes, Roger Schmidt, Marcelo Bielsa, Markus Gisdol, Thomas Tuchel und Jürgen Klopp spielen. In der englischen Premier League dagegen scheinen Gegenpressing und Pressing allgemein noch nicht richtig angekommen zu sein, was eine der Gründe ist, wieso die englischen Teams den deutschen und spanischen bereits seit Jahren taktisch hinterherhinken.
 ==== Halbräume ====
 
 Zonen/Räume zwischen Zehnerraum und Flügel, sowohl rechts als auch links, in eigener und gegnerischer Hälfte. Hauptsächlich besetzt von den "Achtern/8ern" (LZM/RZM), einer "Doppelsechs" (LDM/RDM), "Halbstürmern" (LS/RS) und/oder "Halbverteidigern" (LIV/RIV).
 
+==== Horizontale Spielweise ====
+
+Im Gegensatz zur linearen/vertikalen Spielweise, agiert ein Spieler meist parallel zur Torauslinie, horizontal von der einen zur anderen Seitenlinie.
+
+Oft unterscheidet man z.B. bei einer Doppelsechs, ob ein Sechser vertikal oder horizontal spielt. Bekannt dafür waren z.B. die Bayern mit Schweinsteiger (horizontal) und van Bommel (vertikal).
+==== Inverser Flügelspieler ====
+
+Ein Flügelspieler (defensiv und/oder offensiv), der in seinen Bewegungen mit und/oder ohne Ball Richtung Zentrum und/oder Halbraum zieht.
+
+Bekannte inverse Flügelspieler wären z.B. Arjen Robben, Philipp Lahm (links defensiv), Inverse Außenverteidiger bei Pep Guardiola, Franck Ribéry, Lionel Messi, Neymar und grob gesagt alle Flügelspieler, die auf der Seite ihres schwachen Fußes agieren.
+
+==== Konterpressing ====
+
+siehe //Gegenpressing//
+
+==== Laserpässe ====
+
+Flache bis halbhohe, harte und präzise Pässe über mehrere Meter an mehreren Gegnern vorbei zum Mitspieler. Verfechter und Vorreiter des Begriffes "Laserpass" sind die Experten von www.spielverlagerung.de, Vorreiter und bekannter Vertreter des Laserpasses selbst ist Jérôme Boateng.
+
+Neben Laserpässen sind auch Laserflanken und -schüsse möglich.
 ==== Libero ====
 //-> siehe hierzu den Artikel: [[de:encyclopedia:libero|Libero]]//
 
+==== Lineare Spielweise ====
+
+Ein Spieler verkörpert eine lineare Spielweise, wenn er in seinen Bewegungen mit und ohne Ball größtenteils vertikal, also geradeaus von eigener Torauslinie Richtung gegnerische Torauslinie, agiert.
+
+Die einzigen größtenteils linearen Positionen im Positionsspiel sind die (eher defensiven) Flügelspieler.
+
+Bekannt durch ihre größtenteils lineare Spielweise sind Jordi Alba, Dani Alves, Juan Bernat, Rafinha, Jesus Navas, Juan Cuadrado und grob gesagt alle Flügelspieler, die auf der Seite ihres starken Fußes spielen.
+
+==== Matchplan ====
+
+Der Matchplan bezeichnet die vom Trainer vorgegebene Strategie für das nächste Spiel. Eingeführt von Jungtrainer Thomas Tuchel ist der Begriff inzwischen zu einem wichtigen Teil der Fußballberichterstattung geworden.(([[http://spielverlagerung.de/matchplan/|spielverlagerung.de - Matchplan]]))
 ==== Pressingresistenz ====
 
 Die Fähigkeit den Ball bei gegnerischem Pressing zu behaupten (Ballkontrolle, Drehbewegungen) und Reaktions-/Handlungsschnelligkeit und Übersicht ("Schulterblick") zu bewahren. Grob gesagt kann man einen Spieler als pressingresistent bezeichnen, wenn er den Ball halten kann und nicht überfordert ist, wenn sich keine sofortige Anspielstation findet. 
@@ -45,6 +109,7 @@ Pressingresistenz in Person wären Spieler wie Lionel Messi, Marco Verratti, And
 
 (Steil-)Pässe zwischen Verteidigern hindurch bzw. an ihnen vorbei in Richtung Stürmer und gegnerisches Tor, die bei Erfolg oft zu Torchancen führen können.
 
+Könige der Schnittstellenpässe sind z.B. Andrés Iniesta, Mesut Özil, Cesc Fàbregas, David Silva und Lionel Messi.
 ==== Sechserraum ====
 
 Der Sechserraum ist der "Spiegel" des Zehnerraums, also Zone/Raum im Zentrum vor dem eigenen Strafraum bis zur Mittellinie. Der Sechserraum wird hauptsächlich vom "Sechser/6er" (ZDM) und/oder von einem einzelnen Innenverteidiger (IV) einer Dreierkette besetzt.
@@ -56,6 +121,13 @@ Stürmer, die bei Ballbesitz der eigenen Mannschaft einzig und allein versuchen,
 ==== Teamwork ====
 //-> siehe hierzu den Artikel: [[de:encyclopedia:teamwork|Teamwork]]//
 
+==== Überladen ==== 
+
+Das Überladen bezeichnet ein taktisches Mittel, bei dem in einer Zone des Gegners eine (situative) Überzahl erzeugt wird. 
+
+Die Überladungsbewegung sorgt dafür, dass die Spieler den Raum anvisieren und letztlich dort mit mehr Mann als Gegner und im Normalfall mit Ballbesitz aufscheinen. Dadurch können sie effektiver kombinieren, Gegenspieler wegziehen, Räume öffnen und erhöhen somit die Erfolgswahrscheinlichkeit ihrer Kombination.(([[http://spielverlagerung.de/uberladen/|spielverlagereung.de - Überladen]]))
+
+Die negative Folge, dass dabei Lücken in der eigenen Abwehr entstehen können, muss bei Ballverlust durch effektives Gegenpressing kompensiert werden - was durch die Überladung glücklicherweise theoretisch einfacher wird.
 ==== Zehnerraum ====
 
 Zone/Raum ab der Mittellinie zentral Richtung gegnerischem Strafraum, hauptsächlich besetzt vom sogenannten "Zehner/10er" (ZOM).
