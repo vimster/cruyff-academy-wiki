@@ -1,6 +1,7 @@
 ====== Die verschiedenen Rollen im Positionsspiel ======
 
 ===== Halbverteidiger =====
+((LIV/RIV))
 [size=3]//-> siehe hierzu den vollständigen Artikel: [[de:tactics:halfdefender|Halbverteidiger]]//[/size]
 
 {{ :playground:hiv.jpg?200|}}**Rot:** Der Bereich in dem sich der LIV/RIV bevorzugt aufhält ({{:playground:screen-shot-2015-05-06-at-22.32.51.png?linkonly|"defensiver Halbraum"}})
@@ -14,23 +15,22 @@
 ~~CLEARFLOAT~~
 
 ----
-===== Offensiver Halbraumlibero =====
 
-Alaba is King
-----
-
-===== Mittelfeldlibero =====
-
+===== Mittelfeldlibero ===== 
+((ZDM oder IV einer Dreierkette ohne ZDM))
 [size=3]//-> siehe hierzu den vollständigen Artikel: [[de:tactics:bossquets|Mittelfeldlibero]]//[/size]
 
-{{ :playground:lib.jpg?200|}}Busquets = Bossquets
+{{ :playground:lib.jpg?200|}}**Rot:** Der Hauptbereich im Stellungsspiel des ZDM's und deswegen auch "Sechserraum" genannt. Hier dient er als Absicherung und Anspielstation in der Mitte für LZM/RZM und LIV/RIV, je nach Position des Balles und der Gegner.
 
+**Hellgelb:** Bei langem Verharren auf einer Flügelseite kann sich der ZDM im Halbraum positionieren, um den ZM auf der anderen Seite die Möglichkeit zu geben in den Sechserraum zu gehen, um eine Überladung auf dem Flügel zu kreieren.
+
+**Gelb:** Ist LIV oder RIV im Ball stark unter Druck lässt sich der ZDM auch mal in den eigenen Sechzehner fallen, um eine Ablage zu fordern. Zusätzlich läuft der ZDM auch durchstartende Stürmer des Gegners im Sechzehner ab.
 
 ~~CLEARFLOAT~~
----
--
-
+----
 ===== Breitmachender Flügelspieler =====
+((LV/RV oder LM/RM))
+[size=3]//-> siehe hierzu den vollständigen Artikel: [[de:tactics:wingback|Breitmachender Flügelspieler]]//[/size]
 
 {{ :playground:lrrv.jpg?200|}}Klebt an der Seitenlinie, spielt linear und läuft auf und ab und auf und ab.
 
@@ -42,8 +42,8 @@ Bernat, Rafinha, Alba, Alves
 
 ~~CLEARFLOAT~~
 ----
-
 ===== Halbraumspielmacher =====
+((LZM/RZM))
 [size=3]//-> siehe hierzu den vollständigen Artikel: [[de:tactics:playmaking8|Halbraumspielmacher]]//[/size]
 
 {{ :playground:zm.jpg?200|}}**Rot:** Die Bereiche in denen sich die Spielmacher bevorzugt aufhalten, um mit den Flügelspielern gemeinsam Dreiecke zu bilden und durch diagonale Dribblings Offensiv-Signale senden (Halbräume)
@@ -59,6 +59,7 @@ Bernat, Rafinha, Alba, Alves
 
 
 ===== Mittelstürmer =====
+((ST))
 [size=3]//-> siehe hierzu den vollständigen Artikel: [[de:tactics:striker|Mittelstürmer]]//[/size]
 
 {{ :playground:st.jpg?200|}}**Rot:** Der Mittelstürmer steht permanent entlang der Verteidiger(Abseits-)linie des Gegners und wartet darauf, von den Spielmachern Richtung Strafraum geschickt zu werden
@@ -68,15 +69,10 @@ Bernat, Rafinha, Alba, Alves
 ~~CLEARFLOAT~~
 ----
 
-===== Falsche Neun =====
-
-{{ :playground:10f9.jpg?200|}}Messi 2009-2013
-
-~~CLEARFLOAT~~
-----
-
 
 ===== Flügelstürmer =====
+((LF/RF))
+[size=3]//-> siehe hierzu den vollständigen Artikel: [[de:tactics:winger|Flügelstürmer]]//[/size]
 
 {{ :playground:lfrf.jpg?200|}}Zieht in die Mitte für Doppelpässe im Halbraum, Steilpässe in den Strafraum oder zum überlappenden Außenverteidiger, schließt ab, startet nach Signalen des Halbraumspielmachers durch, geht außen steil und flankt.
 

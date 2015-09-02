@@ -135,6 +135,16 @@ Zone/Raum ab der Mittellinie zentral Richtung gegnerischem Strafraum, hauptsäch
 ==== Zerfickender Pass ====
 
 siehe //Schnittstellenpässe//
+
+==== Ziehharmonikaprinzip ====
+
+Grundlegend für effektives Pressing und Ballbesitzspiel, kam zum ersten mal in den 70ern hervor.
+
+Ziel ist es, den Platz bei Ballbesitz in seiner ganzen Breite zu nutzen bzw. den Raum bei gegnerischem Ballbesitz eng zu machen. 
+
+Bei Ballbesitz schieben sich v.a. die Flügelspieler weit auseinander, um so Räume für die anderen Spieler zu schaffen. Verliert man den Ball, rückt man wieder eng zusammen, um den Raum für den Gegner eng zu machen und so den Ball wieder zu erobern. 
+
+Deshalb der Vergleich mit einer Ziehharmonika: Ballbesitz: breit - kein Ballbesitz: eng; breit - eng - breit - eng usw.
 ==== Zonen ====
 
 Zonen sind eine präzisere Bezeichnung für "Positionen" auf dem Feld und können ggf. auch als "Räume" bezeichnet werden. Je nach Spielsituation und Formation werden bestimmte Zonen besetzt oder nicht besetzt.
