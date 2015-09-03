@@ -1,43 +1,18 @@
 ===== Spielstrategie =====
 
-==== Vereinsführung ====
-
-Adolf
-Bdolf
-Cdolf
-Ddolf
-
-----
-
-==== Ziele ====
-Weltherrschaft
-----
 
 ==== Voraussetzungen ====
-PS4 Controller Monitor Strom FIFA-Diskette oder VHS
+
+Voraussetzungen für das erfolgreiche Umsetzen einer komplexen Strategie sind nicht nur die Fähigkeiten am Controller, sondern vor allem [[de:psychology:index|Psychologische Aspekte]], wie z.B. Geduld, Selbstkritik und Lernbereitschaft.
 ----
 
 ==== Positionsspiel ====
-=== Herkunft ===
-Nigeria
-
-----
-
-=== Risiken und Herausforderungen ===
-Ebola
-
-----
-
 === Die verschiedenen Rollen ===
 [size=3]//-> siehe hierzu den vollständigen Artikel: [[de:tactics:playroles|Die verschiedenen Rollen im Positionsspiel]]//[/size]
 
 ----
-
-=== Spielzüge ===
-Bauer vor
-Noch ein Tor
-Schach matt
-
+=== Hauptsysteme ===
+[size=3]//-> siehe hierzu den vollständigen Artikel: [[de:tactics:systems|Systeme]]//[/size]
 ----
 
 === Trainingsübungen ===
