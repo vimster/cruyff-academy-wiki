@@ -6,6 +6,7 @@
 [[de:tactics:playroles|Rollen im Positionsspiel]]
   *[[de:tactics:halfdefender|Halbverteidiger]]
   *[[de:tactics:bossquets|Mittelfeldlibero]]
+  *[[de:tactics:wingback|Breitmachender Flügelspieler]]
   *[[de:tactics:playmaking8|Halbraumspielmacher]]
   *[[de:tactics:striker|Mittelstürmer]]
 

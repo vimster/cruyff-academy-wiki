@@ -67,17 +67,36 @@ Vor allem wenn der Ball länger zirkuliert wird ist es für die Stürmer schwer 
 
 U.a. Iniesta, Ribéry, Robben und Messi sind für solche Aktionen bekannt.
 
-Der ST ist einzig und allein dafür da geschickt zu werden und sollte vor allem in der eigenen Hälfte niemals mit X angespielt werden! Er wird sich immer von dir und deinen Mitspielern wegbewegen, sodass ihr mehr Platz für Dribblings und Kombinationen bekommt. Kombiniere mit deinen Mitspielern im Halbraum und im Zentrum, jedoch nicht mit dem ST!
+Der ST ist einzig und allein dafür da geschickt zu werden und sollte vor allem in der eigenen Hälfte niemals mit X angespielt werden! Er wird sich immer von dir und deinen Mitspielern wegbewegen, sodass ihr mehr Platz für Dribblings und Kombinationen bekommt. Kombiniere mit deinen Mitspielern im Halbraum und im Zentrum, jedoch nicht mit dem ST!((Jedoch auf jeden Fall mit der "Falschen Neun", falls vorhanden!))
 
 Wieso wir keine Fans vom mitspielenden Stürmer sind und totale Verfechter des klassischen Mittelstürmers kommt eventuell in einem anderen Artikel.
 
 ===== "Halbraum-Dribbling" =====
 
-Wie schon einige Male angedeutet, kann und sollte man die Halbräume besonders durch diagonale Dribblings nutzen.
+Wie schon einige Male angedeutet, kann und sollte man die Halbräume besonders durch diagonale Dribblings nutzen((wir sprechen gerne auch von "inversen Bewegungen")).
 
-Das liegt vor allem daran, da man, wenn man aus dem Halbraum in Richtung Tor blickt, ein diagonales Sichtfeld hat und dadurch mehr Optionen hat, als wenn man z.B. im Zentrum steht.
+Zur Effektivität der Inversität im Halbraum schauen wir uns zwei Bilder an - als erstes das Blickfeld und die Passmöglichkeiten, wenn man vom Zentrum aus Richtung Tor blickt:
 
-kllllllllllllllllllllllllllllllllllll
+{{ :de:tactics:passwinkelmoeglichkeiten-aus-dem-zentrum.png |}}(([[http://spielverlagerung.de/wp-content/uploads/2014/07/Passwinkelm%C3%B6glichkeiten-aus-dem-Zentrum.png?dab890|spielverlagerung.de - Passwinkelmöglichkeiten aus dem Zentrum]]))
+
+//Theoretisch// könnte man ja vom Zentrum aus überall hinspielen, was im etwa 180° Blickfeld sichtbar ist. //Praktisch// jedoch sieht das etwas anders aus - effektiv kann man vom Zentrum aus, wenn man nach vorne spielen möchte, nur durch die Mitte oder diagonal Richtung Flügel spielen. Je genauer man in die Grade dazwischen spielen möchte, desto unwahrscheinlicher wird der Pass funktionieren.
+
+Wichtig für den Spielmacher ist es Torchancen vorzubereiten - deshalb müssen wir wissen, aus welcher Position und Haltung am besten tödliche Pässe gespielt werden können. Möchte man aus dem Zentrum Richtung Tor spielen, bleibt uns eigentlich nur der vertikale Pass direkt Richtung Tor. Jeder Diagonalball führt etwas //vom Tor weg// - zusammengefasst kann man vom Zentrum also effektiv nur vertikal in den Strafraum und diagonal auf den linken oder rechten Flügel spielen (welches meist nur eine Verlagerung ist und keine direkte Torchance folgen muss).
+
+Nun möchte ich auf die Vereinfachung durch das inverse Blickfeld aus dem Halbraum eingehen:
+
+{{ :de:tactics:passwinkelmoeglichkeiten-aus-dem-halbraum.png |}}
+(([[http://spielverlagerung.de/wp-content/uploads/2014/07/Passwinkelm%C3%B6glichkeiten-aus-dem-Halbraum.png?dab890|spielverlagerung.de - Passwinkelmöglichkeiten aus dem Halbraum]]))
+
+Diagonal aus dem Halbraum heraus kann man viel leichter Chancen kreieren, denn nahezu jeder Pass, den man von dort aus Richtung Tor spielen möchte, hat hohes Potenzial gefährlich zu werden.
+
+Zunächst kann man durch die inverse Bewegung dem Flügelspieler hinter sich die Möglichkeit geben steil zu gehen und geschickt zu werden((gilt vor allem auch für Flügelstürmer, wenn sie inverse Bewegungen machen - dann kann der Flügelverteidiger überlaufen)).
+
+Man kann einen steillaufenden Flügelspieler auf der anderen Seite effektiv((Mit "effektiv" meine ich, dass man direkten Blick auf den Spieler hat, deshalb ist Erfolg sehr wahrscheinlich.)) hoch oder flach schicken.
+
+Man kann auf die andere Seite verlagern, wenn kein Schnittstellenpass möglich sein sollte.
+
+Man kann einen Doppelpass mit einem Spieler im Zentrum oder im anderen Halbraum spielen.
 ===== Ballmagnet und permanente Anspielstation =====
 
 ===== Vorbilder =====
