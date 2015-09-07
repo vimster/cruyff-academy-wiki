@@ -59,18 +59,14 @@ Werden uns die Räume für schnelles Spielen gegeben müssen wir sie nutzen und 
 Vor allem wenn der Ball länger zirkuliert wird ist es für die Stürmer schwer zu erkennen, wann und ob ein Steilpass kommen wird. Darum müssen sich Spielmacher und Stürmer auf ein Signal einigen, woraufhin alle Beteiligten automatisch wissen, was nun Sache ist. Dafür benutzen wir folgende Regel:
   
   Sobald ein Spielmacher (oder Flügelstürmer) 
-  zum (diagonalen) Dribbling Richtung gegnerisches Tor ansetzt, 
-  ist es Zeit für den/die Stürmer für einen Schnittstellenpass
-  loszulaufen.
+  zum Halbraumdribbling ansetzt ist es Zeit für 
+  den/die Stürmer für einen Schnittstellenpass loszulaufen.
   
 //ELI5//(([[http://reddit.com/r/ELI5|Explain Like I'm Five]])): //ZM dribbelt -> ST muss laufen.// 
 
 U.a. Iniesta, Ribéry, Robben und Messi sind für solche Aktionen bekannt.
 
 Der ST ist einzig und allein dafür da geschickt zu werden und sollte vor allem in der eigenen Hälfte niemals mit X angespielt werden! Er wird sich immer von dir und deinen Mitspielern wegbewegen, sodass ihr mehr Platz für Dribblings und Kombinationen bekommt. Kombiniere mit deinen Mitspielern im Halbraum und im Zentrum, jedoch nicht mit dem ST!((Jedoch auf jeden Fall mit der "Falschen Neun", falls vorhanden!))
-
-Wieso wir keine Fans vom mitspielenden Stürmer sind und totale Verfechter des klassischen Mittelstürmers kommt eventuell in einem anderen Artikel.
-
 ===== "Halbraum-Dribbling" =====
 
 Wie schon einige Male angedeutet, kann und sollte man die Halbräume besonders durch diagonale Dribblings nutzen((wir sprechen gerne auch von "inversen Bewegungen")).
@@ -81,7 +77,7 @@ Zur Effektivität der Inversität im Halbraum schauen wir uns zwei Bilder an - a
 
 //Theoretisch// könnte man ja vom Zentrum aus überall hinspielen, was im etwa 180° Blickfeld sichtbar ist. //Praktisch// jedoch sieht das etwas anders aus - effektiv kann man vom Zentrum aus, wenn man nach vorne spielen möchte, nur durch die Mitte oder diagonal Richtung Flügel spielen. Je genauer man in die Grade dazwischen spielen möchte, desto unwahrscheinlicher wird der Pass funktionieren.
 
-Wichtig für den Spielmacher ist es Torchancen vorzubereiten - deshalb müssen wir wissen, aus welcher Position und Haltung am besten tödliche Pässe gespielt werden können. Möchte man aus dem Zentrum Richtung Tor spielen, bleibt uns eigentlich nur der vertikale Pass direkt Richtung Tor. Jeder Diagonalball führt etwas //vom Tor weg// - zusammengefasst kann man vom Zentrum also effektiv nur vertikal in den Strafraum und diagonal auf den linken oder rechten Flügel spielen (welches meist nur eine Verlagerung ist und keine direkte Torchance folgen muss).
+Das Zentrum zu verteidigen ist aufgrund seiner Vertikalität leicht z.B. durch Doppelung zu verteidigen - vor allem weil die meisten Clubs mit zwei Sechsern antreten und die Mitte zumachen wollen.
 
 Nun möchte ich auf die Vereinfachung durch das inverse Blickfeld aus dem Halbraum eingehen:
 
@@ -97,6 +93,16 @@ Man kann einen steillaufenden Flügelspieler auf der anderen Seite effektiv((Mit
 Man kann auf die andere Seite verlagern, wenn kein Schnittstellenpass möglich sein sollte.
 
 Man kann einen Doppelpass mit einem Spieler im Zentrum oder im anderen Halbraum spielen.
+
+Da man als Verteidiger meist vertikal oder horizontal denkt und verteidigt, kann man per diagonalem Dribbling (zusammen mit gutem Antritt) oft leicht an Verteidigern vorbei gehen (was man in FIFA 15 besonders oft bei Gegnern sieht, die das ausschließlich machen wollen).
+
+Diese inverse/diagonale Bewegung meine ich hier mit dem Begriff "Halbraumdribbling" - und diese Halbraumdribblings sieht man im echten Fußball immer wieder von den technisch stärksten Spielern, eben weil diese Bewegungen so gefährlich und schwer zu stoppen sind.
+
+Robben z.B. hatte schon immer diese Halbraumdribblings gemacht und anschließend den Abschluss gesucht. Iniesta hat nach Halbraumdibblings eher immer den Doppel- oder Schnittstellenpass probiert statt zu schießen. Marco Reus ist wohl der beste deutsche "Halbraumspieler" und Leo Messi der Halbraumgott, der sowohl Einzelaktionen und Doppel- und Schnittstellenpässe perfekt ausführen kann.
+
+Besonders in Deutschland haben sich viele bei Robbens erster Saison bei Bayern gefragt: "Wieso kann man ihn nicht aufhalten, obwohl er immer das selbe macht?"
+
+Diese Halbraumdribblings sind eben unglaublich schwer zu stoppen - und selbst wenn man sich dem Dribbler dann in den Weg stellt: Dann kann er einfach einen Pass zurück oder quer auf den Flügel spielen, bevor er angegriffen wird.
 ===== Ballmagnet und permanente Anspielstation =====
 
 ===== Vorbilder =====

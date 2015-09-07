@@ -1,6 +1,6 @@
 ==== Welcome to the Cruyff Academy ====
 
-{{ :de:cruyff1.jpg?200|}}
+{{ :playground:cruyff1.jpg?200|}}
 This is a place made by and for football fanatics and tactic enthusiasts, who take a very different approach on FIFA Pro Clubs (PS4) than most parts of the FIFA-Community.
 
 It's our aim to find like-minded people, who love beautiful and sophisticated football just as much as we do, to create a powerful team with ambitious, talented and friendly players at the same time.
@@ -14,9 +14,9 @@ This wiki is here to provide following things:
   * Opening up your mind, not just for beginners
   * Finally having fun in FIFA!
 
-{{ :de:2-format43.jpg?200|}}Reading lot's of text is not too much for you? You want to be different from the typical FIFA players? You want to play beautiful and challenging football?
+{{ :playground:2-format43.jpg?200|}}Reading lot's of text is not too much for you? You want to be different from the typical FIFA players? You want to play beautiful and challenging football?
 
 What if I were to tell you that if you join us and follow the "rules" stated in this wiki you will achieve just that. In the near future you will play with people, who very rarely lose the ball without ever losing interest in scoring goals and taking risks at the right time. Everybody knows what the teammates are thinking without misunderstandings. Everybody knows what Positional Play means and can also use it with his controller - thanks to this precious wiki.
 
 **//Would that be something you might be interested in?//**
-{{ :de:van-gaal-540x404.jpg?300 |}}
+{{ :playground:van-gaal-540x404.jpg?300 |}}
