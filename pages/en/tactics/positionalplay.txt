@@ -1,40 +1,30 @@
-===== Game strategy =====
+====== Game strategy ======
 
-==== Staff ====
+===== Soft Skills =====
 
-==== Goals ====
+In order to properly implement those complex strategies, not only capabilties at the controller are necessary but also especially [[en:psychology:index|psychological aspects]], such as patience, self-criticism and willingness to learn.
 
-==== Requirements ====
+===== Positional Play =====
+==== Various playroles ====
+[size=3]//-> Main article: [[en:tactics:playroles|Playroles in Positional play]]//[/size]
+-----
 
-==== Positional Play ====
+==== Main systems====
+[size=3]//-> Main article: [[de:tactics:systems|Systeme]]//[/size]
+----
 
-=== Where is it from? ====
+==== Training drills ====
+[size=3]//-> Main article: [[e:guides:training|Training drills]]//[/size]
 
-ya nans buthol m8
+----
 
-=== Risks and challenges ===
-
-cheeki kunt turn in2 gaiboi
-
-=== Playroles ===
-
-//-> Main article: [[en:tactics:playroles|Playroles]]//
-
-=== Plays ===
-
-u wot m8 can ya do tht m8 idk m8 shaggd ya nan rite m8
-
-=== Training drills ===
-
-//-> Main article: [[en:tactics:training|Training drills]]//
-
-==== Opponent playstyles ====
+===== Opponent playstyles =====
 ((if anyone is interested in detailed analyses from popular german teams I will add them also))
-=== Low player count ===
+==== Low player count ====
 
-=== High player count ===
+==== High player count ====
 
-==== Match analyses ====
+===== Match analyses ====
 
 === Versus parking busses ===
 

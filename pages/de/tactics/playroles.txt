@@ -58,7 +58,7 @@ Bernat, Rafinha, Alba, Alves
 ----
 
 
-===== Mittelstürmer =====
+===== Mittelstürmer is a kack=====
 ((ST))
 [size=3]//-> siehe hierzu den vollständigen Artikel: [[de:tactics:striker|Mittelstürmer]]//[/size]
 
@@ -69,7 +69,13 @@ Bernat, Rafinha, Alba, Alves
 ~~CLEARFLOAT~~
 ----
 
+===== Falsche 9 =====
+((ST, MS))
+[size=3]//-> siehe hierzu den vollständigen Artikel: [[de:tactics:false9|Falsche 9]]//[/size]
 
+{{ :playground:10f9.jpg?200|}}**Rot:**
+
+~~CLEARFLOAT~~
 ===== Flügelstürmer =====
 ((LF/RF))
 [size=3]//-> siehe hierzu den vollständigen Artikel: [[de:tactics:winger|Flügelstürmer]]//[/size]

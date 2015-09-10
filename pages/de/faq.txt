@@ -1,1 +1,47 @@
-===== Häufig gestellte Fragen =====
+====== Häufig gestellte Fragen ======
+
+===== Frage 1 =====
+
+  "So kann man in FIFA gar nicht spielen! 
+  Ich kann das nicht und hab das nicht gesehen, 
+  deshalb kann es auch kein anderer!"
+  
+Eigentlich keine Frage, sondern eine Aussage, aber trotzdem erwähnenswert.
+
+Alles, was hier niedergeschrieben wird, wird nur dann geschrieben, wenn der Autor dies auch selbst durchgeführt hat, durchführen kann und/oder es bei Mitspielern beobachtet hat.
+
+Die "Philosophie" wurde im Groben Mitte 2011 gestartet und mit mehreren verschiedenen Teams und Spielern getestet. Zu Beginn war die Philosophie - fehlerhafterweise - zu theoretisch und auf echten Fußball bezogen ohne die Praxis (FIFA!) genug zu berücksichtigen.
+
+Dies wurde im Laufe der Jahre immer weiter überarbeitet und für jeden FIFA-Teil angepasst, sodass von nun an jede Theorie nur dann beschrieben wird, wenn sie in der Praxis umgesetzt werden kann.
+
+Da viele bzw. jeder, der sich vorher nie mit Taktik beschäftigt hat, sofort die Reaktion zeigt, "Das funktioniert in FIFA nicht, weil das nicht echter Fußball ist und deshalb schießen wir keine Tore, etc pp", werde ich zumindest versuchen, das mit folgendem zu widerlegen. Für den Fall, das meine bisherige Erläuterung nicht ausreichend ist.
+
+(Eins vorneweg: Ich halte sonst nicht viel von Weltranglistenplätzen oder ähnlichem.)
+
+**FIFA 11:** 
+
+Anfänge der Philosophie und mangelhaft praxisbezogen - nicht jeder wollte oder konnte mitziehen. Zum Test wurde versucht, es bei einem bereits "eingespielten" Club zu implementieren. Trotz der Probleme gelang für mehrere Wochen der Einstieg in die Top 10 der Weltrangliste und kurzzeitig der 4. Platz.
+
+Um sicher zu gehen, dass das nicht daran liegt, dass der Club vor Beginn des Systems viele Punkte hatte, erstellten wir einen 2. Club und brachten ihn nach wenigen Wochen ebenfalls zumindest in die Top 20 - nicht zu vergessen, dass nur wenige Teile der Philosophie umgesetzt wurden und viel daran gezweifelt wurde.
+
+Trotzdem waren einige nicht mit der Spielweise einverstanden und machten sich darüber lustig, wollten lieber so spielen wie sie es wollten und sich nicht an einem Plan halten. Natürlich verständlich. Dann verließ ich als Manager trotz "Erfolg" den Verein und ließ alle machen wie sie wollten.
+
+**FIFA 12:** 
+
+Nach einigen Monaten Pause wurde es versucht, die Philosophie bei weniger erfahrenen Spielern einzuflößen, die gute Freunde von mir waren. Trotz immer noch mangelnder Praxisnähe der Beschreibungen und teils fehlender Fähigkeiten schafften wir es immerhin auf 7500 Punkte und knapp in die Top 100.
+
+**FIFA 13:**
+
+Zu Beginn einige Wochen mithilfe der Spielweise in der Top 20, maximal Platz 16, jedoch führte die mangelnde Qualität einiger zu Streitereien, was zur Auflösung führte. Auch waren immer noch (!) Zweifler im Team, die nicht an das System glaubten, was bei weniger guten Spielen oft zu unnötigen Diskussionen führte.
+
+**FIFA 14:**
+
+Nach Monaten Pause, in welcher die Philosophie erweitert wurde, gab es einen weiteren Versuch, diesmal ausschließlich mit sehr guten Spielern durchzustarten. Die Philosophie wurde mehr an FIFA angepasst und Spieler dafür gezielt gesucht. Mehrere Wochen zumindest Top 50, Höhepunkt Platz 33. Die Arroganz einiger Führungsspieler führte jedoch zur Auflösung, weil sie glaubten, dass der Erfolg nur dank ihnen da war und nicht wegen der Mannschaftsleistung.
+
+**FIFA 15:**
+
+Eben diese Spieler kamen noch einmal zurück, entschuldigten sich und gelobten Besserung. Ein weiteres Mal wurde die Philosophie diesmal für FIFA 15 angepasst - wieder erreichten wir für einige Wochen Top 50 und Platz 33 wie im Vorjahr. Doch die Streitereien wiederholten sich und es kam das genaue Problem wie früher: Arroganz und Selbstverliebtheit einiger Führungsspieler führten zum Streit und es wurde sich endgültig von ihnen getrennt.
+
+Um klarzustellen, dass die Philosophie trotzdem funktionierte, auch wenn einige glaubten, dass sie nur dank ihnen funktioniert hätte, fingen wir ohne sie noch einmal an und erlangten zumindest eine Statistik mit 210 Siegen und 60 Niederlagen mit anfänglich knapp 70 Spelen in Folge ohne Niederlage, bis wir den Verein ausbauen wollten.
+
+In den Monaten danach wurde alles immer weiter ausgearbeitet und weiter an FIFA 15 angepasst, sodass dieses Wiki entstehen konnte.
