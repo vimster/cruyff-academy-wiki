@@ -58,7 +58,7 @@ Bernat, Rafinha, Alba, Alves
 ----
 
 
-===== Mittelstürmer is a kack=====
+===== Mittelstürmer =====
 ((ST))
 [size=3]//-> siehe hierzu den vollständigen Artikel: [[de:tactics:striker|Mittelstürmer]]//[/size]
 
