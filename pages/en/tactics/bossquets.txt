@@ -1,0 +1,77 @@
+====== Midfield sweeper ======
+
+===== Term =====
+//See lexicon article: [[en:encyclopedia:libero|Sweeper]]//
+
+===== Commuter between midfield and defense =====
+
+Actually, the term midfield sweeper is inappropriate, since in our positional play 
+the tasks of this role go beyond the tasks of a conventional sweeper. 	
+
+Whilst in the past the sweeper always stayed at the back of the defensive line, the midfield sweeper is doing much more than that.
+He commutes between //man behind the midfield// and //man behind the defense// depending on the game situation.
+Additionally, by dropping deep on the CB position, he provokes chain reactions of the half defenders (spreading out wide) and the full backs (moving up).
+
+In case we are beyond the halfway line, the CDM has following tasks:
+  
+  *Always stay //behind// the LCM and RCM
+  *Always stay //between// the LCM and RCM
+  *Thus, act as a link between LCM and RCM
+  *More precisly, always be available for passes behind the LCM/RCM
+  *Maintain a triangle with LCM/RCM
+  *Especially important when getting pressed: prepare for a changeover to a free winger
+  *Please do not forget: Never move up in front of LCM/RCM
+  *Never ever step out onto the wing
+
+In the own half, when LCB/RCB are getting pressed, following rules must be taken into account:
+
+  *All rules stated before still hold, except that LCB and RCB become the reference players!
+  *Drop deep //behind// LCB/RCB
+  *Act as a link between LCB and RCB
+  *Temporary generate a three-man or rather five-man defense
+
+===== Examples =====
+
+__Starting formation:__ 4-3-3 (hold)
+{{ :de:tactics:433hold.jpg?300 |}}
+
+LCB is on the ball, is pressed by the opponent and there is no open man in front of him.
+{{ :de:tactics:4336back.jpg?300 |}}
+
+The CDM is supposed to drop deep in order to provide support for the LCB.
+
+Example for the opposite side.
+{{ :de:tactics:433dmhr.jpg?300 |}}
+
+In the center the generation of a three-man defense becomes apparent.
+{{ :de:tactics:433523.jpg?300 |}}
+
+The same procedure applies to situations with RCM in possession. The CDM must be available for a pass diagonally behind the RCM/LCM.
+{{ :de:tactics:433rueckpass.jpg?300 |}}
+
+Example for the opposite side.
+{{ :de:tactics:433dml.jpg?300 |}}
+
+Achte bei jedem Bild darauf, dass der ZDM immer entweder Bindeglied hinter und zwischen LIV/RIV //oder// LZM und RZM ist. Er sorgt immer für ein Dreieck in der Mitte - würde der Sechser das nicht machen wird man als Mannschaft automatisch dazu gezwungen flügelfokussiert zu spielen und das Zentrum zu vernachlässigen.
+
+===== Zur Möglichkeit und Unmöglichkeit von Ablagen =====
+
+Rückpässe zum ZDM sind eigentlich //immer// möglich, da die Gegner meist nur Pässe Richtung eigenes Tor verhindern wollen. Nach erfolgreicher Ablage hat der ZDM das ganze Feld vor sich und viele Möglichkeiten zum Weiterspielen.
+
+Gegner werden diese Ablagen zum ZDM nur verhindern wollen, wenn sie das selbst als wichtiges Spielmittel unserer Taktik erkannt haben((Denke z.B. an das aktive Stören von Alonso in der Bundesliga, was allerdings etwas leichter ist, da er nicht pressingresistent ist.)). 
+
+Durch das aktive Decken unseres ZDM's verhindern sie dann zwar (teilweise) das Ablegen zu ihm, jedoch spielt das komplett in unsere Hände: Wir müssen ja nur unter Druck zurückpassen - und wenn der Gegner einen Spieler opfert, der eigentlich einen unserer Offensivspieler decken würde, können wir nach vorne spielen ohne ablegen zu müssen.
+
+Versuche Fußball ein wenig wie Schach zu sehen: Der Gegner erkennt, dass wir immer einen Bauer zur Absicherung zurücklassen. Deshalb opfert der Gegner einen seiner Figuren, um den Bauer in Schach((Geniales Wortspiel des Autors.)) zu halten. Dabei erkennt er nicht die Absurdität dahinter und vergisst, dass wir noch viel wichtigere Schachfiguren zu bieten haben.
+
+===== Ruhe in Person =====
+
+Nun weißt du hoffentlich, was du ohne Ball machen musst - doch was machst du nun //mit// dem Ball?
+
+Hauptaufgabe für dich als Sechser muss es sein in zwei der wichtigsten Grunddisziplinen Perfektion anzustreben: [[de:guides:passing|Passspiel]] und [[de:guides:tacticaldribbling|Pressingresistenz]].
+
+Als Absicherung ist es einerseits deine Aufgabe, nach Fehlern deiner Mitspieler zur Stelle zu sein und Konter zu verhindern. Wenn du allerdings als meist letzter Mann in der Mitte einen Fehler machst kann es sehr gut passieren, dass er nicht leicht gut zu machen ist.
+
+Genauer gesagt: **Jeder deiner Fehler kann und wird zu Gegentoren führen.**
+
+Darum wird es dein Ziel sein möglichst fehlerfrei zu spielen und völlige Ruhe und Sicherheit auszustrahlen. Deine Mitspieler müssen es lieben dich anzuspielen und volles Vertrauen zu dir haben, indem sie dir immer wieder den Ball geben mit dem Wissen, dass du keinen Blödsinn damit machst.
