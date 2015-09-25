@@ -3,10 +3,25 @@
 
 ===== Voraussetzungen =====
 
+==== Technische Fähigkeiten ====
+Folgende technische Grundlagen muss jeder Spieler beherrschen, bevor weitere taktische Schritte folgen können:
+  * [[de:guides:passing|Passspiel und Anbieten]]
+  * Ballbehauptung und [[de:guides:tacticaldribbling|Pressingresistenz]]
+  * Kontrolle über die Bewegungen des Spielers
+  * bewusster Einsatz von effektiven Trickbewegungen
+  * schnelles Bewerten von Spielsituationen
+
+Um in diesen Disziplinen ein hohes Niveau zu erreichen, geben die [[de:guides:index|Spielhilfen]] eine geeignete Anlaufstelle.
+==== Soft Skills ====
 Voraussetzungen für das erfolgreiche Umsetzen einer komplexen Strategie sind nicht nur die Fähigkeiten am Controller, sondern vor allem [[de:psychology:index|Psychologische Aspekte]], wie z.B. Geduld, Selbstkritik und Lernbereitschaft.
 ----
-
 ===== Positionsspiel =====
+
+==== Prinzipien des Positionspiels ====
+[size=3]//-> Hauptartikel: [[de:tactics:principles|Prinzipien des Positionsspiels]]//[/size]
+
+Positionsspiel umfasst eine Vielzahl von Aspekten. Diese haben alle jedoch eins gemeinsam. Sie verfolgen alle das grundlegende Ziel, verschiedene Formen von Überlegenheit in bestimmten Zonen des Feldes zu schaffen.
+
 ==== Die verschiedenen Rollen ====
 [size=3]//-> siehe hierzu den vollständigen Artikel: [[de:tactics:playroles|Die verschiedenen Rollen im Positionsspiel]]//[/size]
 
