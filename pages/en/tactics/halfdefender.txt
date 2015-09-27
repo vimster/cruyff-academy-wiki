@@ -15,10 +15,10 @@
 ===== Build up phase =====
 <code>
   - Dribble (with L2 or L2+R2) until you are attacked by an opponent or you approach the opponent
-  - Try to avoid passes towards the other defenders (reduce passes in "U")
+  - Try to avoid passes to the other defenders (reduce passes in "U")
   - Always keep one eye on the CMs and winger, if they are available for passes
   - If you are getting pressed near the penalty area, a diagonal changeover must be played!
-  - Don't be afraid of passing back to the goalkeeper if you can't conduct a changeover
+  - Don't be afraid of passing back to the goalkeeper, if you can't conduct a changeover
 </code>
 
 It is extremely crucial and desired that you keep the ball as short as possible near the own box. Instead try to forge ahead safely. 
@@ -40,15 +40,15 @@ If both wingers are covered the central sweeper (CDM or CB) is requested to drop
 
 <html><iframe src="http://gfycat.com/ifr/SpectacularSpotlessBoto" frameborder="0" scrolling="no" width="800" height="450" style="-webkit-backface-visibility: hidden;-webkit-transform: scale(1);" ></iframe></html>
 
-Nonetheless, do not limit yourself to passes to the goalkeeper or the wingers because you are afraid of keeping the ball or passing through the center. 
+Nonetheless, do not limit yourself to passes to the goalkeeper or the wingers because you are afraid of keeping the ball or passing into the center. 
 
-Many passes in "U" form, as has been played by FC Bayern under the coach Van Gaal, may destroy the whole offensive efforts of a team. Any cross pass in the own half invites the opponent to move up and cover free men.
+Many passes in "U" shape, as has been played by FC Bayern under the coach Van Gaal, may destroy the whole offensive efforts of a team. Any cross pass in the own half invites the opponent to move up and cover free men.
 This may result in never getting out of the own half.
 
 <html><iframe src="http://gfycat.com/ifr/FrighteningCrispChrysalis" frameborder="0" scrolling="no" width="800" height="450" style="-webkit-backface-visibility: hidden;-webkit-transform: scale(1);" ></iframe></html>
 
 Especially for the halfdefender as first player in the build up phase applies: **Don't play hectic direct passes, if you aren't pressed!**
-**Keep the Ball and dribble forward as long as no opponent is attacking you. In the meantime always look forward and search for passes to a central teammate or onto the wing. Thereby make the decision, wheather a high or low pass and through or short pass, respectively, is most suited.** Don't be a coward, who always looks for safety passes and refuses to assume responsiblity.
+**Keep the Ball and dribble forward as long as no opponent is attacking you. In the meantime always look forward and search for passes to a central teammate or onto the wing. Thereby make the decision, wheather a high, low, through or short pass is most suited.** Don't be a coward, who always looks for safety passes and refuses to assume responsiblity.
 ===== Winning the ball =====
 [size=3]//-> Main article: [[en:guides:defending|Defending]]//[/size]
 

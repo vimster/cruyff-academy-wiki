@@ -20,7 +20,7 @@ Voraussetzungen für das erfolgreiche Umsetzen einer komplexen Strategie sind ni
 ==== Prinzipien des Positionspiels ====
 [size=3]//-> Hauptartikel: [[de:tactics:principles|Prinzipien des Positionsspiels]]//[/size]
 
-Positionsspiel umfasst eine Vielzahl von Aspekten. Diese haben alle jedoch eins gemeinsam. Sie verfolgen alle das grundlegende Ziel, verschiedene Formen von Überlegenheit in bestimmten Zonen des Feldes zu schaffen.
+Positionsspiel umfasst eine Vielzahl von Aspekten. Diese haben alle jedoch eines gemeinsam. Sie verfolgen alle das grundlegende Ziel, verschiedene Formen von Überlegenheit in bestimmten Zonen des Feldes zu schaffen. 
 
 ==== Die verschiedenen Rollen ====
 [size=3]//-> siehe hierzu den vollständigen Artikel: [[de:tactics:playroles|Die verschiedenen Rollen im Positionsspiel]]//[/size]
