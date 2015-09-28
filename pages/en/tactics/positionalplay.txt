@@ -5,8 +5,13 @@
 In order to properly implement those complex strategies, not only capabilties at the controller are necessary but also especially [[en:psychology:index|psychological aspects]], such as patience, self-criticism and willingness to learn.
 
 ===== Positional Play =====
+==== Principles of Positional Play ====
+[size=3]//-> Main article: [[en:tactics:principles|Principles of Positional Play]]//[/size]
+
+Positional play comprises a large number of aspects. After all, they all have one thing in common. They all pursue the fundamental goal of gaining different forms of superiorities in certain zones of the field.
+
 ==== Various playroles ====
-[size=3]//-> Main article: [[en:tactics:playroles|Playroles in Positional play]]//[/size]
+[size=3]//-> Main article: [[en:tactics:playroles|Playroles in Positional Play]]//[/size]
 -----
 
 ==== Main systems====

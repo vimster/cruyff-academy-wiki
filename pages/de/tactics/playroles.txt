@@ -33,12 +33,11 @@
 [size=3]//-> siehe hierzu den vollständigen Artikel: [[de:tactics:wingback|Breitmachender Flügelspieler]]//[/size]
 
 {{ :playground:lrrv.jpg?200|}}Klebt an der Seitenlinie, spielt linear und läuft auf und ab und auf und ab.
-
 Immer für Seitenwechsel bereit.
 
-LV/RV/RAV/LAV/LM/RM
+**Rot:** Die Bereiche, möglichst nahe der Seitenlinie, in denen sich LV/RV bzw. LM/RM im Spielaufbau aufhalten, um das Spiel breit zu machen und für Seitenwechsel bereit zu stehen, wenn der Ball auf der anderen Seite ist.
 
-Bernat, Rafinha, Alba, Alves
+**Orange:** Rückt der Flügelstürmer durch ein diagonales Dribbling in den Halbraum hinein, kann der LV/RV bzw. LM/RM in den orangenen Bereich überlaufen, um eventuell einen Steilpass zu erhalten und dann (scharf) zu flanken.
 
 ~~CLEARFLOAT~~
 ----
