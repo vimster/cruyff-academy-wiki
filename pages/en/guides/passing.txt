@@ -1,17 +1,17 @@
-====== Passspiel und richtiges Anbieten ======
-===== Kurzpässe =====
+====== Passing ======
+===== Short passes =====
 
-==== Als Passempfänger ====
+==== As pass receiver ====
 
-  *L2 gedrückt halten
-  *Gegnerische Verteidiger müssen sich entweder hinter einem befinden oder möglichst weit weg
-  *Versuche ein Dreieck mit dem Ballführenden und einem weiteren Spieler zu bilden
+  *hold L2 permanently
+  *opposing defenders must be behind you or far away from you
+  *try to build a triangle with the passer and an additional player
 
-=== Gründe ===
+=== Reasons for holding L2 ===
 
-Durch halten der L2-Taste sorgst du dafür, dass dein Spieler permanent den Blick zum Ball und gleichzeitig also zu deinem Mitspieler behält. Dadurch erreichst du vier Dinge:
+By holding the L2 button you ensure that your player permanently keep the viewing direction to ball and at the same time to the passer. Hence, you attain four things:
 
-  - Pass kommt nicht in den Rücken
+  - Pass does not Pass kommt nicht in den Rücken
   - Pass kommt nicht in den Lauf
   - Ball verspringt zu 99% nicht ((1% zufällige Fehler, auf die man keinen Einfluss hat))
   - Du signalisierst dem Ballführenden, dass du den X-Pass willst und bereit bist ihn zu bekommen
@@ -27,7 +27,7 @@ Dafür ist es viel wahrscheinlicher, dass einer der folgenden Dinge geschieht, w
   *Ball verspringt, indem er von der Hacke des Passempfängers abprallt
   *Passempfänger hat nicht mit dem Pass gerechnet, da er sich nicht anbietet
 
-==== Als Passspieler ====
+==== As passer ====
 
 Deine Aufgabe als Passspieler ist es vorrangig darauf zu achten, wie sich deine Mitspieler bewegen und ob alle Voraussetzungen für einen X-Pass erfüllt sind (wie oben beschrieben).
 
@@ -37,16 +37,16 @@ Bieten sich mehrere Spieler korrekt an, dann musst du entscheiden, welcher von i
 ----
 
 
-===== Steilpässe =====
-==== Als Passempfänger ====
+===== Through passes =====
+==== As pass receiver ====
 
-  *Nicht L2 gedrückt halten
+  *Do not hold L2
   *Die Laufrichtung frei halten
   *Je nach Situation musst du entweder sprinten (langer Weg + viel Raum)...
   *...oder normal laufen (kurzer Weg + wenig Raum)
   *Den Lauf niemals unterbrechen oder die Richtung wechseln
 
-=== Gründe ===
+=== Reasons ===
 
 Wenn man L2 gedrückt hält oder andernweitig stehen bleibt, wird der Steilpass nicht so kommen, wie man es möchte. Ein Steilpass auf einen stehenden Mitspieler wird meist entweder unerreichbar in den Lauf gespielt oder direkt in den Fuß, was einem X-Pass gleichkommt.
 
@@ -58,7 +58,7 @@ Ist der Passspieler nahe an dir dran und du sprintest mit voller Geschwindigkeit
 
 Steilpässe verhalten sich jedoch in FIFA 15 oft willkürlich. Manchmal kann man so gut in eine Lücke gehen, wie man möchte, der Steilpass kommt oft einfach viel zu weit und genau in die Hände des Torhüters - daran kann man leider nichts ändern.
 
-==== Als Passgeber ====
+==== As Passer ====
 
 Wie bei den Kurzpässen musst du als Passgeber darauf achten, dass der Mitspieler sich an die oben genannten Voraussetzungen hält. Dazu musst du noch die entsprechende Passdosierung wählen.
 
