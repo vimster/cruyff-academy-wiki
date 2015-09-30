@@ -7,20 +7,17 @@
   *opposing defenders must be behind you or far away from you
   *try to build a triangle with the passer and an additional player
 
-=== Reasons for holding L2 ===
-
-By holding the L2 button you ensure that your player permanently keep the viewing direction to ball and at the same time to the passer. Hence, you attain four things:
+By holding the L2 button you ensure that your player permanently keep the viewing direction to the ball and at the same time to the passer. Hence, you attain four things:
 
   - Pass does not Pass kommt nicht in den Rücken
   - Pass kommt nicht in den Lauf
   - Ball verspringt zu 99% nicht ((1% zufällige Fehler, auf die man keinen Einfluss hat))
   - Du signalisierst dem Ballführenden, dass du den X-Pass willst und bereit bist ihn zu bekommen
 
-Hier liegt der Fehler beim Großteil der FIFA-Community: Es reicht **nicht**, dem Ballführenden einfach mit dem Linken Stick nebenher zu laufen - du bewegst dich dann halb mit dem Rücken zu ihm oder sogar komplett, wenn er sich hinter dir befindet!
+Thats the mistake of the vast majority of the FIFA community: It is **not** enough to run alongside the player in possession using the left stick - you move partially with the back to that player which results in a lower pass success rate.
+When you want to receive a short x-pass and don't hold L2, you reduce the likelihood of an accurate pass.
 
-Wenn du einen X-Pass haben willst, du aber nicht L2 gedrückt hältst, dann verringert sich die Wahrscheinlichkeit sehr, dass der Kurzpass tatsächlich in den Fuß gespielt wird. 
-
-Dafür ist es viel wahrscheinlicher, dass einer der folgenden Dinge geschieht, wenn man kurze Pässe spielen möchte:
+Instead, it is more likely that one of the following four things are happening:
 
   *Pass kommt 2-3 Meter in den Rücken
   *Pass kommt 2-3 Meter in den Lauf
@@ -45,8 +42,6 @@ Bieten sich mehrere Spieler korrekt an, dann musst du entscheiden, welcher von i
   *Je nach Situation musst du entweder sprinten (langer Weg + viel Raum)...
   *...oder normal laufen (kurzer Weg + wenig Raum)
   *Den Lauf niemals unterbrechen oder die Richtung wechseln
-
-=== Reasons ===
 
 Wenn man L2 gedrückt hält oder andernweitig stehen bleibt, wird der Steilpass nicht so kommen, wie man es möchte. Ein Steilpass auf einen stehenden Mitspieler wird meist entweder unerreichbar in den Lauf gespielt oder direkt in den Fuß, was einem X-Pass gleichkommt.
 
