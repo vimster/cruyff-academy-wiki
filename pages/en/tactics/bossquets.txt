@@ -53,7 +53,7 @@ Example for the opposite side.
 {{ :de:tactics:433dml.jpg?300 |}}
 
 See that the CDM always provides connection either between LCB/RCB or between LCM/RCM.
-He always generates a triangle in the center. If the CDM were not act that way, the team would be forced to focus on the wing. That would lead to a neglected center play.
+He always generates a triangle in the center. If the CDM would not act that way, the team would be forced to focus on the wing. That would lead to a neglected center play.
 ===== Towards the possibilities and impossibilities of backpasses =====
 
 Actually, backpasses to the CDM are //always// possible, because the opponents usually try to prevent vertical passes.
@@ -68,9 +68,9 @@ By marking the CDM they prevent backpasses, but that behavior is playing straigh
 By now you know what to do without the ball but what are you expected to do //on the ball//?
 
 The main task for you as a pivot player is to strive for perfection in the two most important disciplines: 
-[[en:guides:passing|Passing]] and [[en:guides:tacticaldribbling|passing resistance]].
+[[en:guides:passing|Passing]] and [[en:guides:tacticaldribbling|pressing resistance]].
 
-As midfield sweeper it is your task to think defensively. You are supposed to be prepared for mistakes by your own players and to prevent counter attacks. If you are the last man in the build up phase you must be one hundered per cent sure what you are doing.
+As midfield sweeper it is your task to think defensively. You are supposed to be prepared for mistakes of your own players and to prevent counter attacks. If you are the last man in the build up phase you must be one hundered per cent sure what you are doing.
 
 More precisely: **Each of your mistakes can lead to goals against us.**
 
