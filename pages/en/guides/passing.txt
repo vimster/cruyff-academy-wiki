@@ -7,30 +7,30 @@
   *opposing defenders must be behind you or far away from you
   *try to build a triangle with the passer and an additional player
 
-By holding the L2 button you ensure that your player permanently keep the viewing direction to the ball and at the same time to the passer. Hence, you attain four things:
+By holding the L2 button you ensure that your player permanently keeps the viewing direction onto the ball and at the same time to the passer. Hence, you attain four things:
 
-  - Pass does not Pass kommt nicht in den Rücken
-  - Pass kommt nicht in den Lauf
-  - Ball verspringt zu 99% nicht ((1% zufällige Fehler, auf die man keinen Einfluss hat))
-  - Du signalisierst dem Ballführenden, dass du den X-Pass willst und bereit bist ihn zu bekommen
+  - pass is not played in the back
+  - pass is not played in the run
+  - ball does not bounce in 99 percent of cases ((1% random errors, which are beyond our influence))
+  - you signal the player in possession, that you demand a x-pass
 
-Thats the mistake of the vast majority of the FIFA community: It is **not** enough to run alongside the player in possession using the left stick - you move partially with the back to that player which results in a lower pass success rate.
+That is a crucial mistake of the vast majority of the FIFA community: It is **not** enough to run alongside the player in possession using the left stick - you move partially with the back to that player which results in a lower pass success rate.
 When you want to receive a short x-pass and don't hold L2, you reduce the likelihood of an accurate pass.
 
-Instead, it is more likely that one of the following four things are happening:
+Instead, it is more likely that one of the following four things is happening:
 
-  *Pass kommt 2-3 Meter in den Rücken
-  *Pass kommt 2-3 Meter in den Lauf
-  *Ball verspringt, indem er von der Hacke des Passempfängers abprallt
-  *Passempfänger hat nicht mit dem Pass gerechnet, da er sich nicht anbietet
-
+  * pass is played 2-3 meters in the back
+  * pass is played 2-3 meters into the run
+  * ball rebounds from the the heel of the pass receiver
+  * pass receiver did not expect the pass
 ==== As passer ====
 
-Deine Aufgabe als Passspieler ist es vorrangig darauf zu achten, wie sich deine Mitspieler bewegen und ob alle Voraussetzungen für einen X-Pass erfüllt sind (wie oben beschrieben).
+As passer it is your task to pay attention to the movements of your teammates and if they comply with the conditions for a x-pass (as stated above).
 
-Nur, wenn sich dein gewünschter Passempfänger an die Regeln hält, kannst und darfst du einen X-Pass auf ihn spielen, um zu 99% dafür zu sorgen, dass der Pass funktioniert!
+Only, if the pass receiver sticks to the rules, you are allowed to play a x-pass, in order to make sure that the pass is carried out successfully.
 
-Bieten sich mehrere Spieler korrekt an, dann musst du entscheiden, welcher von ihnen nach Passempfang mehr Optionen hat: //Kann er danach offensiv für mehr Gefahr sorgen? Hat er mehrere Anspielstationen? Steht er näher zum Tor?//
+If there are multiple players available for a pass, you have to decide, which one will have the most options after receiving the ball.  //Is he able to initiate an attack? Does he have different passing options? Does he stand closer to the goal? //
+
 ----
 
 
@@ -49,20 +49,18 @@ Ist die Laufrichtung nach einem Steilpass nicht frei, wird der Pass sehr wahrsch
 
 Ist der Passspieler nahe an dir dran und du sprintest mit voller Geschwindigkeit weg, ist die Abseitsgefahr sehr groß. Ist er jedoch weit weg von dir oder du musst noch weit in Richtung Lücke laufen, solltest du die Sprinttaste vergewaltigen bis der Arzt bzw. die Polizei kommt.
 
-**D.h. also grob:** //Je näher du am Passempfänger bist, desto weniger kannst du sprinten, um für einen erfolgreichen Steilpass zu sorgen und umgekehrt.//
+**In a nutshell:** //The closer you get to the pass receiver, the slower you have to run.//
 
 Steilpässe verhalten sich jedoch in FIFA 15 oft willkürlich. Manchmal kann man so gut in eine Lücke gehen, wie man möchte, der Steilpass kommt oft einfach viel zu weit und genau in die Hände des Torhüters - daran kann man leider nichts ändern.
 
 ==== As Passer ====
 
-Wie bei den Kurzpässen musst du als Passgeber darauf achten, dass der Mitspieler sich an die oben genannten Voraussetzungen hält. Dazu musst du noch die entsprechende Passdosierung wählen.
+As stated above in the short pass section, as passer you have to make sure, that your teammates stick to the rules and requirements of a successfull pass. In addition you need to choose a proper pass dosage.
 
-===== Präsenz und Einbindung =====
+===== Presence and involvement =====
 
-Es gibt viele Spieler, die sich über mangelnde Einbindung beschweren und bemängeln, dass sie aus ihrer Sicht zu wenig Bälle bekommen und sogar überspielt werden würden.
+There are a lot of players who complain about insufficient involvement and criticise, that from their point of view they don't get enough passes.
+Oftentimes there are discrepancies of ball contacts between the LCM and RCM. There are several reasons for this.
 
-Oft gibt es teils sehr große Unterschiede bei der Anzahl der Ballkontakte zwischen LZM und RZM. Das kann unterschiedliche Gründe haben, v.a.:
-
-  *Die kameraferne Seite wird oft unterbewusst weniger bespielt. Z.B. beim Spielen von links nach rechts spielt man manchmal automatisch rechtslastig, weil die Seite näher an einem dran ist.
-  *Eine Seite ist von mehr Virtual Pros besetzt als die andere.
-  *
+  * The far side of the camera gets neglected subconsciously. For example playing from left to right the game becomes automatically right-weighted.
+  * One side is occupied by more virtual pros than the other.
