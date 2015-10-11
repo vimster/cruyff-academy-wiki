@@ -11,11 +11,11 @@
         <description></description>
         <link>http://cruyff-academy.crayos.de/</link>
         <image rdf:resource="http://cruyff-academy.crayos.de/lib/tpl/dokuwiki/images/favicon.ico" />
-       <dc:date>2015-09-20T23:16:34+02:00</dc:date>
+       <dc:date>2015-10-10T22:11:55+02:00</dc:date>
         <items>
             <rdf:Seq>
                 <rdf:li rdf:resource="http://cruyff-academy.crayos.de/doku.php?id=en:tactics:playroles&amp;rev=1440179069&amp;do=diff"/>
-                <rdf:li rdf:resource="http://cruyff-academy.crayos.de/doku.php?id=en:tactics:positionalplay&amp;rev=1441797440&amp;do=diff"/>
+                <rdf:li rdf:resource="http://cruyff-academy.crayos.de/doku.php?id=en:tactics:positionalplay&amp;rev=1443352264&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -39,11 +39,11 @@ Red: The area the LCB/RCB are usually to be found. ([&quot;defensive interior co
 
 Orange: The area the LCB/RCB switches to, in order to make the game [wide in the buildup phase], if the opponent is pressing high up the pitch. Die jeweils unteren Bereiche treffen bei</description>
     </item>
-    <item rdf:about="http://cruyff-academy.crayos.de/doku.php?id=en:tactics:positionalplay&amp;rev=1441797440&amp;do=diff">
+    <item rdf:about="http://cruyff-academy.crayos.de/doku.php?id=en:tactics:positionalplay&amp;rev=1443352264&amp;do=diff">
         <dc:format>text/html</dc:format>
-        <dc:date>2015-09-09T13:17:20+02:00</dc:date>
+        <dc:date>2015-09-27T13:11:04+02:00</dc:date>
         <title>en:tactics:positionalplay</title>
-        <link>http://cruyff-academy.crayos.de/doku.php?id=en:tactics:positionalplay&amp;rev=1441797440&amp;do=diff</link>
+        <link>http://cruyff-academy.crayos.de/doku.php?id=en:tactics:positionalplay&amp;rev=1443352264&amp;do=diff</link>
         <description>Game strategy
 
 Soft Skills
@@ -52,6 +52,6 @@ In order to properly implement those complex strategies, not only capabilties at
 
 Positional Play
 
-Various playroles</description>
+Principles of Positional Play</description>
     </item>
 </rdf:RDF>

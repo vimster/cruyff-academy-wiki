@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="FeedCreator 1.7.2-ppt DokuWiki" -->
+<?xml-stylesheet href="http://cruyff-academy.crayos.de/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="http://cruyff-academy.crayos.de/feed.php">
+        <title>Cruyff Academy en:guides</title>
+        <description></description>
+        <link>http://cruyff-academy.crayos.de/</link>
+        <image rdf:resource="http://cruyff-academy.crayos.de/lib/tpl/dokuwiki/images/favicon.ico" />
+       <dc:date>2015-10-10T20:56:08+02:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="http://cruyff-academy.crayos.de/doku.php?id=en:guides:index&amp;rev=1440338370&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="http://cruyff-academy.crayos.de/lib/tpl/dokuwiki/images/favicon.ico">
+        <title>Cruyff Academy</title>
+        <link>http://cruyff-academy.crayos.de/</link>
+        <url>http://cruyff-academy.crayos.de/lib/tpl/dokuwiki/images/favicon.ico</url>
+    </image>
+    <item rdf:about="http://cruyff-academy.crayos.de/doku.php?id=en:guides:index&amp;rev=1440338370&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-08-23T15:59:30+02:00</dc:date>
+        <title>en:guides:index</title>
+        <link>http://cruyff-academy.crayos.de/doku.php?id=en:guides:index&amp;rev=1440338370&amp;do=diff</link>
+        <description>Guides
+
+Passing
+
+-&gt; Main article: Passing
+
+The vast majority of players, who try to play a lot of short passes, don't pay attention to the movements of their teammates. That leads to unnecessary bad passes and misunderstandings. 
+
+As only a few players focus on the question,</description>
+    </item>
+</rdf:RDF>
