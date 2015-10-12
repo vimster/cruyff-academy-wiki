@@ -17,7 +17,7 @@ By holding the L2 button you ensure that your player permanently keeps the viewi
 That is a crucial mistake of the vast majority of the FIFA community: It is **not** enough to run alongside the player in possession using the left stick - you move partially with the back to that player which results in a lower pass success rate.
 When you want to receive a short x-pass and don't hold L2, you reduce the likelihood of an accurate pass.
 
-Instead, it is more likely that one of the following four things is happening:
+Instead, it is more likely that one of the following four things happens:
 
   * pass is played 2-3 meters in the back
   * pass is played 2-3 meters into the run
@@ -25,7 +25,7 @@ Instead, it is more likely that one of the following four things is happening:
   * pass receiver did not expect the pass
 ==== As passer ====
 
-As passer it is your task to pay attention to the movements of your teammates and if they comply with the conditions for a x-pass (as stated above).
+As passer it is your task to pay attention to the movements of your teammates and check wheather they comply with the conditions for a x-pass (as stated above).
 
 Only, if the pass receiver sticks to the rules, you are allowed to play a x-pass, in order to make sure that the pass is carried out successfully.
 
@@ -38,20 +38,20 @@ If there are multiple players available for a pass, you have to decide, which on
 ==== As pass receiver ====
 
   *do not hold L2
-  *only decide for runs into free space
+  *only decide for runs into free spaces
   *depending on the situation either you have to sprint (long way and plenty of space)
-  *...or moderate run (short way and little room)
+  *...or run moderately (short way and little room)
   *never interrupt your run or change the direction
 
-If you hold L2 or stand still, the through pass will not reach you. A through ball to a standing teammate will either be played unreachable into the run or directly into the foot, which is the same as a x-pass.
+If you hold L2 or stand still, the through pass will not reach you. A through ball to a standing teammate will either be played unreachable into the empty space or directly into the foot, which is the same as a x-pass.
 
-Ist die Laufrichtung nach einem Steilpass nicht frei, wird der Pass sehr wahrscheinlich abgefangen werden.
+Always make sure that the direction you are running to is not occupied by an opposing player. The pass will very likely be intercepted.
 
-Ist der Passspieler nahe an dir dran und du sprintest mit voller Geschwindigkeit weg, ist die Abseitsgefahr sehr groß. Ist er jedoch weit weg von dir oder du musst noch weit in Richtung Lücke laufen, solltest du die Sprinttaste vergewaltigen bis der Arzt bzw. die Polizei kommt.
+If you are close to the passer reduce your speed, especially when your are near the offside line. If the distance is longer you should run with full speed.
 
 **In a nutshell:** //The closer you get to the pass receiver, the slower you have to run.//
 
-Steilpässe verhalten sich jedoch in FIFA 15 oft willkürlich. Manchmal kann man so gut in eine Lücke gehen, wie man möchte, der Steilpass kommt oft einfach viel zu weit und genau in die Hände des Torhüters - daran kann man leider nichts ändern.
+The accuracy of through balls depends on many factors (orientation of the player, left/right foot, ..).  Sometimes you can conduct a perfect run, but the ball ends in the hands of the goalkeeper.
 
 ==== As Passer ====
 

@@ -11,6 +11,7 @@
   *[[en:tactics:striker|Striker]]
 
 [[en:guides:index|Guides]]
+  *[[en:guides:passing|Passing]]
   *[[en:guides:defending|Defending]]
 
 [[en:faq|Frequently asked questions]]
