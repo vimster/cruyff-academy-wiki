@@ -2,7 +2,7 @@
 ~~CLEARFLOAT~~
 **[[en:start|Welcome to the Cruyff Academy]]**
 
-[[en:tactics:positionalplay|Game strategy]]
+[[en:tactics:positionalplay|Game Strategy]]
 
 [[en:tactics:playroles|Roles of Positional Play]]
   *[[en:tactics:halfdefender|Halfdefender]]
@@ -12,6 +12,7 @@
 
 [[en:guides:index|Guides]]
   *[[en:guides:passing|Passing]]
+  *[[en:guides:tacticaldribbling|Pressing Resistance]]
   *[[en:guides:defending|Defending]]
 
 [[en:faq|Frequently asked questions]]

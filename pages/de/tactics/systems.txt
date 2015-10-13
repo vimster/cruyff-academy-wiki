@@ -1,5 +1,158 @@
 ====== Systeme ======
 
 ===== 3-4-3: Cruyffscher Diamant =====
-  * Ich freue mich auf Details dazu
 
+!ganz ganz früher Prototyp!
+
+Mehrere Möglichkeiten in der Rollenverteilung der Positionen; Es gibt nicht die >eine< Vorlage, die immer funktioniert und jeder ausnahmslos durchführen kann.
+
+Im Folgenden werde ich pro Position mehrere mögliche Aufgabenstellungen beschreiben
+
+LIV - RIV
+
+
+Möglichkeit 1: Außenverteidiger
+
+
+Weitere Bezeichnungen: Halbverteidigerlose Dreierkette; Falsche Halbverteidiger
+
+LIV und RIV sind defensive Außenverteidiger, die gar nicht bis selten über die Mittellinie gehen; sie fungieren als Breitengeber im Spielaufbau und übernehmen den Spielaufbau nicht selbst. 
+
+Mit Ball sollen sie, wie jeder Defensivspieler, den Ball so weit nach vorne tragen (Dribbling) wie möglich, bis sie unter Druck geraten; anschließend müssen sie den Ball zum Pivot bringen, meist diagonal Richtung eigenes Tor, also meist zum IV (er und der ZDM haben die Verantwortung im Aufbau). 
+
+Fehlpässe und jede Art von Risiko sind für die Außenverteidiger aufgrund der vergleichsweise simplen Aufgabenstellung komplett tabu.
+
+Kurze Zusammenfassung:
+
+(Lineares) Dribbling Richtung gegnerisches Tor bis man unter Druck gerät, dann der kurze (Diagonal)pass zu IV oder ZDM. Verteidigen von Flankenläufen der Gegner, Überlaufen unterlassen, Spielaufbau den Pivots überlassen
+
+Möglichkeit 2: Halbverteidiger (Beitrag bereits vorhanden)
+
+
+IV und ZDM
+
+
+Libero - Pivot - erste Aufbauspieler
+
+Vergleichbar mit dem Mittelfeldlibero mit wenigen Unterschieden. Während die "Busquets- Rolle" ein Spieler zwischen Abwehr und Mittelfeld ist, der je nach Ballposition entweder hinter der Abwehr oder hinter dem Mittelfeld ist, also ein Hybrid aus IV und ZDM,  ist der IV beim Diamanten >ausschließlich< der Spieler hinter der Abwehr, der ZDM derjenige hinter dem Mittelfeld.
+
+D.h. die Busquets-Rolle wird in ZDM und IV aufgeteilt. Das klingt zunächst hervorragend, da die Last eines Spielers in der Theorie auf zwei aufgeteilt wird. Jedoch braucht man bei dieser Rollenverteidigung statt "nur" einem Busquets sogar >zwei< davon und der IV von den beiden muss dazu sehr zweikampfstark und schnell im Ablaufen sein, da er mehr Defensivaufgaben hat als der ZDM.
+
+Man braucht also 2 Spieler, die folgende Fähigkeiten besitzen:
+
+- totale Pressingresistenz
+- Wissen darüber, welche Pässe in FIFA 16 ankommen können und welche nicht (bitte dazu die vorgeschlagenen Übungen (Link) zumindest ab und zu nutzen)
+- Übersicht und Fähigkeit, sich immer zwischen und hinter LZM/RZM (als ZDM) bzw. zwischen und hinter LIV/RIV (als IV) zu stehen und...
+- ...L2 haltend anspielbar zu sein
+
+Das folgende werde ich solange wiederholen wie wir Spieler in der Mannschaft haben, die es nicht folgen:
+
+Anspielbar kann man nur sein, wenn man L2 gedrückt hält und weiß, wie man stehen muss, damit man in FIFA 16 sicher angespielt werden kann - dazu gehört unbedingt das Wissen darüber, welche Pässe ankommen und welche nicht.
+
+
+
+Defensive Besonderheit (besonders bei Außenverteidigern als LIV/RIV):
+
+Bei Offensivdruck des Gegners und aus anderen Gründen (Besserung des Spielaufbaus, Absicherung, etc.) kann aus den Rollen LIV, RIV, IV und ZDM eine (temporäre) Viererkette entstehen:
+
+LIV-> LV
+RIV-> RV
+ZDM + IV -> LIV + RIV
+
+LIV und RIV rücken weiter Richtung Seitenlinie, um den IV in Richtung einer der Halbräume gehen zu lassen, sodass der ZDM in den unbesetzten Halbraum gehen kann. Die Pivotspieler werden so temporär zu Halbverteidigern und es entsteht ein 4-3-3 (offensiv) oder 4-2-3-1
+
+
+
+LM und RM bzw LZM und RZM
+
+
+Nun beginnen die vielen verschiedenen Interpretationsmöglichkeiten, bei einer Sache ist man sich jedoch sicher: LZM und RZM halten sich in ihren zuständigen Halbräumen auf. Doch wie?
+
+Möglichkeit 1: Pressingspieler - offensive Halbverteidiger (Halbmittelfeldspieler also) - lineare Achter
+
+So wie man den ZDM als "Spiegel" des IV sehen kann, kann man auch LZM und RZM als Spiegel von LIV und RIV interpretieren.
+
+Sie dienen links und rechts als (kurze) Anspielstation, tragen den Ball bis zum Gegenspieler und passen dann zum Pivot - genau wie die Außenverteidiger, halt weiter vorne.
+
+Dazu gehört auch die absolut sichere Spielweise ohne verstärkt risikoreiche Dribblings einzugehen und verstärkt Steilpässe Richtung gegnerisches Tor zu suchen (jedoch sicherlich mehr als die AV). Ausnahmen bestätigen die Regel, wenn offensichtlich ein Steilpass gespielt werden >muss<.
+
+Die Hauptaufgabe ist die Balleroberung und das Stoppen des Gegners im Mittelfeld, vor allem der gegnerischen Achter und die sichere Beförderung des Balles in Richtung des gegnerischen Strafraums mit Übertragung der Spielkontrolle auf die Pivotspieler.
+
+Ein schöner langer und komplizierter Satz, machen wir gleich weiter damit.
+
+Vorteil ist natürlich, dass man keine großen Spielmacherfähigkeiten braucht, jedoch ist, wie bei allen Positionen, Pressingresistenz wichtig und das Wissen, welche Pässe ankommen können und welche nicht in Verbindung mit Antizipation und Zweikampfstärke - vor allem aggressiv und nicht passiv und zurückhaltend-absichernd, wie es IV und ZDM machen. 
+
+Kurz gesagt: Ein Vidal links und ein Vidal rechts. 
+
+Nachteil ist natürlich dann fehlende Kreativität, was vor allem (Halbraum-)Dribblings und Chancenerarbeitung betrifft - jedoch sollte man die Möglichkeiten im Kombinationsspiel nicht unterschätzen (Direktpässe spielen kann jeder, nur die korrekte Positionierung und Ausführung dieser kann zu Problemen führen). Die Chancenerarbeitung liegt dann trotzdem noch auf den Schultern mehrerer anderer  Positionen (ZOM? ZDM? LF? RF? ST?), sodass man nicht immer von Verlust sprechen muss.
+
+Möglichkeit 2: Halbraumspielmacher (Link)
+
+Möglichkeit 3: Hybrid aus Möglichkeit 1 und 2
+
+Ein Spielmacher und ein Zweikämpfer/Allrounder
+
+
+Die ZOM-Kontroverse (eigener Artikel)
+
+Es gibt mal wieder mehrere verschiedene Möglichkeiten den ZOM hier zu interpretieren. Das gemeinsame Ziel aller Möglichkeiten muss es aber sein, die Stärken der ZOM-Position zu maximieren und die bekannten Schwächen zu minimieren.
+
+Möglichkeit 1: Phantom-/Schattenstürmer der Thomas Müller Fraktion
+
+Hybrid aus Zehner und Mittelstürmer, der zwar im Zehnerraum für Doppelpässe/Ablagepässe bereitsteht, jedoch nicht selbst aktiv versucht, das Spiel zu machen. 
+
+Das bedeutet: Keine Dribblings/Tricks, kein Verschieben in Richtung Ball, sondern Läufe in die Schnittstellen, Abschlussorientiertheit, ballferne Bewegungen.
+
+ZOM und ST - Parallelen zur ZDM-IV-Beziehung (?)
+
+Sicherlich sind der ZOM und der ST nicht die über-präsenten Pressingresistenzmonster wie die beiden Spielmacher, zu denen ich vermute Parallelen zu sehen.
+
+Die Parallelen sind eher die Gemeinsamkeiten und die Möglichkeit des Positionswechsels und anderer Verschiebungen.
+
+ZOM und ST (gehen wir von einem "klassischen" Stürmer aus) sind sich sehr ähnlich. Nicht auf Spielaufbau, viele Ballkontakte und vorbereitende Aktionen aus, sondern kombinativ, steillaufend und abschließend. Diese Ähnlichkeit kann genutzt werden 10er und 9er situativ zu wechseln (mal ist der ZOM ST, dann der ST ZOM etc.), jedoch ist man auch dazu in der Lage einen Doppelsturm zu bilden.
+
+Genau wie bei der Bildung der Doppelverteidigung aus ZDM - IV zu LIV - RIV müssen so die Flügelstürmer breit stehen, damit ZOM und ST einen Sturm aus LS und RS bilden können. Es entsteht ein 3-3-4 oder gar ein 4-2-4, wenn der ZDM Halbverteidiger ist (ersteres ergibt mehr Sinn).  Müller und Lewandowski beiBayern lassen grüßen.
+
+Nachteile: Da der ZOM nicht aktiv Chancen vorbereitet, müssen das andere erledigen. So muss mindestens >ein< ZM spielmachende Fähigkeiten besitzen und/oder die Flügel sehr stark im Vorbereiten von Torchancen sein.
+
+Ist >keiner< der ZM's gut in der Chancenerarbeitung, liegt mehr spielmachender Druck auf dem ZDM ("Pirlo/Alonso-Syndrom") und/oder man ist automatisch dazu gezwungen flügelorientiert zu spielen.
+
+Kurzzusammenfassung Schattenstürmer:
+
+- mit Rücken zum Tor: Ablagestation, Direktpässe, keine Drehungen, selten Ballannahmen
+- mit Blick zum Tor: Lauf in Schnittstellen, platzschaffende Bewegungen
+
+
+Möglichkeit 2: Offensiver Halbraumspielmacher (LOM oder ROM)
+
+Ein Spielmacher, der sich vorne zwischen Flügelstürmer und ST in einem der Halbräume aufhält - meist im Halbraum seines schwachen Fußes.
+
+Besonderheit ist, dass er sich seltener tatsächlich im Zehnerraum anbietet, sondern mehr in dem von ihm gewählten Halbraum, >vor< dem jeweiligen ZM.
+
+Mit dem Ball wird er stets versuchen durch Halbraumdribblings in den Zehnerraum zu gehen und so Chancen vorzubereiten.
+
+Dadurch können einige Konflikte entstehen, wie es bei typischen ZOM's der Fall ist, weshalb man einige Dinge beachten sollte. Nehmen wir an, der ZOM kommt immer aus dem linken Halbraum ("LOM") und spielt so vor dem LZM.
+
+Wenn nun der LZM ebenfalls Spielmacherambitionen besitzt, stehen sich LZM und ggf. LOM auf den Füßen. Dort, wo sich der LZM z.B. anbieten möchte geht auch der LOM hin und umgekehrt - sie nehmen sich gegenseitig Räume und Bälle weg, ähnlich wie bei einem permanent Richtung Ball verschiebenden ZOM, der sowohl LZM als auch RZM jegliche spielmachenden Möglichkeiten nimmt und sie beide zwanghaft zu defensiven Zweikämpfern degradiert.
+
+Die Lösung wäre nun entweder, dass sie lernen, sich die Räume gut einzuteilen oder, dass der LZM ein Pressingspieler wie oben in beschrieben ist, der keine spielmachenden Ambitionen hat und sich nicht aggressiv anbietet. So erreicht man zusätzlich, dass der LZM die aggressiven Halbraumdribblings des LOM absichern kann.
+
+Möglichkeit 3: Rotierender Spielmacher mit den Halbraumspielmachern
+
+Mir fiel leider kein kurzer schöner Begriff dafür ein. 
+
+Im Idealfall sind hier LZM und RZM beides Halbraumspielmacher mit identischen Fähigkeiten - genau wie der ZOM. Sind alle drei von den Spielanlagen sehr ähnlich, können sie rotieren und permanent Positionen wechseln, solange immer sowohl der linke und der rechte Halbraum als auch der Zehnerraum besetzt sind.
+
+So könnte man ungesehene Variabilität herstellen, wo drei kreative Freigeister untereinander kombinieren und stets für Gefahr sorgen können.
+
+Die meisten Clubs haben nur einen Spielmacher - warum machen wir nicht einfach drei daraus?
+
+Möglichkeit 4: ZOM - ST Synergie mit Falscher 9 x2 bzw. Cesc+Leo made by Pep
+
+Sind sowohl ST als auch ZOM abschlussstarke Spielmacher, können beide untereinander Positionen tauschen und dann durch Kombinationen und gefährliche Dribblings Chancen kreieren - wo vor allem auch die Flügelstürmer dazu gebracht werden sich mehr Richtung Tornähe zu bewegen und abzuschließen.
+
+Utopie: LZM/RZM sind Halbraumspielmacher, ZOM und ST sind spielmachende Abschlussspieler kann man LZM/RZM/ZOM und ST komplett rotieren lassen. Viele Teams haben nur einen Spielmacher. Warum machen wir nicht 4 daraus?
+
+Mögliche Formationsbezeichnungen und Staffelungen: 
+
+3-5-2-0, 3-1-3-3-0, 4-3-1-2, 3-1-2-2-2 und weitere Telefonnummern.

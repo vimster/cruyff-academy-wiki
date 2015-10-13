@@ -1,8 +1,19 @@
 ====== Game strategy ======
 
-===== Soft Skills =====
+===== Prerequisites =====
 
-In order to properly implement those complex strategies, not only capabilties at the controller are necessary but also especially [[en:psychology:index|psychological aspects]], such as patience, self-criticism and willingness to learn.
+==== Technical capabilities ====
+Following technical basics every player has to master:
+  * [[en:guides:passing|Passing]]
+  * Keeping the ball and [[en:guides:tacticaldribbling|pressing resistance]]
+  * Control over players movements
+  * concious application of effective trick movements
+  * fast assessment of game situmations
+
+In order to achieve a high level in these disciplines, we want to refer to the [[en:guides:index|guides]] article.
+
+==== Soft Skills ====
+In order to properly implement those complex strategies, not only capabilties at the controller are necessary but also [[en:psychology:index|psychological aspects]], such as patience, self-criticism and willingness to learn.
 
 ===== Positional Play =====
 ==== Principles of Positional Play ====

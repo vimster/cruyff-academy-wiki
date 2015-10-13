@@ -17,8 +17,8 @@ After reading the main article, following problems should be resolved:
 [size=3]//-> Main article: [[en:guides:shooting|Shooting]]//[/size]
 ===== Defending =====
 [size=3]//-> Main article: [[en:guides:defending|Defending]]//[/size]
-===== Pressingresistence =====
-[size=3]//-> Main article: [[en:guides:tacticaldribbling|Pressingresistence]]//[/size]
+===== Pressing resistance =====
+[size=3]//-> Main article: [[en:guides:tacticaldribbling|Pressing resistance]]//[/size]
 
 ===== Player attributes =====
 [size=3]//-> Main article: [[en:guides:attributes|Player attributes]]//[/size]
