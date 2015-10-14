@@ -1,8 +1,8 @@
-===== Spielerattribute =====
+====== Spielerattribute ======
 
-==== Mentale Attribute ====
+===== Mentale Attribute =====
 
-=== Aggressivität ===
+==== Aggressivität ====
 
   *hängt zusammen mit: Stärke (Stärke=hoch -> Aggressivität=hoch)
   *je höher dieser Wert ist, desto "aggressiver" führt der Spieler Zweikämpfe aus
@@ -11,18 +11,18 @@ Beispiel: Lahm (=niedr. Aggr.) führt Zweikämpfe langsamer/seltener aus als Vid
 
 
 
-=== Stellungsspiel (Offensiv!!); betrifft nur K.I. ===
+==== Stellungsspiel (Offensiv!!); betrifft nur K.I. ====
 
   *hängt zusammen mit: Position (Sturm=hoch; Mittelfeld=mittel; Abwehr=niedrig)
   *je höher dieser Wert ist, desto öfter versucht ein K.I.-Stürmer in Lücken zu laufen
 
-=== Abfangen ===
+==== Abfangen ====
 
   *hängt zusammen mit: Position (Sturm=niedr.; Mittelfeld=mittel; Abwehr=hoch)
   *je höher dieser Wert, desto wahrscheinlicher "fährt" der Spieler ein Bein aus, um einen Ball abzufangen (K.I. und Mensch)
   *je höher dieser Wert, desto besser positioniert sich ein verteidigender Spieler in freien Räumen, wo Pässe hineingespielt werden könnten (nur K.I.)
 
-=== Übersicht ===
+==== Übersicht ====
 
   *hängt nicht mit Stellungsspiel zusammen!
   *hängt zusammen mit: Passspiel, Lange Bälle

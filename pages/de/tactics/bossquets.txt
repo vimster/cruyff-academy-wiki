@@ -1,5 +1,13 @@
 ====== Mittelfeldlibero ======
 
+{{ :playground:lib.jpg?200|}}**Rot:** Der Hauptbereich im Stellungsspiel des ZDM's und deswegen auch "Sechserraum" genannt. Hier dient er als Absicherung und Anspielstation in der Mitte für LZM/RZM und LIV/RIV, je nach Position des Balles und der Gegner.
+
+**Hellgelb:** Bei langem Verharren auf einer Flügelseite kann sich der ZDM im Halbraum positionieren, um den ZM auf der anderen Seite die Möglichkeit zu geben in den Sechserraum zu gehen, um eine Überladung auf dem Flügel zu kreieren.
+
+**Gelb:** Ist LIV oder RIV im Ball stark unter Druck lässt sich der ZDM auch mal in den eigenen Sechzehner fallen, um eine Ablage zu fordern. Zusätzlich läuft der ZDM auch durchstartende Stürmer des Gegners im Sechzehner ab.
+
+~~CLEARFLOAT~~
+
 ===== Begriff =====
 //siehe hierzu den Lexikon-Artikel: [[de:encyclopedia:libero|Libero]]//
 

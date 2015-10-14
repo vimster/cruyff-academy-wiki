@@ -1,5 +1,15 @@
 ====== Midfield sweeper ======
 
+{{ :playground:lib.jpg?200|}}**Red:** The main area in positional play of the CDM, also called the space of the six. In this space the CDM serves as hedging player and free man in the center for LCM/RCM and LCB/RCB respectively.
+
+**Lighyellow:** If the ball remains a long time on the wing, the CDM may move into the half-space, in order to overload that zone and prepare a changeover.
+
+**Yellow:** Ist LIV oder RIV im Ball stark unter Druck lässt sich der ZDM auch mal in den eigenen Sechzehner fallen, um eine Ablage zu fordern.
+If LCB/RCB in possession is pressed, the CDM can drops into the box to support the build-up.
+Additionally, in defence the CDM follows an opposing player into the box.
+~~CLEARFLOAT~~
+----
+
 ===== Term =====
 //See lexicon article: [[en:encyclopedia:libero|Sweeper]]//
 

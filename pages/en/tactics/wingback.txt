@@ -1,7 +1,7 @@
 ====== Wide making winger ======
-{{ :playground:lrrv.jpg?200|}}**Rot:** Die Bereiche, möglichst nahe der Seitenlinie, in denen sich LV/RV bzw. LM/RM im Spielaufbau aufhalten, um das Spiel breit zu machen und für Seitenwechsel bereit zu stehen, wenn der Ball auf der anderen Seite ist.
+{{ :playground:lrrv.jpg?200|}}**Red:** These are the zones the wide making winger is supposed to stay in the build up phase, preferably near the touch line. When the ball is on the opposite side he always needs to be prepared for a changeover.
 
-**Orange:** Rückt der Flügelstürmer durch ein diagonales Dribbling in den Halbraum hinein, kann der LV/RV bzw. LM/RM in den orangenen Bereich überlaufen, um eventuell einen Steilpass zu erhalten und dann (scharf) zu flanken.
+**Orange:** When the attacking winger conducts an inverse dribbling into the halfspace, the wide making winger can move up into this space to get a through ball and possibly deliver a cross.
 
 ~~CLEARFLOAT~~
 ----
