@@ -11,7 +11,7 @@
         <description></description>
         <link>http://cruyff-academy.crayos.de/</link>
         <image rdf:resource="http://cruyff-academy.crayos.de/lib/tpl/dokuwiki/images/favicon.ico" />
-       <dc:date>2015-10-09T11:35:21+02:00</dc:date>
+       <dc:date>2015-10-16T22:33:30+02:00</dc:date>
         <items>
             <rdf:Seq>
                 <rdf:li rdf:resource="http://cruyff-academy.crayos.de/doku.php?id=de:guides:index&amp;rev=1443229188&amp;do=diff"/>
@@ -26,7 +26,7 @@
     <item rdf:about="http://cruyff-academy.crayos.de/doku.php?id=de:guides:index&amp;rev=1443229188&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2015-09-26T02:59:48+02:00</dc:date>
-        <title>de:guides:index</title>
+        <title>Spielhilfen und Anleitungen</title>
         <link>http://cruyff-academy.crayos.de/doku.php?id=de:guides:index&amp;rev=1443229188&amp;do=diff</link>
         <description>Spielhilfen und Anleitungen
 
