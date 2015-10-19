@@ -11,10 +11,10 @@
         <description></description>
         <link>http://cruyff-academy.crayos.de/</link>
         <image rdf:resource="http://cruyff-academy.crayos.de/lib/tpl/dokuwiki/images/favicon.ico" />
-       <dc:date>2015-09-22T01:15:17+02:00</dc:date>
+       <dc:date>2015-10-19T04:10:19+02:00</dc:date>
         <items>
             <rdf:Seq>
-                <rdf:li rdf:resource="http://cruyff-academy.crayos.de/doku.php?id=playground:playground&amp;rev=1438361643&amp;do=diff"/>
+                <rdf:li rdf:resource="http://cruyff-academy.crayos.de/doku.php?id=playground:playground&amp;rev=1444740844&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -23,11 +23,11 @@
         <link>http://cruyff-academy.crayos.de/</link>
         <url>http://cruyff-academy.crayos.de/lib/tpl/dokuwiki/images/favicon.ico</url>
     </image>
-    <item rdf:about="http://cruyff-academy.crayos.de/doku.php?id=playground:playground&amp;rev=1438361643&amp;do=diff">
+    <item rdf:about="http://cruyff-academy.crayos.de/doku.php?id=playground:playground&amp;rev=1444740844&amp;do=diff">
         <dc:format>text/html</dc:format>
-        <dc:date>2015-07-31T18:54:03+02:00</dc:date>
-        <title>playground:playground</title>
-        <link>http://cruyff-academy.crayos.de/doku.php?id=playground:playground&amp;rev=1438361643&amp;do=diff</link>
-        <description>Die verschiedenen Rollen im Positionsspiel</description>
+        <dc:date>2015-10-13T14:54:04+02:00</dc:date>
+        <title>PlayGround</title>
+        <link>http://cruyff-academy.crayos.de/doku.php?id=playground:playground&amp;rev=1444740844&amp;do=diff</link>
+        <description>PlayGround</description>
     </item>
 </rdf:RDF>
