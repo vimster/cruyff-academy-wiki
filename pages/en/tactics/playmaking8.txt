@@ -29,9 +29,9 @@ finishing action if there is no real center striker.
   
 **__Definition:__**
 
-Wie man sichere Pässe spielt und sich korrekt anbietet ist für den Halbraumspielmacher am allerwichtigsten. 
+For a half-space playmaker it is most important to play safe passes and to be available for passes.
 
-//Wie genau das funktioniert liest man im Artikel: [[de:guides:passing|Passspiel und richtiges Anbieten]]//
+//How this works is described in this article: [[en:guides:passing|Passing]]//
 
 Pressingresistenz kann natürlich in allen Zonen sehr wertvoll sein, doch sowohl im defensiven als auch im offensiven Halbraum ist es am allerwichtigsten nicht ständig nur direkte Pässe ohne Ballannahme und Sicherheitspässe nach hinten oder zur Seite zu spielen.
 
