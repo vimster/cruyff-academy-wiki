@@ -1,0 +1,51 @@
+====== Die ZOM-Kontroverse ======
+
+(Prototyp)
+
+Lieblingsposition der meisten Spieler, mindestens auf einer Höhe mit ST. Jedoch ist der ZOM im Positionsspiel, wenn es ihn gibt, nicht **der** ZOM, an den viele denken.
+
+Viele ZOM's wollen das Spiel an sich reißen - das ist gut, das ist sinnvoll. Im Konterspiel mehr, aber nicht im Positionsspiel. Im Folgenden werde ich erläutern wieso das der Fall ist.
+
+===== Zentrumsorientiertheit in der Defensive =====
+
+Eine Folge des Positionsspiels ist der automatische hohe Ballbesitz. Der Gegner reagiert auf hohen Ballbesitz mit Kompaktheit, vor allem im Zentrum. Nicht, weil sie sich aktiv dazu entscheiden, sondern weil es automatisch folgt.
+
+Die drei meistgespielten Formationen online sind 4-2-3-1, 4-1-2-1-2 und 5-2-1-2. 
+
+  *Beim 4-2-3-1 hat man 2 DM und 2 IV (oft auch 1 ZOM), die das Zentrum verteidigen.
+  *Beim 4-1-2-1-2 hat man 2 IV, 1 DM und 2 ZM, die das Zentrum verteidigen.
+  *Beim 5-2-1-2 hat man 3 IV, 2 ZM (oft auch 1 ZOM), die das Zentrum verteidigen.
+
+Der ZOM steht so meist mindestens zwischen 3-4, manchmal 5, defensiven Spielern des Gegners, die Passwege zu ihm zustellen wollen und werden.
+
+Diese Kompaktheit des Gegners wird im Positionsspiel versucht zu eliminieren, indem das Spiel durch die Flügelspieler breit gemacht wird. Das führt zum nächsten Problem:
+
+===== Breitstehende Flügelspieler und die folgende ZOM-Verschiebung =====
+
+Die Flügelspieler gehen also möglichst weit Richtung Seitenlinie während der ZOM weiterhin in der Mitte bleibt - es entstehen große Lücken im linken und rechten Halbraum.
+
+Wenn der ZOM nicht auf den Flügel verschiebt, wo sich gerade eben der Ball befindet, wird er isoliert, bekommt keine Ballkontakte und ist nie anspielbar. Großes Gemecker des ZOM macht sich im Chatroom breit ("ich bekomme keine Bälle!").
+
+So wird der ZOM also oft zum Pendel, das sich von links nach rechts und von rechts nach links bewegt, damit er Bälle bekommt - nun wer steht dann im linken Halbraum, wenn der ZOM nach rechts verschiebt? Was soll der LZM machen, wenn der ZOM sich ständig wenige Zentimeter neben ihm anbietet? Wie soll der Ball vom Zentrum Richtung Tor gelangen, wenn sich der ZOM immer in Ballnähe nach hinten, links und rechts verschiebt?
+
+Durch die Natürlichkeit, dass der ZOM möglichst viele Ballkontakte haben möchte, isoliert er seine Partner im Mittelfeld. LZM und RZM müssen dadurch defensiv spielen, da ihnen der Raum in der Offensive genommen wird. LZM und RZM haben in ihren Zonen nicht nur Gegner, die sie stören, sondern auch den (eigenen!) ZOM.
+
+Zusätzlich wird der ST oft allein gelassen - da der ZOM meist links oder rechts steht  und die ZM's defensiv spielen müssen, bekommt der ST nur Flanken und kaum Zuspiele aus Zentrum und Halbräumen.
+
+Nun wäre das Konterargument: "Wenn der ZOM ja laut dir immer nach links oder rechts geht, kann doch der ZM auf der anderen Seite weiter vor"
+
+Nein, kann er nicht, da der ZM, wenn er aufrückt, keine Absicherung hat.
+
+Gehen wir von Ballbesitz rechts aus: RF hat den Ball, ZOM rückt nach rechts, der RZM sichert hinter den beiden ab. Laut dem Gegenargument muss jetzt der LZM nach vorne ins Zentrum rücken, damit eine Verbindung zum ST gewährleistet ist.
+
+RF spielt zum ZOM und er macht einen Scoop-Turn in den Gegner - Ballverlust. Wie kontert der Gegner? Natürlich in dem Raum hinter dem aufgerückten LZM, da es keinen DM gibt, der dort absichert.
+
+(Es muss natürlich kein Scoop-Turn sein, sondern einfach ein Ballverlust auf irgendeine Art und Weise)
+
+Nun wäre ein weiteres Gegenargument: "Wenn der LZM aufrückt, kann auch der LIV etwas aufrücken und hinter dem LZM absichern"
+
+Meine Antwort: Wieso müssen alle anderen ständig ihre Positionen verschieben, um eine stabile Formation zu gewährleisten, weil **einer**, nämlich der ZOM, so sehr an seiner Spielweise hängt?
+
+Natürlich kann, wenn der ZOM nach rechts verschiebt, der LZM die ZOM-Position einnehmen. Der RZM muss dadurch weiter hinter, weil sich der ZOM in seine Zone bewegt. Der LIV muss die LZM-Position besetzen zur Absicherung. Dazu muss dann der RIV oder der LV die Lücke schließen, die der LIV hinterlassen hat. So entsteht eine Art Dreierkette. Jedes Mal, wenn der ZOM verschiebt.
+
+**Nochmal:** Jedes Mal, wenn der ZOM verschiebt, müssen mindestens 3 andere Spieler ihre Position entweder verlassen oder defensiver interpretieren, um eine brauchbare Staffelung in Offensive und Defensive zu gewährleisten. 3-4 andere müssen sich aufgrund dieser zumeist überflüssigen Verschiebungen des ZOM anpassen.

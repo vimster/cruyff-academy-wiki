@@ -26,6 +26,21 @@ Positionsspiel umfasst eine Vielzahl von Aspekten. Diese haben alle jedoch eines
 [size=3]//-> siehe hierzu den vollständigen Artikel: [[de:tactics:playroles|Die verschiedenen Rollen im Positionsspiel]]//[/size]
 
 ----
+
+==== Was wir nicht sehen wollen ====
+
+((vielleicht gibt es einen besseren Titel, gemeint sind Positionen und deren Interpretationen, die nicht zum Positionsspiel passen))
+
+=== Die ZOM-Kontroverse ===
+[size=3]//-> siehe hierzu den vollständigen Artikel: [[de:tactics:camcontroversy|Die ZOM-Kontroverse]]//[/size]
+
+=== Der Schickmich-Schickmich ===
+[size=3]//-> siehe hierzu den vollständigen Artikel: [[de:tactics:iamtopst|Der Schickmich-Schickmich]]//[/size]
+
+=== Der FVPA Top-IV ===
+[size=3]//-> siehe hierzu den vollständigen Artikel: [[de:tactics:iamtopcb|Der FVPA Top-IV]]//[/size]
+
+----
 ==== Hauptsysteme ====
 [size=3]//-> siehe hierzu den vollständigen Artikel: [[de:tactics:systems|Systeme]]//[/size]
 ----
