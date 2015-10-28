@@ -50,12 +50,11 @@ As you can see in the zonal picture, there are two half-spaces, the left and the
 A vital goal of positional play is to control the half-spaces and make use of them for creating chances.
 While the half-space playmakers use these zones for attacking purposes the [[en:tactics:halfdefender|half-space defenders]] defend those very zones. ((In case of playing with a false nine there are additional half-space strikers. But that is currently out of scope.))
 
-Whilst the half-space defenders and the central sweeper (CB or CDM) try to pass the ball  
-Während die Halbverteidiger und der Zentrale Libero (IV oder ZDM) versuchen den Ball möglichst weit nach vorne in den Fuß zu passen (sowohl vertikal als auch diagonal) ist es Aufgabe der Halbraumspielmacher den Ball so lange sicher zu zirkulieren (zirkulär((In alle Richtungen im 360°-Radius)) und triangulär((Im Dreieck mit Spielern, die nach X-Pässen neben dir selbst noch mindestens eine weitere Anspielstation haben))) bis ein Schnittstellenpass in den Lauf eines Stürmers (LF, ST oder RF) möglich ist.
+Whilst the half-space defenders and the central sweeper (CB or CDM) try to pass the ball as far forward as possible (vertically or diagonally), the half-space playmaker has to circulate the ball (with 360° movements) until a through ball into the run of a striker (LW, ST, RW) is possible.
 
-Dabei spielt es keine Rolle wie oft man diese Steilpässe spielt. Sind die Stürmer in 5 Angriffen hintereinander komplett frei muss man zweifellos 5 mal hintereinander den Steilpass spielen - auch wenn es von Laien als "noobig" bezeichnet werden würde.
+Here it does not matter how often one plays a through ball. In the case the strikers are free in 5 consecutive situations, a half-space playmaker has to play that ball without a doubt - even if it will be referred to as nooby by a lay person.
 
-Noch einmal zum Klarstellen: Ziel des Positionsspiels ist es Tore zu schießen und schließlich zu gewinnen und nicht möglichst hohen Ballbesitz zu haben. 
+To clarify it once again: The goal of positional play is to score goals and eventually win the game and not to gain as much possession as possible.
 
 Werden uns die Räume für schnelles Spielen gegeben müssen wir sie nutzen und nicht 10 mal zum Torhüter zurück passen, weil man unbedingt "Tiki Taka" spielen möchte. "Noobig" wäre es, wenn man ständig Steilpässe spielt, obwohl eben kein Raum dafür gegeben ist. Das ist etwas völlig anderes.
   
