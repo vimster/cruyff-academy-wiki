@@ -52,26 +52,26 @@ While the half-space playmakers use these zones for attacking purposes the [[en:
 
 Whilst the half-space defenders and the central sweeper (CB or CDM) try to pass the ball as far forward as possible (vertically or diagonally), the half-space playmaker has to circulate the ball (with 360° movements) until a through ball into the run of a striker (LW, ST, RW) is possible.
 
-Here it does not matter how often one plays a through ball. In the case the strikers are free in 5 consecutive situations, a half-space playmaker has to play that ball without a doubt - even if it will be referred to as nooby by a lay person.
+Here it does not matter how often one plays a through ball. In case the strikers are free in 5 consecutive situations, a half-space playmaker has to play that ball without a doubt - even if it will be referred to as nooby by a lay person.
 
 To clarify it once again: The goal of positional play is to score goals and eventually win the game and not to gain as much possession as possible.
 
-Werden uns die Räume für schnelles Spielen gegeben müssen wir sie nutzen und nicht 10 mal zum Torhüter zurück passen, weil man unbedingt "Tiki Taka" spielen möchte. "Noobig" wäre es, wenn man ständig Steilpässe spielt, obwohl eben kein Raum dafür gegeben ist. Das ist etwas völlig anderes.
-  
-  Hohe Ballbesitzzahlen sind nicht das Ziel der Spielweise, 
-  sondern das Ergebnis davon!
-  
-===== Schnittstellenpässe andeuten =====
+If the opposing side opens up space for fast passes, we have to make use of that space and don't pass the ball back to the goalkeeper 10 times, only for the sake of playing "tiki taka". It would be "nooby" playing permanently through balls, although there is no space for it.
 
-Vor allem wenn der Ball länger zirkuliert wird ist es für die Stürmer schwer zu erkennen, wann und ob ein Steilpass kommen wird. Darum müssen sich Spielmacher und Stürmer auf ein Signal einigen, woraufhin alle Beteiligten automatisch wissen, was nun Sache ist. Dafür benutzen wir folgende Regel:
+  High ball possession rates ain't the goal of our play style, but the result of it!
   
-  Sobald ein Spielmacher (oder Flügelstürmer) 
-  zum Halbraumdribbling ansetzt ist es Zeit für 
-  den/die Stürmer für einen Schnittstellenpass loszulaufen.
-  
-//ELI5//(([[http://reddit.com/r/ELI5|Explain Like I'm Five]])): //ZM dribbelt -> ST muss laufen.// 
+===== Signal through balls =====
 
-U.a. Iniesta, Ribéry, Robben und Messi sind für solche Aktionen bekannt.
+Especially when the ball is circulated for a longer time it is difficult for a striker to recognize, when and if a through ball will be played. For that reason the half-space playmakers and the striker have to agree on specific signals, in order to synchronize their actions. The following rule applies to all players:
+  
+  As soon as a playmaker (or winger)
+  starts to make a diagonal half-space dribbling,
+  it is high time for the striker to start his vertical run
+  and be prepared for a through ball.
+  
+//ELI5//(([[http://reddit.com/r/ELI5|Explain Like I'm Five]])): //CM is dribbling -> ST has to run.// 
+
+eg. Iniesta, Ribéry, Robben and Messi are well known for such half-space dribblings.
 
 Der ST ist einzig und allein dafür da geschickt zu werden und sollte vor allem in der eigenen Hälfte niemals mit X angespielt werden! Er wird sich immer von dir und deinen Mitspielern wegbewegen, sodass ihr mehr Platz für Dribblings und Kombinationen bekommt. Kombiniere mit deinen Mitspielern im Halbraum und im Zentrum, jedoch nicht mit dem ST!((Jedoch auf jeden Fall mit der "Falschen Neun", falls vorhanden!))
 ===== "Halbraum-Dribbling" =====
@@ -118,6 +118,7 @@ Diese Halbraumdribblings sind eben unglaublich schwer zu stoppen - und selbst we
 
 Balance provider and space investigator
 
+<html><iframe width="560" height="315" src="https://www.youtube.com/embed/YKpguR405PI" frameborder="0" allowfullscreen></iframe></html>
 
 ----
 
@@ -133,4 +134,4 @@ Creativity monster and ball artist
 King of assists and ball stroker
 
 ===== Weblinks =====
-  * [[http://spielverlagerung.de/2014/09/06/die-halbraume/|spielverlagerung.de: Die Halbräume]]
+  * [[http://spielverlagerung.com/2014/09/16/the-half-spaces/|spielverlagerung.com: The half-spaces]]
