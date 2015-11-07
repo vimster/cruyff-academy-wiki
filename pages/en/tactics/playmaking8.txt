@@ -73,7 +73,7 @@ Especially when the ball is circulated for a longer time it is difficult for a s
 
 eg. Iniesta, Ribéry, Robben and Messi are well known for such half-space dribblings.
 
-The ST is exclusively there to be sent by through balls. He shouldn't be passed to with a x-pass in the own half. He will always run forward in order to open up spaces for midfielders dribblings and combinations. As midfielder conduct combiniations with the other midfielders in the half-spaces or the center rather than the striker! ((That does not apply to the false 9))
+The ST is exclusively there to be sent by through balls. He shouldn't be passed to with a x-pass in the own half. He will always run forward in order to open up spaces for midfielders dribblings and combinations. The midfielder perform combiniations with the other midfielders in the half-spaces or the center rather than the striker! ((That does not apply to the false 9))
 
 ===== "Half-space dribbling" =====
 As suggested before, the half-space should be leveraged through diagonal dribblings. ((also called inverse movements))
@@ -83,12 +83,11 @@ The following two figures illustrate the advantages of the inversity of the half
 {{ :de:tactics:passwinkelmoeglichkeiten-aus-dem-zentrum.png |}}(([[http://spielverlagerung.de/wp-content/uploads/2014/07/Passwinkelm%C3%B6glichkeiten-aus-dem-Zentrum.png?dab890|spielverlagerung.de - Passwinkelmöglichkeiten aus dem Zentrum]]))
 
 //Theoretically//, one could play in all directions from the center, what is visible in a 180° field of vision.
-//Practically//, it looks somewhat different.
- effektiv kann man vom Zentrum aus, wenn man nach vorne spielen möchte, nur durch die Mitte oder diagonal Richtung Flügel spielen. Je genauer man in die Grade dazwischen spielen möchte, desto unwahrscheinlicher wird der Pass funktionieren.
+//Practically//, it looks somewhat different. If you want to play forward you are only able to play vertically or diagonally onto the wing. 
 
-Das Zentrum zu verteidigen ist aufgrund seiner Vertikalität leicht z.B. durch Doppelung zu verteidigen - vor allem weil die meisten Clubs mit zwei Sechsern antreten und die Mitte zumachen wollen.
+Defending the center is pretty simple due to its verticallity, for instance, by double marking. especially because most clubs play with two players on the six-position.
 
-Nun möchte ich auf die Vereinfachung durch das inverse Blickfeld aus dem Halbraum eingehen:
+Now we want to talke about the advantages of the inverse field of vision in the half-spaces.
 
 {{ :de:tactics:passwinkelmoeglichkeiten-aus-dem-halbraum.png |}}
 (([[http://spielverlagerung.de/wp-content/uploads/2014/07/Passwinkelm%C3%B6glichkeiten-aus-dem-Halbraum.png?dab890|spielverlagerung.de - Passwinkelmöglichkeiten aus dem Halbraum]]))
