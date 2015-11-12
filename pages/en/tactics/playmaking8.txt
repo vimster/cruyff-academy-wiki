@@ -30,19 +30,8 @@ finishing action if there is no real center striker.
 **__Definition:__**
 
 For a half-space playmaker it is most important to play safe passes and to be available for passes.
-
 //How this works is described in this article: [[en:guides:passing|Passing]]//
 
-Pressingresistenz kann natürlich in allen Zonen sehr wertvoll sein, doch sowohl im defensiven als auch im offensiven Halbraum ist es am allerwichtigsten nicht ständig nur direkte Pässe ohne Ballannahme und Sicherheitspässe nach hinten oder zur Seite zu spielen.
-
-Als Spielmacher musst du in der Lage sein Räume durch effektives Dribbling zu nutzen und alle effizienten Trickbewegungen beherrschen ((d.h. bei langem nicht, dass du bei jedem Ballkontakt tricksen sollst)), um ggf. für lückenöffnende Aktionen ((jeder ausgespielte Gegner öffnet eine Lücke)) zu sorgen und das Spiel ggf. durch eigenen Abschluss oder wichtige Schnittstellenpässe entscheiden zu können.
-
-99% der Mittelfeldspieler in FIFA spielen nur direkte X-Pässe zurück und/oder nach Außen zum Außenverteidiger oder -stürmer und ignorieren die Halbräume und das Zentrum, wenn sie unsicher sind.
-
-Du musst lernen, wie man so lange den Ball hält bis entweder ein zentraler Spieler für einen X-Pass oder einer der Stürmer für einen Steilpass anspielbar ist. ((Wenn du z.B. als LZM den Ball bekommst, versuche zunächst durch Pressingresistenz auf einen Schnittstellenlauf des Stürmers oder auf den RZM bzw. ZDM zu warten und spiele nicht direkt kurz Richtung Seitenlinie.))
-
-//Wie man den Ball effektiv halten kann gibt es in folgendem Artikel zu lesen: [[de:guides:tacticaldribbling|Pressingresistenz]]
-//
 ===== Leverage the half-spaces =====
 
 As you can see in the zonal picture above, there are two half-spaces, the left and the right half-space.
@@ -56,7 +45,7 @@ Here it does not matter how often one plays a through ball. In the case that str
 
 To clarify it once again: The goal of positional play is to score goals and eventually win the game and not to gain as much possession as possible.
 
-If the opposing side opens up space for fast passes, we have to make use of that space and don't pass the ball back to the goalkeeper 10 times, only for the sake of playing "tiki taka". It would be "nooby" playing permanently through balls, although there is no space for it.
+If the opposing side opens up space for fast passes, we have to make use of that space rather than passing the ball backwards to the goalkeeper 10 times, only for the sake of playing "tiki taka". It would be "nooby" playing permanently through balls, if there is no space for it.
 
   High ball possession rates ain't the goal of our play style, but the result of it!
   
@@ -87,33 +76,29 @@ The following two figures illustrate the advantages of the inversity of the half
 
 Defending the center is pretty simple due to its verticallity, for instance, by double marking. especially because most clubs play with two players on the six-position.
 
-Now we want to talke about the advantages of the inverse field of vision in the half-spaces.
+Now we want to talk about the advantages of the inverse field of vision in the half-spaces.
 
 {{ :de:tactics:passwinkelmoeglichkeiten-aus-dem-halbraum.png |}}
 (([[http://spielverlagerung.de/wp-content/uploads/2014/07/Passwinkelm%C3%B6glichkeiten-aus-dem-Halbraum.png?dab890|spielverlagerung.de - Passwinkelmöglichkeiten aus dem Halbraum]]))
 
-Diagonal aus dem Halbraum heraus kann man viel leichter Chancen kreieren, denn nahezu jeder Pass, den man von dort aus Richtung Tor spielen möchte, hat hohes Potenzial gefährlich zu werden.
+Diagonal movements in the half-spaces enable chance creations more easily, because statistically every pass played towards the goal is very likely to become dangerous. A variety of opportunities arises from this position.
 
-Zunächst kann man durch die inverse Bewegung dem Flügelspieler hinter sich die Möglichkeit geben steil zu gehen und geschickt zu werden((gilt vor allem auch für Flügelstürmer, wenn sie inverse Bewegungen machen - dann kann der Flügelverteidiger überlaufen)).
+First of all the inverse movement enables the winger behind to overrun vertically. ((also applies to winger making an inverse movement, allowing the full back to overrun.))
+Furthermore one can deliver the winger on the opposite side effectively((effectively, because your viewing direction points directly towards the player, which increases the success rate)) with high or low passes.
+Additionally one can switch the play if no through balls are possible.
+Also, a one-two with a teammate in the center or the other half-space applicable.
 
-Man kann einen steillaufenden Flügelspieler auf der anderen Seite effektiv((Mit "effektiv" meine ich, dass man direkten Blick auf den Spieler hat, deshalb ist Erfolg sehr wahrscheinlich.)) hoch oder flach schicken.
+Defenders preferably think and defend vertically or horizontally, That is why diagonal dribblings are so effective. They are constantly carried out by technically strong players such as Robben, Thiago or Messi.
+These diagonal/inverse movements we call from now on "half-space dribbling".
 
-Man kann auf die andere Seite verlagern, wenn kein Schnittstellenpass möglich sein sollte.
+For instance, Robben performs these half-space dribblings several times a game, followed by a shot or a through ball. Iniesta preferrably looks for a one-two or a through ball, rather than a shot. Marco Reus is seemingly the best german half-space player and Leo Messi is the incarnation of the half-space god, who is able to perform every option in perfection (dribbling, one-two, through ball, finishing action).
 
-Man kann einen Doppelpass mit einem Spieler im Zentrum oder im anderen Halbraum spielen.
+Especially in Germany a lot of fans were wondering during Robbens first season at Bayern Munich: "Why can't you stop him, although he is always doing the same move?".
 
-Da man als Verteidiger meist vertikal oder horizontal denkt und verteidigt, kann man per diagonalem Dribbling (zusammen mit gutem Antritt) oft leicht an Verteidigern vorbei gehen (was man in FIFA 15 besonders oft bei Gegnern sieht, die das ausschließlich machen wollen).
+Half-space dribblings are extremely hard to defend. And even if the defender is able to attack the half-space dribbler: he can simply pass back, pass onto an wing or make a more lateral movement, before getting attacked.
 
-Diese inverse/diagonale Bewegung meine ich hier mit dem Begriff "Halbraumdribbling" - und diese Halbraumdribblings sieht man im echten Fußball immer wieder von den technisch stärksten Spielern, eben weil diese Bewegungen so gefährlich und schwer zu stoppen sind.
 
-Robben z.B. hatte schon immer diese Halbraumdribblings gemacht und anschließend den Abschluss gesucht. Iniesta hat nach Halbraumdibblings eher immer den Doppel- oder Schnittstellenpass probiert statt zu schießen. Marco Reus ist wohl der beste deutsche "Halbraumspieler" und Leo Messi der Halbraumgott, der sowohl Einzelaktionen und Doppel- und Schnittstellenpässe perfekt ausführen kann.
-
-Besonders in Deutschland haben sich viele bei Robbens erster Saison bei Bayern gefragt: "Wieso kann man ihn nicht aufhalten, obwohl er immer das selbe macht?"
-
-Diese Halbraumdribblings sind eben unglaublich schwer zu stoppen - und selbst wenn man sich dem Dribbler dann in den Weg stellt: Dann kann er einfach einen Pass zurück oder quer auf den Flügel spielen, bevor er angegriffen wird.
-===== Ballmagnet und permanente Anspielstation =====
-
-===== Vorbilder =====
+===== Role models =====
 
 ==== Xavi ====
 
