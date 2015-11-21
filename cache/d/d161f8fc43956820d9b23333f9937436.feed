@@ -7,14 +7,13 @@
     xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
     xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel rdf:about="http://cruyff-academy.crayos.de/feed.php">
-        <title>Cruyff Academy en</title>
+        <title>Cruyff Academy some</title>
         <description></description>
         <link>http://cruyff-academy.crayos.de/</link>
         <image rdf:resource="http://cruyff-academy.crayos.de/lib/tpl/dokuwiki/images/favicon.ico" />
-       <dc:date>2015-11-20T15:11:10+01:00</dc:date>
+       <dc:date>2015-11-20T15:11:18+01:00</dc:date>
         <items>
             <rdf:Seq>
-                <rdf:li rdf:resource="http://cruyff-academy.crayos.de/doku.php?id=en:start&amp;rev=1441557222&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -23,16 +22,4 @@
         <link>http://cruyff-academy.crayos.de/</link>
         <url>http://cruyff-academy.crayos.de/lib/tpl/dokuwiki/images/favicon.ico</url>
     </image>
-    <item rdf:about="http://cruyff-academy.crayos.de/doku.php?id=en:start&amp;rev=1441557222&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2015-09-06T18:33:42+01:00</dc:date>
-        <title>Welcome to the Cruyff Academy</title>
-        <link>http://cruyff-academy.crayos.de/doku.php?id=en:start&amp;rev=1441557222&amp;do=diff</link>
-        <description>Welcome to the Cruyff Academy
-
-
-This is a place made by and for football fanatics and tactic enthusiasts, who take a very different approach on FIFA Pro Clubs (PS4) than most parts of the FIFA-Community.
-
-It's our aim to find like-minded people, who love beautiful and sophisticated football just as much as we do, to create a powerful team with ambitious, talented and friendly players at the same time.</description>
-    </item>
 </rdf:RDF>
