@@ -11,11 +11,11 @@
         <description></description>
         <link>http://cruyff-academy.crayos.de/</link>
         <image rdf:resource="http://cruyff-academy.crayos.de/lib/tpl/dokuwiki/images/favicon.ico" />
-       <dc:date>2015-11-02T10:28:38+01:00</dc:date>
+       <dc:date>2015-12-02T04:19:31+01:00</dc:date>
         <items>
             <rdf:Seq>
-                <rdf:li rdf:resource="http://cruyff-academy.crayos.de/doku.php?id=en:tactics:playroles&amp;rev=1444739244&amp;do=diff"/>
-                <rdf:li rdf:resource="http://cruyff-academy.crayos.de/doku.php?id=en:tactics:positionalplay&amp;rev=1444952637&amp;do=diff"/>
+                <rdf:li rdf:resource="http://cruyff-academy.crayos.de/doku.php?id=en:tactics:playroles&amp;rev=1447245680&amp;do=diff"/>
+                <rdf:li rdf:resource="http://cruyff-academy.crayos.de/doku.php?id=en:tactics:positionalplay&amp;rev=1447412020&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -24,11 +24,11 @@
         <link>http://cruyff-academy.crayos.de/</link>
         <url>http://cruyff-academy.crayos.de/lib/tpl/dokuwiki/images/favicon.ico</url>
     </image>
-    <item rdf:about="http://cruyff-academy.crayos.de/doku.php?id=en:tactics:playroles&amp;rev=1444739244&amp;do=diff">
+    <item rdf:about="http://cruyff-academy.crayos.de/doku.php?id=en:tactics:playroles&amp;rev=1447245680&amp;do=diff">
         <dc:format>text/html</dc:format>
-        <dc:date>2015-10-13T14:27:24+01:00</dc:date>
+        <dc:date>2015-11-11T13:41:20+01:00</dc:date>
         <title>Roles of Positional Play</title>
-        <link>http://cruyff-academy.crayos.de/doku.php?id=en:tactics:playroles&amp;rev=1444739244&amp;do=diff</link>
+        <link>http://cruyff-academy.crayos.de/doku.php?id=en:tactics:playroles&amp;rev=1447245680&amp;do=diff</link>
         <description>Roles of Positional Play
 
 Halfdefender
@@ -37,13 +37,13 @@ Halfdefender
 
 Red: The area the LCB/RCB are usually to be found. ([&quot;defensive interior corridor&quot;])
 
-Orange: The area the LCB/RCB switches to, in order to make the game [wide in the buildup phase], if the opponent is pressing high up the pitch. Die jeweils unteren Bereiche treffen bei</description>
+Orange: The area the LCB/RCB switches to, in order to make the game [wide in the buildup phase], if the opponent is pressing high up the pitch. The zones on the first line can be used at</description>
     </item>
-    <item rdf:about="http://cruyff-academy.crayos.de/doku.php?id=en:tactics:positionalplay&amp;rev=1444952637&amp;do=diff">
+    <item rdf:about="http://cruyff-academy.crayos.de/doku.php?id=en:tactics:positionalplay&amp;rev=1447412020&amp;do=diff">
         <dc:format>text/html</dc:format>
-        <dc:date>2015-10-16T01:43:57+01:00</dc:date>
+        <dc:date>2015-11-13T11:53:40+01:00</dc:date>
         <title>Game strategy</title>
-        <link>http://cruyff-academy.crayos.de/doku.php?id=en:tactics:positionalplay&amp;rev=1444952637&amp;do=diff</link>
+        <link>http://cruyff-academy.crayos.de/doku.php?id=en:tactics:positionalplay&amp;rev=1447412020&amp;do=diff</link>
         <description>Game strategy
 
 Prerequisites
@@ -56,6 +56,6 @@ Following technical basics every player has to master:
 	*  Keeping the ball and pressing resistance
 	*  Control over players movements
 	*  concious application of effective trick movements
-	*  fast assessment of game situmations</description>
+	*  fast assessment of game situations</description>
     </item>
 </rdf:RDF>
