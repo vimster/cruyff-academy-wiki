@@ -30,7 +30,7 @@ Positional play comprises a large number of aspects. After all, they all have on
 ----
 
 ==== Training drills ====
-[size=3]//-> Main article: [[e:guides:training|Training drills]]//[/size]
+[size=3]//-> Main article: [[en:guides:training|Training drills]]//[/size]
 
 ----
 
