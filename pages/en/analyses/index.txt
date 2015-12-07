@@ -1,0 +1,18 @@
+====== Analyses ======
+
+This section is aimed at collecting both detailed match analyses (video or test based) and short video sequences we want to attach particular importance to (eg. half-space dribblings, passing, usage of L2). but also stating the overall club progress. For gathering video material we set up a [[https://www.youtube.com/channel/UC910tw65U2KKG1Y5cYpU9jg|Youtube channel]].
+
+===== Match analyses =====
+
+**Cruyffian diamond**
+
+A video anaysis made by CGGyllen focussing on the connections and interactions between the midfielders of a cruyffian diamond formation.
+
+<html><iframe width="560" height="315" src="https://www.youtube.com/embed/BCkkgXvG2XA?list=PLkKg3fnXJN8e6JDRr_J0jEsMrGSVoD4IP" frameborder="0" allowfullscreen></iframe></html>
+
+===== Video sequences =====
+The [[https://www.youtube.com/channel/UC910tw65U2KKG1Y5cYpU9jg/playlists|playlists]] of our Youtube channel point out main issues happening almost every game and we need to work on.
+
+
+===== Club progress =====
+-> [[en:tactics:analysis120215|Contemporary Analysis #1 (Dec. 2015)]]

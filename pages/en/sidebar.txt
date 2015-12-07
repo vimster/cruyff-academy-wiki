@@ -15,4 +15,6 @@
   *[[en:guides:tacticaldribbling|Pressing Resistance]]
   *[[en:guides:defending|Defending]]
 
+[[en:analyses:index|Analyses]]
+
 [[en:faq|Frequently asked questions]]

@@ -129,4 +129,8 @@ Especially, the second parameter (no opposition player can get in between) is th
 
 This is an area where FIFA 16 differs a bit more from real football and you have to have knowledge of how long the distance between you and defenders must and can be so you are connected to the ball carrier. This can only be learned by experience. [[en:guides:training|Easy training drills and exercises]] can help you speed up the usually low learning curve by pure experience.
 
+The third parameter almost becomes obsolete since EA implemented the hard passes with R1. If a player is completely open but a little further away it is still possible to pass it to him with R1.
+
+==== Wings are not neccessarily bad! ====
+
 To be continued..

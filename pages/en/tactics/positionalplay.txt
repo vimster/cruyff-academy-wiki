@@ -34,17 +34,11 @@ Positional play comprises a large number of aspects. After all, they all have on
 
 ----
 
-===== Opponent playstyles =====
-((if anyone is interested in detailed analyses from popular german teams I will add them also))
-==== Low player count ====
-
-==== High player count ====
-
-===== Match analyses ====
+===== Match/Team analyses ====
 
 === Contemporary Analyses ===
 
--> [[en:tactics:analysis120215|Contemporary Analysis #1]]
+-> [[en:tactics:analysis120215|Contemporary Analysis #1 (Dec. 2015)]]
 
 === Versus parking busses ===
 
