@@ -7,10 +7,10 @@
   *opposing defenders must be behind you or far away from you
   *try to build a triangle with the passer and an additional player
 
-By holding the L2 button you ensure that your player permanently keeps the viewing direction onto the ball and at the same time to the passer. Hence, you attain four things:
+By holding the L2 button you ensure that your player permanently keeps the viewing direction to the ball and at the same time to the passer. Hence, you attain four things:
 
   - pass is not played in the back
-  - pass is not played in the run
+  - pass is not played into the run
   - ball does not bounce in 99 percent of cases ((1% random errors, which are beyond our influence))
   - you signal the player in possession, that you demand a x-pass
 
