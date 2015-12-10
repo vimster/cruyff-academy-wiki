@@ -4,8 +4,35 @@ We are proud of being a team comprising players from different European countrie
 
 <html><iframe width="420" height="315" src="https://www.youtube.com/embed/fdXJzCod2JI" frameborder="0" allowfullscreen></iframe></html>
 
-====== Founders ======
+===== Founders =====
 
+
+^J_Cruyff__14          ^^
+|From |{{:en:team:de.png?25|}} Regensburg, Deutschland |
+|Positions | Winger, CM, CDM |
+|Club | Bayern Munich |
+|Qualities |Balance provider |
+
+^JDe17De7           ^^
+|From |{{:en:team:de.png?25|}} Osnabrück, Deutschland |
+|Positions | Any, ST, Winger |
+|Club | Borussia Dortmund |
+|Qualities |Fast passing god |
+
+^BRAZZO87           ^^
+|From |{{:en:team:de.png?25|}} Berlin, Deutschland |
+|Positions | Any, CM |
+|Club | Bayern Munich |
+|Qualities |Fast passing god |
+
+===== Gold Members =====
+^CGGyllen           ^^
+|From |{{:en:team:se.png?25|}} Stockholm, Sweden|
+|Member since |07/2015 |
+|Positions | Winger, CM, CDM |
+|Qualities  Guarantee for decisive long-range shots ||
+
+===== Silver Members =====
 
 ^OmelDonya           ^^
 |From |{{:en:team:dk.png?25|}} Cobenhaven, Denmark|
@@ -15,14 +42,58 @@ We are proud of being a team comprising players from different European countrie
 
 
 
-^CGGyllen           ^^
-|From |{{:en:team:se.png?25|}} Stockholm, Sweden|
-|Member since |07/2015 |
-|Positions | Winger, CM, CDM |
-|Qualities | Guarantee for decisive long-range shots |
-
 ^KingKrelli           ^^
 |From |{{:en:team:de.png?25|}} Berlin, Germany|
 |Member since |07/2015 |
 |Positions | Winger, CM, CDM |
 |Qualities | 3 to infinety touch player |
+
+^Giannii98 ^^
+|From |{{:en:team:de.png?25|}} Kraichgau, Germany|
+|Member since |07/2015 |
+|Positions | Winger, CM, CDM |
+|Qualities | 3 to infinety touch player |
+
+===== Newcomer =====
+
+^EatMySpudsack ^^
+|From |{{:en:team:gb.png?25|}} Manchester, Britain |
+|Member since |12/2015 |
+|Positions | Winger, CM, CDM |
+|Club | Manchester United |
+|Qualities |Fast passing god |
+
+^AbdiAbdelaoe ^^
+|From |{{:en:team:gb.png?25|}} Manchester, Britain |
+|Member since |12/2015 |
+|Positions | Winger, CM, CDM |
+|Club | Manchester United |
+|Qualities |Fast passing god |
+
+^Stefan ^^
+|From |{{:en:team:gb.png?25|}} Manchester, Britain |
+|Member since |12/2015 |
+|Positions | Winger, CM, CDM |
+|Club | Manchester United |
+|Qualities |Fast passing god |
+
+^BeyondThought ^^
+|From |{{:en:team:gb.png?25|}} Manchester, Britain |
+|Member since |12/2015 |
+|Positions | Winger, CM, CDM |
+|Club | Manchester United |
+|Qualities |Fast passing god |
+
+^ShaneY ^^
+|From |{{:en:team:gb.png?25|}} Manchester, Britain |
+|Member since |12/2015 |
+|Positions | Winger, CM, CDM |
+|Club | Manchester United |
+|Qualities |Fast passing god |
+
+^ricolla ^^
+|From |{{:en:team:de.png?25|}} Bielefeld, Germany |
+|Member since |12/2015 |
+|Positions | Winger, CM, CDM |
+|Club | Bayern Munich |
+|Qualities |Fast passing god |
