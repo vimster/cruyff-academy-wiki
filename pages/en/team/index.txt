@@ -6,24 +6,26 @@ We are proud of being a team comprising players from different European countrie
 
 ===== Founders =====
 
-
 ^J_Cruyff__14          ^^
 |From |{{:en:team:de.png?25|}} Regensburg, Deutschland |
 |Positions | Winger, CM, CDM |
 |Club | Bayern Munich |
+|Role model |Xabi Alonso |
 |Qualities |Balance provider |
 
-^JDe17De7           ^^
+^JDe17De7 ^^
 |From |{{:en:team:de.png?25|}} Osnabrück, Deutschland |
 |Positions | Any, ST, Winger |
 |Club | Borussia Dortmund |
+|Role model |Marcel Schmelzer |
 |Qualities |Fast passing god |
 
 ^BRAZZO87           ^^
 |From |{{:en:team:de.png?25|}} Berlin, Deutschland |
 |Positions | Any, CM |
 |Club | Bayern Munich |
-|Qualities |Fast passing god |
+|Role model |Jerome Boateng |
+|Qualities |Gap filler |
 
 ===== Gold Members =====
 ^CGGyllen           ^^
@@ -51,8 +53,8 @@ We are proud of being a team comprising players from different European countrie
 ^Giannii98 ^^
 |From |{{:en:team:de.png?25|}} Kraichgau, Germany|
 |Member since |07/2015 |
-|Positions | Winger, CM, CDM |
-|Qualities | 3 to infinety touch player |
+|Positions | Winger, CM |
+|Qualities |  |
 
 ===== Newcomer =====
 
@@ -61,13 +63,15 @@ We are proud of being a team comprising players from different European countrie
 |Member since |12/2015 |
 |Positions | Winger, CM, CDM |
 |Club | Manchester United |
-|Qualities |Fast passing god |
+|Role model | Paul Pogba |
+|Qualities |Fast passing god and conversion monster |
 
 ^AbdiAbdelaoe ^^
 |From |{{:en:team:gb.png?25|}} Manchester, Britain |
 |Member since |12/2015 |
 |Positions | Winger, CM, CDM |
 |Club | Manchester United |
+|Role model | Paul Pogba |
 |Qualities |Fast passing god |
 
 ^Stefan ^^
@@ -75,6 +79,7 @@ We are proud of being a team comprising players from different European countrie
 |Member since |12/2015 |
 |Positions | Winger, CM, CDM |
 |Club | Manchester United |
+|Role model |Ryan Giggs |
 |Qualities |Fast passing god |
 
 ^BeyondThought ^^
@@ -82,6 +87,7 @@ We are proud of being a team comprising players from different European countrie
 |Member since |12/2015 |
 |Positions | Winger, CM, CDM |
 |Club | Manchester United |
+|Role model | Paul Pogba |
 |Qualities |Fast passing god |
 
 ^ShaneY ^^
@@ -89,6 +95,7 @@ We are proud of being a team comprising players from different European countrie
 |Member since |12/2015 |
 |Positions | Winger, CM, CDM |
 |Club | Manchester United |
+|Role model | Paul Pogba |
 |Qualities |Fast passing god |
 
 ^ricolla ^^
@@ -96,4 +103,5 @@ We are proud of being a team comprising players from different European countrie
 |Member since |12/2015 |
 |Positions | Winger, CM, CDM |
 |Club | Bayern Munich |
+|Role model | Paul Pogba |
 |Qualities |Fast passing god |
