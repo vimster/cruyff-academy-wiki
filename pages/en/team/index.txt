@@ -75,12 +75,12 @@ We are proud of being a team comprising players from different European countrie
 |Qualities |Fast passing god |
 
 ^Stefan ^^
-|From |{{:en:team:gb.png?25|}} Manchester, Britain |
+|From |{{:en:team:nl.png?25|}} Amsterdam, Netherlands |
 |Member since |12/2015 |
-|Positions | Winger, CM, CDM |
-|Club | Manchester United |
-|Role model |Ryan Giggs |
-|Qualities |Fast passing god |
+|Positions | CDM |
+|Club | Ajax Amsterdam |
+|Role model |Ruud Van Nistelrooy |
+|Qualities | |
 
 ^BeyondThought ^^
 |From |{{:en:team:gb.png?25|}} Manchester, Britain |

@@ -2,7 +2,7 @@
 
 {{ :playground:lib.jpg?200|}}**Red:** The main area in positional play of the CDM, also called the space of the six. In this space the CDM serves as hedging player and free man in the center for LCM/RCM and LCB/RCB respectively.
 
-**Lighyellow:** If the ball remains a long time on the wing, the CDM may move into the half-space, in order to overload that zone and prepare a changeover.
+**Lighyellow:** If the ball remains a long time on the wing, the CDM may move into the half-space, in order to overload that zone and prepare a switch of play.
 
 **Yellow:** Ist LIV oder RIV im Ball stark unter Druck lässt sich der ZDM auch mal in den eigenen Sechzehner fallen, um eine Ablage zu fordern.
 If LCB/RCB in possession is pressed, the CDM can drops into the box to support the build-up.
@@ -29,7 +29,7 @@ In case we are beyond the halfway line, the CDM has following tasks:
   *Thus, act as a link between LCM and RCM
   *More precisly, always be available for passes behind the LCM/RCM
   *Maintain a triangle with LCM/RCM
-  *Especially important when getting pressed: prepare for a changeover to a free winger
+  *Especially important when getting pressed: prepare for a switch of play to a free winger
   *Please do not forget: Never move up in front of LCM/RCM
   *Never ever step out onto the wing
 

@@ -25,7 +25,7 @@ Alaba is King
 
 {{ :playground:lib.jpg?200|}}**Red:** The main area in positional play of the CDM, also called the space of the six. In this space the CDM serves as hedging player and free man in the center for LCM/RCM and LCB/RCB respectively.
 
-**Lighyellow:** If the ball remains a long time on the wing, the CDM may move into the half-space, in order to overload that zone and prepare a changeover.
+**Lighyellow:** If the ball remains a long time on the wing, the CDM may move into the half-space, in order to overload that zone and prepare a switch of play.
 
 **Yellow:** Ist LIV oder RIV im Ball stark unter Druck lässt sich der ZDM auch mal in den eigenen Sechzehner fallen, um eine Ablage zu fordern.
 If LCB/RCB in possession is pressed, the CDM can drops into the box to support the build-up.
@@ -39,7 +39,7 @@ Additionally, in defence the CDM follows an opposing player into the box.
 The wide making winger sticks to the touchline, plays linearly and
 runs back and forth and back and forth and back and forth.
 
-**Red:** These are the zones the wide making winger is supposed to stay in the build up phase, preferably near the touchline. When the ball is on the opposite side he always needs to be prepared for a changeover.
+**Red:** These are the zones the wide making winger is supposed to stay in the build up phase, preferably near the touchline. When the ball is on the opposite side he always needs to be prepared for a switch of play.
 
 **Orange:** When the attacking winger conducts an inverse dribbling into the half-space, the wide making winger can move up into this space to get a through ball and possibly deliver a cross.
 
