@@ -19,5 +19,6 @@
 [[en:team:index|Team]]
 
 [[en:analyses:index|Analyses]]
+  *[[en:tactics:analysis120215|Club Progress #1]]
 
 [[en:faq|Frequently asked questions]]
