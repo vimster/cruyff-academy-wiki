@@ -1,0 +1,116 @@
+====== Formations and Systems ======
+
+They are just numbers but the following points determine the playstyle:
+
+  *one, two or no strikers
+  *one or two DM's
+  *one or no CAM
+  *one or two CB's
+  *one or two pivots
+
+The following always stays the same:
+
+  *two box-to-box players (LCM/RCM)
+  *two offensive wingers (LW/RW)
+  *two fullbacks (LB/RB)
+  *one goalkeeper
+
+The following systems are the result of months of testing and will probably change in the future.
+
+===== 5 - 4 - 1 (diamond) Transformer-Edition =====
+
+What this formation starts of with:
+
+  *GK
+  *LWB LCB CB RCB RWB
+  *CDM
+  *LM RM
+  *CAM
+  *ST
+
+But we will change the formation by doing the following:
+
+  *LCB and RCB play as LCM and RCM
+  *LM and RM play as LW and RW
+
+The rather defensive **5 - 4 - 1** formation transforms into a **3 - 1 - 2 - 1 - 3** or **3 - 4 - 3** (diamond).
+
+This is better than the ordinary 3 - 4 - 3 (diamond) that's in the game. Reason: LCB and RCB are too close to the center when they are controlled by the AI which makes it too easy for opponents to run down the wings. With LWB and RWB it is much easier to defend.
+
+Key roles:
+
+  ***LWB/RWB** widen up the field during build-up play and defend the wings
+  ***CB** works as pivot mainly for LWB/RWB/CDM; anticipates through balls in the middle
+  ***CDM** is the most important build-up player and works as pivot mainly for LCM/RCM/CAM; also anticipates through balls in the middle
+  ***LCM/RCM** create chances in the last third and play combinations in the diamond (**CDM/LCM/RCM/CAM**)
+  ***CAM** works as link between LCM/RCM and LW/ST/RW and must help keeping the diamond and the combinations in it intact
+  ***RW/LW** don't take part in the first two thirds and only provide space for the diamond by staying wide; they have infinite freedom in the last third though, as long as they stay in a certain order for example: only three players inside the box!
+  ***ST** doesn't take part in combinations and is solely there to make runs to both get through balls and provide space for the diamond; must be a clinical finisher; always stay in the middle and on top of everyone else, don't track back and/or move to the wings!
+
+Currently the preferred system.
+
+===== 4 - 3 - 3 =====
+
+  *GK
+  *LB LCB RCB RB
+  *CDM
+  *LCM RCM
+  *LW ST RW
+
+Same playstyle as the previous system with some changes:
+
+  *no diamond, because there is no CAM
+  *more wing-oriented and more one-twos between LCM/LW and RCM/RW
+  *only one pivot: the CDM; more responsibility lies on the CDM
+  *LCB and RCB defend their respective zones and use the CDM as pivot
+
+Preferred system when we have not enough players for a diamond.
+
+===== 4 - 3 - 3 ("False 9") =====
+
+  *GK
+  *LB LCB RCB RB
+  *CDM
+  *LCM RCM
+  *False Striker
+  *LW RW
+
+Differences to the ordinary 4 - 3 - 3 with a striker:
+
+  *The false ST provides the diamond that's missing in the previous formation
+  *The false ST is CAM and ST at the same time; he therefore has more responsibility and has to be very creative and clinical at finishing; in exchange for that he has more freedom than anyone else
+  *LW and RW have a little more freedom cutting inside and have more responsibility infront of goal
+
+A decent alternative but almost impossible/unnecessary when we have no "Messi-like" player.
+
+===== 4 - 5 - 1 Ultra-Offensive Nerd-Edition =====
+
+Another transforming formation. It starts out with:
+
+  *GK
+  *LB LCB RCB RB
+  *LM CM RM
+  *LAM RAM
+  *ST
+
+What we are going to do:
+
+  *LB and RB play LCM and RCM
+  *CM as CDM/CB hybrid
+  *false ST
+  *LAM/RAM like LW/RW in 4 - 3 - 3 (false 9)
+
+The outcome:
+
+  *GK
+  *LCB RCB
+  *CDM
+  *LM LCM RCM RM
+  *False ST
+  *LW RW
+
+It turns into some kind of **2 - 1 - 4 - 1 - 2** or **3 - 4 - 1 - 2**. Basically, it's a **4 - 3 - 3 (False 9)** with higher fullbacks. This provides a more effective pressing and more options in offense because LM/RM play higher than LB/RB without having to let them play by real players.
+
+It's also possible with a real ST by sacrificing the diamond. It then turns into either a **2 - 1 - 4 - 3, 2 - 1 - 4 - 2 - 1, 3 - 4 - 2 - 1, 3 - 6 - 1**, or however you want to call it. Formations are just phone numbers.
+
+===== 

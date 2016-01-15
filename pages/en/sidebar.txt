@@ -4,6 +4,9 @@
 
 [[en:tactics:positionalplay|Game Strategy]]
 
+[[en:tactics:compact|Our Philosophy - Compact]]
+  *[[en:tactics:systemscompact|Formations and Systems]]
+
 [[en:tactics:playroles|Roles of Positional Play]]
   *[[en:tactics:halfdefender|Halfdefender]]
   *[[en:tactics:bossquets|Midfield Sweeper]]

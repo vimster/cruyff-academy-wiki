@@ -1,6 +1,10 @@
-a:2:{s:7:"current";a:8:{s:4:"date";a:2:{s:7:"created";i:1438968807;s:8:"modified";i:1450228778;}s:7:"creator";s:14:"Johan Neeskens";s:4:"user";s:9:"jneeskens";s:11:"last_change";a:7:{s:4:"date";i:1450228778;s:2:"ip";s:13:"178.1.143.160";s:4:"type";s:1:"E";s:2:"id";s:10:"en:sidebar";s:4:"user";s:9:"jneeskens";s:3:"sum";s:0:"";s:5:"extra";s:0:"";}s:11:"contributor";a:1:{s:9:"jneeskens";s:8:"BRAZZO87";}s:8:"relation";a:2:{s:10:"references";a:16:{s:8:"en:start";b:1;s:25:"en:tactics:positionalplay";b:1;s:20:"en:tactics:playroles";b:1;s:23:"en:tactics:halfdefender";b:1;s:20:"en:tactics:bossquets";b:1;s:22:"en:tactics:playmaking8";b:1;s:18:"en:tactics:striker";b:1;s:15:"en:guides:index";b:1;s:18:"en:guides:training";b:1;s:17:"en:guides:passing";b:1;s:27:"en:guides:tacticaldribbling";b:1;s:19:"en:guides:defending";b:1;s:13:"en:team:index";b:1;s:17:"en:analyses:index";b:1;s:25:"en:tactics:analysis120215";b:1;s:6:"en:faq";b:1;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}s:11:"description";a:1:{s:8:"abstract";s:281:"Welcome to the Cruyff Academy
+a:2:{s:7:"current";a:8:{s:4:"date";a:2:{s:7:"created";i:1438968807;s:8:"modified";i:1452781850;}s:7:"creator";s:14:"Johan Neeskens";s:4:"user";s:9:"jneeskens";s:11:"last_change";a:7:{s:4:"date";i:1452781850;s:2:"ip";s:13:"95.91.236.104";s:4:"type";s:1:"E";s:2:"id";s:10:"en:sidebar";s:4:"user";s:7:"jcruyff";s:3:"sum";s:0:"";s:5:"extra";s:0:"";}s:11:"contributor";a:2:{s:9:"jneeskens";s:8:"BRAZZO87";s:7:"jcruyff";s:11:"JCruyff__14";}s:8:"relation";a:2:{s:10:"references";a:18:{s:8:"en:start";b:1;s:25:"en:tactics:positionalplay";b:1;s:18:"en:tactics:compact";b:1;s:25:"en:tactics:systemscompact";b:1;s:20:"en:tactics:playroles";b:1;s:23:"en:tactics:halfdefender";b:1;s:20:"en:tactics:bossquets";b:1;s:22:"en:tactics:playmaking8";b:1;s:18:"en:tactics:striker";b:1;s:15:"en:guides:index";b:1;s:18:"en:guides:training";b:1;s:17:"en:guides:passing";b:1;s:27:"en:guides:tacticaldribbling";b:1;s:19:"en:guides:defending";b:1;s:13:"en:team:index";b:1;s:17:"en:analyses:index";b:1;s:25:"en:tactics:analysis120215";b:1;s:6:"en:faq";b:1;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}s:11:"description";a:1:{s:8:"abstract";s:334:"Welcome to the Cruyff Academy
 
 Game Strategy
+
+Our Philosophy - Compact
+
+	* Formations and Systems
 
 Roles of Positional Play
 
@@ -22,4 +26,4 @@ Analyses
 
 	* Club Progress #1
 
-Frequently asked questions";}}s:10:"persistent";a:5:{s:4:"date";a:2:{s:7:"created";i:1438968807;s:8:"modified";i:1450228778;}s:7:"creator";s:14:"Johan Neeskens";s:4:"user";s:9:"jneeskens";s:11:"last_change";a:7:{s:4:"date";i:1450228778;s:2:"ip";s:13:"178.1.143.160";s:4:"type";s:1:"E";s:2:"id";s:10:"en:sidebar";s:4:"user";s:9:"jneeskens";s:3:"sum";s:0:"";s:5:"extra";s:0:"";}s:11:"contributor";a:1:{s:9:"jneeskens";s:8:"BRAZZO87";}}}
+Frequently asked questions";}}s:10:"persistent";a:5:{s:4:"date";a:2:{s:7:"created";i:1438968807;s:8:"modified";i:1452781850;}s:7:"creator";s:14:"Johan Neeskens";s:4:"user";s:9:"jneeskens";s:11:"last_change";a:7:{s:4:"date";i:1452781850;s:2:"ip";s:13:"95.91.236.104";s:4:"type";s:1:"E";s:2:"id";s:10:"en:sidebar";s:4:"user";s:7:"jcruyff";s:3:"sum";s:0:"";s:5:"extra";s:0:"";}s:11:"contributor";a:2:{s:9:"jneeskens";s:8:"BRAZZO87";s:7:"jcruyff";s:11:"JCruyff__14";}}}
