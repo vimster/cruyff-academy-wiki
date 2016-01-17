@@ -31,10 +31,6 @@ Skip one of these points and the philosophy changes completely.
 
 [size=3]//-> Main article: [[en:tactics:systemscompact|Formations and Systems]]//[/size]
 
-===== Formations and Systems =====
-
-[size=3]//-> Main article: [[en:tactics:systemscompact|Formations and Systems]]//[/size]
-
 ===== The Art of Domination =====
 
   "Dominating means creating more scoring chances than your opponent. 
@@ -79,3 +75,55 @@ Now let's talk about "phases" and "areas".
 ==== Build-up Phase ====
 
   *Lines 1-4
+  *static and wide positioning - don't waste your energy by running around like a maniac
+  *every player stays in his respective zone providing vertical and horizontal depth
+  *no skill moves
+
+=== Positioning ===
+
+5-4-1 Transformer-Edition:
+
+  ***LWB in A1-3**; at least 1 zone behind LW
+  ***RWB in E1-3**; at least 1 zone behind RW
+  ***CB in C1-2**; at least 1 zone behind CDM
+  ***LCM in B2-4**; never on a line with CDM/CB/CAM/ST/LW
+  ***RCM in D2-4**; never on a line with CDM/CB/CAM/ST/RW
+  ***CDM in C1-3**; always behind and between LCM/RCM; either on a line with CB or one zone ahead
+  ***CAM in C3-4**; one zone ahead of CDM, between and ahead of LCM/RCM ("mirror" of CDM)
+  ***RW in E3-4**; always ahead of RCM and ready for long switches of play; almost on touchline
+  ***LW in A3-4**; always at the very front and ready for long switches of play; almost on touchline
+  ***ST in C3-4**; always at the very front
+
+4-3-3((No commentary means it's the same as in 5-4-1)):
+
+  ***LB in A1-3**
+  ***RB in E1-3**
+  ***LCB in B1-3**; at least 1 zone behind LCM, going wider when LB moves higher
+  ***RCB in D1-3**; at least 1 zone behind RCM, going wider when RB moves higher
+  ***CDM in C1-3**; always behind&between LCM/RCM; behind&between LCB/RCB when needed
+  ***LCM in B2-4**; can also move to C3-4 to overload right side when ball is in D3-4
+  ***RCM in D2-4**; can also move in C3-4 to overload left side when ball is in B3-4
+  ***LW in A3-4**
+  ***RW in E3-4**
+  ***ST in C3-4**
+
+4-3-3 (F9)((No commentary means it's the same as in 4-3-3)):
+
+  ***LB in A1-4**; can move higher when LW cuts inside
+  ***RB in E1-4**; can move higher when RW cuts inside
+  ***LCB in B1-3**
+  ***RCB in D1-3**
+  ***CDM in C1-3**
+  ***LCM in B2-4**; reacts to movements of F9 to create fluid triangles/diamonds with RCM/F9/LW/CDM
+  ***RCM in D2-4**; reacts to movements of F9 to create fluid triangles/diamonds with LCM/F9/RW/CDM
+  ***LW in A3-4**; can cut inside to B4 (like LS), but only when F9 is not in C4
+  ***RW in E3-4**; can cut inside to D4 (like RS), but only when F9 is not in C4
+  ***F9 in B3-4/C3-4/D3-4**; with great freedom comes great responsibility; creates triangles/diamonds fluidly; overloading master
+
+==== Verticalization ====
+
+Verticalization is the process of moving the play from one line to a higher line. There are two ways of verticalising:
+
+  *...passing "in between the lines" (vertical/interior passing)
+  *...dribbling forward (vertical/diagonal dribbling)
+

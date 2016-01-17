@@ -37,7 +37,7 @@ The rather defensive **5 - 4 - 1** formation transforms into a **3 - 1 - 2 - 1 -
 
 This is better than the ordinary 3 - 4 - 3 (diamond) that's in the game. Reason: LCB and RCB are too close to the center when they are controlled by the AI which makes it too easy for opponents to run down the wings. With LWB and RWB it is much easier to defend.
 
-Key roles:
+Roles:
 
   ***LWB/RWB** widen up the field during build-up play and defend the wings
   ***CB** works as pivot mainly for LWB/RWB/CDM; anticipates through balls in the middle
