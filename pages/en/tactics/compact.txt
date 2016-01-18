@@ -4,12 +4,12 @@
 
 The philosophy can be summarized as follows:
 
-  *Technique: Know all important aspects of the game.
-  *Decision Making: Make the right decisions in every situation.
-  *Control: Keep control in every situation.
-  *Pressure: On the opponent both when defending and when attacking.
-  *Simplicity: Make it look simple and beautiful.
-  *Evolution: Never stop learning.
+  ***Technique:** Know all important aspects of the game.
+  ***Decision Making:** Make the right decisions in every situation.
+  ***Control:** Keep control in every situation.
+  ***Pressure:** On the opponent both when defending and when attacking.
+  ***Simplicity:** Make it look simple and beautiful.
+  ***Evolution:** Never stop learning.
 
 The overall goal is to constantly put pressure on the opponent on and off the ball whilst keeping control at the same time.
 
@@ -63,6 +63,7 @@ Now let's talk about "phases" and "areas".
   *rules not as strict as in the other lines
   *the box is always limited to 3 players only
   *optimal positioning in the box: LW in B6, ST in C6 and RW in D6
+  *optimal positioning outside the box: LCM in B5, RCM in D5
 
 ==== High Priority Area ====
 
@@ -120,9 +121,15 @@ Now let's talk about "phases" and "areas".
   ***RW in E3-4**; can cut inside to D4 (like RS), but only when F9 is not in C4
   ***F9 in B3-4/C3-4/D3-4**; with great freedom comes great responsibility; creates triangles/diamonds fluidly; overloading master
 
-==== Verticalization ====
+=== Verticalization ===
 
-Verticalization is the process of moving the play from one line to a higher line. There are two ways of verticalising:
+Verticalization is the process of moving the play from one line to a higher line. We use verticalization to get from build-up phase to the high-priority area. 
+
+The more space we bypass by verticalization the faster we move forward. 
+
+
+
+There are two ways of verticalising:
 
   *...passing "in between the lines" (vertical/interior passing)
   *...dribbling forward (vertical/diagonal dribbling)
