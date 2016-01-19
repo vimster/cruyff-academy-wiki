@@ -10,9 +10,10 @@ A video anaysis made by CGGyllen focussing on the connections and interactions b
 
 <html><iframe width="560" height="315" src="https://www.youtube.com/embed/BCkkgXvG2XA?list=PLkKg3fnXJN8e6JDRr_J0jEsMrGSVoD4IP" frameborder="0" allowfullscreen></iframe></html>
 
-===== Video sequences =====
+===== Common mistakes =====
 The [[https://www.youtube.com/channel/UC910tw65U2KKG1Y5cYpU9jg/playlists|playlists]] of our Youtube channel point out main issues happening almost every game and we need to work on.
 
+[size=3]//-> Main article: [[en:tactics:commonmistakes|Common mistakes]]//[/size]
 
 ===== Club progress =====
 -> [[en:tactics:analysis120215|Contemporary Analysis #1 (Dec. 2015)]]

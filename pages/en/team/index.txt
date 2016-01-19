@@ -7,17 +7,17 @@ We are proud of being a team comprising players from different European countrie
 ===== Founders =====
 
 ^J_Cruyff__14          ^^
-|From |{{:en:team:de.png?25|}} Regensburg, Deutschland |
+|From |{{:en:team:de.png?25|}} Bayern, Deutschland |
 |Positions | Winger, CM, CDM |
 |Club | Bayern Munich |
-|Role model |Xabi Alonso |
+|Role model |Xavi Hernández |
 |Qualities |Balance provider |
 
 ^JDe17De7 ^^
-|From |{{:en:team:de.png?25|}} Osnabrück, Deutschland |
+|From |{{:en:team:de.png?25|}} Berlin, Deutschland |
 |Positions | Any, ST, Winger |
 |Club | Borussia Dortmund |
-|Role model |Marcel Schmelzer |
+|Role model |Marco Reus |
 |Qualities |Fast passing god |
 
 ^BRAZZO87           ^^
@@ -40,7 +40,7 @@ We are proud of being a team comprising players from different European countrie
 |From |{{:en:team:dk.png?25|}} Cobenhaven, Denmark|
 |Member since |07/2015 |
 |Positions | LW |
-|Qualities | King of astonishing dribblings |
+|Qualities | Manual Control |
 
 
 
@@ -50,11 +50,6 @@ We are proud of being a team comprising players from different European countrie
 |Positions | Winger, CM, CDM |
 |Qualities |  |
 
-^Giannii98 ^^
-|From |{{:en:team:de.png?25|}} Kraichgau, Germany|
-|Member since |07/2015 |
-|Positions | Winger, CM |
-|Qualities |  |
 
 ===== Newcomer =====
 
@@ -74,21 +69,7 @@ We are proud of being a team comprising players from different European countrie
 |Role model | Paul Pogba |
 |Qualities |Fast passing god |
 
-^Stefan ^^
-|From |{{:en:team:nl.png?25|}} Amsterdam, Netherlands |
-|Member since |12/2015 |
-|Positions | CDM |
-|Club | Ajax Amsterdam |
-|Role model |Ruud Van Nistelrooy |
-|Qualities | |
 
-^BeyondThought ^^
-|From |{{:en:team:gb.png?25|}} Manchester, Britain |
-|Member since |12/2015 |
-|Positions | Winger, CM, CDM |
-|Club | Manchester United |
-|Role model | Paul Pogba |
-|Qualities |Fast passing god |
 
 ^ShaneY ^^
 |From |{{:en:team:gb.png?25|}} Manchester, Britain |
