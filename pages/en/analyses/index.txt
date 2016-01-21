@@ -6,7 +6,7 @@ This section is aimed at collecting both detailed match analyses (video or text 
 
 **Cruyffian diamond**
 
-A video anaysis made by CGGyllen focussing on the connections and interactions between the midfielders of a cruyffian diamond formation.
+A video anaysis focussing on the connections and interactions between the midfielders of a cruyffian diamond formation.
 
 <html><iframe width="560" height="315" src="https://www.youtube.com/embed/BCkkgXvG2XA?list=PLkKg3fnXJN8e6JDRr_J0jEsMrGSVoD4IP" frameborder="0" allowfullscreen></iframe></html>
 

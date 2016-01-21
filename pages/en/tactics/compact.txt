@@ -33,20 +33,15 @@ Skip one of these points and the philosophy changes completely.
 
 ===== The Art of Domination =====
 
-  "Dominating means creating more scoring chances than your opponent. 
-  I connect the term "dominance" with attacking football and pressing in the opponent's half."
-  - Louis van Gaal
+[size=3]//-> Main article: [[en:tactics:taod|The Art of Domination]]//[/size]
 
-We want to dominate our opponent at any time. When we do, we are always close to scoring. When we don't, we are always close to conceding.
 
-Alot of people think that having more possession is enough. "We had more possession, we deserved to win!" That is just not true. To fully dominate your opponent you need to perfect 4 points:
 
-  *at least 65% possession
-  *pressure on the opponent on and off the ball
-  *scoring chances
-  *prevent the opponent's scoring chances
 
-To dominate the opponent we need to accomplish these 4 points as a team. To do that, we have to stick to specific rules and player roles. Certain roles are tied to every position. This leads us to the next point.
+
+===== General Rules =====
+
+[size=3]//-> Main article: [[en:tactics:genrul|General Rules]]//[/size]
 
 ===== Positional Play =====
 
@@ -55,7 +50,6 @@ To dominate the opponent we need to accomplish these 4 points as a team. To do t
 From now on, when we talk about specific positions (or "zones" -> "Zonal Play") we will always talk about "lines" (like "line 1-3" or just "A" or "C") and exact terms for each position (like "B4" or "D2") for simplification.
 
 Now let's talk about "phases" and "areas".
-
 ==== Finishing Phase ====
 
   *Lines 5 and 6
@@ -134,3 +128,13 @@ There are two ways of verticalising:
   *...passing "in between the lines" (vertical/interior passing)
   *...dribbling forward (vertical/diagonal dribbling)
 
+===== Cheatsheets =====
+  *{{:en:tactics:common_rules_1_.png?linkonly|Common Rules}}
+  *{{:en:tactics:halfspace-playmaker.png?linkonly|Halfspace Playmaker}}
+
+
+===== Weblinks =====
+
+<html><iframe src="https://player.vimeo.com/video/133880448" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></html>
+
+<html><iframe src="https://player.vimeo.com/video/133746319" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></html>

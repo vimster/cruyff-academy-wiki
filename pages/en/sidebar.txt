@@ -6,6 +6,8 @@
 
 [[en:tactics:compact|Our Philosophy - Compact]]
   *[[en:tactics:systemscompact|Formations and Systems]]
+  *[[en:tactics:taod|The Art of Domination]]
+  *[[en:tactics:genrul|General Rules]]
 
 [[en:tactics:playroles|Roles of Positional Play]]
   *[[en:tactics:halfdefender|Halfdefender]]

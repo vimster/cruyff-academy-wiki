@@ -1,0 +1,90 @@
+====== The Art of Domination ======
+{{ :en:tactics:van-gaal.jpg?145|}}
+  "Dominating means creating more 
+  scoring chances than your opponent. 
+  I connect the term "dominance" with 
+  attacking football and pressing 
+  in the opponent's half."
+  - Louis van Gaal
+
+We want to dominate our opponent at any time. When we do, we are always close to scoring. When we don't, we are always close to conceding.
+
+Alot of people think that having more possession is enough. "We had more possession, we deserved to win!" That is just not true. To fully dominate your opponent you need to perfect 4 points:
+
+  *at least 60% possession
+  *pressure on the opponent on and off the ball
+  *scoring chances
+  *prevent the opponent's scoring chances
+
+To dominate the opponent we need to accomplish these 4 points as a team. To do that, we have to stick to specific rules and player roles. Certain roles are tied to every position. This leads us to the term "Positional Play", which we will talk about later. We have to talk about other basic things first.
+
+===== Passing =====
+
+{{:en:tactics:andrea-pirlo.jpg?400|}}
+
+I try to keep it as compact as possible, but when it comes to how passing works in FIFA since FIFA 15 you have to have read [[en:guides:passing|this article]] for us to go on.
+
+Now we have to worry about three basic things:
+
+  *Numbers of passes
+  *Passing accuracy
+  *Position
+
+The number of passes have to differ from position to position. We also have to keep in mind that our midfield is the heart of play.
+
+Therefore, the CDM usually has the most touches and passes. LCM/RCM come right after and - depending on the current system - CAM/CB/False9.
+
+It is a normal effect that the most secure and active players have the most touches/passes which means that one side will be favored over the other automatically.
+
+This is why it is very important that these players play in midfield and not fullback, winger or even ST.
+
+You cannot get forward when the RB has by far the most touches and the attacking players have close to none.
+
+Now, different coaches use different approaches on moving forward from defense to attack in Positional Play ("Verticalization"). 
+
+The best example for that can be seen at Bayern Munich:
+
+Louis van Gaal likes using great passing players as fullbacks to move forward. One left-footed "playmaking" LB and a right-footed "playmaking" RB. At that time, they were Badstuber on the left and Lahm on the right. The CB's were "only" defenders without much responsibility during build-up play (Demichelis, Van Buyten; he sent Lucio away because he was too attack minded for him).
+
+Pep Guardiola on the other hand wants to have his best passing players in the middle so he moved Lahm to CDM/CM. Badstuber has mostly been injured during Guardiola's term at Bayern but when he played it was CB. He also moved Alaba away from fullback so he can utilize his intelligence adequately. 
+
+Compared to Van Gaal, Guardiola's fullbacks have rather easy tasks to fulfill when it comes to passing and moving the play forward. They dribble forward until they get attacked and then pass the ball diagonally or horizontally into midfield or back to CB. Van Gaal wants his fullbacks to pass long diagonal (ground) passes into offense.
+
+We prefer Guardiola's approach in this case. Diagonal ground passes towards the goal are easier to intercept, especially in FIFA.
+
+===== Pressure =====
+
+When the ball gets lost, immediately attack the player closest to you. The rival on the ball needs to get isolated as quickly and as far away from the own goal as possible. We want to have the ball so we can score and the opponent can't. The outcome of our pressing has to be one of the following:
+
+  *get the ball back by tackling directly
+  *make the rival play random long balls
+  *tactical fouls
+
+Guardiola's teams make very few fouls and don't get many cards in comparison to other teams. But you have to take into consideration, that the dominating team rarely loses the ball and therefore doesn't get a high number of fouls and cards on their side. 
+
+Interesting fact: FC Barcelona had the least fouls per game (= all 90 minutes) in the 2011 Champions League K.O.-stage but had the most fouls per minute spent defending (= only minutes without the ball).
+
+For example, in the CL 2011 Round of 16 vs Arsenal, Barcelona committed 21 fouls in total while Arsenal committed 35! But Barcelona had a possession rate of 61% and 68% which means there were only 63.9 minutes from 180 minutes where they didn't have the ball. Arsenal committed all their fouls in 116.1 minutes while Barcelona only needed 63.9 minutes for their 21 fouls. So: Barca committed 0.33 fouls per minute spent defending while Arsenal committed 0.30.
+
+This applies even more to the Semi-final vs Real Madrid. Barcelona committed 35 fouls in just 57.6 minutes (0.65 fouls per minute) while Real Madrid committed 52 in 122.4 minutes which is just 0.43 fouls per minute spent defending.
+
+Connected to the fact that Barcelona committed most of their fouls in the opponent's half they just didn't get as many yellow and red cards as other teams. 
+
+Guardiola's teams play actually more aggressively than you might have guessed - it's just hidden behind the high amount of possession they have.
+
+{{ :en:tactics:hi-res-5c3d30f5984ca37c6eadf2e17c65018a_crop_north.jpg?197|}}
+  „We are a horrible team without the ball 
+  so I want us to get it back as soon as possible. 
+  I’d rather give away fouls and the ball 
+  in their half than in ours.“
+  - Pep Guardiola
+
+So don't forget: Use fouls when you can't get the ball back quickly. 
+
+How do you get the ball back otherwise? Our approach is called "ball-oriented Pressing". This means that we want to get to the ball aggressively. The one or even two players closest to the rival on the ball attack him aggressively while the other players also move close to the ball not to get the ball back directly but to cover up the possible passing options. 
+
+In German this is called "Ziehharmonika-Prinzip" which means something like "concertina principle". At first, we widen up the field when we have the ball, but when we lose it our team moves closer to get the ball back. After we got it back, we will move wide again.
+
+Everyone takes part in this pressing and everyone has a rival to cover during defending. The only one who doesn't take part in it is the last player in the middle which is either the CDM in 4-2 man-defenses and/or the CB in 3 man-defenses. They are the ones to anticipate through balls and long balls the opponent plays when he gets under pressure.
+
+A common way of getting the ball back easily is isolating a rival on the wing. This can be done by covering passing options in the middle but keeping one wing open so we force our rival to make a pass to a fullback or winger. Then we will attack him immediately so he can't do anything but lose the ball - a reason why we call the wings "low-priority-zone" since you only have one side to play to and can easily get isolated.
