@@ -7,8 +7,8 @@ We are proud of being a team comprising players from different European countrie
 ===== Founders =====
 
 ^J_Cruyff__14          ^^
-|From |{{:en:team:de.png?25|}} Bayern, Deutschland |
-|Positions | Winger, CM, CDM |
+|From |{{:en:team:de.png?25|}} Regensburg, Deutschland |
+|Positions | Any, Winger, CM, CDM |
 |Club | Bayern Munich |
 |Role model |Xavi Hernández |
 |Qualities |Balance provider |
@@ -44,15 +44,44 @@ We are proud of being a team comprising players from different European countrie
 |Positions | LW |
 |Qualities | Manual Control |
 
-
-
-^KingKrelli           ^^
+^KingKrelliKrell          ^^
 |From |{{:en:team:de.png?25|}} Berlin, Germany|
 |Member since |07/2015 |
 |Positions | Winger, CM, CDM |
 |Qualities |  |
 
+^Think_Twice90 ^^
+|From |{{:en:team:gb.png?25|}} Manchester, Britain |
+|Member since |10/2015 |
+|Positions | Winger, CM, CDM |
+|Club | Manchester United |
+|Role model | Paul Pogba |
+|Qualities |Fast passing god and conversion monster |
 
+
+^ShaneMyers17 ^^
+|From |{{:en:team:gb.png?25|}} Manchester, Britain |
+|Member since |11/2015 |
+|Positions | Winger, ST |
+|Club | Manchester United |
+|Role model |  |
+|Qualities |Fast passing god |
+
+^Toml23l ^^
+|From |{{:en:team:gb.png?25|}} Manchester, Britain |
+|Member since |01/2016 |
+|Positions | CM, F9, CDM |
+|Club | Manchester United |
+|Role model | Xavi, Scholes |
+|Qualities |Sophisticated playmaker |
+
+^Team-Provo-XX ^^
+|From |{{:en:team:gb.png?25|}} Glasgow, Scotland |
+|Member since |01/2016 |
+|Positions | CM, CDM |
+|Club | Glasgow Rangers |
+|Role model | Joshua Kimmich |
+|Qualities |Ball artist |
 ===== Newcomer =====
 
 ^EatMySpudsack ^^
@@ -63,23 +92,6 @@ We are proud of being a team comprising players from different European countrie
 |Role model | Paul Pogba |
 |Qualities |Fast passing god and conversion monster |
 
-^AbdiAbdelaoe ^^
-|From |{{:en:team:gb.png?25|}} Manchester, Britain |
-|Member since |12/2015 |
-|Positions | Winger, CM, CDM |
-|Club | Manchester United |
-|Role model | Paul Pogba |
-|Qualities |Fast passing god |
-
-
-
-^ShaneY ^^
-|From |{{:en:team:gb.png?25|}} Manchester, Britain |
-|Member since |12/2015 |
-|Positions | Winger, CM, CDM |
-|Club | Manchester United |
-|Role model | Paul Pogba |
-|Qualities |Fast passing god |
 
 ^ricolla ^^
 |From |{{:en:team:de.png?25|}} Bielefeld, Germany |
@@ -88,3 +100,12 @@ We are proud of being a team comprising players from different European countrie
 |Club | Bayern Munich |
 |Role model | Paul Pogba |
 |Qualities |Fast passing god |
+
+
+^rapid22 ^^
+|From |{{:en:team:at.png?25|}} Vienna, Austria |
+|Member since |07/2015 |
+|Positions | Winger, CM, CDM |
+|Club | Rapid Vienna |
+|Role model | Schaub |
+|Qualities | |
