@@ -8,24 +8,24 @@ We are proud of being a team comprising players from different European countrie
 
 ^J_Cruyff__14          ^^
 |From |{{:en:team:de.png?25|}} Regensburg, Deutschland |
-|Positions | Any, Winger, CM, CDM |
+|Positions | Any, Winger, CM, CDM, SW |
 |Club | Bayern Munich |
-|Role model |Xavi Hernández |
+|Role model |Lahm, Guardiola, Busquets, Sócrates |
 |Qualities |Balance provider |
 
 ^JDe17De7 ^^
 |From |{{:en:team:de.png?25|}} Berlin, Deutschland |
-|Positions | Any, ST, Winger |
+|Positions | Any, ST, Winger, CDM |
 |Club | Borussia Dortmund |
-|Role model |Marco Reus |
+|Role model |Marco Reus, Julian Weigl |
 |Qualities |Fast passing god |
 
 ^BRAZZO87           ^^
 |From |{{:en:team:de.png?25|}} Berlin, Deutschland |
-|Positions | Any, CM |
+|Positions | Any, CM, ST, CB |
 |Club | Bayern Munich |
 |Role model |Jerome Boateng |
-|Qualities |Gap filler |
+|Qualities |Elegant gap filler |
 
 ===== Gold Members =====
 ^CGGyllen           ^^
