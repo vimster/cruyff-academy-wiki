@@ -22,7 +22,7 @@ We are proud of being a team comprising players from different European countrie
 
 ^BRAZZO87           ^^
 |From |{{:en:team:de.png?25|}} Berlin, Deutschland |
-|Positions | Any, CM, ST, CB |
+|Positions | Any, CM, ST, CB, GK |
 |Club | Bayern Munich |
 |Role model |Jerome Boateng |
 |Qualities |Elegant gap filler |
@@ -38,11 +38,14 @@ We are proud of being a team comprising players from different European countrie
 
 ===== Silver Members =====
 
-^OmelDonya           ^^
-|From |{{:en:team:dk.png?25|}} Cobenhaven, Denmark|
-|Member since |07/2015 |
-|Positions | LW |
-|Qualities | Manual Control |
+^EatMySpudsack ^^
+|From |{{:en:team:gb.png?25|}} Manchester, Britain |
+|Member since |12/2015 |
+|Positions | Winger, CM, CDM |
+|Club | Manchester United |
+|Role model | Paul Pogba |
+|Qualities |Fast passing god and conversion monster |
+
 
 ^KingKrelliKrell          ^^
 |From |{{:en:team:de.png?25|}} Berlin, Germany|
@@ -67,14 +70,6 @@ We are proud of being a team comprising players from different European countrie
 |Role model | Luka Modric  |
 |Qualities |Dribbling and conversion specialist |
 
-^Toml23l ^^
-|From |{{:en:team:gb.png?25|}} Manchester, Britain |
-|Member since |01/2016 |
-|Positions | CM, F9, CDM |
-|Club | Manchester United |
-|Role model | Xavi, Scholes |
-|Qualities |Sophisticated playmaker |
-
 ^Team-Provo-XX ^^
 |From |{{:en:team:gb.png?25|}} Glasgow, Scotland |
 |Member since |01/2016 |
@@ -82,16 +77,18 @@ We are proud of being a team comprising players from different European countrie
 |Club | Glasgow Rangers |
 |Role model | Joshua Kimmich |
 |Qualities |Ball artist |
+
 ===== Newcomer =====
 
-^EatMySpudsack ^^
-|From |{{:en:team:gb.png?25|}} Manchester, Britain |
-|Member since |12/2015 |
-|Positions | Winger, CM, CDM |
-|Club | Manchester United |
-|Role model | Paul Pogba |
-|Qualities |Fast passing god and conversion monster |
+^ElZico ^^
+|From |{{:en:team:nw.png?25|}} Bergen, Norway |
+|Member since |03/2016 |
+|Positions | CM, CDM |
+|Club | N/A |
+|Role model | Thiago, Berbatov, Scholes |
+|Qualities | Raumdeuter |
 
+===== Friends =====
 
 ^ricolla ^^
 |From |{{:en:team:de.png?25|}} Bielefeld, Germany |
@@ -101,6 +98,11 @@ We are proud of being a team comprising players from different European countrie
 |Role model | Paul Pogba |
 |Qualities |Fast passing god |
 
+^OmelDonya           ^^
+|From |{{:en:team:dk.png?25|}} Cobenhaven, Denmark|
+|Member since |07/2015 |
+|Positions | LW |
+|Qualities | Manual Control |
 
 ^rapid22 ^^
 |From |{{:en:team:at.png?25|}} Vienna, Austria |
@@ -109,3 +111,11 @@ We are proud of being a team comprising players from different European countrie
 |Club | Rapid Vienna |
 |Role model | Schaub |
 |Qualities | |
+
+^Toml23l ^^
+|From |{{:en:team:gb.png?25|}} Manchester, Britain |
+|Member since |01/2016 |
+|Positions | CM, F9, CDM |
+|Club | Manchester United |
+|Role model | Xavi, Scholes |
+|Qualities |Sophisticated playmaker |
