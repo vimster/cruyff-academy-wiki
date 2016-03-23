@@ -51,7 +51,7 @@ We are proud of being a team comprising players from different European countrie
 |From |{{:en:team:de.png?25|}} Berlin, Germany|
 |Member since |07/2015 |
 |Positions | Winger, CM, CDM |
-|Qualities |  |
+|Qualities |Error 404: NOT FOUND  |
 
 ^Think_Twice90 ^^
 |From |{{:en:team:gb.png?25|}} Manchester, Britain |
@@ -81,14 +81,31 @@ We are proud of being a team comprising players from different European countrie
 ===== Newcomer =====
 
 ^ElZico ^^
-|From |{{:en:team:nw.png?25|}} Bergen, Norway |
+|From |{{:en:team:no.png?25|}} Bergen, Norway |
 |Member since |03/2016 |
 |Positions | CM, CDM |
 |Club | N/A |
 |Role model | Thiago, Berbatov, Scholes |
 |Qualities | Raumdeuter |
 
+
+^Heatkiger ^^
+|From |{{:en:team:no.png?25|}} Oslo, Norway |
+|Member since |03/2016 |
+|Positions | CM, CDM |
+|Club | N/A |
+|Role model | Thiago, Berbatov, Scholes |
+|Qualities | |
+
 ===== Friends =====
+
+^ronnytony ^^
+|From |{{:en:team:fr.png?25|}} Paris, France |
+|Member since |08/2015 |
+|Positions | ST, Winger, Any, CM, FB |
+|Club | Paris SG |
+|Role model | Xavi, Scholes |
+|Qualities |Allrounder |
 
 ^ricolla ^^
 |From |{{:en:team:de.png?25|}} Bielefeld, Germany |
