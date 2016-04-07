@@ -1,54 +1,76 @@
 ====== Halfdefender ======
 
-{{ :playground:hiv.jpg?200|}}**Red:** The area the LCB/RCB are usually to be found. ({{:playground:screen-shot-2015-05-06-at-22.32.51.png?linkonly|"defensive interior corridor"}})
+{{ :en:tactics:lcbrcbzones.png?300 |}}**Red:** The area the LCB/RCB are usually to be found. ({{:playground:screen-shot-2015-05-06-at-22.32.51.png?linkonly|"defensive interior corridor"}})They must stay at least one line behind the CM's and move higher together with the team. The defenders have to stand as high as possible while keeping at least one zone distance to higher positioned players. That means, when the team moved the ball up to line 4 for example, the halfdefenders can move up to B3 and D3.
 
-**Orange:** The area the LCB/RCB switches to, in order to make the game {{:playground:dffgdfg.jpg?linkonly|wide in the buildup phase}}, if the opponent is pressing high up the pitch. Die jeweils unteren Bereiche treffen bei {{:playground:2q_.jpg?linkonly|Abstößen}} zu
+**Orange:** The area the LCB/RCB switches to, in order to make the game {{:playground:dffgdfg.jpg?linkonly|wide in the buildup phase}}, if the opponent is pressing high up the pitch. A1 and E1 apply at {{:playground:2q_.jpg?linkonly|short goal kicks}}.
 
-**Yellow:** Special area for the {{:playground:343hiv.jpg?linkonly|3-4-3-diamond}} and further retreating point to evade the opponents midfield pressing.
+**Yellow:** Special area for the {{:playground:343hiv.jpg?linkonly|3-4-3-diamond}}, further retreating point to evade the opponents midfield pressing and covering for the wings.
 
-**Lightblue:** LCB/RCB are only allowed to stay in the penalty box at opponents set pieces, high pressure and significantly possession of the opponent (with good implementation of Positional Play this isn't often the case)
+**Lightblue:** LCB/RCB are only allowed to stay in the penalty box at opponents set pieces, very high pressure and significant possession of the opponent (with good implementation of Positional Play this should rarely be the case).
 
 ~~CLEARFLOAT~~
 
 ----
-
 ===== Build up phase =====
 <code>
   - Dribble (with L2 or L2+R2) until you are attacked by an opponent or you approach the opponent
   - Try to avoid passes to the other defenders (reduce passes in "U")
-  - Always keep one eye on the CMs and winger, if they are available for passes
-  - If you are getting pressed near the penalty area, a diagonal long ball for switching the play must be played!
-  - Don't be afraid of passing back to the goalkeeper, if you can't switch the play
+  - Always keep one eye on higher zones if there is anyone available for passes, preferably with R1-passes
+  - If you are getting pressed near the penalty area, use a diagonal pass to the opposite wing or halfspace or a backpass to CDM or GK
 </code>
-
-It is extremely crucial and desired that you keep the ball as short as possible near the own box. Instead try to forge ahead safely. 
 
 === Prerequisites ===
 
 <code>
 - the halfspace midfielders are required to be free for passing and hold L2 for demanding x-passes
 - on either wing the wingers need to be prepared for long balls and long through balls, respectively
+- on either halfspace, the CM's neet to be prepared for verticalization
 </code>
 
 Don't shy away from passes into the center. If the midfielders comply with their requirements at least one player should be free. If that isn't the case due to opponents high pressure a switch of play is inevitable.
 
-((please wait for a few seconds until the videos are completely loaded))
+==== Verticalization ====
 
+Verticalization is the process of moving the play from one line to a higher line. We use verticalization to get from build-up phase to the high-priority area. 
+
+The more space we bypass by verticalization the faster we move forward. The players that have to verticalize are LCB, RCB and CB/CDM.
+
+There are two ways of verticalising:
+
+  *...passing "in between the lines" (vertical/interior passing)
+  *...dribbling forward (vertical/diagonal dribbling)
+
+==== Bayern's verticalization VS Leverkusen (one of the best pressing teams) ===
+
+<html><iframe src="https://player.vimeo.com/video/133880448" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></html>
+
+==== Barcelona's verticalization VS Arsenal ===
+
+<html><iframe src="https://player.vimeo.com/video/133746319" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></html>
+
+==== More examples and details ====
+((please wait for a few seconds until the gifs/webm's are completely loaded))
+=== Boateng's vertical pass from C3 to C4 ends in a goal ===
 <html><iframe src="http://gfycat.com/ifr/EminentLinedCoral" frameborder="0" scrolling="no" width="800" height="450" style="-webkit-backface-visibility: hidden;-webkit-transform: scale(1);" ></iframe></html>
 
-If both wingers are covered the central sweeper (CDM or CB) is requested to drop deeper. Either an opponent follows him and you need to reconsider the situation or the sweeper stays free for a pass, which leads to a new situation. The same applies to passes back to the goalkeeper. Keep in mind: As long as you don't lose the ball and the ball is circulated a new situation in game might occur generating a free man.
-
+=== Various verticalizations by Boateng ===
 <html><iframe src="http://gfycat.com/ifr/SpectacularSpotlessBoto" frameborder="0" scrolling="no" width="800" height="450" style="-webkit-backface-visibility: hidden;-webkit-transform: scale(1);" ></iframe></html>
+=== Emre Can switches the play from D3 to A5 ===
+<html><iframe src="http://gfycat.com/ifr/FrighteningCrispChrysalis" frameborder="0" scrolling="no" width="800" height="450" style="-webkit-backface-visibility: hidden;-webkit-transform: scale(1);" ></iframe></html>
+
+If both wingers and CM's are covered, the central sweeper (CDM or CB) is requested to drop deeper. Either an opponent follows him and you need to reconsider the situation or the sweeper stays free for a pass, which leads to a new situation. The same applies to passes back to the goalkeeper. Keep in mind: As long as you don't lose the ball and the ball is circulated a new situation in game might occur generating a free man.
 
 Nonetheless, do not limit yourself to passes to the goalkeeper or the wingers because you are afraid of keeping the ball or passing into the center. 
 
 Many passes in "U" shape, as has been played by FC Bayern under the coach Van Gaal, may destroy the whole offensive efforts of a team. Any cross pass in the own half invites the opponent to move up and cover free men.
 This may result in never getting out of the own half.
 
-<html><iframe src="http://gfycat.com/ifr/FrighteningCrispChrysalis" frameborder="0" scrolling="no" width="800" height="450" style="-webkit-backface-visibility: hidden;-webkit-transform: scale(1);" ></iframe></html>
+Especially for the halfdefender as first player in the build up phase applies: 
 
-Especially for the halfdefender as first player in the build up phase applies: **Don't play hectic direct passes, if you aren't pressed!**
-**Keep the Ball and dribble forward as long as no opponent is attacking you. In the meantime always look forward and search for passes to a central teammate or onto the wing. Thereby make the decision, wheather a high, low, through or short pass is most suited.** Don't be a coward, who always looks for safety passes and refuses to assume responsiblity.
+**Don't play hectic direct passes, if you aren't pressed!**
+**Keep the Ball and dribble forward as long as no opponent is attacking you. In the meantime always look forward and search for passes to a central teammate or onto the wing. Thereby make the decision, wheather a high, low, through or short pass is most suited.** 
+
+Don't be a coward, who always looks for safety passes and refuses to assume responsibility.
 ===== Winning the ball =====
 [size=3]//-> Main article: [[en:guides:defending|Defending]]//[/size]
 
@@ -58,9 +80,9 @@ Especially for the halfdefender as first player in the build up phase applies: *
 
 <html><iframe width="854" height="510" src="https://www.youtube.com/embed/aMqXvG79WZg" frameborder="0" allowfullscreen></iframe></html>
 
-Probably you haven't heard of [[http://spielverlagerung.de/2014/12/11/tuerchen-11-joel-veltman/|Joël Veltman]], yet. He is very strong passer with tons of skills on the ball, who has disadvanteges physically (only 182cm ta Dies muss er oft mit seiner Antizipation, Grätschen und auch Fouls ausgleichen. 
+Probably you haven't heard of [[http://spielverlagerung.de/2014/12/11/tuerchen-11-joel-veltman/|Joël Veltman]], yet. He is very strong passer with tons of skills on the ball for a defender. He compensates his physical disadvantages with great anticipation, positioning and aggression.
 
-Im Video kann man sehr gut erkennen, wie und wann er sich in welchen Zonen aufhält, er immer den Blick nach vorne hat und selbst gegen Barcelona stets die Ruhe behält und abwartet, bis er angegriffen wird. Auch bei Barcas hohem Pressing versucht Ajax hier so selten wie möglich im U zu passen.
+This video shows the rules stated in this article pretty well. He always stays in the right halfspace and moves more the right the more his team gets under pressure. On the ball, he waits until he gets attacked and then he passes the ball. He never rushes and plays random passes forward.
 
 ~~CLEARFLOAT~~
 
@@ -70,7 +92,9 @@ Im Video kann man sehr gut erkennen, wie und wann er sich in welchen Zonen aufh�
 
 <html><iframe width="854" height="510" src="https://www.youtube.com/embed/PinylObRjQc" frameborder="0" allowfullscreen></iframe></html>
 
-Immer wieder zurückgeworfen von Verletzungen - aber mit überragendem Passspiel, großartiger Mentalität und Übersicht ausgestattet. Einer der besten Verteidiger der Welt, wenn er fit ist.
+He always gets thrown back by injuries but if he plays you can see why Van Gaal preferred him over Lucio in defense. He's got an amazing vision and pressing resistance and learned how to play all kinds of passes after being placed on CDM in Bayern's youth team.
+
+He is actually pretty similar to Boateng's style of play, while Badstuber is a tad slower (he ran the 100m the fastest in Bayern's team until Boateng joined) and prefers lobbed passes more than Boateng does (Boateng prefers low and strong passes).
 ----
 
 ==== Sergio Ramos ====
@@ -79,9 +103,7 @@ Immer wieder zurückgeworfen von Verletzungen - aber mit überragendem Passspiel
 
 As right fullback already a regular player at Real Madrid at a young age, and later put on CB. He was one of the technically best fullbacks of the world, which also applies to the center back. He is strong in build up, at switching the play and in tight situations.
 
-If he wouldn't be such an idiot in [[http://gfycat.com/HandyNastyAnemoneshrimp|some]] [[http://gfycat.com/UntidyBlushingGlobefish|situations]] and if he would reduce his amount of fouls, he would be immediately in our first team.
-
-It is obvious that particularly strong defenders with relativly low body height (Ramos 183cm) have to commit more fouls than usual, as they are not able to prevail in duels. 
+If he wouldn't be such an idiot in [[http://gfycat.com/HandyNastyAnemoneshrimp|some]] [[http://gfycat.com/UntidyBlushingGlobefish|situations]], maybe he would get the much higher credit he deserves.
 
 ~~CLEARFLOAT~~
 ----
@@ -90,31 +112,19 @@ It is obvious that particularly strong defenders with relativly low body height 
 
 <html><iframe width="640" height="390" src="https://www.youtube.com/embed/YQjttRClrI8" frameborder="0" allowfullscreen></iframe></html>
 
-Der Blick ist immer nach vorne gerichtet - wer läuft sich frei? Wer startet durch? Boateng hält so lange den Ball bis der Gegner ihn attackiert und spielt selten Pässe, die keinen Raumgewinn bedeuten.
+Always looking for open players in higher areas, Boateng carries the ball forward until he gets under pressure and rarely plays pure safety passes that don't help the team moving up the play.
 
-Stattdessen spielt er immer wieder lange, harte, präzise Pässe Richtung Zentrum oder Flügel, die von [[http://spielverlagerung.de/]] gerne als "Laserpässe" zurecht gefeiert werden.
-
-  Die höchste Tugend ähnelt Boateng
-  Boateng nützt unzähligen Dingen, ohne Konkurrenz
-  Er spielt Pässe, die Gegner nicht mögen
-  Deshalb ist ihm niemand ähnlich
-
-  Am richtigen Ort zu stehen
-  mit großem Tiefgang zu spüren
-  mit großer Güte zu geben
-  mit großer Lauterkeit zu sprechen
-  mit großer Waltung zu herrschen
-  mit großem Können zu agieren
-  mit großem Takt sich zu bewegen
-  
-  Weil er nicht in Konkurrenz steht
-  ist er jenseits des Tadels.
-
-  Sei Boateng, mein Freund
-  Leere deinen Geist
-  Gibt man Boateng den Ball, dann wird er zum Ball 
-  Spielt Boateng einen Pass, wird er zum Laserpass 
-  Boateng kann fließen, oder er kann zermalmen 
-  Sei Boateng, mein Freund.
+He sort of "invented" what we like to call a "laserpass": Long, hard and precise passes from low zones to high zones, either high or low. FIFA 16 even implemented R1 passes which replicate these passes perfectly.
   
 <html><iframe width="640" height="390" src="https://www.youtube.com/embed/i_4J6pfBb6M" frameborder="0" allowfullscreen></iframe></html>
+
+==== Honorable mentions ====
+
+  *Piqué(nbauer)
+  *Javi Martínez
+  *Leonardo Bonucci
+  *Mats Hummels
+  *Daley Blind
+  *Toby Alderweireld
+  *Jan Vertonghen
+  *Thomas Vermaelen
