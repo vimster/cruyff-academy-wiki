@@ -1,0 +1,127 @@
+====== Formationen und Systeme ======
+
+Formationen/Systeme sind eigentlich nur wie Telefonnummern. Tatsächlich bestimmen nur die folgenden Punkte den Spielstil:
+
+  *ein, zwei oder kein Stürmer
+  *ein oder zwei DM
+  *ein oder kein ZOM
+  *ein oder zwei IV
+  *ein oder zwei Pivotspieler((Spieler, die permanent im Zentrum hinter den Offensivspielern als Absicherung und Ablagestation dienen und selbst nicht oder sehr selten selbst offensiv aktiv werden.)) 
+
+Die folgenden Positionen bleiben immer gleich:
+
+  *zwei Halbraumspielmacher (LZM/RZM)
+  *zwei Flügelstürmer (LF/RF)
+  *zwei Außenverteidiger/defensive Flügelspieler (LV/RV oder LM/RM)
+  *natürlich ein Torhüter
+
+Nun werden die Systeme folgen, die in den letzten Monaten getestet wurden.
+
+===== 5 - 4 - 1 (Raute) Transformer-Edition =====
+
+Die Formation startet eigentlich mit:
+
+  *TW
+  *LAV LIV IV RIV RAV
+  *ZDM
+  *LM RM
+  *ZOM
+  *ST
+
+Wir werden sie aber wie folgt ändern:
+
+  *LIV spielt LZM
+  *RIV spielt RZM
+  *LM spielt LF
+  *RM spielt RF
+
+{{ :en:tactics:541diamond.png?300 |}}
+
+Die offensichtlich eher defensive **5 - 4 - 1** Formation wird zu einer Art **3 - 1 - 2 - 1 - 3** oder **3 - 4 - 3** (Raute).
+
+Nun könnte man sich fragen, was der Unterschied zur gewöhnlichen 3 - 4 - 3 (Raute) ist, die ja schon im Spiel ist. Der Grund ist, dass dieses "normale" 3 - 4 - 3 (Raute) schwach umgesetzt worden ist, wenn gewisse Positionen von KI gesteuert werden. LIV und RIV sind zu nah beieinander, sodass die Flügel sehr schwer zu verteidigen sind. Statt LZM und RZM hat EA LM respektive RM eingestellt, was eher offensive Außenverteidiger sind und völligen Blödsinn beim Cruyff-Diamanten darstellt.
+
+Diese Probleme umgeht man mit unserer Variante. Zwar "opfern" wir LIV und RIV, die brauchen wir aber bei korrekt durchgeführtem Positionsspiel im 3 - 4 - 3 nicht und wären überflüssig. So besteht das System ausschließlich aus Pressingspielern, die offensiv draufgehen können, dürfen und sollen. Ausschließlich IV, LAV, RAV bleiben hinten stets in einer Dreierkette, bei Bedarf kann der ZDM auch eine Viererkette bilden, wobei IV und ZDM sich dann defensiv ähnlich wie LIV/RIV verhalten.
+
+Zu diesen Spielerverhalten kommen wir jetzt mit kurzen Beschreibungen pro Position:
+
+  ***LAV/RAV** machen das Spiel breit und bleiben in **A** bzw. **E** und orientieren sich dabei am IV, um eine Dreierlinie zu gewährleisten; müssen gegnerische Flügelstürmer zur Verzweiflung bringen
+  *Der **IV** fungiert als Pivotspieler für LAV/RAV/ZDM und antizipiert Steilpässe und -läufe im Zentrum
+  *Der **ZDM** fungiert als Pivotspieler für LZM/RZM; und antizipiert ebenfalls Steilpässe/-läufe im Zentrum, wenn nötig
+  ***LZM/RZM** sind permanent in **B** bzw. **D** anspielbar und müssen dafür sorgen, dass der Ball in der gegnerischen Hälfte bleibt. Es muss hauptsächlich in der Raute (**ZDM/LZM/RZM/ZOM**) gespielt werden, um durch Kombinationen Torchancen zu erarbeiten. Steil wird erst möglichst weit vorne gespielt.
+  *Der **ZOM** fungiert als Verbindung zwischen LZM/RZM und LF/ST/RF; er darf und soll verstärkt Abschlussaktionen durch Halbraumdribblings suchen, sobald Linie 5 erreicht wurde und genug Kontrolle hergestellt wurde; sucht sich meist eine Seite aus von der er hauptsächlich diese Halbraumdribblings durchführt
+  ***RF/LF** nehmen nicht am Aufbauspiel teil, bleiben bis Linie 5 auch stets in **A** bzw. **B** und möglichst weit vorne in einer Linie mit der gegnerischen Abwehrkette; dafür haben sie enorm viele Freiheiten in Dribbling und Abschluss, sobald Linie 5 erreicht wurde; dort dürfen und müssen sie kreativ werden; RF darf dann im Strafraum in D6 gehen, LF in B6, ansonsten aber **immer** außen bleiben!
+  ***ST**: Ähnlich wie LF/RF, jedoch bleibt er natürlich in **C** und sucht ständig Steilläufe in die gegnerische Abwehrreihe, um Gegner mit sich zu ziehen und somit Platz für die Raute zu schaffen; ansonsten trifft jede Beschreibung aus LF/RF auch hier zu; typische Fehler sind: zurücklaufen, um Bälle zu kriegen und auf den Flügel laufen, um dort Bälle zu kriegen; der ST darf sich bis Linie 5 nicht Richtung Ball verschieben, sonst ist das ganze System für die Katz.
+
+Für den Cryuff-Diamanten (ZDM/LZM/RZM/ZOM) gilt:
+
+  *stets dafür sorgen, dass die Raute bestehen bleibt und nicht zu stark verschoben wird
+  *ZDM und ZOM bleiben dafür in C, mit mindestens 1 Linie Abstand zueinander
+  *LZM bleibt in B, möglichst auf einer Linie mit dem RZM und diagonal vor ZDM, diagonal hinter ZOM
+  *RZM bleibt in D, möglichst auf einer Linie mit dem LZM und diagonal vor ZDM, diagonal hinter ZOM
+  *der Ball muss im Idealfall bis Linie 5 in dieser Raute bleiben...
+  *...dafür sorgt vor allem der ZDM, der hinter LZM/RZM ständig anspielbar sein muss,...
+  *...natürlich LZM/RZM, die nicht verfrühte, unnötige Pässe auf die Flügel spielen sollten...
+  *...und der ZOM, der sich bis Linie 5 mit seinen Steilpässen und 1gg1-Dribblings zurückhalten sollte
+
+===== 4 - 3 - 3 =====
+
+  *TW
+  *LV LIV RIV RV
+  *ZDM
+  *LZM RZM
+  *LF ST RF
+
+Dieselbe Rollenbeschreibung wie im vorherigen System, mit folgenden Änderungen:
+
+  *Kein Cruyff-Diamant, da der ZOM fehlt
+  *Erfahrungsgemäß mehr flügelorientiert, mit früherer und häufigerer Einbindung von LF und RF
+  *Mehr Verantwortung liegt auf dem ZDM, da er der Pivotspieler für LZM/RZM sein muss und bei hohem Druck des Gegners auch eine Dreierkette mit LIV/RIV bilden muss, um den Aufbau zu stabilisieren
+  *LIV/RIV verteidigen ihre jeweiligen Halbräume, müssen Pässe im "U" ((Pässe zwischen LV/LIV/RIV/RV hin und her ohne nach vorne zu kommen.)) sehr gering halten und stattdessen den Ball durch Pässe oder Dribbling ((Ball nach vorne tragen, bis die gegnerische Pressinglinie erreicht ist.))nach vorne bringen ((Vertikalisierung))
+===== 4 - 3 - 3 ("Falsche 9") =====
+
+  *TW
+  *LV LIV RIV RV
+  *ZDM
+  *LZM RZM
+  *"Falsche 9"
+  *LF RF
+
+Unterschiede zum vorherigen 4 - 3 - 3:
+
+  *Der ST sorgt dafür, dass wir hier einen Cruyff-Diamanten haben.
+  *Dieser "falsche" ST ist ZOM und ST gleichzeitig; darum trägt er mehr Verantwortung und muss sehr kreativ und stark im Abschluss sein; muss die richtige Dosis aus steillaufen und Doppelpass finden
+  *LF/RF haben etwas mehr Freiheiten beim Ziehen in die Mitte, da der ST ja tiefer steht; dafür tragen sie auch mehr Verantwortung im Abschluss und müssen für Steilpässe öfter hinter die gegnerische Abwehr laufen
+
+Fast unmöglich, wenn dieser super-kreative mitspielende und abschlussstarke Stürmer nicht vorhanden ist. Dafür unumgänglich, wenn man einen Cruyff-Diamanten haben möchte und ein 3 - 4 - 3 (Raute) aus irgendwelchen Gründen nicht in Frage kommt.((z.B. hat man beim 3 - 4 - 3 ein großes Problem, wenn der ST sich fallen lässt und somit das Kombinationsspiel in der Raute stört bzw. eher sogar komplett verhindert, da sich ST und ZOM gegenseitig eliminieren.))
+===== 4 - 5 - 1 Ultra-Offensive Nerd-Edition =====
+
+Another transforming formation. It starts out with:
+
+  *GK
+  *LB LCB RCB RB
+  *LM CM RM
+  *LAM RAM
+  *ST
+
+What we are going to do:
+
+  *LB and RB play LCM and RCM
+  *CM as CDM/CB hybrid
+  *false ST
+  *LAM/RAM like LW/RW in 4 - 3 - 3 (false 9)
+
+The outcome:
+
+  *GK
+  *LCB RCB
+  *CDM
+  *LM LCM RCM RM
+  *False ST
+  *LW RW
+
+It turns into some kind of **2 - 1 - 4 - 1 - 2** or **3 - 4 - 1 - 2**. Basically, it's a **4 - 3 - 3 (False 9)** with higher fullbacks. This provides a more effective pressing and more options in offense because LM/RM play higher than LB/RB without having to let them play by real players.
+
+It's also possible with a real ST by sacrificing the diamond. It then turns into either a **2 - 1 - 4 - 3, 2 - 1 - 4 - 2 - 1, 3 - 4 - 2 - 1, 3 - 6 - 1**, or however you want to call it. Formations are just phone numbers.
+
+===== 
