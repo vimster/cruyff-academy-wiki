@@ -3,6 +3,11 @@
 
 [[de:tactics:positionalplay|Spielstrategie]]
 
+[[de:tactics:compact|Unsere Philosophie - Knapp verfasst]]
+  *[[de:tactics:systemscompact|Formationen und Systeme]]
+  *[[de:tactics:taod|Dominanz]]
+  *[[de:tactics:genrul|Allgemeine Regeln]]
+
 [[de:tactics:playroles|Rollen im Positionsspiel]]
   *[[de:tactics:halfdefender|Halbverteidiger]]
   *[[de:tactics:bossquets|Mittelfeldlibero]]

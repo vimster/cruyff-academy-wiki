@@ -1,0 +1,94 @@
+====== Dominanz ======
+{{ :en:tactics:van-gaal.jpg?145|}}
+  "Dominant zu spielen bedeutet 
+  mehr Torchancen zu kreieren 
+  als die gegnerische Mannschaft. 
+  Ich verbinde den Begriff ´dominant´ 
+  mit offensivem Fußball 
+  und Pressing in der Hälfte des Gegners."
+  - Louis van Gaal
+
+Wir wollen den Gegner zu jederzeit dominieren. Wenn wir das tun, sind wir immer nah dran ein Tor zu erzielen. Wenn nicht, sind wir näher dran ein Tor zu kassieren.
+
+Die meisten Leute denken, mehr Ballbesitz zu haben reicht aus, um v on Dominanz zu sprechen. "Aber wir hatten mehr Ballbesitz, also hätten wir den Sieg verdient gehabt!" Das ist einfach falsch. Um wirklich von Dominanz sprechen zu können, braucht man folgende 4 Dinge:
+
+  *mindestens 60% Ballbesitz als Ergebnis
+  *sicheres und druckvolles Spiel mit und ohne Ball
+  *Torchancen kreieren
+  *Torchancen des Gegners verhindern
+
+Um diese 4 Punkte als Team erreichen zu können, müssen sich alle an gewisse Regeln und Rollen halten. Jede Position ist mit Regeln verbunden. Das bringt uns zum Begriff "Positionsspiel", worüber wir später sprechen werden. Zunächst müssen wir über allgemeine Dinge reden.
+
+===== Passspiel =====
+
+{{:en:tactics:andrea-pirlo.jpg?400|}}
+
+Ich versuche es hier so knapp wir möglich zu fassen, aber um das Passspiel seit FIFA 15 voll zu verstehen solltest du [[de:guides:passing|diesen Artikel]] verinnerlicht haben.
+
+Beim Passspiel berücksichtigen wir hier folgendes:
+
+  *Anzahl der Pässe
+  *Passgenauigkeit
+  *Passrichtung
+
+Die Anzahl der Pässe unterscheidet sich von Position zu Position. Es muss uns dabei bewusst sein, dass das Mittelfeld das Herz unseres Spiels sein muss.
+
+Darum haben für gewöhnlich ZDM, LZM und RZM die meisten Ballkontakte und Pässe. Dazu kommen dann je nach Formation ZOM, IV und/oder Falsche 9 hinzu.
+
+Es ist völlig normal, dass die sichersten und aktivsten Spieler die meisten Ballkontakte und Pässe haben. Gewöhnlicherweise passiert es auch, dass eine Seite der anderen aus verschiedenen Gründen vorgezogen wird.
+
+Deshalb ist es sehr sehr wichtig, dass diese Spieler auch im Mittelfeld spielen, um die Kontrolle im Zentrum zu behalten. Es bringt uns nichts, wenn ein so ball- und passsicherer Spieler wie Lahm hinten rechts spielt - oh, da war doch mal was... 
+
+Es bringt niemandem etwas, wenn der RV mit Abstand die meisten Ballkontakte hat und dafür die Offensivleute nichts zu tun haben.
+
+Verschiedene Trainer haben verschiedene Vorstellungen, wie man im Positionsspiel von hinten nach vorne kommt. Diesen Prozess nennt man "Vertikalisierung".
+
+Ein gutes Beispiel sieht bzw. sah man bei Bayern München:
+
+Van Gaal bevorzugt es, dass die Außenverteidiger das Spiel vertikalisieren. Er mag einen linksfüßigen, passstarken LV - Badstuber - und einen rechtsfüßigen, passstarken RV - Lahm. Diese sollten das Spiel eröffnen, während die beiden Innenverteidiger eben "nur" das waren: Innenverteidiger.
+
+Guardiola dagegen braucht seine passstarken Spieler möglichst in der Mitte, weshalb er Lahm in die Mitte bewegte und Badstuber - wenn er fit ist - LIV/IV spielt. Guardiola bevorzugt ganz klar die Vertikalisierung aus dem Zentrum. Ebenso Alaba wurde von ihm Richtung Zentrum befördert, um dessen Spielintelligenz voll nutzen zu können.
+
+Verglichen zu van Gaal, haben Guardiolas AV eher simplere Aufgaben zu erfüllen, wenn es um Passspiel und Laufwege geht. Sie "tragen" den Ball so weit nach vorne, bis sie attackiert werden, um dann den Ball sicher und kurz Richtung Zentrum zu befördern und die anderen die Arbeit machen zu lassen.
+
+Wir bevorzugen hier eindeutig Guardiolas Variante.
+===== Druck =====
+
+Wenn der Ball verloren geht, müssen wir ihn so schnell wie möglich zurückholen. Der gegnerische Spieler am Ball muss so schnell und so weit von unserem Tor wie möglich isoliert werden((Ihn sowohl angreifen, als auch die Spieler um ihn herum abdecken.)). Ergebnisse dieses Pressings sind:
+
+  *Ballgewinnung durch direkte Zweikämpfe
+  *Gegner wird gezwungen lange Bälle zu spielen
+  *Taktische Fouls
+
+Guardiolas Mannschaften machen vergleichsweise wenige Fouls und erhalten nicht viele Karten. Jedoch wird dabei oft vergessen, dass sie ja selbst die meiste Zeit den Ball haben und somit selten überhaupt zu Fouls kommen.
+
+Interessanter Fakt zur K.O.-Phase der Champions League 2011: Der FC Barcelona hatte die wenigsten Fouls pro 90 Minuten. Allerdings hatten sie die meisten Fouls pro Minute **in der sie nicht den Ball hatten**.
+
+Z. B. im Achtelfinale gegen Arsenal, foulte Barcelona 21 mal und Arsenal 35 mal - also auf dem ersten Blick viel mehr Fouls von Arsenal. Jedoch hatte Barcelona im Hinspiel 61% und im Rückspiel 68% Ballbesitz. Sie waren also nur 64 Minuten von insgesamt 180 Minuten ohne Ball - das bedeutet, dass sie 0,33 Fouls pro Minute ohne Ball hatten und Arsenal 0,3 Fouls pro Minute ohne Ball.
+
+Extremer ist dabei das Halbfinale gegen Real Madrid: Real hatte 122,4 Minuten lang nicht den Ball und machte dabei 52 Fouls (!), also 0,43 Fouls pro Minute ohne Ball. Barcelona dagegen hat "nur" 35 Fouls gemacht - allerdings hatten sie auch nur 57,6 Minuten lang nicht den Ball. Das heißt also, dass sie ohne Ball 0,65 Fouls pro Minute machten.
+
+Was erklärt die wenigen Karten? Sie foulten ihre Gegner immer möglichst weit weg vom Tor und in der gegnerischen Hälfte, was einfach weniger bestraft wird als Fouls in der eigenen Hälfte und nah am Tor.
+
+Guardiolas Teams spielen viel aggressiver als man zunächst denken mag - diese Aggressivität ist nur hinter den hohen Ballbesitzzahlen versteckt.
+
+
+{{ :en:tactics:hi-res-5c3d30f5984ca37c6eadf2e17c65018a_crop_north.jpg?197|}}
+  „Wir sind sehr schwach ohne Ball, darum will ich den Ball 
+  so schnell wie möglich zurückerobern.
+  Dazu nehme ich gerne Fouls in der gegnerischen Hälfte in Kauf.“
+  - Pep Guardiola
+
+Also nicht vergessen: Nutze Fouls, wenn du es nicht schaffst, den Ball schnell zurückzubekommen.
+
+==== Unser (Gegen-)Pressing ====
+
+Unsere Art des Pressings ist eine Mischung aus ball- und passwegorientiertem Pressing. Ganz einfach erklärt ist es das "Zieharmonika-Prinzip". Mit Ball steht das Team breit, ohne Ball rückt das Team zusammen. Wenn wir den Ball zurückerobert haben, geht das Team wieder auseinander.
+
+Ballorientiertes Pressing bedeutet ganz einfach aggressives Verschieben der ganzen Mannschaft Richtung Ball. Die beiden Spieler, die dem Ball am nächsten stehen greifen dabei den Ballführenden aggressiv an.
+
+Damit verbinden wir das passwegorientierte Pressing, bei dem alle anderen Spieler, die nicht den Ballführenden attackieren, mögliche Passwege antizipieren und zustellen. Ziel ist, dass der Spieler unter Druck einen Pass versucht, der dann abgefangen wird.
+
+{{ :de:tactics:peppressing.png?500 |}}
+
+An diesem Pressing nimmt jeder Spieler der Mannschaft teil. Jeder außer dem jeweils letzten Mann der jeweiligen Linie - zur Vereinfachung sind es meist: IV und ZDM. Diese antizipieren Steilpässe und Läufe der gegnerischen Stürmer, um sie abfangen zu können.

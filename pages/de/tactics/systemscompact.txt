@@ -96,32 +96,34 @@ Unterschiede zum vorherigen 4 - 3 - 3:
 Fast unmöglich, wenn dieser super-kreative mitspielende und abschlussstarke Stürmer nicht vorhanden ist. Dafür unumgänglich, wenn man einen Cruyff-Diamanten haben möchte und ein 3 - 4 - 3 (Raute) aus irgendwelchen Gründen nicht in Frage kommt.((z.B. hat man beim 3 - 4 - 3 ein großes Problem, wenn der ST sich fallen lässt und somit das Kombinationsspiel in der Raute stört bzw. eher sogar komplett verhindert, da sich ST und ZOM gegenseitig eliminieren.))
 ===== 4 - 5 - 1 Ultra-Offensive Nerd-Edition =====
 
-Another transforming formation. It starts out with:
+Beginnt mit:
 
-  *GK
-  *LB LCB RCB RB
-  *LM CM RM
-  *LAM RAM
+  *TW
+  *LV LIV RIV RV
+  *LM ZM RM
+  *LOM ROM
   *ST
 
-What we are going to do:
+Was sich ändert:
 
-  *LB and RB play LCM and RCM
-  *CM as CDM/CB hybrid
-  *false ST
-  *LAM/RAM like LW/RW in 4 - 3 - 3 (false 9)
+  *LV spielt LZM
+  *RV spielt RZM
+  *ZM spielt Hybriden aus ZDM/Libero
+  *Echte 9 oder Falsche 9
+  *LOM/ROM bei Echter 9 wie LF/RF
+  *LOM/ROM bei Falscher 9 wie LF/RF bei 433 (falsche 9)
 
-The outcome:
+Ergebnis:
 
-  *GK
-  *LCB RCB
-  *CDM
-  *LM LCM RCM RM
-  *False ST
-  *LW RW
+  *TW
+  *LIV RIV
+  *ZDM
+  *LM LZM RZM RM
+  *Falsche/Echte 9
+  *LF RF
 
-It turns into some kind of **2 - 1 - 4 - 1 - 2** or **3 - 4 - 1 - 2**. Basically, it's a **4 - 3 - 3 (False 9)** with higher fullbacks. This provides a more effective pressing and more options in offense because LM/RM play higher than LB/RB without having to let them play by real players.
+Genau genommen ist es ein **4 - 3 - 3** mit bereits hoch-stehenden Außenverteidigern. Das sorgt dafür, dass wir mehr Spieler im Pressing und in der Breite haben ohne die Außenverteidiger zwingend besetzen zu müssen.
 
-It's also possible with a real ST by sacrificing the diamond. It then turns into either a **2 - 1 - 4 - 3, 2 - 1 - 4 - 2 - 1, 3 - 4 - 2 - 1, 3 - 6 - 1**, or however you want to call it. Formations are just phone numbers.
+Auch hier kann man natürlich entscheiden, ob wir mit einer Raute spielen oder nicht. Hängt wie beim 4 - 3 - 3 vom Spielermaterial ab.
 
 ===== 

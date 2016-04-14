@@ -1,0 +1,140 @@
+====== Unsere Philosophie - knapp verfasst ======
+
+===== Zusammenfassung =====
+
+Die Philosophie kann in 6 Punkten zusammengefasst werden:
+
+  ***Technik:** Alle Aspekte des Spiels sollten geläufig sein.
+  ***Entscheidungsfindung:** Stets die richtige Entscheidung treffen.
+  ***Kontrolle:** In jeder Situation Ruhe und Kontrolle bewahren.
+  ***Druck:** Druck auf den Gegner sowohl mit als auch ohne Ball.
+  ***Einfachheit:** Alles simpel und schön aussehen lassen.
+  ***Weiterentwicklung:** Niemals aufhören besser zu werden.
+
+Letztlich ist es das Ziel, permanent Druck auf den Gegner auszuüben und dabei stets die Kontrolle zu bewahren. Druck durch Kontrolle.
+
+Um das zu tun, brauchen alle die nötige Technik. 
+
+Danach brauchen wir die nötige Erfahrung, um richtige Entscheidungen treffen zu können.
+
+Mit richtiger Technik und Entscheidungsfindung können wir das Spiel kontrollieren.
+
+Um dann regelmäßig zu gewinnen, müssen wir ständig Druck auf den Gegner ausüben.
+
+Wenn wir das alles hinkriegen, sieht es automatisch gut und einfach aus.
+
+Um auf einem gewissen Level zu bleiben oder besser zu werden, dürfen wir nie aufhören uns weiter zu entwickeln.
+
+Die Philosophie ändert sich stark, sobald einer von den genannten Punkten vernachlässigt wird.
+
+===== Formationen und Systeme =====
+
+[size=3]//-> Hier zu finden: [[de:tactics:systemscompact|Formationen und Systeme]]//[/size]
+
+===== Dominanz =====
+
+[size=3]//-> Hier zu finden: [[de:tactics:taod|Dominanz]]//[/size]
+
+
+
+
+
+===== Allgemeine Regeln =====
+
+[size=3]//-> Hier zu finden: [[de:tactics:genrul|Allgemeine Regeln]]//[/size]
+
+===== Positionsspiel =====
+
+{{ :en:tactics:zones.png?300 |}}
+
+Von nun an werden wir von "Linien" und "Zonen" sprechen. Es gibt die Linien 1-6 und A-E, Zonen sind spezifische Positionen innerhalb dieser Linien wie z.B. B4 oder D2 (quasi wie beim Schach). 
+
+Das macht es viel leichter, um über genaue Stellen auf dem Platz zu sprechen und jeder weiß, wovon man redet. Statt z.B. "Vorne auf dem rechten Flügel, aber nicht ganz vorne, sondern etwas weiter hinten" kann man jetzt einfach unkompliziert E4 oder E5 sagen.
+
+Außerdem gibt es noch "Phasen" und "Bereiche".
+
+==== Abschlussphase ====
+
+  *Linien 5 und 6
+  *"Freie Zone"
+  *Regeln nicht so strikt wie in den anderen Linien
+  *Der Strafraum sollte maximal von 3 Spielern besetzt bleiben
+  *optimale Positionierung im Strafraum: LF in B6, ST in C6 und RF in D6
+  *optimale Positionierung außerhalb des Strafraums: LZM in B5, RZM in D5
+
+==== Hoher Prioritätsbereich ====
+
+  *Zonen B4-5, C4-5 und D4-5 zusammengenommen
+  *hier werden hauptsächlich die Torchancen kreiert
+  *es kann eine Zone überladen werden, um Kombinationen zu ermöglichen
+  *vergiss nicht, auch defensiv zu denken((Dir sollte immer bewusst sein, was passiert, wenn der Ball verloren geht.))
+
+==== Aufbauphase ====
+
+  *Linien 1-4
+  *eher statische und breite Positionierung - je enger wir stehen und je mehr Spieler hinten sind, desto schwieriger wird der Aufbau((Also laufe nicht überall dort hin, wo der Ball ist, sondern warte, bis der Ball zu dir kommt.))
+  *Jeder Spieler bleibt in seiner Zone um vertikale und horizontale Tiefe zu gewährleisten
+  *keine unnötigen Tricks und Aktionen, die vermeidbare Ballverluste verursachen können
+
+=== Positionierung ===
+
+5-4-1 Transformer-Edition:
+
+  ***LAV in A1-3**; mindestens 1 Zone hinter LF
+  ***RAV in E1-3**; mindestens 1 Zone hinter RF
+  ***IV in C1-2**; mindestens 1 Zone hinter ZDM
+  ***LZM in B2-4**; nie auf einer Linie mit ZDM/IV/ZOM/ST/LF
+  ***RZM in D2-4**; nie auf einer Linie mit ZDM/IV/ZOM/ST/RF
+  ***ZDM in C1-3**; immer hinter und zwischen LZM/RZM; entweder auf einer Linie mit IV oder 1 Zone weiter vorn
+  ***ZOM in C3-4**; mindestens 1 Zone höher als ZDM, zwischen und vor LZM/RZM ("Spiegel" zum ZDM)
+  ***RF in E3-4**; immer möglichst auf einer Linie mit der gegnerischen Abwehrkette und bereit für Seitenwechsel
+  ***LF in A3-4**; immer möglichst auf einer Linie mit der gegnerischen Abwehrkette und bereit für Seitenwechsel
+  ***ST in C3-4**; immer ganz vorne und möglichst auf einer Linie mit der gegnerischen Abwehrkette
+
+4-3-3((Kein Kommentar bedeutet: Genau wie bei 5-4-1)):
+
+  ***LV in A1-3**
+  ***RV in E1-3**
+  ***LIV in B1-3**; mindestens 1 Zone hinter LZM, steht breiter, je weiter der LV aufrückt
+  ***RIV in D1-3**; mindestens 1 Zone hinter RZM, steht breiter, je weiter der RV aufrückt
+  ***ZDM in C1-3**; immer hinter und zwischen LZM/RZM; hinter und zwischen LIV/RIV wenn nötig
+  ***LZM in B2-4**; kann rüber zu C4-5, um die rechte Seite zu überladen, wenn Ball in D4-5
+  ***RZM in D2-4**; kann rüber zu C4-5, um die linke Seite zu überladen, wenn Ball in B4-5
+  ***LF in A3-4**
+  ***RF in E3-4**
+  ***ST in C3-4**
+
+4-3-3 (F9)((Kein Kommentar bedeutet: Genau wie bei 4-3-3)):
+
+  ***LV in A1-4**; kann weiter vor, wenn LF in die Mitte zieht
+  ***RV in E1-4**; kann weiter vor, wenn RF in die Mite zieht
+  ***LIV in B1-3**
+  ***RIV in D1-3**
+  ***ZDM in C1-3**
+  ***LZM in B2-4**; reagiert auf Bewegungen von F9, um Dreiecke/Rauten zu schaffen
+  ***RZM in D2-4**; reagiert auf Bewegungen von F9, um Dreiecke/Rauten zu schaffen
+  ***LF in A3-4**; kann zu B5 hinein (wie ein LS), aber nur, wenn F9 nicht in C5 ist
+  ***RF in E3-4**; kann zu D5 hinein (wie ein RS), aber nur, wenn F9 nicht in C5 ist
+  ***F9 in B3-4/C3-4/D3-4**; mit großer Freiheit folgt große Verantwortung; schafft flüssige Dreiecke/Rauten; überlädt den Hohen Prioritätsbereich
+
+=== Vertikalisierung ===
+
+Vertikalisierung bedeutet, den Ball von einer tiefen Linie zu höheren Linien zu kommen. Wir nutzen Vertikalisierung, um von der Aufbauphase in den Hohen Prioritätsbereich zu gelangen.
+
+Das geschieht vor allem durch scharfe, flache R1-Pässe in die Halbräume. 
+
+Es gibt zwei Arten der Vertikalisierung:
+
+  *Pässe "zwischen die Linien" (vertikale/diagonale Pässe)
+  *Ball "nach vorne tragen" (vertikales/diagonales Dribbling)
+
+===== Cheatsheets (englisch) =====
+  *{{:en:tactics:common_rules_1_.png?linkonly|Common Rules}}
+  *{{:en:tactics:halfspace-playmaker.png?linkonly|Halfspace Playmaker}}
+
+
+===== Beispielvideos zur Vertikalisierung =====
+
+<html><iframe src="https://player.vimeo.com/video/133880448" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></html>
+
+<html><iframe src="https://player.vimeo.com/video/133746319" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></html>

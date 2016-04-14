@@ -96,8 +96,8 @@ Now let's talk about "phases" and "areas".
   ***LCB in B1-3**; at least 1 zone behind LCM, going wider when LB moves higher
   ***RCB in D1-3**; at least 1 zone behind RCM, going wider when RB moves higher
   ***CDM in C1-3**; always behind&between LCM/RCM; behind&between LCB/RCB when needed
-  ***LCM in B2-4**; can also move to C3-4 to overload right side when ball is in D3-4
-  ***RCM in D2-4**; can also move in C3-4 to overload left side when ball is in B3-4
+  ***LCM in B2-4**; can also move to C4-5 to overload right side when ball is in D4-5
+  ***RCM in D2-4**; can also move in C4-5 to overload left side when ball is in B4-5
   ***LW in A3-4**
   ***RW in E3-4**
   ***ST in C3-4**
