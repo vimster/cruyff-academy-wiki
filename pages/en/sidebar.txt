@@ -4,7 +4,7 @@
 
 [[en:tactics:positionalplay|Game Strategy]]
 
-[[en:tactics:compact|Our Philosophy - Compact]]
+[[en:tactics:compact|Our Philosophy]]
   *[[en:tactics:systemscompact|Formations and Systems]]
   *[[en:tactics:taod|The Art of Domination]]
   *[[en:tactics:genrul|General Rules]]

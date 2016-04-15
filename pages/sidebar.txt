@@ -3,7 +3,7 @@
 
 [[de:tactics:positionalplay|Spielstrategie]]
 
-[[de:tactics:compact|Unsere Philosophie - Knapp verfasst]]
+[[de:tactics:compact|Unsere Philosophie]]
   *[[de:tactics:systemscompact|Formationen und Systeme]]
   *[[de:tactics:taod|Dominanz]]
   *[[de:tactics:genrul|Allgemeine Regeln]]
@@ -14,10 +14,8 @@
   *[[de:tactics:wingback|Breitmachender Flügelspieler]]
   *[[de:tactics:playmaking8|Halbraumspielmacher]]
   *[[de:tactics:striker|Mittelstürmer]]
-
-Gegnerische Spielweisen
-  *[[de:tactics:raandrp|Royal Aces und Rising Phoenix]]
-  *[[de:tactics:wldfc|WL Diamonds]]
+  *[[de:tactics:false9|Falsche 9]]
+  *[[de:tactics:winger|Flügelstürmer]]
 
 [[de:analyses:index|Spielanalysen]]
   
@@ -32,9 +30,8 @@ Gegnerische Spielweisen
 [[de:psychology:index|Psychologische Aspekte]]
 
   *[[de:psychology:media|Fußball in den Medien]]
-  *[[de:psychology:thinkdifferent|Veraltete Ansichten verwerfen]]
   *[[de:psychology:personal|Selbstreflexion]]
 
-[[de:faq|Häufig gestellte Fragen]]
+[[de:faq|Geht das in FIFA überhaupt?]]
 
 [[de:encyclopedia|Begriffslexikon]]
