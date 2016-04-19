@@ -1,4 +1,4 @@
-a:69:{i:0;a:3:{i:0;s:14:"document_start";i:1;a:0:{}i:2;i:0;}i:1;a:3:{i:0;s:6:"p_open";i:1;a:0:{}i:2;i:0;}i:2;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:171:"Clubname: Cruyff Academy
+a:75:{i:0;a:3:{i:0;s:14:"document_start";i:1;a:0:{}i:2;i:0;}i:1;a:3:{i:0;s:6:"p_open";i:1;a:0:{}i:2;i:0;}i:2;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:171:"Clubname: Cruyff Academy
 Klubgröße: 4-7 Spieler
 Alter: 20er
 Division: 1
@@ -22,4 +22,14 @@ Leidenschaft an die Sache ran. Wir haben Spaß daran, unser Spiel ernst
 zu nehmen. Du solltest eine ähnliche Leidenschaft an den Tag legen.";}i:2;i:1429;}i:52;a:3:{i:0;s:7:"p_close";i:1;a:0:{}i:2;i:1675;}i:53;a:3:{i:0;s:6:"p_open";i:1;a:0:{}i:2;i:1675;}i:54;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:229:"* Technische Fertigkeit
 Um die angestrebte Spielweise umsetzen zu können sind Ballsicherheit und Ruhe am Ball die wichtigsten Voraussetzungen. Darüber hinaus sind Mut und die Fähigkeit für effektive Einzelaktionen erwünscht.";}i:2;i:1677;}i:55;a:3:{i:0;s:7:"p_close";i:1;a:0:{}i:2;i:1906;}i:56;a:3:{i:0;s:6:"p_open";i:1;a:0:{}i:2;i:1906;}i:57;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:259:"* Geduld
 Wir sind zwar sehr erfahren, doch mit neuen Spielern kann es nicht immer sofort funktionieren, da die Anforderungen an die einzelnen Spieler recht groß sind. Die Erfahrung hat gezeigt, dass sich das Zusammenspiel nach 2-3 Wochen merklich verbessert.";}i:2;i:1908;}i:58;a:3:{i:0;s:7:"p_close";i:1;a:0:{}i:2;i:2167;}i:59;a:3:{i:0;s:6:"p_open";i:1;a:0:{}i:2;i:2167;}i:60;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:277:"* Lernbereitschaft/Kritikfähigkeit:
-Wir wollen anders als die meisten anderen Clubs spielen. Dabei versuchen wir stets an uns selbst zu arbeiten, uns ständig zu hinterfragen und uns zu verbessern. Darum erwarten wir auch von anderen stets lernbereit und kritikfähig zu sein.";}i:2;i:2169;}i:61;a:3:{i:0;s:7:"p_close";i:1;a:0:{}i:2;i:2446;}i:62;a:3:{i:0;s:6:"p_open";i:1;a:0:{}i:2;i:2446;}i:63;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:84:"Sofern wir Dein Interesse wecken konnten,, würden wir uns auf Deine Anfrage freuen.";}i:2;i:2448;}i:64;a:3:{i:0;s:7:"p_close";i:1;a:0:{}i:2;i:2532;}i:65;a:3:{i:0;s:6:"p_open";i:1;a:0:{}i:2;i:2532;}i:66;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:83:"Melde Dich dann bitte ausschließlich im PSN bei BRAZZO87, JCruyff__14 oder UliFan.";}i:2;i:2534;}i:67;a:3:{i:0;s:7:"p_close";i:1;a:0:{}i:2;i:2534;}i:68;a:3:{i:0;s:12:"document_end";i:1;a:0:{}i:2;i:2534;}}
+Wir wollen anders als die meisten anderen Clubs spielen. Dabei versuchen wir stets an uns selbst zu arbeiten, uns ständig zu hinterfragen und uns zu verbessern. Darum erwarten wir auch von anderen stets lernbereit und kritikfähig zu sein.";}i:2;i:2169;}i:61;a:3:{i:0;s:7:"p_close";i:1;a:0:{}i:2;i:2446;}i:62;a:3:{i:0;s:6:"p_open";i:1;a:0:{}i:2;i:2446;}i:63;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:84:"Sofern wir Dein Interesse wecken konnten,, würden wir uns auf Deine Anfrage freuen.";}i:2;i:2448;}i:64;a:3:{i:0;s:7:"p_close";i:1;a:0:{}i:2;i:2532;}i:65;a:3:{i:0;s:6:"p_open";i:1;a:0:{}i:2;i:2532;}i:66;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:83:"Melde Dich dann bitte ausschließlich im PSN bei BRAZZO87, JCruyff__14 oder UliFan.";}i:2;i:2534;}i:67;a:3:{i:0;s:7:"p_close";i:1;a:0:{}i:2;i:2617;}i:68;a:3:{i:0;s:2:"hr";i:1;a:0:{}i:2;i:2625;}i:69;a:3:{i:0;s:6:"p_open";i:1;a:0:{}i:2;i:2625;}i:70;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:494:"Clubname: Cruyff Academy (PS4)
+Klubgröße: ~10 Spieler (international)
+Alter: 20er
+Division: 1
+Kommunikation: PSN Party
+Spielzeit: abends im Zeitraum von 20-2 Uhr
+Ansprechpartner: UliFan
+Hallo Freunde des runden Leders,
+wir sind auf der Suche nach neuen Vereinsmitgliedern, die Freude daran haben Fußball mit System zu spielen und dabei den Prinzipien des Positionsspiels zu folgen..
+Im Detail haben wir alle Rollen des Positionsspiels und deren Aufgabenbereiche in unserem Wiki beschrieben (";}i:2;i:2667;}i:71;a:3:{i:0;s:12:"externallink";i:1;a:2:{i:0;s:31:"http://cruyff-academy.crayos.de";i:1;N;}i:2;i:3161;}i:72;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:104:").
+Wir suchen ein neues Stammmitglied, um die von uns angestrebte Spielweise besser umsetzen zu können.";}i:2;i:3192;}i:73;a:3:{i:0;s:7:"p_close";i:1;a:0:{}i:2;i:3192;}i:74;a:3:{i:0;s:12:"document_end";i:1;a:0:{}i:2;i:3192;}}
