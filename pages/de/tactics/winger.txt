@@ -2,7 +2,7 @@
 
 ===== Doch nicht so einfach wie gedacht? =====
 
-Das Spiel vom Flügel aus scheint vergleichsweise einfach zu sein. Schließlich bleibt eine Hälfte des Spielfeldes meist nicht bespielbar. Genauer: Auf dem linken Flügel (komplette Zone A) gibt es keine Zonen links von A, die bespielt werden müssen/können, auf dem rechten Flügel (komplette Zone D) gibt es keine Zonen rechts von D, die bespielt werden müssen/können.
+Das Spiel vom Flügel aus scheint vergleichsweise einfach zu sein. Schließlich bleibt eine Hälfte des Spielfeldes meist nicht bespielbar. Genauer: Auf dem linken Flügel (komplette Zone A) gibt es keine Zonen links von A, die bespielt werden müssen/können, auf dem rechten Flügel (komplette Zone E) gibt es keine Zonen rechts von E, die bespielt werden müssen/können.
 
 So könnte man ganz einfach sagen: Der linke Flügelstürmer kann/muss doch nur nach rechts spielen und der rechte Flügelstürmer nach links. So einfach ist es jedoch überhaupt nicht.
 

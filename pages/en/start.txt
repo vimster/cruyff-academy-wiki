@@ -20,3 +20,10 @@ What if I were to tell you that if you join us and follow the "rules" stated in 
 
 **//Would that be something you might be interested in?//**
 {{ :playground:van-gaal-540x404.jpg?300 |}}
+
+
+----
+
+==== Visit our Youtube Channel ====
+
+<html><iframe width="560" height="315" src="https://www.youtube.com/embed/VTmjH2kYhnY" frameborder="0" allowfullscreen></iframe></html>

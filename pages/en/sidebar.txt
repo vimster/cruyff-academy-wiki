@@ -25,5 +25,6 @@
 
 [[en:analyses:index|Analyses]]
   *[[en:tactics:analysis120215|Club Progress #1]]
+  *[[en:tactics:commonmistakes|Common Mistakes]]
 
 [[en:faq|Frequently asked questions]]

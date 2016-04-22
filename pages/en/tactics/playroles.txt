@@ -49,7 +49,7 @@ runs back and forth and back and forth and back and forth.
 ===== Halfspace playmaker =====
 [size=3]//-> Main article: [[en:tactics:playmaking8|Halfspace playmaker]]//[/size]
 
-{{ :playground:zm.jpg?200|}}**Red:** The area the playmaker is mainly present,
+{{ :en:tactics:cmszones.png?200|}}**Red:** The area the playmaker is mainly present,
 in order to build triangles with the wingers and send offensive signals to the
 striker by diagonal dribblings.
 
@@ -90,12 +90,25 @@ frontline for the purpose of creating room for the wingers and midfielders.
 
 ===== Winger =====
 
-{{ :playground:lfrf.jpg?200|}}
-The winger moves to the center for one-twos in the interior corridor, through
-balls into the box or overlapping of the fullbacks. Additionally, he starts
-runs vertically after getting signals by the playmakers and provides the
-center forward with crosses.
+{{ :en:tactics:lwrwzones.png?200|}}
 
+**Without the ball:**
+  *Doesn't take part in build-up play
+  *Stays wide in A (LW) or E (RW) and on one line with the opponent's defense  
+  *Once we have the ball in line 4 or 5, RW and LW have more freedom running diagonally towards the goal to get through balls
+  *To prevent that ST/LW/RW don't get in each other's way inside the box, LW should move in B6 and RW in D6
+  *Always try to be ready for switches of play from the other side...
+  *...maybe even for long through balls, even if they don't come to you often, at least show that you are always ready
+  *Don't run back or to the other side to get the ball, since it will slow down build-up and make it harder to get forward
+
+**With the ball:**
+  *Your main job is to get behind der defense by either one-two's or 1on1-dribblings
+  *Keep in mind, that going into dribblings before line 5 is too risky and frustrating for teammates if you lose the ball like that
+  *If you get the ball in line 5 you can and must be creative and therefore have more freedom on the ball
+  *E.g. the RW can dribble from E5 to D4 and then either shoot or assist someone else
+  *Having the ball in E6 or A6 should be rare, since you can easily get isolated and the only two things you can effectively do is either cross or pass back to line 5
+
+[size=3]//-> More details, example videos and explanations: [[en:tactics:winger|Winger]]//[/size]
 ~~CLEARFLOAT~~
 ----
 

@@ -6,7 +6,7 @@ We are proud of being a team comprising players from different European countrie
 
 ===== Founders =====
 
-^J_Cruyff__14          ^^
+^J_Cruyff__14 ^^
 |From |{{:en:team:de.png?25|}} Regensburg, Deutschland |
 |Positions | Any, Winger, CM, CDM, SW |
 |Club | Bayern Munich |
@@ -20,7 +20,7 @@ We are proud of being a team comprising players from different European countrie
 |Role model |Marco Reus, Julian Weigl |
 |Qualities |Fast passing god |
 
-^BRAZZO87           ^^
+^BRAZZO87 ^^
 |From |{{:en:team:de.png?25|}} Berlin, Deutschland |
 |Positions | Any, CM, ST, CB, GK |
 |Club | Bayern Munich |
@@ -28,13 +28,22 @@ We are proud of being a team comprising players from different European countrie
 |Qualities |Elegant gap filler |
 
 ===== Gold Members =====
-^CGGyllen           ^^
+
+^CGGyllen ^^
 |From |{{:en:team:se.png?25|}} Stockholm, Sweden|
 |Member since |10/2015 |
 |Positions | Winger, CM, CDM |
 |Club | Hammarby IF |
 |Role model | Kennedy Bakircioglu, Andrea Pirlo |
 |Qualities |  Guarantee for decisive long-range shots |
+
+^ElZico ^^
+|From |{{:en:team:no.png?25|}} Bergen, Norway |
+|Member since |03/2016 |
+|Positions | CM, CDM |
+|Club | N/A |
+|Role model | Thiago, Berbatov, Scholes |
+|Qualities | Raumdeuter |
 
 ===== Silver Members =====
 
@@ -46,13 +55,6 @@ We are proud of being a team comprising players from different European countrie
 |Role model | Paul Pogba |
 |Qualities |Fast passing god and conversion monster |
 
-
-^KingKrelliKrell          ^^
-|From |{{:en:team:de.png?25|}} Berlin, Germany|
-|Member since |07/2015 |
-|Positions | Winger, CM, CDM |
-|Qualities |Error 404: NOT FOUND  |
-
 ^Think_Twice90 ^^
 |From |{{:en:team:gb.png?25|}} Manchester, Britain |
 |Member since |10/2015 |
@@ -60,7 +62,6 @@ We are proud of being a team comprising players from different European countrie
 |Club | Manchester United |
 |Role model | Paul Pogba |
 |Qualities |Fast passing god and conversion monster |
-
 
 ^ShaneMyers17 ^^
 |From |{{:en:team:gb.png?25|}} Blackpool, Britain |
@@ -70,25 +71,6 @@ We are proud of being a team comprising players from different European countrie
 |Role model | Luka Modric  |
 |Qualities |Dribbling and conversion specialist |
 
-^Team-Provo-XX ^^
-|From |{{:en:team:gb.png?25|}} Glasgow, Scotland |
-|Member since |01/2016 |
-|Positions | CM, CDM |
-|Club | Glasgow Rangers |
-|Role model | Joshua Kimmich |
-|Qualities |Ball artist |
-
-===== Newcomer =====
-
-^ElZico ^^
-|From |{{:en:team:no.png?25|}} Bergen, Norway |
-|Member since |03/2016 |
-|Positions | CM, CDM |
-|Club | N/A |
-|Role model | Thiago, Berbatov, Scholes |
-|Qualities | Raumdeuter |
-
-
 ^Heatkiger ^^
 |From |{{:en:team:no.png?25|}} Oslo, Norway |
 |Member since |03/2016 |
@@ -96,6 +78,48 @@ We are proud of being a team comprising players from different European countrie
 |Club | N/A |
 |Role model | Thiago, Berbatov, Scholes |
 |Qualities | |
+
+^Arknantes ^^
+|From |{{:en:team:de.png?25|}} -, Deutschland |
+|Positions | ST |
+|Club | - |
+|Role model |- |
+|Qualities |Icecold finisher |
+
+===== Newcomer =====
+
+^Brad-JkCfc ^^
+|From |{{:en:team:gb.png?25|}} , Britain |
+|Member since |04/2016 |
+|Positions | CM, CDM, Winger |
+|Club | _ |
+|Role model | _ |
+|Qualities | _ |
+
+
+^LFCwillZ321 ^^
+|From |{{:en:team:gb.png?25|}} , Britain |
+|Member since |04/2016 |
+|Positions | CM, CDM, Winger |
+|Club | _ |
+|Role model | _ |
+|Qualities | _ |
+
+^Citifiedjungle ^^
+|From |{{:en:team:no.png?25|}} , Norway |
+|Member since |04/2016 |
+|Positions | Winger, Fullback |
+|Club | _ |
+|Role model | _ |
+|Qualities | _ |
+
+^Fatality_23 ^^
+|From |{{:en:team:de.png?25|}} , Germany |
+|Member since |04/2016 |
+|Positions | Fullback |
+|Club | _ |
+|Role model | _ |
+|Qualities | _ |
 
 ===== Friends =====
 
@@ -129,6 +153,12 @@ We are proud of being a team comprising players from different European countrie
 |Role model | Schaub |
 |Qualities | |
 
+^KingKrelliKrell          ^^
+|From |{{:en:team:de.png?25|}} Berlin, Germany|
+|Member since |07/2015 |
+|Positions | Winger, CM, CDM |
+|Qualities |Error 404: NOT FOUND  |
+
 ^Toml23l ^^
 |From |{{:en:team:gb.png?25|}} Manchester, Britain |
 |Member since |01/2016 |
@@ -136,3 +166,11 @@ We are proud of being a team comprising players from different European countrie
 |Club | Manchester United |
 |Role model | Xavi, Scholes |
 |Qualities |Sophisticated playmaker |
+
+^Team-Provo-XX ^^
+|From |{{:en:team:gb.png?25|}} Glasgow, Scotland |
+|Member since |01/2016 |
+|Positions | CM, CDM |
+|Club | Glasgow Rangers |
+|Role model | Joshua Kimmich |
+|Qualities |Ball artist |
