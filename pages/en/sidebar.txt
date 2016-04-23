@@ -13,6 +13,7 @@
   *[[en:tactics:halfdefender|Halfdefender]]
   *[[en:tactics:bossquets|Midfield Sweeper]]
   *[[en:tactics:playmaking8|Halfspace Playmaker]]
+  *[[en:tactics:winger|Winger]]
   *[[en:tactics:striker|Striker]]
 
 [[en:guides:index|Guides]]
