@@ -1,5 +1,7 @@
 ====== Midfield sweeper ======
-
+  
+  Very outdated, will be edited soon.
+  
 {{ :playground:lib.jpg?200|}}**Red:** The main area in positional play of the CDM, also called the space of the six. In this space the CDM serves as hedging player and free man in the center for LCM/RCM and LCB/RCB respectively.
 
 **Lighyellow:** If the ball remains a long time on the wing, the CDM may move into the half-space, in order to overload that zone and prepare a switch of play.
