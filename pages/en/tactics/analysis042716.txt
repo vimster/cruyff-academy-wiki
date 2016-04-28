@@ -1,0 +1,102 @@
+====== Contemporary Analysis #3 ======
+April 27th 2016
+
+===== Big Improvements =====
+
+Summary of the problems we had in the first months:
+
+  *too many passes and too much possession in our own half
+  *almost no scoring chances
+  *many goals against by slow reactions in build-up
+  *losing the ball in attack by slow reactions or lack of technique
+
+Most of these problems have been worked on. LCM and RCM play higher and wider, which makes it alot easier to build-up: CB's and CDM can carry the ball forward and make long/sharp passes towards one of the CM's and they already are in a good position to get and keep the ball forward.
+
+{{ :en:tactics:beforeafterbuildup.png?300 |}}
+
+Because the CM's are higher and wider, our defense/CDM doesn't get pushed back to the box and can move higher, too. 
+
+==== We are better than Real Madrid, yay! ====
+
+There is a great real football example that has this problem, if you are interested:
+
+{{ :en:tactics:realmadridcrap.png?300 |}}
+
+Casemiro doesn't take part in build-up, he actually tries to move away from it - instead, Modric and (even more) Kroos move back alot to get the ball from the back. They don't wait to get the ball from defense, they move towards the ball to get it as early as possible. Because they don't trust the CB's?. Because they are greedy?
+
+Since Kroos and (especially) Modric are two of the most intelligent players on the planet, this can only be a problem caused by the coach's decisions. Madrid has many problems to keep the ball forward, since Kroos and Modric play so deep, it takes a long time for them to be an option for "BBC", especially because they mostly play long balls towards them, given the gap between defense and offense (Kroos and Modric move back, while BBC stay forward).
+
+Attacking consists mostly of BBC (literally) waiting up front for long balls from Kroos and Modric and then they start dribblings towards the goal. Due to lack of passing options or because that's what they want to do or because the coach wants them to play like that - either way it's more like "Juego de no posicíon" and something we have solved in the last 3 months.
+
+==== More Goals! ====
+
+Our higher positioning automatically makes more scoring chances possible. The play between LCM, RCM and CDM works very well. While one of the CM's tends to play higher and more agressive towards the box, we can create a lot of danger.
+
+The CDM is always ready for a short pass back from either CM's which makes keeping the ball forward possible.
+
+Both of these positive aspects bring other problems with them, however.
+
+===== Starting Formation and Real Formation =====
+
+{{ :en:tactics:formationapril16.png?250|}}We mostly start with a 4-3-3 (holding) or a 5-2-2-1. 
+
+LCM and RCM play high and wide, while one of the CM's (mostly LCM) plays a bit higher than the other. The CDM is very supportive and available for short passes for either CM.
+
+It becomes more complicated once we have a winger and/or ST. We haven't had a winger yet, that does exactly what is expected from him in our Positional Play. They either are to center-minded and move towards the goal too early (which takes away space for the ST and CM on his side) or stays wide for too long. 
+
+Another problem that occurs with most wingers is that they don't stay on one line with the opponent's defense and play too low - either because they are greedy or think they need to support us - it actually hurts build-up play instead.
+
+Our problem with ST's is, that they always play a holding ST that goes back to get the ball earlier, take part in combinations  or to start dribblings early in lines 4 and 5. Well, it actually isn't a problem by definition, but if the ST is a "False 9", we need both wingers to move smartly into the box by getting behind defense in the right moments - which we are lacking.
+
+{{:en:tactics:realformation042016.png?250 |}}The second picture shows how our players mostly play ingame. I have taken this example, because we mostly have trialists on LW that don't know what to do yet and do what I've described above. 
+
+The left side in attack tends to be very crowded with the ST always moving towards the ball, LCM moving up and LW running inside in wrong situations. In our worst times, we have 3 (!) players in B6 or sometimes even C6 - three players blocking each other and us technically playing 8 vs 11 because of that.
+~~CLEARFLOAT~~
+
+===== The Downsides of Playing High =====
+
+{{ :en:tactics:gaps.png?250|}}While we can create much more danger and have the ball in much higher areas, we have now more problems defending counter attacks. 
+
+To keep the ball in the higher areas, the main counter-defender - namely the CDM - plays much higher to support the CM's. But if the ball gets lost, there is a huge gap in the C-line.
+
+Every time we lose the ball up front, we are in danger of conceding a goal by a counter attack and there is basically nobody to defend it, since it was the main task of the CDM before we started playing like this.
+~~CLEARFLOAT~~
+
+{{:en:tactics:bestsystem.png?250 |}}We could fill this gap simply by placing a CB behind him and therefore playing with a 3 man defense. 
+
+The CDM in our current system has to do too much both offensively and defensively. With someone doing his defensive work, it would make his life a little easier and also help us concede less.
+
+The formation on the left would be the perfect system for us - unfortunately, it's not a 10 vs 10 game. 
+
+In our current situation, though, a 3-4-3 (diamond) seems to be impossible, because each additional player in attack will just stand in the way (which already happens right now in some situations).
+
+If we add another DM or a CAM it gives away space from another player. The only way we could play a 3-4-3 (diamond) is by playing with a "real" ST, that constantly looks to get behind defense and doesn't move back. We have tried playing with CAM and ST and they constantly blocked each other.
+~~CLEARFLOAT~~
+
+//**Counter-question 1: What if we keep LCB/RCB and make one of them cover C?**//
+
+Let's say the LCB covers the CDM's back. If he does that, the LCB leaves the B-line open. That means, that he either has to cover both B //and// C or the LB has to move to B to do the LCB's original job, which leaves the A-line open. 
+
+Therefore, two players constantly need to adapt to the CDM moving up, which makes everything more complicated than it should/could be. 
+
+//**Counter-question 2: If you see it that way, why would a 3 man defense better than 4? WTF!?**//
+
+Yes, the left half-defender and right half-defender would have to defend both the halfspaces and wings...right? 
+
+If you didn't know it: We have the ball most of the time. That means that the only thing our opponents do is playing counter attacks. And believe it or not, 3 defenders are enough to cover all important areas where counter attacks can become dangerous.
+
+And if the lone CB in the middle has problems doing it alone (which should be rare), the CDM can come back and create a 4 man defense by doing so. Nobody else would have to adapt to it and it's very simple. When the danger is over, CDM can move higher again.
+
+//**Counter-question 3: Alright, alright, if it makes you shut up...What formation is there then?**//
+
+I have no idea right now to be honest. Maybe it is best to keep it as it is right now and decrease the number of lost balls in important areas. But mistakes will always happen, because nobody can do everything 100% right in every game - there will always be at least one mistake.
+
+The CDM could stay lower, to cover counter-attacks. But then it's harder to control the ball in the center because the CM's don't have a pivot every time and then automatically play more towards the wing.
+
+The ST could play higher to run behind defense as much as possible to drag defenders with him and be available for through balls - but then we don't have a diamond and it's therefore harder to control the ball in the middle again.
+
+However, a "real" ST would make it possible for us to add a CAM and play a 3-4-3 (diamond). But this ST is missing right now so t hat is out of question.
+
+Maybe we should just forget about counter-attack problems and listen to the king himself, Johan Cruyff, instead:
+
+  "Every disadvantage has its advantage."
