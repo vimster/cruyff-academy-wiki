@@ -50,17 +50,4 @@ Positionsspiel umfasst eine Vielzahl von Aspekten. Diese haben alle jedoch eines
 
 ----
 
-===== Gegnerische Spielweisen =====
-((Alle hier beschriebenen Mannschaftsanalysen entstammen einzig und allein meinen eigenen Erfahrungen aus Spielen entweder gegen sie, bei ihnen oder durch das ansehen von Twitch-Streams. Die Spielweisen können mehr oder weniger stark von meinen Ansichten abweichen, doch ich kann nur für das sprechen, was ich sehe.))
-=== Niedrige Spieleranzahl ===
-=== Hohe Spieleranzahl ===
-=== Royal Aces/Intoxicated und Rising Phoenix ===
-[size=3]//-> siehe hierzu den vollständigen Artikel: [[de:tactics:RAandRP|Royal Aces und Rising Phoenix]]//[/size]
 
-=== WL Diamonds ===
-[size=3]//-> siehe hierzu den vollständigen Artikel: [[de:tactics:wldfc|WL Diamonds]]//[/size]
-
-
-===== Spielanalysen =====
-==== Gegen tiefstehende Gegner ====
-==== Gegen hohes Pressing ====

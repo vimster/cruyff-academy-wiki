@@ -64,7 +64,7 @@ Außerdem gibt es noch "Phasen" und "Bereiche".
 
 ==== Hoher Prioritätsbereich ====
 
-  *Zonen B4-5, C4-5 und D4-5 zusammengenommen
+  *Zonen B5, C5 und D5 zusammengenommen
   *hier werden hauptsächlich die Torchancen kreiert
   *es kann eine Zone überladen werden, um Kombinationen zu ermöglichen
   *vergiss nicht, auch defensiv zu denken((Dir sollte immer bewusst sein, was passiert, wenn der Ball verloren geht.))
