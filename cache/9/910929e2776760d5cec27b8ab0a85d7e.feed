@@ -11,7 +11,7 @@
         <description></description>
         <link>http://cruyff-academy.crayos.de/</link>
         <image rdf:resource="http://cruyff-academy.crayos.de/lib/tpl/dokuwiki/images/favicon.ico" />
-       <dc:date>2016-06-17T13:18:48+02:00</dc:date>
+       <dc:date>2016-06-19T03:22:40+02:00</dc:date>
         <items>
             <rdf:Seq>
                 <rdf:li rdf:resource="http://cruyff-academy.crayos.de/doku.php?id=de:tactics:positionalplay&amp;rev=1461924889&amp;do=diff"/>
