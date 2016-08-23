@@ -11,7 +11,7 @@
         <description></description>
         <link>http://cruyff-academy.crayos.de/</link>
         <image rdf:resource="http://cruyff-academy.crayos.de/lib/tpl/dokuwiki/images/favicon.ico" />
-       <dc:date>2016-07-05T23:11:43+02:00</dc:date>
+       <dc:date>2016-08-22T13:25:56+02:00</dc:date>
         <items>
             <rdf:Seq>
                 <rdf:li rdf:resource="http://cruyff-academy.crayos.de/doku.php?id=playground:playground&amp;rev=1444740844&amp;do=diff"/>
