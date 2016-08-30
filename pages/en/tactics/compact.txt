@@ -128,6 +128,10 @@ There are two ways of verticalising:
   *...passing "in between the lines" (vertical/interior passing)
   *...dribbling forward (vertical/diagonal dribbling)
 
+
+Pressing examples:
+august 16: atletic bilbao - fc barcelona
+
 ===== Cheatsheets =====
   *{{:en:tactics:common_rules_1_.png?linkonly|Common Rules}}
   *{{:en:tactics:halfspace-playmaker.png?linkonly|Halfspace Playmaker}}
