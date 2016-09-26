@@ -45,6 +45,14 @@ We are proud of being a team comprising players from different European countrie
 |Role model | Thiago, Berbatov, Scholes |
 |Qualities | Raumdeuter |
 
+
+^Ortlface91 ^^
+|From |{{:en:team:de.png?25|}} , Germany |
+|Positions | Any, Winger, ST, CM, CDM, WB |
+|Club | Bayern Munich |
+|Role model |...  |
+|Qualities |... |
+
 ===== Silver Members =====
 
 ^EatMySpudsack ^^
@@ -79,47 +87,67 @@ We are proud of being a team comprising players from different European countrie
 |Role model | Thiago, Berbatov, Scholes |
 |Qualities | |
 
-^Arknantes ^^
-|From |{{:en:team:de.png?25|}} -, Deutschland |
-|Positions | ST |
-|Club | - |
-|Role model |- |
-|Qualities |Icecold finisher |
+^borderlineschizo ^^
+|From |{{:en:team:gb.png?25|}} -, Britain |
+|Member since |11/2015 |
+|Positions | CM, WB, CDM |
+|Club | |
+|Role model |   |
+|Qualities | |
 
+
+^ciesla06 ^^
+|From |{{:en:team:dk.png?25|}} Cobenhaven, Denmark |
+|Member since |03/2016 |
+|Positions | CB |
+|Club | N/A |
+|Role model | |
+|Qualities | |
+
+^WAYNE_1878 ^^
+|From |{{:en:team:gb.png?25|}} -, Britain |
+|Member since |11/2015 |
+|Positions | CM, WB, CDM |
+|Club | |
+|Role model |   |
+|Qualities | |
+
+
+^MaccaH15 ^^
+|From |{{:en:team:gb.png?25|}} Blackpool, Britain |
+|Member since |07/2016 |
+|Positions | Winger, ST, CM |
+|Club | |
+|Role model |  |
+|Qualities | |
 ===== Newcomer =====
 
-^Brad-JkCfc ^^
+
+^TheManURulers ^^
 |From |{{:en:team:gb.png?25|}} , Britain |
 |Member since |04/2016 |
-|Positions | CM, CDM, Winger |
+|Positions | ST, ANY |
 |Club | _ |
 |Role model | _ |
 |Qualities | _ |
 
 
-^LFCwillZ321 ^^
-|From |{{:en:team:gb.png?25|}} , Britain |
+^TertioOculus ^^
+|From |{{:en:team:gb.png?25|}} Glasgow , Britain |
 |Member since |04/2016 |
-|Positions | CM, CDM, Winger |
+|Positions | CM, CDM |
+|Club | Celtic Glasgow |
+|Role model | _ |
+|Qualities | _ |
+
+^LordHXIII ^^
+|From |{{:en:team:no.png?25|}} , Canada |
+|Member since |07/2016 |
+|Positions | CDM, CM |
 |Club | _ |
 |Role model | _ |
 |Qualities | _ |
 
-^Citifiedjungle ^^
-|From |{{:en:team:no.png?25|}} , Norway |
-|Member since |04/2016 |
-|Positions | Winger, Fullback |
-|Club | _ |
-|Role model | _ |
-|Qualities | _ |
-
-^Fatality_23 ^^
-|From |{{:en:team:de.png?25|}} , Germany |
-|Member since |04/2016 |
-|Positions | Fullback |
-|Club | _ |
-|Role model | _ |
-|Qualities | _ |
 
 ===== Friends =====
 
@@ -174,3 +202,45 @@ We are proud of being a team comprising players from different European countrie
 |Club | Glasgow Rangers |
 |Role model | Joshua Kimmich |
 |Qualities |Ball artist |
+
+^Arknantes ^^
+|From |{{:en:team:de.png?25|}} -, Deutschland |
+|Positions | ST |
+|Club | - |
+|Role model |- |
+|Qualities |Icecold finisher |
+
+
+^Brad-JkCfc ^^
+|From |{{:en:team:gb.png?25|}} , Britain |
+|Member since |04/2016 |
+|Positions | CM, CDM, Winger |
+|Club | _ |
+|Role model | _ |
+|Qualities | _ |
+
+
+^LFCwillZ321 ^^
+|From |{{:en:team:gb.png?25|}} , Britain |
+|Member since |04/2016 |
+|Positions | CM, CDM, Winger |
+|Club | _ |
+|Role model | _ |
+|Qualities | _ |
+
+^Citifiedjungle ^^
+|From |{{:en:team:no.png?25|}} , Norway |
+|Member since |04/2016 |
+|Positions | Winger, Fullback |
+|Club | _ |
+|Role model | _ |
+|Qualities | _ |
+
+^Fatality_23 ^^
+|From |{{:en:team:de.png?25|}} , Germany |
+|Member since |04/2016 |
+|Positions | Fullback |
+|Club | _ |
+|Role model | _ |
+|Qualities | _ |
+
