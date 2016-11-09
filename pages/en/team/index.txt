@@ -141,13 +141,20 @@ We are proud of being a team comprising players from different European countrie
 |Qualities | _ |
 
 ^LordHXIII ^^
-|From |{{:en:team:no.png?25|}} , Canada |
+|From |{{:en:team:ca.png?25|}} Ottawa, Canada |
 |Member since |07/2016 |
 |Positions | CDM, CM |
-|Club | _ |
+|Club | Arsenal |
 |Role model | _ |
 |Qualities | _ |
 
+^xVanBasten9 ^^
+|From |{{:en:team:it.png?25|}} Bozen, Italy |
+|Member since |09/2016 |
+|Positions | ST |
+|Club | AC Milan |
+|Role model | Van Basten, Carlos Bacca, Suarez |
+|Qualities | one-twos, finishing |
 
 ===== Friends =====
 
