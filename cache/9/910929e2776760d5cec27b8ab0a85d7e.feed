@@ -11,10 +11,9 @@
         <description></description>
         <link>http://cruyff-academy.crayos.de/</link>
         <image rdf:resource="http://cruyff-academy.crayos.de/lib/tpl/dokuwiki/images/favicon.ico" />
-       <dc:date>2016-11-09T05:19:36+01:00</dc:date>
+       <dc:date>2016-11-10T03:08:19+01:00</dc:date>
         <items>
             <rdf:Seq>
-                <rdf:li rdf:resource="http://cruyff-academy.crayos.de/doku.php?id=en:start&amp;rev=1474803836&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -23,17 +22,4 @@
         <link>http://cruyff-academy.crayos.de/</link>
         <url>http://cruyff-academy.crayos.de/lib/tpl/dokuwiki/images/favicon.ico</url>
     </image>
-    <item rdf:about="http://cruyff-academy.crayos.de/doku.php?id=en:start&amp;rev=1474803836&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2016-09-25T13:43:56+01:00</dc:date>
-        <dc:creator>jneeskens</dc:creator>
-        <title>Welcome to the Cruyff Academy - [Cruyff Academy Core Values] </title>
-        <link>http://cruyff-academy.crayos.de/doku.php?id=en:start&amp;rev=1474803836&amp;do=diff</link>
-        <description>Welcome to the Cruyff Academy
-
-
-This is a place made by and for football fanatics and tactic enthusiasts, who take a very different approach on FIFA Pro Clubs (PS4) than most parts of the FIFA-Community.
-
-It's our aim to find like-minded people, who love beautiful and sophisticated football just as much as we do, to create a powerful team with ambitious, talented and friendly players at the same time.</description>
-    </item>
 </rdf:RDF>

@@ -32,26 +32,18 @@ We are proud of being a team comprising players from different European countrie
 ^CGGyllen ^^
 |From |{{:en:team:se.png?25|}} Stockholm, Sweden|
 |Member since |10/2015 |
-|Positions | Winger, CM, CDM |
+|Positions | Any, Winger, CM, CDM |
 |Club | Hammarby IF |
 |Role model | Kennedy Bakircioglu, Andrea Pirlo |
 |Qualities |  Guarantee for decisive long-range shots |
 
-^ElZico ^^
-|From |{{:en:team:no.png?25|}} Bergen, Norway |
-|Member since |03/2016 |
-|Positions | CM, CDM |
-|Club | N/A |
-|Role model | Thiago, Berbatov, Scholes |
-|Qualities | Raumdeuter |
-
-
 ^Ortlface91 ^^
 |From |{{:en:team:de.png?25|}}  Augsburg, Germany |
-|Positions | Any, Winger, ST, CM, CDM, WB |
+|Member since |06/2016 |
+|Positions | Any, Winger, ST, CM, CDM, WB, CB |
 |Club | Bayern Munich |
-|Role model |...  |
-|Qualities |... |
+|Role model | Bastian Schweinsteiger, Thomas Müller |
+|Qualities | Space Feeling |
 
 ===== Silver Members =====
 
@@ -79,29 +71,12 @@ We are proud of being a team comprising players from different European countrie
 |Role model | Luka Modric  |
 |Qualities |Dribbling and conversion specialist |
 
-^Heatkiger ^^
-|From |{{:en:team:no.png?25|}} Oslo, Norway |
-|Member since |03/2016 |
-|Positions | CM, CDM |
-|Club | N/A |
-|Role model | Thiago, Berbatov, Scholes |
-|Qualities | |
-
 ^borderlineschizo ^^
-|From |{{:en:team:gb.png?25|}} -, Britain |
+|From |{{:en:team:gb.png?25|}} Brighton, Britain |
 |Member since |11/2015 |
-|Positions | CM, WB, CDM |
-|Club | |
-|Role model |   |
-|Qualities | |
-
-
-^ciesla06 ^^
-|From |{{:en:team:dk.png?25|}} Cobenhaven, Denmark |
-|Member since |03/2016 |
-|Positions | CB |
-|Club | N/A |
-|Role model | |
+|Positions | Winger, CM, WB, CDM |
+|Club | Arsenal |
+|Role model | _ |
 |Qualities | |
 
 ^WAYNE_1878 ^^
@@ -112,7 +87,6 @@ We are proud of being a team comprising players from different European countrie
 |Role model |   |
 |Qualities | |
 
-
 ^MaccaH15 ^^
 |From |{{:en:team:gb.png?25|}} Blackpool, Britain |
 |Member since |07/2016 |
@@ -120,17 +94,6 @@ We are proud of being a team comprising players from different European countrie
 |Club | |
 |Role model |  |
 |Qualities | |
-===== Newcomer =====
-
-
-^TheManURulers ^^
-|From |{{:en:team:gb.png?25|}} , Britain |
-|Member since |04/2016 |
-|Positions | ST, ANY |
-|Club | _ |
-|Role model | _ |
-|Qualities | _ |
-
 
 ^TertioOculus ^^
 |From |{{:en:team:gb.png?25|}} Glasgow , Britain |
@@ -147,6 +110,7 @@ We are proud of being a team comprising players from different European countrie
 |Club | Arsenal |
 |Role model | _ |
 |Qualities | _ |
+===== Newcomer =====
 
 ^xVanBasten9 ^^
 |From |{{:en:team:it.png?25|}} Bozen, Italy |
@@ -156,6 +120,37 @@ We are proud of being a team comprising players from different European countrie
 |Role model | Van Basten, Carlos Bacca, Suarez |
 |Qualities | one-twos, finishing |
 
+^Heiwa-Shizen ^^
+|From |{{:en:team:us.png?25|}} - , USA |
+|Member since |10/2016 |
+|Positions | CM, CDM |
+|Club | _ |
+|Role model | Xavi, Scholes, Verratti |
+|Qualities | _ |
+
+^biotec ^^
+|From |{{:en:team:gb.png?25|}} , Britain |
+|Member since |10/2016 |
+|Positions | Winger, CM, CDM |
+|Club | Arsenal |
+|Role model | Tomáš Rosický |
+|Qualities | _ |
+
+^mikkelp1982 ^^
+|From |{{:en:team:dk.png?25|}} Kopenhagen, Denmark |
+|Member since |10/2016 |
+|Positions | Winger, CM, CDM, WB |
+|Club | _ |
+|Role model | Kevin O'leary |
+|Qualities | _ |
+
+^Siik-Goals ^^
+|From |{{:en:team:gb.png?25|}} -, Britain |
+|Member since |10/2016 |
+|Positions | St, Winger, CM, CDM, WB, CB |
+|Club | Chelsea |
+|Role model | _ |
+|Qualities | Allrounder |
 ===== Friends =====
 
 ^ronnytony ^^
@@ -217,7 +212,6 @@ We are proud of being a team comprising players from different European countrie
 |Role model |- |
 |Qualities |Icecold finisher |
 
-
 ^Brad-JkCfc ^^
 |From |{{:en:team:gb.png?25|}} , Britain |
 |Member since |04/2016 |
@@ -225,7 +219,6 @@ We are proud of being a team comprising players from different European countrie
 |Club | _ |
 |Role model | _ |
 |Qualities | _ |
-
 
 ^LFCwillZ321 ^^
 |From |{{:en:team:gb.png?25|}} , Britain |
@@ -251,3 +244,34 @@ We are proud of being a team comprising players from different European countrie
 |Role model | _ |
 |Qualities | _ |
 
+^ElZico ^^
+|From |{{:en:team:no.png?25|}} Bergen, Norway |
+|Member since |03/2016 |
+|Positions | CM, CDM |
+|Club | N/A |
+|Role model | Thiago, Berbatov, Scholes |
+|Qualities | Raumdeuter |
+
+^ciesla06 ^^
+|From |{{:en:team:dk.png?25|}} Cobenhaven, Denmark |
+|Member since |03/2016 |
+|Positions | CB |
+|Club | N/A |
+|Role model | |
+|Qualities | |
+
+^Heatkiger ^^
+|From |{{:en:team:no.png?25|}} Oslo, Norway |
+|Member since |03/2016 |
+|Positions | CM, CDM |
+|Club | N/A |
+|Role model | Thiago, Berbatov, Scholes |
+|Qualities | |
+
+^TheManURulers ^^
+|From |{{:en:team:gb.png?25|}} , Britain |
+|Member since |04/2016 |
+|Positions | ST, ANY |
+|Club | _ |
+|Role model | _ |
+|Qualities | _ |
