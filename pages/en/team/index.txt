@@ -47,14 +47,6 @@ We are proud of being a team comprising players from different European countrie
 
 ===== Silver Members =====
 
-^EatMySpudsack ^^
-|From |{{:en:team:gb.png?25|}} Manchester, Britain |
-|Member since |12/2015 |
-|Positions | Winger, CM, CDM |
-|Club | Manchester United |
-|Role model | Paul Pogba |
-|Qualities |Fast passing god and conversion monster |
-
 ^Think_Twice90 ^^
 |From |{{:en:team:gb.png?25|}} Manchester, Britain |
 |Member since |10/2015 |
@@ -87,13 +79,13 @@ We are proud of being a team comprising players from different European countrie
 |Role model |   |
 |Qualities | |
 
-^MaccaH15 ^^
-|From |{{:en:team:gb.png?25|}} Blackpool, Britain |
-|Member since |07/2016 |
-|Positions | Winger, ST, CM |
-|Club | |
-|Role model |  |
-|Qualities | |
+^EatMySpudsack ^^
+|From |{{:en:team:gb.png?25|}} Manchester, Britain |
+|Member since |12/2015 |
+|Positions | Winger, CM, CDM |
+|Club | Manchester United |
+|Role model | Paul Pogba |
+|Qualities |Fast passing god and conversion monster |
 
 ^TertioOculus ^^
 |From |{{:en:team:gb.png?25|}} Glasgow , Britain |
@@ -103,6 +95,14 @@ We are proud of being a team comprising players from different European countrie
 |Role model | _ |
 |Qualities | _ |
 
+^MaccaH15 ^^
+|From |{{:en:team:gb.png?25|}} Blackpool, Britain |
+|Member since |07/2016 |
+|Positions | Winger, ST, CM |
+|Club | |
+|Role model |  |
+|Qualities | |
+
 ^LordHXIII ^^
 |From |{{:en:team:ca.png?25|}} Ottawa, Canada |
 |Member since |07/2016 |
@@ -110,7 +110,6 @@ We are proud of being a team comprising players from different European countrie
 |Club | Arsenal |
 |Role model | _ |
 |Qualities | _ |
-===== Newcomer =====
 
 ^xVanBasten9 ^^
 |From |{{:en:team:it.png?25|}} Bozen, Italy |
@@ -119,6 +118,7 @@ We are proud of being a team comprising players from different European countrie
 |Club | AC Milan |
 |Role model | Van Basten, Carlos Bacca, Suarez |
 |Qualities | one-twos, finishing |
+===== Newcomer =====
 
 ^Heiwa-Shizen ^^
 |From |{{:en:team:us.png?25|}} - , USA |
@@ -129,7 +129,7 @@ We are proud of being a team comprising players from different European countrie
 |Qualities | _ |
 
 ^biotec ^^
-|From |{{:en:team:gb.png?25|}} , Britain |
+|From |{{:en:team:gb.png?25|}} - , Britain |
 |Member since |10/2016 |
 |Positions | Winger, CM, CDM |
 |Club | Arsenal |
@@ -144,14 +144,58 @@ We are proud of being a team comprising players from different European countrie
 |Role model | Kevin O'leary |
 |Qualities | _ |
 
+^Phenomenon07 ^^
+|From |{{:en:team:be.png?25|}} -, Belgium |
+|Member since |10/2016 |
+|Positions | CB |
+|Club | _ |
+|Role model | Pique, Hummels, Puyol, Boateng, T. Silva |
+|Qualities | _ |
+
+^Grant391 ^^
+|From |{{:en:team:gb.png?25|}} -, Britain |
+|Member since |10/2016 |
+|Positions | CDM, CB, GK |
+|Club | _ |
+|Role model | _ |
+|Qualities | _ |
+
 ^Siik-Goals ^^
 |From |{{:en:team:gb.png?25|}} -, Britain |
 |Member since |10/2016 |
 |Positions | St, Winger, CM, CDM, WB, CB |
 |Club | Chelsea |
-|Role model | _ |
+|Role model | Eden Hazard |
 |Qualities | Allrounder |
+
+^JimmyGuitarist ^^
+|From |{{:en:team:gb.png?25|}} -, Britain |
+|Member since |10/2016 |
+|Positions | Winger, CM, WB, CB |
+|Club | _ |
+|Role model | Iniesta |
+|Qualities | _ |
 ===== Friends =====
+
+^OmelDonya           ^^
+|From |{{:en:team:dk.png?25|}} Cobenhaven, Denmark|
+|Member since |07/2015 |
+|Positions | LW |
+|Qualities | Manual Control |
+
+^rapid22 ^^
+|From |{{:en:team:at.png?25|}} Vienna, Austria |
+|Member since |07/2015 |
+|Positions | Winger, CM, CDM |
+|Club | Rapid Vienna |
+|Role model | Schaub |
+|Qualities | |
+
+^KingKrelliKrell ^^
+|From |{{:en:team:de.png?25|}} Berlin, Germany|
+|Member since |07/2015 |
+|Positions | Winger, CM, CDM |
+|Qualities | _ |
 
 ^ronnytony ^^
 |From |{{:en:team:fr.png?25|}} Paris, France |
@@ -168,26 +212,6 @@ We are proud of being a team comprising players from different European countrie
 |Club | Bayern Munich |
 |Role model | Paul Pogba |
 |Qualities |Fast passing god |
-
-^OmelDonya           ^^
-|From |{{:en:team:dk.png?25|}} Cobenhaven, Denmark|
-|Member since |07/2015 |
-|Positions | LW |
-|Qualities | Manual Control |
-
-^rapid22 ^^
-|From |{{:en:team:at.png?25|}} Vienna, Austria |
-|Member since |07/2015 |
-|Positions | Winger, CM, CDM |
-|Club | Rapid Vienna |
-|Role model | Schaub |
-|Qualities | |
-
-^KingKrelliKrell          ^^
-|From |{{:en:team:de.png?25|}} Berlin, Germany|
-|Member since |07/2015 |
-|Positions | Winger, CM, CDM |
-|Qualities |Error 404: NOT FOUND  |
 
 ^Toml23l ^^
 |From |{{:en:team:gb.png?25|}} Manchester, Britain |
@@ -211,6 +235,30 @@ We are proud of being a team comprising players from different European countrie
 |Club | - |
 |Role model |- |
 |Qualities |Icecold finisher |
+
+^ElZico ^^
+|From |{{:en:team:no.png?25|}} Bergen, Norway |
+|Member since |03/2016 |
+|Positions | CM, CDM |
+|Club | N/A |
+|Role model | Thiago, Berbatov, Scholes |
+|Qualities | Raumdeuter |
+
+^ciesla06 ^^
+|From |{{:en:team:dk.png?25|}} Cobenhaven, Denmark |
+|Member since |03/2016 |
+|Positions | CB |
+|Club | N/A |
+|Role model | |
+|Qualities | |
+
+^Heatkiger ^^
+|From |{{:en:team:no.png?25|}} Oslo, Norway |
+|Member since |03/2016 |
+|Positions | CM, CDM |
+|Club | N/A |
+|Role model | Thiago, Berbatov, Scholes |
+|Qualities | |
 
 ^Brad-JkCfc ^^
 |From |{{:en:team:gb.png?25|}} , Britain |
@@ -243,30 +291,6 @@ We are proud of being a team comprising players from different European countrie
 |Club | _ |
 |Role model | _ |
 |Qualities | _ |
-
-^ElZico ^^
-|From |{{:en:team:no.png?25|}} Bergen, Norway |
-|Member since |03/2016 |
-|Positions | CM, CDM |
-|Club | N/A |
-|Role model | Thiago, Berbatov, Scholes |
-|Qualities | Raumdeuter |
-
-^ciesla06 ^^
-|From |{{:en:team:dk.png?25|}} Cobenhaven, Denmark |
-|Member since |03/2016 |
-|Positions | CB |
-|Club | N/A |
-|Role model | |
-|Qualities | |
-
-^Heatkiger ^^
-|From |{{:en:team:no.png?25|}} Oslo, Norway |
-|Member since |03/2016 |
-|Positions | CM, CDM |
-|Club | N/A |
-|Role model | Thiago, Berbatov, Scholes |
-|Qualities | |
 
 ^TheManURulers ^^
 |From |{{:en:team:gb.png?25|}} , Britain |
