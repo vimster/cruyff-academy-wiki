@@ -2,7 +2,7 @@
 
 We are proud of being a team comprising players from different European countries. In the following we want to introduce each team member briefly.
 
-<html><iframe width="420" height="315" src="https://www.youtube.com/embed/fdXJzCod2JI" frameborder="0" allowfullscreen></iframe></html>
+<html><iframe width="420" height="315" src="https://www.youtube.com/embed/8GTE8ysnpUw" frameborder="0" allowfullscreen></iframe></html>
 
 ===== Founders =====
 
@@ -79,21 +79,6 @@ We are proud of being a team comprising players from different European countrie
 |Role model |   |
 |Qualities | |
 
-^EatMySpudsack ^^
-|From |{{:en:team:gb.png?25|}} Manchester, Britain |
-|Member since |12/2015 |
-|Positions | Winger, CM, CDM |
-|Club | Manchester United |
-|Role model | Paul Pogba |
-|Qualities |Fast passing god and conversion monster |
-
-^TertioOculus ^^
-|From |{{:en:team:gb.png?25|}} Glasgow , Britain |
-|Member since |04/2016 |
-|Positions | CM, CDM |
-|Club | Celtic Glasgow |
-|Role model | _ |
-|Qualities | _ |
 
 ^MaccaH15 ^^
 |From |{{:en:team:gb.png?25|}} Blackpool, Britain |
@@ -111,13 +96,7 @@ We are proud of being a team comprising players from different European countrie
 |Role model | _ |
 |Qualities | _ |
 
-^xVanBasten9 ^^
-|From |{{:en:team:it.png?25|}} Bozen, Italy |
-|Member since |09/2016 |
-|Positions | ST |
-|Club | AC Milan |
-|Role model | Van Basten, Carlos Bacca, Suarez |
-|Qualities | one-twos, finishing |
+
 ===== Newcomer =====
 
 ^Heiwa-Shizen ^^
@@ -299,3 +278,26 @@ We are proud of being a team comprising players from different European countrie
 |Club | _ |
 |Role model | _ |
 |Qualities | _ |
+^EatMySpudsack ^^
+|From |{{:en:team:gb.png?25|}} Manchester, Britain |
+|Member since |12/2015 |
+|Positions | Winger, CM, CDM |
+|Club | Manchester United |
+|Role model | Paul Pogba |
+|Qualities |Fast passing god and conversion monster |
+
+^TertioOculus ^^
+|From |{{:en:team:gb.png?25|}} Glasgow , Britain |
+|Member since |04/2016 |
+|Positions | CM, CDM |
+|Club | Celtic Glasgow |
+|Role model | _ |
+|Qualities | _ |
+
+^xVanBasten9 ^^
+|From |{{:en:team:it.png?25|}} Bozen, Italy |
+|Member since |09/2016 |
+|Positions | ST |
+|Club | AC Milan |
+|Role model | Van Basten, Carlos Bacca, Suarez |
+|Qualities | one-twos, finishing |

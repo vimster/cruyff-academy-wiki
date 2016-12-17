@@ -1,4 +1,6 @@
 ====== Principles of Positional Play ======
+
+
  * Interpretationsvielfalt
 ===== Numerical superiorities =====
 ==== The free man ====
@@ -20,6 +22,10 @@
 ==== Suche nach dem Raum ====
 ==== Comfortzone-Overcompensation Transition ====
   * Ausnutzen von Action Bias
+
+
+<html><iframe width="560" height="315" src="https://www.youtube.com/embed/AKBRLWw5xm8" frameborder="0" allowfullscreen></iframe></html>
+
 ===== Weblinks =====
   * [[http://spielverlagerung.com/2014/12/25/juego-de-posicion-under-pep-guardiola/|spielverlagerung.com: Juego de posicion under Pep Guardiola]]
 
