@@ -6,7 +6,7 @@
 
 In this situation only 4 vertical lanes are occupied (B-E). In Positional Play every vertical lane has to
 be occupied by at least one player.
-===== Overlapping =====
+===== Massive Overlapping =====
 
 
 <html><iframe width="560" height="315" src="https://www.youtube.com/embed/gJKPfDzY-rk" frameborder="0" allowfullscreen></iframe></html>
@@ -19,7 +19,7 @@ Here all players make overlapping runs. The ST becomes playmaker and has no back
 
 In this situation the RCM has no vertical passing options after his dribbling. A back pass to the CDM is the only resonable option, as the CDM has the time to reassess the situation.
 
-Also, the right winger should have stayed in E and the LCM is overlapping instead of providing a passing option. Here, he //must// stand still in B4 and wait for an easy pass.
+Also, the right winger should have stayed in E and the LCM is overlapping instead of providing a passing option. Here, he //must// stand still in C4 and wait for an easy pass.
 
 In the end, the RCM gets isolated by himself but also by his teammates decisions.
 
