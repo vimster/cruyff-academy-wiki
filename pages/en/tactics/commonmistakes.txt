@@ -1,6 +1,6 @@
 ====== Common mistakes ======
 
-===== Positioning =====
+===== Positioning: Unoccupied zones  =====
 
 {{ :en:tactics:game_001_01.jpg |}}
 
@@ -50,4 +50,39 @@ In this scene at 0:07 the RB gets pressed in E4. The pass options to CDM, RCB an
 The RB tries to switch to A, which results in a turnover. Remember: a switch of play has to be conducted
 by a CB, CDM, GK from B,C or D.
 The right decision at 0:07 would have been a lob pass to the LCB in C3. After receiving the ball, the LCB has the entire field in front of him.
+
+
+===== Not holding L2 as pass receiver =====
+
+<html><iframe width="560" height="315" src="https://www.youtube.com/embed/aofQUFtUoz0" frameborder="0" allowfullscreen></iframe></html>
+
+This scene shows what happens when the pass receiver is on the move and does not hold L2 whilst expecting X-passes.
+Why it is important to hold L2?
+
+  * You face the ball carrier, no matter what direction you are moving
+  * You can move away from the opponent in a controlled manner
+  * You signal the ball carrier that you demand a X-pass
+  * The ball can be controlled more quickly
+  * The probability of a successful pass increases 
+
+[size=3]//-> Main artikel: [[en:guides:passing|Passing]]//[/size]
+
+
+===== Interrupting the rythmn of passing =====
+
+===== Not prepared for counter attacks in final third =====
+
+<html><iframe width="560" height="315" src="https://www.youtube.com/embed/pYuSHDX7exY" frameborder="0" allowfullscreen></iframe></html>
+
+Here we can observe a congestion in C6. Neither a proper staggering inside the box nor the prepartion for a counter attack is fulfilled. At 0:10 B5, C5 and D5 should have been occupied, instead.
+
+===== Turning into the opponent =====
+
+<html><iframe width="560" height="315" src="https://www.youtube.com/embed/F3XftleF9No" frameborder="0" allowfullscreen></iframe></html>
+
+Receiving a pass and turning into the opponent should be avoided. Imagine the opponents are incarnations of Medusa. Don't look into
+their eyes. Move away, pass backwards, shield the ball with L2, but don't turn around.
+
+
+
 
