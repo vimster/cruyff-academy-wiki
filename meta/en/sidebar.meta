@@ -1,6 +1,4 @@
-a:2:{s:7:"current";a:8:{s:4:"date";a:2:{s:7:"created";i:1438968807;s:8:"modified";i:1462796061;}s:7:"creator";s:14:"Johan Neeskens";s:4:"user";s:9:"jneeskens";s:11:"last_change";a:7:{s:4:"date";i:1462796061;s:2:"ip";s:12:"95.91.236.36";s:4:"type";s:1:"E";s:2:"id";s:10:"en:sidebar";s:4:"user";s:7:"jcruyff";s:3:"sum";s:0:"";s:5:"extra";s:0:"";}s:11:"contributor";a:2:{s:9:"jneeskens";s:8:"BRAZZO87";s:7:"jcruyff";s:11:"JCruyff__14";}s:8:"relation";a:2:{s:10:"references";a:25:{s:8:"en:start";b:1;s:25:"en:tactics:positionalplay";b:1;s:18:"en:tactics:compact";b:1;s:25:"en:tactics:systemscompact";b:1;s:15:"en:tactics:taod";b:1;s:17:"en:tactics:genrul";b:1;s:20:"en:tactics:playroles";b:1;s:23:"en:tactics:halfdefender";b:1;s:20:"en:tactics:bossquets";b:1;s:22:"en:tactics:playmaking8";b:1;s:17:"en:tactics:winger";b:1;s:18:"en:tactics:striker";b:1;s:15:"en:guides:index";b:1;s:18:"en:guides:training";b:1;s:17:"en:guides:passing";b:1;s:27:"en:guides:tacticaldribbling";b:1;s:19:"en:guides:defending";b:1;s:13:"en:team:index";b:1;s:17:"en:analyses:index";b:1;s:25:"en:tactics:analysis120215";b:1;s:25:"en:tactics:analysis012116";b:1;s:25:"en:tactics:analysis042716";b:1;s:25:"en:tactics:analysis050916";b:1;s:25:"en:tactics:commonmistakes";b:1;s:6:"en:faq";b:1;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}s:11:"description";a:1:{s:8:"abstract";s:455:"Welcome to the Cruyff Academy
-
-Game Strategy
+a:2:{s:7:"current";a:8:{s:4:"date";a:2:{s:7:"created";i:1438968807;s:8:"modified";i:1483012462;}s:7:"creator";s:14:"Johan Neeskens";s:4:"user";s:9:"jneeskens";s:11:"last_change";a:7:{s:4:"date";i:1483012462;s:2:"ip";s:14:"178.11.244.118";s:4:"type";s:1:"E";s:2:"id";s:10:"en:sidebar";s:4:"user";s:9:"jneeskens";s:3:"sum";s:0:"";s:5:"extra";s:0:"";}s:11:"contributor";a:2:{s:9:"jneeskens";s:8:"BRAZZO87";s:7:"jcruyff";s:11:"JCruyff__14";}s:8:"relation";a:2:{s:10:"references";a:26:{s:8:"en:start";b:1;s:18:"en:tactics:compact";b:1;s:25:"en:tactics:systemscompact";b:1;s:15:"en:tactics:taod";b:1;s:17:"en:tactics:genrul";b:1;s:20:"en:tactics:playroles";b:1;s:23:"en:tactics:halfdefender";b:1;s:20:"en:tactics:bossquets";b:1;s:19:"en:tactics:wingback";b:1;s:22:"en:tactics:playmaking8";b:1;s:17:"en:tactics:winger";b:1;s:18:"en:tactics:striker";b:1;s:15:"en:guides:index";b:1;s:18:"en:guides:training";b:1;s:17:"en:guides:passing";b:1;s:27:"en:guides:tacticaldribbling";b:1;s:19:"en:guides:defending";b:1;s:13:"en:team:index";b:1;s:17:"en:analyses:index";b:1;s:25:"en:tactics:analysis120215";b:1;s:25:"en:tactics:analysis012116";b:1;s:25:"en:tactics:analysis042716";b:1;s:25:"en:tactics:analysis050916";b:1;s:25:"en:tactics:commonmistakes";b:1;s:24:"en:tactics:matchanalyses";b:1;s:6:"en:faq";b:1;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}s:11:"description";a:1:{s:8:"abstract";s:470:"Welcome to the Cruyff Academy
 
 Our Philosophy
 
@@ -12,6 +10,7 @@ Roles of Positional Play
 
 	* Halfdefender
 	* Midfield Sweeper
+	* Wingback
 	* Halfspace Playmaker
 	* Winger
 	* Striker
@@ -32,5 +31,6 @@ Analyses
 	* Club Progress #3
 	* Club Progress #4
 	* Common Mistakes
+	* Match Analyses
 
-Frequently asked questions";}}s:10:"persistent";a:5:{s:4:"date";a:2:{s:7:"created";i:1438968807;s:8:"modified";i:1462796061;}s:7:"creator";s:14:"Johan Neeskens";s:4:"user";s:9:"jneeskens";s:11:"last_change";a:7:{s:4:"date";i:1462796061;s:2:"ip";s:12:"95.91.236.36";s:4:"type";s:1:"E";s:2:"id";s:10:"en:sidebar";s:4:"user";s:7:"jcruyff";s:3:"sum";s:0:"";s:5:"extra";s:0:"";}s:11:"contributor";a:2:{s:9:"jneeskens";s:8:"BRAZZO87";s:7:"jcruyff";s:11:"JCruyff__14";}}}
+Frequently asked questions";}}s:10:"persistent";a:5:{s:4:"date";a:2:{s:7:"created";i:1438968807;s:8:"modified";i:1483012462;}s:7:"creator";s:14:"Johan Neeskens";s:4:"user";s:9:"jneeskens";s:11:"last_change";a:7:{s:4:"date";i:1483012462;s:2:"ip";s:14:"178.11.244.118";s:4:"type";s:1:"E";s:2:"id";s:10:"en:sidebar";s:4:"user";s:9:"jneeskens";s:3:"sum";s:0:"";s:5:"extra";s:0:"";}s:11:"contributor";a:2:{s:9:"jneeskens";s:8:"BRAZZO87";s:7:"jcruyff";s:11:"JCruyff__14";}}}

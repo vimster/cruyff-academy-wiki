@@ -14,43 +14,42 @@ The philosophy can be summarized as follows:
 The overall goal is to constantly put pressure on the opponent on and off the ball whilst keeping control at the same time.
 
 To do that, we need to obtain the necessary technique. 
-
 After that, we have to learn by experience and certain rules what decisions to make ingame. 
-
 When we obtained a decent decision making, we can control the game. 
-
 To start winning regularly, we have to put constant pressure on the opponent. 
-
 When we can do all that, our game looks simple automatically. 
-
 To stay on a certain level or get better, we shall never stop learning.
-
 Skip one of these points and the philosophy changes completely.
 
-===== Formations and Systems =====
+===== Prerequisites =====
 
-[size=3]//-> Main article: [[en:tactics:systemscompact|Formations and Systems]]//[/size]
+==== Technical capabilities ====
+Following technical basics every player has to master:
+  * [[en:guides:passing|Passing]]
+  * Keeping the ball and [[en:guides:tacticaldribbling|pressing resistance]]
+  * Control over players movements
+  * concious application of effective trick movements
+  * fast assessment of game situations
 
-===== The Art of Domination =====
+In order to achieve a high level in these disciplines, we want to refer to the [[en:guides:index|guides]] article.
 
-[size=3]//-> Main article: [[en:tactics:taod|The Art of Domination]]//[/size]
-
-
-
-
-
-===== General Rules =====
-
-[size=3]//-> Main article: [[en:tactics:genrul|General Rules]]//[/size]
+==== Soft Skills ====
+In order to properly implement those complex strategies, not only capabilties at the controller are necessary but also [[en:psychology:index|psychological aspects]], such as patience, self-criticism and willingness to learn.
 
 ===== Positional Play =====
+
+Positional play comprises a large number of aspects. After all, they all have one thing in common. They pursue the fundamental goal of gaining different forms of superiorities in certain zones of the field.
+
+<html><iframe width="560" height="315" src="https://www.youtube.com/embed/AKBRLWw5xm8" frameborder="0" allowfullscreen></iframe></html>
+
+==== Grid ====
 
 {{ :en:tactics:zones.png?300 |}}
 
 From now on, when we talk about specific positions (or "zones" -> "Zonal Play") we will always talk about "lines" (like "line 1-3" or just "A" or "C") and exact terms for each position (like "B4" or "D2") for simplification.
 
 Now let's talk about "phases" and "areas".
-==== Finishing Phase ====
+=== Finishing Phase ===
 
   *Lines 5 and 6
   *"freedom zone"
@@ -59,7 +58,7 @@ Now let's talk about "phases" and "areas".
   *optimal positioning in the box: LW in B6, ST in C6 and RW in D6
   *optimal positioning outside the box: LCM in B5, RCM in D5
 
-==== High Priority Area ====
+=== High Priority Area ===
 
   *Zones B4-5, C4-5 and D4-5 combined
   *preferred zone for chance creation
@@ -67,78 +66,37 @@ Now let's talk about "phases" and "areas".
   *also think defensively and think about what happens when you lose the ball
   *no premature switch of play, stay on overloaded side as long as possible until we control the game in this area
 
-==== Build-up Phase ====
+=== Build-up Phase ===
 
   *Lines 1-4
   *static and wide positioning - don't waste your energy by running around like a maniac
   *every player stays in his respective zone providing vertical and horizontal depth
   *no skill moves
 
-=== Positioning ===
+==== Various playroles ====
+[size=3]//-> Main article: [[en:tactics:playroles|Playroles in Positional Play]]//[/size]
+-----
+===== Formations and Systems =====
 
-5-4-1 Transformer-Edition:
+[size=3]//-> Main article: [[en:tactics:systemscompact|Formations and Systems]]//[/size]
 
-  ***LWB in A1-3**; at least 1 zone behind LW
-  ***RWB in E1-3**; at least 1 zone behind RW
-  ***CB in C1-2**; at least 1 zone behind CDM
-  ***LCM in B2-4**; never on a line with CDM/CB/CAM/ST/LW
-  ***RCM in D2-4**; never on a line with CDM/CB/CAM/ST/RW
-  ***CDM in C1-3**; always behind and between LCM/RCM; either on a line with CB or one zone ahead
-  ***CAM in C3-4**; one zone ahead of CDM, between and ahead of LCM/RCM ("mirror" of CDM)
-  ***RW in E3-4**; always ahead of RCM and ready for long switches of play; almost on touchline
-  ***LW in A3-4**; always at the very front and ready for long switches of play; almost on touchline
-  ***ST in C3-4**; always at the very front
+===== The Art of Domination =====
 
-4-3-3((No commentary means it's the same as in 5-4-1)):
+[size=3]//-> Main article: [[en:tactics:taod|The Art of Domination]]//[/size]
 
-  ***LB in A1-3**
-  ***RB in E1-3**
-  ***LCB in B1-3**; at least 1 zone behind LCM, going wider when LB moves higher
-  ***RCB in D1-3**; at least 1 zone behind RCM, going wider when RB moves higher
-  ***CDM in C1-3**; always behind&between LCM/RCM; behind&between LCB/RCB when needed
-  ***LCM in B2-4**; can also move to C4-5 to overload right side when ball is in D4-5
-  ***RCM in D2-4**; can also move in C4-5 to overload left side when ball is in B4-5
-  ***LW in A3-4**
-  ***RW in E3-4**
-  ***ST in C3-4**
+===== General Rules =====
 
-4-3-3 (F9)((No commentary means it's the same as in 4-3-3)):
-
-  ***LB in A1-4**; can move higher when LW cuts inside
-  ***RB in E1-4**; can move higher when RW cuts inside
-  ***LCB in B1-3**
-  ***RCB in D1-3**
-  ***CDM in C1-3**
-  ***LCM in B2-4**; reacts to movements of F9 to create fluid triangles/diamonds with RCM/F9/LW/CDM
-  ***RCM in D2-4**; reacts to movements of F9 to create fluid triangles/diamonds with LCM/F9/RW/CDM
-  ***LW in A3-4**; can cut inside to B4 (like LS), but only when F9 is not in C4
-  ***RW in E3-4**; can cut inside to D4 (like RS), but only when F9 is not in C4
-  ***F9 in B3-4/C3-4/D3-4**; with great freedom comes great responsibility; creates triangles/diamonds fluidly; overloading master
-
-=== Verticalization ===
-
-Verticalization is the process of moving the play from one line to a higher line. We use verticalization to get from build-up phase to the high-priority area. 
-
-The more space we bypass by verticalization the faster we move forward. 
+[size=3]//-> Main article: [[en:tactics:genrul|General Rules]]//[/size]
 
 
 
-There are two ways of verticalising:
-
-  *...passing "in between the lines" (vertical/interior passing)
-  *...dribbling forward (vertical/diagonal dribbling)
-
-
-Pressing examples:
-august 16: atletic bilbao - fc barcelona
+===== Training drills =====
+[size=3]//-> Main article: [[en:guides:training|Training drills]]//[/size]
 
 ===== Cheatsheets =====
   *{{:en:tactics:common_rules_1_.png?linkonly|Common Rules}}
-  *{{:en:tactics:halfspace-playmaker.png?linkonly|Halfspace Playmaker}}
-
 
 ===== Weblinks =====
+  * [[http://spielverlagerung.com/2014/12/25/juego-de-posicion-under-pep-guardiola/|spielverlagerung.com: Juego de posicion under Pep Guardiola]]
 
-<html><iframe src="https://player.vimeo.com/video/133880448" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></html>
 
-<html><iframe src="https://player.vimeo.com/video/133746319" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></html>

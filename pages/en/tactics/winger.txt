@@ -115,3 +115,6 @@ In the end, we will //always// have to get the ball into the center because ther
   *Easier for the opponent to defend on the wing (remember: Low Priority Area; getting isolated)
   *(Opponent doesn't need to worry because) there is no pressure towards the goal
 
+===== Cheatsheet =====
+
+  *{{:en:tactics:winger.png?linkonly|Winger}}

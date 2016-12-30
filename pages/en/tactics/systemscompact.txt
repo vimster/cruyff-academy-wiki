@@ -116,3 +116,6 @@ It turns into some kind of **2 - 1 - 4 - 1 - 2** or **3 - 4 - 1 - 2**. Basically
 It's also possible with a real ST by sacrificing the diamond. It then turns into either a **2 - 1 - 4 - 3, 2 - 1 - 4 - 2 - 1, 3 - 4 - 2 - 1, 3 - 6 - 1**, or however you want to call it. Formations are just phone numbers.
 
 ===== 
+
+
+

@@ -5,7 +5,7 @@ This is a place made by and for football fanatics and tactic enthusiasts, who ta
 
 It's our aim to find like-minded people, who love beautiful and sophisticated football just as much as we do, to create a powerful team with ambitious, talented and friendly players at the same time.
 
-The "Cruyff Academy" was founded for this exact purpose so we can follow our [[en:tactics:positionalplay|Game strategy]] called "Positional Play" - a strategy based on the philosophy by the likes of Johan Cruyff, Louis van Gaal and Josep Guardiola.
+The "Cruyff Academy" was founded for this exact purpose so we can follow our [[en:tactics:compact|Game strategy]] called "Positional Play" - a strategy based on the philosophy by the likes of Johan Cruyff, Louis van Gaal and Josep Guardiola.
 
 This wiki is here to provide following things:
 

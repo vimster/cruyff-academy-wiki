@@ -2,8 +2,6 @@
 ~~CLEARFLOAT~~
 **[[en:start|Welcome to the Cruyff Academy]]**
 
-[[en:tactics:positionalplay|Game Strategy]]
-
 [[en:tactics:compact|Our Philosophy]]
   *[[en:tactics:systemscompact|Formations and Systems]]
   *[[en:tactics:taod|The Art of Domination]]
@@ -12,6 +10,7 @@
 [[en:tactics:playroles|Roles of Positional Play]]
   *[[en:tactics:halfdefender|Halfdefender]]
   *[[en:tactics:bossquets|Midfield Sweeper]]
+  *[[en:tactics:wingback|Wingback]]
   *[[en:tactics:playmaking8|Halfspace Playmaker]]
   *[[en:tactics:winger|Winger]]
   *[[en:tactics:striker|Striker]]
@@ -30,5 +29,6 @@
   *[[en:tactics:analysis042716|Club Progress #3]]
   *[[en:tactics:analysis050916|Club Progress #4]]
   *[[en:tactics:commonmistakes|Common Mistakes]]
+  *[[en:tactics:matchanalyses|Match Analyses]]
 
 [[en:faq|Frequently asked questions]]
