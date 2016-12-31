@@ -11,12 +11,11 @@
         <description></description>
         <link>http://cruyff-academy.crayos.de/</link>
         <image rdf:resource="http://cruyff-academy.crayos.de/lib/tpl/dokuwiki/images/favicon.ico" />
-       <dc:date>2016-12-30T04:51:19+01:00</dc:date>
+       <dc:date>2016-12-31T05:41:38+01:00</dc:date>
         <items>
             <rdf:Seq>
                 <rdf:li rdf:resource="http://cruyff-academy.crayos.de/doku.php?id=en:tactics:playroles&amp;rev=1483012508&amp;do=diff"/>
                 <rdf:li rdf:resource="http://cruyff-academy.crayos.de/doku.php?id=en:start&amp;rev=1483011303&amp;do=diff"/>
-                <rdf:li rdf:resource="http://cruyff-academy.crayos.de/doku.php?id=en:tactics:positionalplay&amp;rev=1481908891&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -53,25 +52,5 @@ Orange: The area the LCB/RCB switches to, in order to make the game [wide in the
 This is a place made by and for football fanatics and tactic enthusiasts, who take a very different approach on FIFA Pro Clubs (PS4) than most parts of the FIFA-Community.
 
 It's our aim to find like-minded people, who love beautiful and sophisticated football just as much as we do, to create a powerful team with ambitious, talented and friendly players at the same time.</description>
-    </item>
-    <item rdf:about="http://cruyff-academy.crayos.de/doku.php?id=en:tactics:positionalplay&amp;rev=1481908891&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2016-12-16T18:21:31+01:00</dc:date>
-        <dc:creator>jneeskens</dc:creator>
-        <title>Game strategy</title>
-        <link>http://cruyff-academy.crayos.de/doku.php?id=en:tactics:positionalplay&amp;rev=1481908891&amp;do=diff</link>
-        <description>Game strategy
-
-Prerequisites
-
-Technical capabilities
-
-Following technical basics every player has to master:
-
-	*  Passing
-	*  Keeping the ball and pressing resistance
-	*  Control over players movements
-	*  concious application of effective trick movements
-	*  fast assessment of game situations</description>
     </item>
 </rdf:RDF>
