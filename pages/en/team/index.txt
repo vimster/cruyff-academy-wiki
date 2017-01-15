@@ -47,14 +47,6 @@ We are proud of being a team comprising players from different European countrie
 
 ===== Silver Members =====
 
-^Think_Twice90 ^^
-|From |{{:en:team:gb.png?25|}} Manchester, Britain |
-|Member since |10/2015 |
-|Positions | Winger, CM, CDM |
-|Club | Manchester United |
-|Role model | Paul Pogba |
-|Qualities |Fast passing god and conversion monster |
-
 ^ShaneMyers17 ^^
 |From |{{:en:team:gb.png?25|}} Blackpool, Britain |
 |Member since |11/2015 |
@@ -71,15 +63,6 @@ We are proud of being a team comprising players from different European countrie
 |Role model | _ |
 |Qualities | |
 
-^WAYNE_1878 ^^
-|From |{{:en:team:gb.png?25|}} -, Britain |
-|Member since |11/2015 |
-|Positions | CM, WB, CDM |
-|Club | |
-|Role model |   |
-|Qualities | |
-
-
 ^MaccaH15 ^^
 |From |{{:en:team:gb.png?25|}} Blackpool, Britain |
 |Member since |07/2016 |
@@ -88,15 +71,37 @@ We are proud of being a team comprising players from different European countrie
 |Role model |  |
 |Qualities | |
 
-^LordHXIII ^^
-|From |{{:en:team:ca.png?25|}} Ottawa, Canada |
-|Member since |07/2016 |
-|Positions | CDM, CM |
-|Club | Arsenal |
-|Role model | _ |
+^ricolla ^^
+|From |{{:en:team:de.png?25|}} Bielefeld, Germany |
+|Member since |12/2015 |
+|Positions | Winger, CM, WB |
+|Club | Bayern Munich |
+|Role model | Paul Pogba, Thomas Müller |
+|Qualities | Fast passing god |
+
+^mikkelp1982 ^^
+|From |{{:en:team:dk.png?25|}} Copenhagen, Denmark |
+|Member since |10/2016 |
+|Positions | Winger, CM, CDM, WB |
+|Club | _ |
+|Role model | Kevin O'leary |
 |Qualities | _ |
 
+^xBoateng_77 ^^
+|From |{{:en:team:de.png?25|}} Cologne , Germany |
+|Member since |11/2016 |
+|Positions | CB |
+|Club | Bayern Munich |
+|Role model | Jerome Boateng |
+|Qualities | full defender, laser-passes |
 
+^mtfootball ^^
+|From |{{:en:team:gb.png?25|}} , Britain |
+|Member since |12/2016 |
+|Positions | Winger, CM, WB |
+|Club |  |
+|Role model | Luca Modric |
+|Qualities |  |
 ===== Newcomer =====
 
 ^Heiwa-Shizen ^^
@@ -105,54 +110,54 @@ We are proud of being a team comprising players from different European countrie
 |Positions | CM, CDM |
 |Club | _ |
 |Role model | Xavi, Scholes, Verratti |
-|Qualities | _ |
-
-^biotec ^^
-|From |{{:en:team:gb.png?25|}} - , Britain |
-|Member since |10/2016 |
-|Positions | Winger, CM, CDM |
-|Club | Arsenal |
-|Role model | Tomáš Rosický |
-|Qualities | _ |
-
-^mikkelp1982 ^^
-|From |{{:en:team:dk.png?25|}} Kopenhagen, Denmark |
-|Member since |10/2016 |
-|Positions | Winger, CM, CDM, WB |
-|Club | _ |
-|Role model | Kevin O'leary |
-|Qualities | _ |
-
-^Phenomenon07 ^^
-|From |{{:en:team:be.png?25|}} Genk, Belgium |
-|Member since |10/2016 |
-|Positions | CB, LB |
-|Club | Manchester United |
-|Role model | Pique, Hummels, Puyol, Boateng, T. Silva |
-|Qualities | _ |
-
-^Grant391 ^^
-|From |{{:en:team:gb.png?25|}} -, Britain |
-|Member since |10/2016 |
-|Positions | CDM, CB, GK |
-|Club | _ |
-|Role model | _ |
-|Qualities | _ |
-
-^Siik-Goals ^^
-|From |{{:en:team:gb.png?25|}} -, Britain |
-|Member since |10/2016 |
-|Positions | St, Winger, CM, CDM, WB, CB |
-|Club | Chelsea |
-|Role model | Eden Hazard |
-|Qualities | Allrounder |
+|Qualities | Passing |
 
 ^JimmyGuitarist ^^
 |From |{{:en:team:gb.png?25|}} -, Britain |
 |Member since |10/2016 |
-|Positions | Winger, CM, WB, CB |
+|Positions | Any, Winger, CM, WB, CB |
 |Club | _ |
 |Role model | Iniesta |
+|Qualities | _ |
+
+^Memeotis ^^
+|From |{{:en:team:dk.png?25|}} Copenhagen, Denmark|
+|Member since |12/2016 |
+|Positions | Winger, CM |
+|Club | _ |
+|Role model | _ |
+|Qualities | _ |
+
+^Browner7_ ^^
+|From |{{:en:team:gb.png?25|}} , Britain |
+|Member since |12/2016 |
+|Positions | Winger, CM |
+|Club | _ |
+|Role model | _ |
+|Qualities | _ |
+
+^Darthschracker ^^
+|From |{{:en:team:ie.png?25|}} , Ireland |
+|Member since |12/2016 |
+|Positions | Winger, CM |
+|Club | _ |
+|Role model | _ |
+|Qualities | _ |
+
+^Green-Eagle05 ^^
+|From |{{:en:team:fr.png?25|}} , France |
+|Member since |01/2017 |
+|Positions | CDM, CB |
+|Club | _ |
+|Role model | _ |
+|Qualities | Great Intuition in Positioning and Movement |
+
+^Haks_27 ^^
+|From |{{:en:team:gb.png?25|}} London, Britain |
+|Member since |01/2017 |
+|Positions | F9, CM |
+|Club | Arsenal |
+|Role model | Mesut Özil |
 |Qualities | _ |
 ===== Friends =====
 
@@ -183,14 +188,6 @@ We are proud of being a team comprising players from different European countrie
 |Club | Paris SG |
 |Role model | Xavi, Scholes |
 |Qualities |Allrounder |
-
-^ricolla ^^
-|From |{{:en:team:de.png?25|}} Bielefeld, Germany |
-|Member since |12/2015 |
-|Positions | Winger, CM, CDM |
-|Club | Bayern Munich |
-|Role model | Paul Pogba |
-|Qualities |Fast passing god |
 
 ^Toml23l ^^
 |From |{{:en:team:gb.png?25|}} Manchester, Britain |
@@ -278,6 +275,7 @@ We are proud of being a team comprising players from different European countrie
 |Club | _ |
 |Role model | _ |
 |Qualities | _ |
+
 ^EatMySpudsack ^^
 |From |{{:en:team:gb.png?25|}} Manchester, Britain |
 |Member since |12/2015 |
@@ -301,3 +299,75 @@ We are proud of being a team comprising players from different European countrie
 |Club | AC Milan |
 |Role model | Van Basten, Carlos Bacca, Suarez |
 |Qualities | one-twos, finishing |
+
+^Think_Twice90 ^^
+|From |{{:en:team:gb.png?25|}} Manchester, Britain |
+|Member since |10/2015 |
+|Positions | Winger, CM, CDM |
+|Club | Manchester United |
+|Role model | Paul Pogba |
+|Qualities |Fast passing god and conversion monster |
+
+^biotec ^^
+|From |{{:en:team:gb.png?25|}} - , Britain |
+|Member since |10/2016 |
+|Positions | Winger, CM, CDM |
+|Club | Arsenal |
+|Role model | Tomáš Rosický |
+|Qualities | _ |
+
+^Phenomenon07 ^^
+|From |{{:en:team:be.png?25|}} Genk, Belgium |
+|Member since |10/2016 |
+|Positions | CB, LB |
+|Club | Manchester United |
+|Role model | Pique, Hummels, Puyol, Boateng, T. Silva |
+|Qualities | _ |
+
+^Grant391 ^^
+|From |{{:en:team:gb.png?25|}} -, Britain |
+|Member since |10/2016 |
+|Positions | CDM, CB, GK |
+|Club | _ |
+|Role model | _ |
+|Qualities | _ |
+
+^HitmanshaneOTF ^^
+|From |{{:en:team:gb.png?25|}} -, Britain |
+|Member since |11/2016 |
+|Positions | Any, Winger, CM, CDM, CB |
+|Club | _ |
+|Role model | _ |
+|Qualities | _ |
+
+^dre_fo ^^
+|From |{{:en:team:gb.png?25|}} -, Britain |
+|Member since |11/2016 |
+|Positions | ST, Winger, CB |
+|Club | _ |
+|Role model | _ |
+|Qualities | _ |
+
+^Siik-Goals ^^
+|From |{{:en:team:gb.png?25|}} -, Britain |
+|Member since |10/2016 |
+|Positions | St, Winger, CM, CDM, WB, CB |
+|Club | Chelsea |
+|Role model | Eden Hazard |
+|Qualities | Allrounder |
+
+^WAYNE_1878 ^^
+|From |{{:en:team:gb.png?25|}} -, Britain |
+|Member since |11/2015 |
+|Positions | CM, WB, CDM |
+|Club | |
+|Role model |   |
+|Qualities | |
+
+^LordHXIII ^^
+|From |{{:en:team:ca.png?25|}} Ottawa, Canada |
+|Member since |07/2016 |
+|Positions | CDM, CM |
+|Club | Arsenal |
+|Role model | _ |
+|Qualities | _ |
