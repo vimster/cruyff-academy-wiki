@@ -11,11 +11,9 @@
         <description></description>
         <link>http://cruyff-academy.crayos.de/</link>
         <image rdf:resource="http://cruyff-academy.crayos.de/lib/tpl/dokuwiki/images/favicon.ico" />
-       <dc:date>2017-01-15T02:23:37+01:00</dc:date>
+       <dc:date>2017-01-16T01:37:00+01:00</dc:date>
         <items>
             <rdf:Seq>
-                <rdf:li rdf:resource="http://cruyff-academy.crayos.de/doku.php?id=en:tactics:playroles&amp;rev=1483012508&amp;do=diff"/>
-                <rdf:li rdf:resource="http://cruyff-academy.crayos.de/doku.php?id=en:start&amp;rev=1483011303&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -24,33 +22,4 @@
         <link>http://cruyff-academy.crayos.de/</link>
         <url>http://cruyff-academy.crayos.de/lib/tpl/dokuwiki/images/favicon.ico</url>
     </image>
-    <item rdf:about="http://cruyff-academy.crayos.de/doku.php?id=en:tactics:playroles&amp;rev=1483012508&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2016-12-29T12:55:08+01:00</dc:date>
-        <dc:creator>jneeskens</dc:creator>
-        <title>Roles of Positional Play</title>
-        <link>http://cruyff-academy.crayos.de/doku.php?id=en:tactics:playroles&amp;rev=1483012508&amp;do=diff</link>
-        <description>Roles of Positional Play
-
-Halfdefender
-
--&gt; Main article: Halfdefender
-
-Red: The area the LCB/RCB are usually to be found. ([&quot;defensive interior corridor&quot;])
-
-Orange: The area the LCB/RCB switches to, in order to make the game [wide in the buildup phase], if the opponent is pressing high up the pitch. The zones on the first line can be used at</description>
-    </item>
-    <item rdf:about="http://cruyff-academy.crayos.de/doku.php?id=en:start&amp;rev=1483011303&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2016-12-29T12:35:03+01:00</dc:date>
-        <dc:creator>jneeskens</dc:creator>
-        <title>Welcome to the Cruyff Academy</title>
-        <link>http://cruyff-academy.crayos.de/doku.php?id=en:start&amp;rev=1483011303&amp;do=diff</link>
-        <description>Welcome to the Cruyff Academy
-
-
-This is a place made by and for football fanatics and tactic enthusiasts, who take a very different approach on FIFA Pro Clubs (PS4) than most parts of the FIFA-Community.
-
-It's our aim to find like-minded people, who love beautiful and sophisticated football just as much as we do, to create a powerful team with ambitious, talented and friendly players at the same time.</description>
-    </item>
 </rdf:RDF>
