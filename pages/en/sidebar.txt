@@ -31,4 +31,8 @@
   *[[en:tactics:commonmistakes|Common Mistakes]]
   *[[en:tactics:matchanalyses|Match Analyses]]
 
+References
+  *[[en:refs:quotes|Quotations]]
+  *[[en:refs:videos|Positional Play Videos]]
+
 [[en:faq|Frequently asked questions]]
