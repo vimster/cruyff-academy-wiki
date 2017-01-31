@@ -147,7 +147,7 @@ We are proud of being a team comprising players from different European countrie
 ^Haks_27 ^^
 |From |{{:en:team:gb.png?25|}} London, Britain |
 |Member since |01/2017 |
-|Positions | F9, CM |
+|Positions | F9, Winger, CM |
 |Club | Arsenal London |
 |Role model | Mesut Özil |
 |Qualities | _ |
@@ -171,9 +171,9 @@ We are proud of being a team comprising players from different European countrie
 ^Fever1OW5 ^^
 |From |{{:en:team:fr.png?25|}} Paris, France |
 |Member since |01/2017 |
-|Positions | CM, CDM |
-|Club | _ |
-|Role model | _ |
+|Positions | CM, CDM, LB |
+|Club | Real Madrid |
+|Role model | Zinédine Zidane |
 |Qualities | _ |
 ===== Friends =====
 
