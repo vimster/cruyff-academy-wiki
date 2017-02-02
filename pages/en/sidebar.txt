@@ -14,6 +14,7 @@
   *[[en:tactics:playmaking8|Halfspace Playmaker]]
   *[[en:tactics:winger|Winger]]
   *[[en:tactics:striker|Striker]]
+  *[[en:tactics:f9|False 9]]
 
 [[en:guides:index|Guides]]
   *[[en:guides:training|Training Drills]]

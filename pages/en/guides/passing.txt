@@ -14,6 +14,8 @@ By holding the L2 button you ensure that your player permanently keeps the viewi
   - ball does not bounce in 99 percent of cases ((1% random errors, which are beyond our influence))
   - you signal the player in possession, that you demand a x-pass
 
+<html><iframe src='https://gfycat.com/ifr/ShamelessWateryEmu' frameborder='0' scrolling='no' width='640' height='360' allowfullscreen></iframe></html>
+
 That is a crucial mistake of the vast majority of the FIFA community: It is **not** enough to run alongside the player in possession using the left stick - you move partially with the back to that player which results in a lower pass success rate.
 When you want to receive a short x-pass and don't hold L2, you reduce the likelihood of an accurate pass.
 
@@ -23,6 +25,8 @@ Instead, it is more likely that one of the following four things happens:
   * pass is played 2-3 meters into the run
   * ball rebounds from the the heel of the pass receiver
   * pass receiver did not expect the pass
+
+<html><iframe src='https://gfycat.com/ifr/BruisedFlawlessEarwig' frameborder='0' scrolling='no' width='640' height='360' allowfullscreen></iframe></html>
 ==== As passer ====
 
 As passer it is your task to pay attention to the movements of your teammates and check wheather they comply with the conditions for a x-pass (as stated above).

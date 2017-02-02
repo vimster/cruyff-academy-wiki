@@ -1,0 +1,72 @@
+====== False 9 ======
+
+===== The Idea =====
+{{ :en:tactics:f91.jpg?200|}}
+
+A very controversial topic in my opinion. There are very rare cases, where a so-called "False 9" makes sense and actually works. There are also problems with how people view this "position". 
+
+The term "false" only tells us that it is not a "real 9", but what else is it then? There are a few ways and a few players in history who were very good "False 9s", like Totti, Di Stefano or Puskas. But the most recent and most famous player that made the media create the term "False 9" is Messi, of course.
+
+In this case, the more accurate term for Messi's style would be "Fluid 9".
+
+Guardiola had this idea on May 2nd 2009. Barcelona played against Madrid in Bernabéu. As most of you probably know, Eto'o was still there and played striker for them while Messi was on the right wing.
+
+After ten minutes in the game against Real Madrid, Guardiola told Eto'o and Messi to switch positions. Leo shouldn't play completely forward, though. Instead, he should play just like another midfielder.
+
+Guardiola told Xavi and Iniesta: "If you see Leo between the lines in the middle, do not wonder. Just give the ball to him."
+
+And to Messi himself: "Leo, when Xavi and Andrés leave the line and pass the ball to you, you move directly towards the goal."
+
+Barcelona won 6:2 against Real Madrid in this match.
+
+===== How to do it? =====
+
+{{ :en:tactics:f9sho.png?300 |}}
+
+To summarize Messi's play in few and simple words is probably impossible. However, I will try to provide a simplified version of the Fluid/False 9.
+
+  *Do not (or very rarely) run behind the defensive line for through balls
+  *Instead, position yourself between the opponent's midfield and defense for direct passes into your feet (while holding L2!)
+  *Try to overload one of the halfspaces
+
+==== Possibilities ====
+
+{{ :en:tactics:f9bsp.png?300 |}}
+
+The possible plays when getting the ball in this situation depend very much on the player's abilities. A strategic mind can also be of importance, if you want the False 9 to orchestrate the attack like Messi does/did. By "strategic" I mean the following:
+
+  *Know how to position yourself before receiving the ball, in order to have maximum possibilities with the ball
+  *Know how to move after passing the ball
+  *Know when to dribble, when to play one-twos and when to assist or finish yourself
+
+It is usual to pick one halfspace over the other to start plays. With a left foot, it is more dangerous to move diagonally from the right halfspace towards the goal, for example. A right-footed player would move inside from the left halfspace.
+
+Ofcourse, pictures and videos are better to explain things, so here we go:
+
+<html><iframe src='https://gfycat.com/ifr/AfraidSilkyCow' frameborder='0' scrolling='no' width='640' height='360' allowfullscreen></iframe></html>
+
+Just like described before, Messi starts from the right halfspace and moves diagonally inside towards the goal, here by playing quick one-touch passes.
+
+This diagonal movement towards the goal will be present in all of the next videos.
+
+<html><iframe src='https://gfycat.com/ifr/JadedLegitimateCockatoo' frameborder='0' scrolling='no' width='640' height='360' allowfullscreen></iframe></html>
+
+Basically the same thing, but prooving that it also works under more pressure. With the described movement and passing, Messi gets behind defender after defender. It's like they don't exist.
+
+<html><iframe src='https://gfycat.com/ifr/AdmirableFabulousGalapagosdove' frameborder='0' scrolling='no' width='640' height='360' allowfullscreen></iframe></html>
+
+Now a different situation: The False 9 doesn't play a major strategic role in this attack but is instead waiting behind the right winger in D5, just like I said before: between the opponent's defense and midfield.
+
+The thing I want to point out is, that Messi doesn't stop after playing a pass. Just how I described before, he keeps moving towards the goal. He even would have been ready for a lateral one-two with Iniesta.
+
+<html><iframe src='https://gfycat.com/ifr/HauntingYellowishAngelwingmussel' frameborder='0' scrolling='no' width='640' height='360' allowfullscreen></iframe></html>
+
+Simple explanation: Start from a deep position, preferably right-halfspace (between opponent's defense & midfield), move diagonally towards goal by dribblings/one-twos and finish. Messi in a nutshell.
+
+Also, take a look at the opponent's last defenders: They are completely irrelevant. They just stand there, and cannot do anything to prevent the attacks. They cannot get involved because there are no strikers. And just when the ball got in their direction, it's already in the goal.
+
+Metzelder, who played against Barcelona with Real Madrid, described it the following:
+
+  "Fabio (Cannavaro) and I asked ourselves: 
+  What shall we do? Do we follow him or stay behind?
+  We didn't know what to do and we just couldn't stop him."
