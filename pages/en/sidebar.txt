@@ -6,6 +6,7 @@
   *[[en:tactics:systemscompact|Formations and Systems]]
   *[[en:tactics:taod|The Art of Domination]]
   *[[en:tactics:genrul|General Rules]]
+  *[[en:psychology:personal|Developing a Growth Mindset]]
 
 [[en:tactics:playroles|Roles of Positional Play]]
   *[[en:tactics:halfdefender|Halfdefender]]
