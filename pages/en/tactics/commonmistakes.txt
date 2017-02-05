@@ -81,7 +81,7 @@ Here we can observe a congestion in C6. Neither a proper staggering inside the b
 <html><iframe width="560" height="315" src="https://www.youtube.com/embed/F3XftleF9No" frameborder="0" allowfullscreen></iframe></html>
 
 Receiving a pass and turning into the opponent should be avoided. Imagine the opponents are incarnations of Medusa. Don't look into
-their eyes. Move away, pass backwards, shield the ball with L2, but don't turn around.
+their eyes. Move away, pass backwards, shield the ball with L2 (with pushing the left stick to the opponent player) , but don't turn around.
 
 
 
