@@ -12,7 +12,7 @@ By holding the L2 button you ensure that your player permanently keeps the viewi
   - pass is not played in the back
   - pass is not played into the run
   - ball does not bounce in 99 percent of cases ((1% random errors, which are beyond our influence))
-  - you signal the player in possession, that you demand a x-pass
+  - you signal the ball carrier, that you demand a x-pass
 
 <html><iframe src='https://gfycat.com/ifr/ShamelessWateryEmu' frameborder='0' scrolling='no' width='640' height='360' allowfullscreen></iframe></html>
 
