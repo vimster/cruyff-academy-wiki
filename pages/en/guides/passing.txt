@@ -4,7 +4,7 @@
 ==== As pass receiver ====
 
   *hold L2 permanently
-  *opposing defenders must be behind you or far away from you
+  *opposing defenders must be behind you or far enough away from you
   *try to build a triangle with the passer and an additional player
 
 By holding the L2 button you ensure that your player permanently keeps the viewing direction to the ball and at the same time to the passer. Hence, you attain four things:

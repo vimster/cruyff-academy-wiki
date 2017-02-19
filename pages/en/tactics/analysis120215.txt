@@ -115,6 +115,7 @@ When there are only two players connected to each other, they play one-twos unti
 
 If there never comes a third player, these two players stay connected to each other all the time. If one of them moves, the other one follows and so on.
 
+<html><iframe src='https://gfycat.com/ifr/InfantileOrneryGermanshorthairedpointer' frameborder='0' scrolling='no' width='640' height='360' allowfullscreen></iframe></html>
 ==== What does "connection" mean? ====
 
 Now I kept talking about networks and connections, players connected to each other and so on - but what exactly do I mean by that?
@@ -124,6 +125,8 @@ Players are connected to each other when they follow the rules of [[en:guides:pa
   *...they **face** the ball carrier (by holding L2)
   *...no opposition player can get in between
   *...the distance between players are not over ~10m (~11 yards)
+
+<html><iframe src='https://gfycat.com/ifr/PastCoarseBarasinga' frameborder='0' scrolling='no' width='640' height='360' allowfullscreen></iframe></html>
 
 Alot of experience is needed to be completely efficient in all three tasks. It is easier to be connected when you are not under much pressure but it will be more and more difficult the more pressure the opponent uses on you.
 
