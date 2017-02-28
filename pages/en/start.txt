@@ -25,12 +25,15 @@ What if I were to tell you that if you join us and follow the "rules" stated in 
 ----
 
 
-**Core Values**
+**Core Values & YouTube channel**
+
+<columns 100% 50% - ->
 
 <html>
-<iframe src="https://player.vimeo.com/video/184133826" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/184133826">Cruyff Academy core values</a> from <a href="https://vimeo.com/user57088625">CG</a> on <a href="https://vimeo.com">Vimeo</a>.</p></html>
+<iframe src="https://player.vimeo.com/video/184133826" width="100%" height="200" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></html>
 
-**Visit our Youtube Channel**
+<newcolumn>
 
-<html><iframe width="560" height="315" src="https://www.youtube.com/embed/VTmjH2kYhnY" frameborder="0" allowfullscreen></iframe></html>
+<html><iframe width="100%" height="200" src="https://www.youtube.com/embed/VTmjH2kYhnY" frameborder="0" allowfullscreen></iframe></html>
+
+</columns>

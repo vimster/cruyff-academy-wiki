@@ -1,0 +1,75 @@
+====== Goalkeeper (TODO TODO TODO) ======
+
+{{ :en:tactics:gkzones.png?300 |}}**Red:** asdfasdf
+
+**Orange:** asdfasdf
+
+
+~~CLEARFLOAT~~
+
+----
+===== Build up phase =====
+<code>
+  - Dribble (with L2 or L2+R2) until you are attacked by an opponent or you approach the opponent
+  - Try to avoid passes to the other defenders (reduce passes in "U")
+  - Always keep one eye on higher zones if there is anyone available for passes, preferably with R1-passes
+  - If you are getting pressed near the penalty area, use a diagonal pass to the opposite wing or halfspace or a backpass to CDM or GK
+</code>
+
+=== Prerequisites ===
+
+<code>
+- the halfspace midfielders are required to be free for passing and hold L2 for demanding x-passes
+- on either wing the wingers need to be prepared for long balls and long through balls, respectively
+- on either halfspace, the CM's neet to be prepared for verticalization
+</code>
+
+Don't shy away from passes into the center. If the midfielders comply with their requirements at least one player should be free. If that isn't the case due to opponents high pressure a switch of play is inevitable.
+
+==== Verticalization ====
+
+Verticalization is the process of moving the play from one line to a higher line. We use verticalization to get from build-up phase to the high-priority area. 
+
+The more space we bypass by verticalization the faster we move forward. The players that have to verticalize are LCB, RCB and CB/CDM.
+
+There are two ways of verticalising:
+
+  *...passing "in between the lines" (vertical/interior passing)
+  *...dribbling forward (vertical/diagonal dribbling)
+
+==== Bayern's verticalization VS Leverkusen (one of the best pressing teams) ===
+
+<html><iframe src="https://player.vimeo.com/video/133880448" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></html>
+
+==== Barcelona's verticalization VS Arsenal ===
+
+<html><iframe src="https://player.vimeo.com/video/133746319" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></html>
+
+==== More examples and details ====
+((please wait for a few seconds until the gifs/webm's are completely loaded))
+=== Boateng's vertical pass from C3 to C4 ends in a goal ===
+<html><iframe src="http://gfycat.com/ifr/EminentLinedCoral" frameborder="0" scrolling="no" width="800" height="450" style="-webkit-backface-visibility: hidden;-webkit-transform: scale(1);" ></iframe></html>
+
+=== Various verticalizations by Boateng ===
+<html><iframe src="http://gfycat.com/ifr/SpectacularSpotlessBoto" frameborder="0" scrolling="no" width="800" height="450" style="-webkit-backface-visibility: hidden;-webkit-transform: scale(1);" ></iframe></html>
+=== Emre Can switches the play from D3 to A5 ===
+<html><iframe src="http://gfycat.com/ifr/FrighteningCrispChrysalis" frameborder="0" scrolling="no" width="800" height="450" style="-webkit-backface-visibility: hidden;-webkit-transform: scale(1);" ></iframe></html>
+
+If both wingers and CM's are covered, the central sweeper (CDM or CB) is requested to drop deeper. Either an opponent follows him and you need to reconsider the situation or the sweeper stays free for a pass, which leads to a new situation. The same applies to passes back to the goalkeeper. Keep in mind: As long as you don't lose the ball and the ball is circulated a new situation in game might occur generating a free man.
+
+Nonetheless, do not limit yourself to passes to the goalkeeper or the wingers because you are afraid of keeping the ball or passing into the center. 
+
+Many passes in "U" shape, as has been played by FC Bayern under the coach Van Gaal, may destroy the whole offensive efforts of a team. Any cross pass in the own half invites the opponent to move up and cover free men.
+This may result in never getting out of the own half.
+
+Especially for the halfdefender as first player in the build up phase applies: 
+
+**Don't play hectic direct passes, if you aren't pressed!**
+**Keep the Ball and dribble forward as long as no opponent is attacking you. In the meantime always look forward and search for passes to a central teammate or onto the wing. Thereby make the decision, wheather a high, low, through or short pass is most suited.** 
+
+Don't be a coward, who always looks for safety passes and refuses to assume responsibility.
+===== Winning the ball =====
+[size=3]//-> Main article: [[en:guides:defending|Defending]]//[/size]
+
+===== Role models =====
+
