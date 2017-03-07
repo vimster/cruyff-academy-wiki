@@ -27,7 +27,7 @@ We are proud of being a team comprising players from different European countrie
 |From |{{:en:team:de.png?25|}} Berlin, Deutschland |
 |Positions | Any, CM, ST, CB, GK |
 |Club | Bayern Munich |
-|Role model |Jerome Boateng |
+|Role model |Jerome Boateng, Joshua Kimmich |
 |Qualities |Elegant gap filler |
 
 ===== Gold Members =====
@@ -39,7 +39,7 @@ We are proud of being a team comprising players from different European countrie
 |Positions | Any, Winger, CM, CDM |
 |Club | Hammarby IF |
 |Role model | Kennedy Bakircioglu, Andrea Pirlo |
-|Qualities |  Guarantee for decisive long-range shots |
+|Qualities | Guarantee for decisive long-range shots |
 
 |<100% 10em>|
 ^Ortlface91 ^^
@@ -190,29 +190,11 @@ We are proud of being a team comprising players from different European countrie
 ===== Newcomer =====
 
 |<100% 10em>|
-^Heiwa-Shizen ^^
-|From |{{:en:team:us.png?25|}} - , USA |
-|Member since |10/2016 |
-|Positions | CM, CDM |
-|Club | _ |
-|Role model | Xavi, Scholes, Verratti |
-|Qualities | Passing |
-
-|<100% 10em>|
-^JimmyGuitarist ^^
-|From |{{:en:team:gb.png?25|}} -, Britain |
-|Member since |10/2016 |
-|Positions | Any, Winger, CM, WB, CB |
-|Club | _ |
-|Role model | _ |
-|Qualities | _ |
-
-|<100% 10em>|
 ^x-jaacko-x ^^
 |From |{{:en:team:gb.png?25|}} , Britain |
 |Member since |02/2017 |
 |Positions | F9, Winger, CM, GK |
-|Club | - |
+|Club | _ |
 |Role model | Lionel Messi |
 |Qualities | _ |
 
@@ -221,8 +203,17 @@ We are proud of being a team comprising players from different European countrie
 |From |{{:en:team:gb.png?25|}} , Wales |
 |Member since |02/2017 |
 |Positions | St, Winger, CM |
-|Club | - |
-|Role model | - |
+|Club | _ |
+|Role model | _ |
+|Qualities | _ |
+
+|<100% 10em>|
+^hammers2008 ^^
+|From |{{:en:team:gb.png?25|}} Essex , Britain |
+|Member since |02/2017 |
+|Positions | St, Winger |
+|Club | _ |
+|Role model | _ |
 |Qualities | _ |
 
 |<100% 10em>|
@@ -230,10 +221,18 @@ We are proud of being a team comprising players from different European countrie
 |From |{{:en:team:no.png?25|}} , Norway |
 |Member since |02/2017 |
 |Positions | Winger, LB |
-|Club | - |
-|Role model | - |
+|Club | _ |
+|Role model | _ |
 |Qualities | _ |
 
+|<100% 10em>|
+^Rowden_TheBeast ^^
+|From |{{:en:team:gb.png?25|}} , Britain |
+|Member since |03/2017 |
+|Positions | Winger, CDM, CB, WB |
+|Club | _ |
+|Role model | _ |
+|Qualities | _ |
 ===== Friends =====
 
 |<100% 10em>|
@@ -482,3 +481,21 @@ We are proud of being a team comprising players from different European countrie
 |Club | _ |
 |Role model | _ |
 |Qualities | Great Intuition in Positioning and Movement |
+
+|<100% 10em>|
+^JimmyGuitarist ^^
+|From |{{:en:team:gb.png?25|}} -, Britain |
+|Member since |10/2016 |
+|Positions | Any, Winger, CM, WB, CB |
+|Club | _ |
+|Role model | _ |
+|Qualities | _ |
+
+|<100% 10em>|
+^Heiwa-Shizen ^^
+|From |{{:en:team:us.png?25|}} - , USA |
+|Member since |10/2016 |
+|Positions | CM, CDM |
+|Club | _ |
+|Role model | Xavi, Scholes, Verratti |
+|Qualities | Passing |
