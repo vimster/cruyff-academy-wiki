@@ -190,46 +190,28 @@ We are proud of being a team comprising players from different European countrie
 ===== Newcomer =====
 
 |<100% 10em>|
-^x-jaacko-x ^^
-|From |{{:en:team:gb.png?25|}} , Britain |
-|Member since |02/2017 |
-|Positions | F9, Winger, CM, GK |
-|Club | _ |
-|Role model | Lionel Messi |
-|Qualities | _ |
-
-|<100% 10em>|
-^NintendoDSplayer ^^
-|From |{{:en:team:gb.png?25|}} , Wales |
-|Member since |02/2017 |
-|Positions | St, Winger, CM |
+^JimmyGuitarist ^^
+|From |{{:en:team:gb.png?25|}} -, Britain |
+|Member since |10/2016 |
+|Positions | Any, Winger, CM, WB, CB |
 |Club | _ |
 |Role model | _ |
 |Qualities | _ |
 
 |<100% 10em>|
-^hammers2008 ^^
-|From |{{:en:team:gb.png?25|}} Essex , Britain |
-|Member since |02/2017 |
-|Positions | St, Winger |
+^Heiwa-Shizen ^^
+|From |{{:en:team:us.png?25|}} - , USA |
+|Member since |10/2016 |
+|Positions | CM, CDM |
 |Club | _ |
-|Role model | _ |
-|Qualities | _ |
+|Role model | Xavi, Scholes, Verratti |
+|Qualities | Passing |
 
 |<100% 10em>|
 ^Snadres89 ^^
 |From |{{:en:team:no.png?25|}} , Norway |
 |Member since |02/2017 |
 |Positions | Winger, LB |
-|Club | _ |
-|Role model | _ |
-|Qualities | _ |
-
-|<100% 10em>|
-^Rowden_TheBeast ^^
-|From |{{:en:team:gb.png?25|}} , Britain |
-|Member since |03/2017 |
-|Positions | Winger, CDM, CB, WB |
 |Club | _ |
 |Role model | _ |
 |Qualities | _ |
@@ -482,20 +464,39 @@ We are proud of being a team comprising players from different European countrie
 |Role model | _ |
 |Qualities | Great Intuition in Positioning and Movement |
 
+
 |<100% 10em>|
-^JimmyGuitarist ^^
-|From |{{:en:team:gb.png?25|}} -, Britain |
-|Member since |10/2016 |
-|Positions | Any, Winger, CM, WB, CB |
+^x-jaacko-x ^^
+|From |{{:en:team:gb.png?25|}} , Britain |
+|Member since |02/2017 |
+|Positions | F9, Winger, CM, GK |
+|Club | _ |
+|Role model | Lionel Messi |
+|Qualities | _ |
+
+|<100% 10em>|
+^NintendoDSplayer ^^
+|From |{{:en:team:gb.png?25|}} , Wales |
+|Member since |02/2017 |
+|Positions | St, Winger, CM |
 |Club | _ |
 |Role model | _ |
 |Qualities | _ |
 
 |<100% 10em>|
-^Heiwa-Shizen ^^
-|From |{{:en:team:us.png?25|}} - , USA |
-|Member since |10/2016 |
-|Positions | CM, CDM |
+^hammers2008 ^^
+|From |{{:en:team:gb.png?25|}} Essex , Britain |
+|Member since |02/2017 |
+|Positions | St, Winger |
 |Club | _ |
-|Role model | Xavi, Scholes, Verratti |
-|Qualities | Passing |
+|Role model | _ |
+|Qualities | _ |
+
+|<100% 10em>|
+^Rowden_TheBeast ^^
+|From |{{:en:team:gb.png?25|}} , Britain |
+|Member since |03/2017 |
+|Positions | Winger, CDM, CB, WB |
+|Club | _ |
+|Role model | _ |
+|Qualities | _ |
