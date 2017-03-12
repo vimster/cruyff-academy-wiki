@@ -31,8 +31,14 @@
   *[[en:tactics:analysis012116|Club Progress #2]]
   *[[en:tactics:analysis042716|Club Progress #3]]
   *[[en:tactics:analysis050916|Club Progress #4]]
+
+Video Analyses
+  *[[en:tactics:buildupvideos|Build-up]]
+  *[[en:tactics:chancecreationvideos|Chance Creation]]
+  *[[en:tactics:possessionvideos|Possession Phase Pattern]]
+  *[[en:tactics:defendingvideos|Defending]]
   *[[en:tactics:commonmistakes|Common Mistakes]]
-  *[[en:tactics:matchanalyses|Match Analyses]]
+  *[[en:tactics:matchanalyses|Full Match Analyses]]
 
 References
   *[[en:refs:quotes|Quotations]]
