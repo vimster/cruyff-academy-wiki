@@ -11,10 +11,9 @@
         <description></description>
         <link>http://cruyff-academy.crayos.de/</link>
         <image rdf:resource="http://cruyff-academy.crayos.de/lib/tpl/dokuwiki/images/favicon.ico" />
-       <dc:date>2017-03-12T04:14:31+01:00</dc:date>
+       <dc:date>2017-03-13T04:21:06+01:00</dc:date>
         <items>
             <rdf:Seq>
-                <rdf:li rdf:resource="http://cruyff-academy.crayos.de/doku.php?id=de:start&amp;rev=1488651675&amp;do=diff"/>
                 <rdf:li rdf:resource="http://cruyff-academy.crayos.de/doku.php?image=wiki%3Alogo.png&amp;ns=wiki&amp;rev=1487958131&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
                 <rdf:li rdf:resource="http://cruyff-academy.crayos.de/doku.php?image=wiki%3Alogo_new_trans.png&amp;ns=wiki&amp;rev=1487957826&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
             </rdf:Seq>
@@ -25,19 +24,6 @@
         <link>http://cruyff-academy.crayos.de/</link>
         <url>http://cruyff-academy.crayos.de/lib/tpl/dokuwiki/images/favicon.ico</url>
     </image>
-    <item rdf:about="http://cruyff-academy.crayos.de/doku.php?id=de:start&amp;rev=1488651675&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2017-03-04T19:21:15+01:00</dc:date>
-        <dc:creator>jneeskens</dc:creator>
-        <title>Willkommen in der Cruyff Academy</title>
-        <link>http://cruyff-academy.crayos.de/doku.php?id=de:start&amp;rev=1488651675&amp;do=diff</link>
-        <description>Willkommen in der Cruyff Academy
-
-
-Dies ist ein Ort von und für Fußball- und Taktikverrückte, die den FIFA Pro Club Modus auf der PS4 etwas anders angehen, als der Großteil der FIFA-Community.
-
-Unser Ziel ist es Gleichgesinnte zu finden, die ebenso wie wir Fans des schönen und anspruchsvollen Fußballs sind, um ein schlagkräftiges Team aus ambitionierten, spielstarken und sympathischen Spielern zu schaffen.</description>
-    </item>
     <item rdf:about="http://cruyff-academy.crayos.de/doku.php?image=wiki%3Alogo.png&amp;ns=wiki&amp;rev=1487958131&amp;tab_details=history&amp;mediado=diff&amp;do=media">
         <dc:format>text/html</dc:format>
         <dc:date>2017-02-24T18:42:11+01:00</dc:date>
