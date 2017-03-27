@@ -11,7 +11,7 @@
         <description></description>
         <link>http://cruyff-academy.crayos.de/</link>
         <image rdf:resource="http://cruyff-academy.crayos.de/lib/tpl/dokuwiki/images/favicon.ico" />
-       <dc:date>2017-03-08T01:28:38+01:00</dc:date>
+       <dc:date>2017-03-26T16:16:04+02:00</dc:date>
         <items>
             <rdf:Seq>
                 <rdf:li rdf:resource="http://cruyff-academy.crayos.de/doku.php?id=en:tactics:playroles&amp;rev=1483012508&amp;do=diff"/>
@@ -26,7 +26,7 @@
     </image>
     <item rdf:about="http://cruyff-academy.crayos.de/doku.php?id=en:tactics:playroles&amp;rev=1483012508&amp;do=diff">
         <dc:format>text/html</dc:format>
-        <dc:date>2016-12-29T12:55:08+01:00</dc:date>
+        <dc:date>2016-12-29T12:55:08+02:00</dc:date>
         <title>Roles of Positional Play</title>
         <link>http://cruyff-academy.crayos.de/doku.php?id=en:tactics:playroles&amp;rev=1483012508&amp;do=diff</link>
         <description>Roles of Positional Play
@@ -41,7 +41,7 @@ Orange: The area the LCB/RCB switches to, in order to make the game [wide in the
     </item>
     <item rdf:about="http://cruyff-academy.crayos.de/doku.php?id=en:tactics:positionalplay&amp;rev=1481908891&amp;do=diff">
         <dc:format>text/html</dc:format>
-        <dc:date>2016-12-16T18:21:31+01:00</dc:date>
+        <dc:date>2016-12-16T18:21:31+02:00</dc:date>
         <title>Game strategy</title>
         <link>http://cruyff-academy.crayos.de/doku.php?id=en:tactics:positionalplay&amp;rev=1481908891&amp;do=diff</link>
         <description>Game strategy
