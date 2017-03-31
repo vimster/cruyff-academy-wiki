@@ -11,7 +11,7 @@
         <description></description>
         <link>http://cruyff-academy.crayos.de/</link>
         <image rdf:resource="http://cruyff-academy.crayos.de/lib/tpl/dokuwiki/images/favicon.ico" />
-       <dc:date>2017-03-25T06:48:30+01:00</dc:date>
+       <dc:date>2017-03-31T04:06:07+02:00</dc:date>
         <items>
             <rdf:Seq>
                 <rdf:li rdf:resource="http://cruyff-academy.crayos.de/doku.php?id=en:start&amp;rev=1488210055&amp;do=diff"/>
@@ -25,7 +25,7 @@
     </image>
     <item rdf:about="http://cruyff-academy.crayos.de/doku.php?id=en:start&amp;rev=1488210055&amp;do=diff">
         <dc:format>text/html</dc:format>
-        <dc:date>2017-02-27T16:40:55+01:00</dc:date>
+        <dc:date>2017-02-27T16:40:55+02:00</dc:date>
         <title>Welcome to the Cruyff Academy</title>
         <link>http://cruyff-academy.crayos.de/doku.php?id=en:start&amp;rev=1488210055&amp;do=diff</link>
         <description>Welcome to the Cruyff Academy
