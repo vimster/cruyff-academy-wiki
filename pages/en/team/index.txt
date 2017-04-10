@@ -45,10 +45,19 @@ We are proud of being a team comprising players from different European countrie
 ^Ortlface91 ^^
 |From |{{:en:team:de.png?25|}}  Augsburg, Germany |
 |Member since |06/2016 |
-|Positions | Any, Winger, ST, CM, CDM, WB, CB |
+|Positions | Any, Winger, CM, CDM, WB, CB |
 |Club | Bayern Munich |
 |Role model | Bastian Schweinsteiger, Thomas Müller |
 |Qualities | sense of space |
+
+|<100% 10em>|
+^JonyK_7 ^^
+|From |{{:en:team:gb.png?25|}} Liverpool, Britain |
+|Member since |12/2016 |
+|Positions | St, Winger, CB |
+|Club | FC Liverpool |
+|Role model | Eden Hazard, Adam Lallana |
+|Qualities | _ |
 
 ===== Silver Members =====
 
@@ -67,15 +76,6 @@ We are proud of being a team comprising players from different European countrie
 |Member since |11/2015 |
 |Positions | Winger, CM, WB, CDM |
 |Club | Arsenal London |
-|Role model | _ |
-|Qualities | _ |
-
-|<100% 10em>|
-^MaccaH15 ^^
-|From |{{:en:team:gb.png?25|}} Blackpool, Britain |
-|Member since |07/2016 |
-|Positions | Winger, ST, CM, WB, GK |
-|Club | _ |
 |Role model | _ |
 |Qualities | _ |
 
@@ -113,15 +113,6 @@ We are proud of being a team comprising players from different European countrie
 |Positions | St, F9, CM, WB |
 |Club | Real Madrid |
 |Role model | Luca Modric |
-|Qualities | _ |
-
-|<100% 10em>|
-^JonyK_7 ^^
-|From |{{:en:team:gb.png?25|}} Liverpool, Britain |
-|Member since |12/2016 |
-|Positions | St, Winger, CB |
-|Club | FC Liverpool |
-|Role model | Eden Hazard, Adam Lallana |
 |Qualities | _ |
 
 |<100% 10em>|
@@ -187,6 +178,15 @@ We are proud of being a team comprising players from different European countrie
 |Role model | Zinédine Zidane |
 |Qualities | _ |
 
+|<100% 10em>|
+^hammers2008 ^^
+|From |{{:en:team:gb.png?25|}} Essex , Britain |
+|Member since |02/2017 |
+|Positions | St, Winger |
+|Club | _ |
+|Role model | _ |
+|Qualities | _ |
+
 ===== Newcomer =====
 
 |<100% 10em>|
@@ -208,11 +208,29 @@ We are proud of being a team comprising players from different European countrie
 |Qualities | Passing |
 
 |<100% 10em>|
-^Snadres89 ^^
-|From |{{:en:team:no.png?25|}} , Norway |
-|Member since |02/2017 |
-|Positions | Winger, LB |
+^acmacm123 ^^
+|From |{{:en:team:se.png?25|}} -, Sweden |
+|Member since |03/2017 |
+|Positions | Winger, CM, WB |
 |Club | _ |
+|Role model | _ |
+|Qualities | _ |
+
+|<100% 10em>|
+^Denchkeed ^^
+|From |{{:en:team:fi.png?25|}} -, Finland |
+|Member since |03/2017 |
+|Positions | F9, Winger, CM, CDM, CB |
+|Club | Real Madrid |
+|Role model | _ |
+|Qualities | _ |
+
+|<100% 10em>|
+^FUT-STARZ-UNITED ^^
+|From |{{:en:team:de.png?25|}} -, Germany |
+|Member since |04/2017 |
+|Positions | ST, Winger, F9 |
+|Club | FC Rot-Weiß Erfurt |
 |Role model | _ |
 |Qualities | _ |
 ===== Friends =====
@@ -484,19 +502,28 @@ We are proud of being a team comprising players from different European countrie
 |Qualities | _ |
 
 |<100% 10em>|
-^hammers2008 ^^
-|From |{{:en:team:gb.png?25|}} Essex , Britain |
-|Member since |02/2017 |
-|Positions | St, Winger |
+^Rowden_TheBeast ^^
+|From |{{:en:team:gb.png?25|}} , Britain |
+|Member since |03/2017 |
+|Positions | Winger, CDM, CB, WB |
 |Club | _ |
 |Role model | _ |
 |Qualities | _ |
 
 |<100% 10em>|
-^Rowden_TheBeast ^^
-|From |{{:en:team:gb.png?25|}} , Britain |
-|Member since |03/2017 |
-|Positions | Winger, CDM, CB, WB |
+^MaccaH15 ^^
+|From |{{:en:team:gb.png?25|}} Blackpool, Britain |
+|Member since |07/2016 |
+|Positions | Winger, ST, CM, WB, GK |
+|Club | _ |
+|Role model | _ |
+|Qualities | _ |
+
+|<100% 10em>|
+^Snadres89 ^^
+|From |{{:en:team:no.png?25|}} , Norway |
+|Member since |02/2017 |
+|Positions | Winger, LB |
 |Club | _ |
 |Role model | _ |
 |Qualities | _ |
