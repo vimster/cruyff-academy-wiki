@@ -242,6 +242,15 @@ We are proud of being a team comprising players from different European countrie
 |Club | Borussia Dortmund |
 |Role model | Bürki |
 |Qualities | _ |
+
+|<100% 10em>|
+^NintendoDSplayer ^^
+|From |{{:en:team:gb.png?25|}} , Wales |
+|Member since |02/2017 |
+|Positions | St, Winger, CM |
+|Club | _ |
+|Role model | _ |
+|Qualities | _ |
 ===== Friends =====
 
 |<100% 10em>|
@@ -358,7 +367,7 @@ We are proud of being a team comprising players from different European countrie
 
 |<100% 10em>|
 ^Fatality_23 ^^
-|From |{{:en:team:de.png?25|}} , Germany |
+|From |{{:en:team:de.png?25|}} Frankfurt, Germany |
 |Member since |04/2016 |
 |Positions | Fullback |
 |Club | _ |
@@ -499,15 +508,6 @@ We are proud of being a team comprising players from different European countrie
 |Positions | F9, Winger, CM, GK |
 |Club | _ |
 |Role model | Lionel Messi |
-|Qualities | _ |
-
-|<100% 10em>|
-^NintendoDSplayer ^^
-|From |{{:en:team:gb.png?25|}} , Wales |
-|Member since |02/2017 |
-|Positions | St, Winger, CM |
-|Club | _ |
-|Role model | _ |
 |Qualities | _ |
 
 |<100% 10em>|
