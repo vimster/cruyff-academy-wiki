@@ -47,7 +47,7 @@ We are proud of being a team comprising players from different European countrie
 |Member since |06/2016 |
 |Positions | Any, Winger, CM, CDM, WB, CB |
 |Club | Bayern Munich |
-|Role model | Bastian Schweinsteiger, Thomas Müller |
+|Role model | Bastian Schweinsteiger, Thomas Müller, Arjen Robben |
 |Qualities | sense of space |
 
 |<100% 10em>|
@@ -170,7 +170,7 @@ We are proud of being a team comprising players from different European countrie
 |Qualities | _ |
 
 |<100% 10em>|
-^Fever1OW5 ^^
+^realfarid ^^
 |From |{{:en:team:fr.png?25|}} Paris, France |
 |Member since |01/2017 |
 |Positions | ANY, CM, CDM, LB |
