@@ -61,7 +61,7 @@ sweeper is not available for a pass or building triangles is required in the cen
 is to stay, in order to overload the center and generate triangles on the
 far side and in the center, respectively.
 
-**Lightyellow:** This area is supposed to be penetrated by the playmaker for a
+**Blue:** This area is supposed to be penetrated by the playmaker for a
 finishing action if there is no real center striker.
 
 ~~CLEARFLOAT~~
