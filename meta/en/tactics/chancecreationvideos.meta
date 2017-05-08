@@ -1,4 +1,4 @@
-a:2:{s:7:"current";a:9:{s:4:"date";a:2:{s:7:"created";i:1489251703;s:8:"modified";i:1489424207;}s:7:"creator";s:8:"BRAZZO87";s:4:"user";s:9:"jneeskens";s:11:"last_change";a:8:{s:4:"date";i:1489424207;s:2:"ip";s:14:"141.89.226.146";s:4:"type";s:1:"E";s:2:"id";s:31:"en:tactics:chancecreationvideos";s:4:"user";s:9:"jneeskens";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:40;}s:11:"contributor";a:1:{s:9:"jneeskens";s:8:"BRAZZO87";}s:5:"title";s:30:"Chance Creation Video Analyses";s:11:"description";a:2:{s:15:"tableofcontents";a:4:{i:0;a:4:{s:3:"hid";s:30:"chance_creation_video_analyses";s:5:"title";s:30:"Chance Creation Video Analyses";s:4:"type";s:2:"ul";s:5:"level";i:1;}i:1;a:4:{s:3:"hid";s:23:"overload_switch_of_play";s:5:"title";s:25:"Overload & Switch of Play";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:2;a:4:{s:3:"hid";s:26:"examples_of_switch_of_play";s:5:"title";s:26:"Examples of Switch of Play";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:3;a:4:{s:3:"hid";s:27:"halfspace_dribbling_onetwos";s:5:"title";s:29:"Halfspace dribbling & OneTwos";s:4:"type";s:2:"ul";s:5:"level";i:2;}}s:8:"abstract";s:122:"Chance Creation Video Analyses
+a:2:{s:7:"current";a:9:{s:4:"date";a:2:{s:7:"created";i:1489251703;s:8:"modified";i:1494166999;}s:7:"creator";s:8:"BRAZZO87";s:4:"user";s:9:"jneeskens";s:11:"last_change";a:8:{s:4:"date";i:1494166999;s:2:"ip";s:12:"92.208.33.70";s:4:"type";s:1:"E";s:2:"id";s:31:"en:tactics:chancecreationvideos";s:4:"user";s:9:"jneeskens";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:92;}s:11:"contributor";a:1:{s:9:"jneeskens";s:8:"BRAZZO87";}s:5:"title";s:30:"Chance Creation Video Analyses";s:11:"description";a:2:{s:15:"tableofcontents";a:8:{i:0;a:4:{s:3:"hid";s:30:"chance_creation_video_analyses";s:5:"title";s:30:"Chance Creation Video Analyses";s:4:"type";s:2:"ul";s:5:"level";i:1;}i:1;a:4:{s:3:"hid";s:23:"overload_switch_of_play";s:5:"title";s:25:"Overload & Switch of Play";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:2;a:4:{s:3:"hid";s:26:"examples_of_switch_of_play";s:5:"title";s:26:"Examples of Switch of Play";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:3;a:4:{s:3:"hid";s:27:"halfspace_dribbling_onetwos";s:5:"title";s:29:"Halfspace dribbling & OneTwos";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:4;a:4:{s:3:"hid";s:7:"crosses";s:5:"title";s:7:"Crosses";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:5;a:4:{s:3:"hid";s:5:"shots";s:5:"title";s:5:"Shots";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:6;a:4:{s:3:"hid";s:12:"corner_kicks";s:5:"title";s:12:"Corner Kicks";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:7;a:4:{s:3:"hid";s:9:"freekicks";s:5:"title";s:9:"Freekicks";s:4:"type";s:2:"ul";s:5:"level";i:2;}}s:8:"abstract";s:167:"Chance Creation Video Analyses
 
 Overload & Switch of Play
 
@@ -10,4 +10,16 @@ Examples of Switch of Play
 
 
 
-Halfspace dribbling & OneTwos";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}s:8:"relation";a:1:{s:10:"firstimage";s:0:"";}}s:10:"persistent";a:5:{s:4:"date";a:2:{s:7:"created";i:1489251703;s:8:"modified";i:1489424207;}s:7:"creator";s:8:"BRAZZO87";s:4:"user";s:9:"jneeskens";s:11:"last_change";a:8:{s:4:"date";i:1489424207;s:2:"ip";s:14:"141.89.226.146";s:4:"type";s:1:"E";s:2:"id";s:31:"en:tactics:chancecreationvideos";s:4:"user";s:9:"jneeskens";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:40;}s:11:"contributor";a:1:{s:9:"jneeskens";s:8:"BRAZZO87";}}}
+Halfspace dribbling & OneTwos
+
+
+
+
+
+Crosses
+
+Shots
+
+Corner Kicks
+
+Freekicks";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}s:8:"relation";a:1:{s:10:"firstimage";s:0:"";}}s:10:"persistent";a:5:{s:4:"date";a:2:{s:7:"created";i:1489251703;s:8:"modified";i:1494166999;}s:7:"creator";s:8:"BRAZZO87";s:4:"user";s:9:"jneeskens";s:11:"last_change";a:8:{s:4:"date";i:1494166999;s:2:"ip";s:12:"92.208.33.70";s:4:"type";s:1:"E";s:2:"id";s:31:"en:tactics:chancecreationvideos";s:4:"user";s:9:"jneeskens";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:92;}s:11:"contributor";a:1:{s:9:"jneeskens";s:8:"BRAZZO87";}}}
