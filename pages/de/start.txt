@@ -17,9 +17,10 @@ Dieses Wiki soll dabei folgende Dinge erfüllen:
 
 Was wenn ich dir sagen würde, in nicht allzu ferner Zukunft mit Leuten zusammenzuspielen, die sehr selten den Ball verlieren und dabei stets den Blick zum Tor haben. Jeder weiß sofort, was der andere will und es gibt kaum Missverständnisse. Es weiß nicht nur jeder, was Positionsspiel bedeutet, sondern er kann es auch mit dem Controller umsetzen - und alles dank dieses schönen Wikis.
 
-**//Wäre das etwas, wofür du dich interessieren könntest?//**
-{{ :playground:van-gaal-540x404.jpg?300 |}}
 
+**//Wäre das etwas, wofür du dich interessieren könntest?//**
+
+{{ :playground:van-gaal-540x404.jpg?200 |}}
 
 **Core Values & YouTube channel**
 
@@ -31,5 +32,21 @@ Was wenn ich dir sagen würde, in nicht allzu ferner Zukunft mit Leuten zusammen
 <newcolumn>
 
 <html><iframe width="100%" height="200" src="https://www.youtube.com/embed/VTmjH2kYhnY" frameborder="0" allowfullscreen></iframe></html>
+
+</columns>
+
+
+**Besucht uns auf:**
+
+<columns 100% 33% 33% - ->
+[[https://www.youtube.com/channel/UC910tw65U2KKG1Y5cYpU9jg|{{ :playground:youtube2.png?nolink&0x40 |}}]]
+
+
+<newcolumn>
+[[https://www.facebook.com/Cruyff.academy.crayos.de/|{{ :playground:fb.png?nolink&0x40 |}}]]
+
+<newcolumn>
+[[https://www.virtualpronetwork.com/apps/hn/club/psn-9989-Cruyff+Academy|{{ :playground:fvpa.jpg?nolink&0x40 |}}]]
+
 
 </columns>

@@ -37,3 +37,18 @@ What if I were to tell you that if you join us and follow the "rules" stated in 
 <html><iframe width="100%" height="200" src="https://www.youtube.com/embed/VTmjH2kYhnY" frameborder="0" allowfullscreen></iframe></html>
 
 </columns>
+
+**Visit us on**
+
+<columns 100% 33% 33% - ->
+[[https://www.youtube.com/channel/UC910tw65U2KKG1Y5cYpU9jg|{{ :playground:youtube2.png?nolink&0x40 |}}]]
+
+
+<newcolumn>
+[[https://www.facebook.com/Cruyff.academy.crayos.de/|{{ :playground:fb.png?nolink&0x40 |}}]]
+
+<newcolumn>
+[[https://www.virtualpronetwork.com/apps/hn/club/psn-9989-Cruyff+Academy|{{ :playground:fvpa.jpg?nolink&0x40 |}}]]
+
+
+</columns>
