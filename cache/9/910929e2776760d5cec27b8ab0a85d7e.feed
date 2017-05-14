@@ -11,7 +11,7 @@
         <description></description>
         <link>http://cruyff-academy.crayos.de/</link>
         <image rdf:resource="http://cruyff-academy.crayos.de/lib/tpl/dokuwiki/images/favicon.ico" />
-       <dc:date>2017-05-13T04:44:08+02:00</dc:date>
+       <dc:date>2017-05-14T04:31:49+02:00</dc:date>
         <items>
             <rdf:Seq>
                 <rdf:li rdf:resource="http://cruyff-academy.crayos.de/doku.php?id=de:start&amp;rev=1494605341&amp;do=diff"/>
@@ -20,7 +20,6 @@
                 <rdf:li rdf:resource="http://cruyff-academy.crayos.de/doku.php?image=playground%3Ayoutube.png&amp;ns=playground&amp;rev=1494592877&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
                 <rdf:li rdf:resource="http://cruyff-academy.crayos.de/doku.php?image=playground%3Afb.png&amp;ns=playground&amp;rev=1494592877&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
                 <rdf:li rdf:resource="http://cruyff-academy.crayos.de/doku.php?image=playground%3Afvpa.jpg&amp;ns=playground&amp;rev=1494592855&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
-                <rdf:li rdf:resource="http://cruyff-academy.crayos.de/doku.php?id=en:tactics:playroles&amp;rev=1492944612&amp;do=diff"/>
                 <rdf:li rdf:resource="http://cruyff-academy.crayos.de/doku.php?image=wiki%3Alogo.png&amp;ns=wiki&amp;rev=1487958131&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
                 <rdf:li rdf:resource="http://cruyff-academy.crayos.de/doku.php?image=wiki%3Alogo_new_trans.png&amp;ns=wiki&amp;rev=1487957826&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
             </rdf:Seq>
@@ -88,22 +87,6 @@ It's our aim to find like-minded people, who love beautiful and sophisticated fo
         <title>playground:fvpa.jpg - created</title>
         <link>http://cruyff-academy.crayos.de/doku.php?image=playground%3Afvpa.jpg&amp;ns=playground&amp;rev=1494592855&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
         <description>&lt;img src=&quot;http://cruyff-academy.crayos.de/lib/exe/fetch.php?w=371&amp;h=136&amp;t=1494592855&amp;amp;tok=1940d3&amp;amp;media=playground:fvpa.jpg&quot; alt=&quot;playground:fvpa.jpg&quot; /&gt;</description>
-    </item>
-    <item rdf:about="http://cruyff-academy.crayos.de/doku.php?id=en:tactics:playroles&amp;rev=1492944612&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2017-04-23T12:50:12+02:00</dc:date>
-        <dc:creator>jneeskens</dc:creator>
-        <title>Roles of Positional Play - [Halfspace playmaker] </title>
-        <link>http://cruyff-academy.crayos.de/doku.php?id=en:tactics:playroles&amp;rev=1492944612&amp;do=diff</link>
-        <description>Roles of Positional Play
-
-Halfdefender
-
--&gt; Main article: Halfdefender
-
-Red: The area the LCB/RCB are usually to be found. ([&quot;defensive interior corridor&quot;])
-
-Orange: The area the LCB/RCB switches to, in order to make the game [wide in the buildup phase], if the opponent is pressing high up the pitch. The zones on the first line can be used at</description>
     </item>
     <item rdf:about="http://cruyff-academy.crayos.de/doku.php?image=wiki%3Alogo.png&amp;ns=wiki&amp;rev=1487958131&amp;tab_details=history&amp;mediado=diff&amp;do=media">
         <dc:format>text/html</dc:format>
