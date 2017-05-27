@@ -45,7 +45,7 @@ We are proud of being a team comprising players from different European countrie
 ^Ortlface91 ^^
 |From |{{:en:team:de.png?25|}}  Augsburg, Germany |
 |Member since |06/2016 |
-|Positions | Any, Winger, CM, CDM, WB, CB |
+|Positions | Any, ST, Winger, CM, CDM, WB, CB |
 |Club | Bayern Munich |
 |Role model | Bastian Schweinsteiger, Thomas Müller, Arjen Robben |
 |Qualities | sense of space |
@@ -98,15 +98,6 @@ We are proud of being a team comprising players from different European countrie
 |Qualities | _ |
 
 |<100% 10em>|
-^xBoateng_77 ^^
-|From |{{:en:team:de.png?25|}} Cologne , Germany |
-|Member since |11/2016 |
-|Positions | CB, GK |
-|Club | Bayern Munich |
-|Role model | Jerome Boateng |
-|Qualities | full defender, laser-passes |
-
-|<100% 10em>|
 ^mtfootball ^^
 |From |{{:en:team:gb.png?25|}} , Britain |
 |Member since |12/2016 |
@@ -125,15 +116,6 @@ We are proud of being a team comprising players from different European countrie
 |Qualities | _ |
 
 |<100% 10em>|
-^Browner7_ ^^
-|From |{{:en:team:gb.png?25|}} , Britain |
-|Member since |12/2016 |
-|Positions | Winger, CM |
-|Club | _ |
-|Role model | _ |
-|Qualities | _ |
-
-|<100% 10em>|
 ^Abdi_lifestyle90 ^^
 |From |{{:en:team:gb.png?25|}} Manchester, Britain |
 |Member since |10/2015 |
@@ -143,30 +125,12 @@ We are proud of being a team comprising players from different European countrie
 |Qualities |Fast passing god and conversion monster |
 
 |<100% 10em>|
-^Haks_27 ^^
-|From |{{:en:team:gb.png?25|}} London, Britain |
-|Member since |01/2017 |
-|Positions | F9, Winger, CM |
-|Club | Arsenal London |
-|Role model | Mesut Özil |
-|Qualities | _ |
-
-|<100% 10em>|
 ^keemsi ^^
 |From |{{:en:team:es.png?25|}} Tarragona, Spain |
 |Member since |01/2017 |
 |Positions | ANY, CM, CDM, CB |
 |Club | Gimnastic Taragona, FC Barcelona |
 |Role model | Paul Gascoigne |
-|Qualities | _ |
-
-|<100% 10em>|
-^bruluis888 ^^
-|From |{{:en:team:gb.png?25|}} London, Britain |
-|Member since |01/2017 |
-|Positions | St, CM, CDM, CB, RB |
-|Club | Arsenal London |
-|Role model | Therry Henry |
 |Qualities | _ |
 
 |<100% 10em>|
@@ -187,16 +151,33 @@ We are proud of being a team comprising players from different European countrie
 |Role model | _ |
 |Qualities | _ |
 
-===== Newcomer =====
-
 |<100% 10em>|
-^JimmyGuitarist ^^
-|From |{{:en:team:gb.png?25|}} -, Britain |
-|Member since |10/2016 |
-|Positions | Any, Winger, CM, WB, CB |
+^Rowden_TheBeast ^^
+|From |{{:en:team:gb.png?25|}} , Britain |
+|Member since |03/2017 |
+|Positions | Winger, CDM, CB, WB |
 |Club | _ |
 |Role model | _ |
+|Qualities | pressure resistance |
+
+|<100% 10em>|
+^FUT-STARZ-UNITED ^^
+|From |{{:en:team:de.png?25|}} -, Germany |
+|Member since |04/2017 |
+|Positions | ST, Winger, F9, GK |
+|Club | FC Rot-Weiß Erfurt |
+|Role model | _ |
 |Qualities | _ |
+
+|<100% 10em>|
+^Dortmundfan235 ^^
+|From |{{:en:team:de.png?25|}} Berlin, Germany |
+|Member since |04/2017 |
+|Positions | GK, LW |
+|Club | Borussia Dortmund |
+|Role model | Bürki |
+|Qualities | _ |
+===== Newcomer =====
 
 |<100% 10em>|
 ^Heiwa-Shizen ^^
@@ -217,40 +198,13 @@ We are proud of being a team comprising players from different European countrie
 |Qualities | _ |
 
 |<100% 10em>|
-^Denchkeed ^^
-|From |{{:en:team:fi.png?25|}} -, Finland |
-|Member since |03/2017 |
-|Positions | F9, Winger, CM, CDM, CB |
-|Club | Real Madrid |
-|Role model | _ |
-|Qualities | _ |
-
-|<100% 10em>|
-^FUT-STARZ-UNITED ^^
-|From |{{:en:team:de.png?25|}} -, Germany |
-|Member since |04/2017 |
-|Positions | ST, Winger, F9 |
-|Club | FC Rot-Weiß Erfurt |
-|Role model | _ |
-|Qualities | _ |
-
-|<100% 10em>|
-^Dortmundfan235 ^^
-|From |{{:en:team:de.png?25|}} Berlin, Germany |
-|Member since |04/2017 |
-|Positions | GK, LW |
-|Club | Borussia Dortmund |
-|Role model | Bürki |
-|Qualities | _ |
-
-|<100% 10em>|
-^NintendoDSplayer ^^
-|From |{{:en:team:gb.png?25|}} , Wales |
-|Member since |02/2017 |
-|Positions | St, Winger, CM |
+^TomB97_ ^^
+|From |{{:en:team:gb.png?25|}} , Britain |
+|Member since |05/2017 |
+|Positions | F9, CM, WB |
 |Club | _ |
 |Role model | _ |
-|Qualities | _ |
+|Qualities | fast passing |
 ===== Friends =====
 
 |<100% 10em>|
@@ -500,7 +454,6 @@ We are proud of being a team comprising players from different European countrie
 |Role model | _ |
 |Qualities | Great Intuition in Positioning and Movement |
 
-
 |<100% 10em>|
 ^x-jaacko-x ^^
 |From |{{:en:team:gb.png?25|}} , Britain |
@@ -508,15 +461,6 @@ We are proud of being a team comprising players from different European countrie
 |Positions | F9, Winger, CM, GK |
 |Club | _ |
 |Role model | Lionel Messi |
-|Qualities | _ |
-
-|<100% 10em>|
-^Rowden_TheBeast ^^
-|From |{{:en:team:gb.png?25|}} , Britain |
-|Member since |03/2017 |
-|Positions | Winger, CDM, CB, WB |
-|Club | _ |
-|Role model | _ |
 |Qualities | _ |
 
 |<100% 10em>|
@@ -533,6 +477,69 @@ We are proud of being a team comprising players from different European countrie
 |From |{{:en:team:no.png?25|}} , Norway |
 |Member since |02/2017 |
 |Positions | Winger, LB |
+|Club | _ |
+|Role model | _ |
+|Qualities | _ |
+
+|<100% 10em>|
+^NintendoDSplayer ^^
+|From |{{:en:team:gb.png?25|}} , Wales |
+|Member since |02/2017 |
+|Positions | St, Winger, CM |
+|Club | _ |
+|Role model | _ |
+|Qualities | _ |
+
+|<100% 10em>|
+^JimmyGuitarist ^^
+|From |{{:en:team:gb.png?25|}} -, Britain |
+|Member since |10/2016 |
+|Positions | Any, Winger, CM, WB, CB |
+|Club | _ |
+|Role model | _ |
+|Qualities | _ |
+
+|<100% 10em>|
+^Denchkeed ^^
+|From |{{:en:team:fi.png?25|}} -, Finland |
+|Member since |03/2017 |
+|Positions | F9, Winger, CM, CDM, CB |
+|Club | Real Madrid |
+|Role model | _ |
+|Qualities | _ |
+
+|<100% 10em>|
+^xBoateng_77 ^^
+|From |{{:en:team:de.png?25|}} Cologne , Germany |
+|Member since |11/2016 |
+|Positions | CB, GK |
+|Club | Bayern Munich |
+|Role model | Jerome Boateng |
+|Qualities | full defender, laser-passes |
+
+|<100% 10em>|
+^bruluis888 ^^
+|From |{{:en:team:gb.png?25|}} London, Britain |
+|Member since |01/2017 |
+|Positions | St, CM, CDM, CB, RB |
+|Club | Arsenal London |
+|Role model | Therry Henry |
+|Qualities | _ |
+
+|<100% 10em>|
+^Haks_27 ^^
+|From |{{:en:team:gb.png?25|}} London, Britain |
+|Member since |01/2017 |
+|Positions | F9, Winger, CM |
+|Club | Arsenal London |
+|Role model | Mesut Özil |
+|Qualities | _ |
+
+|<100% 10em>|
+^Browner7_ ^^
+|From |{{:en:team:gb.png?25|}} , Britain |
+|Member since |12/2016 |
+|Positions | Winger, CM |
 |Club | _ |
 |Role model | _ |
 |Qualities | _ |
