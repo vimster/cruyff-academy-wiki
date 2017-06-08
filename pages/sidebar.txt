@@ -16,8 +16,6 @@
   *[[de:tactics:striker|Mittelstürmer]]
   *[[de:tactics:false9|Falsche 9]]
   *[[de:tactics:winger|Flügelstürmer]]
-
-[[de:analyses:index|Spielanalysen]]
   
 [[de:guides:index|Spielhilfen und Anleitungen]]
   *[[de:guides:training|Trainingsübungen]]
@@ -32,6 +30,5 @@
   *[[de:psychology:media|Fußball in den Medien]]
   *[[de:psychology:personal|Selbstreflexion]]
 
-[[de:faq|Geht das in FIFA überhaupt?]]
 
 [[de:encyclopedia|Begriffslexikon]]

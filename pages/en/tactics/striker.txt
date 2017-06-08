@@ -16,14 +16,12 @@ Inzaghi was mediocre on the ball and wasn't great at passing. However, he always
 
 The quantity of passes and ball contacts should be irrelevant for a "real" striker. Instead, goals are crucial and the knowledge of how to achieve them.
 
-You want to be a striker? You have the luck that it has never been so easy to score goals as in FIFA 15.
-
 ----
 
 ===== 9 commandments of the #9 =====
 
 <code>
-1. Support your teammates by walking away and not closer to them
+1. In the last third: prefer running for through balls instead of standing around for X-passes
 2. Always try to stay along the defensive line, close to offside, to be ready for through balls
 3. Wait for and identify the "signals" from your teammates
 4. Drag defenders with you by dummy running
@@ -113,23 +111,19 @@ The same goes to other positions: while the striker should move //away// most of
 
 ===== Misinterpretation =====
 
-There are some striker, who try to make vertical runs
-Es gibt einige Stürmer, die zwar versuchen steil zu laufen, aber es trotzdem nicht möglich ist einen Pass auf sie zu spielen. Das kann aus folgenden Gründen passieren:
+There are many strikers, who want to get through balls but it's impossible to get it to them. Reasons can be:
 
-  *Sprint fast parallel zum Tor -> Steilpass kommt in den Rücken oder zu weit
-  *zu früh losgerannt, bevor der Mitspieler "Signal" gibt -> Abseits
-  *steil laufen auf die Flügel, um für Anspielstation zu sorgen -> Du fehlst in der Mitte und störst deine Flügelstürmer!
-  *Ballannahmen in den Gegner nach erhaltenen Pässen im Strafraum
+  *Horizontal/diagonal runs -> through balls get on your heels or behind your back, not into your run
+  *running too early before a controlled through ball is possible -> offside or taking away only X-pass-option
+  *running towards the wing to get the ball -> ST is missing in the center and you take away space from the wingers!
 
-Diagonale Sprints, die nahezu parallel zum Tor durchgeführt werden, können nicht mit Steilpässen gefüttert werden. So wird der Steilpass entweder in Richtung deines Startpunkts gehen ("Rücken") oder in deine Blickrichtung (diagonal vom Tor weg) und selten bis nie in Richtung Tor.
+It is mostly impossible to use through balls when someone is running diagonally or horizontally towards the goal. Instead, focus on running vertically and time your runs exactly right, so you don't get into offside too often. Try to start running from a deeper position for example, so it's obvious for your teammates that you are ready for a through ball and they have time to prepare the pass.
 
-Du musst immer darauf achten, erst dann loszulaufen, wenn dein Mitspieler mit Ball in Richtung Tor geht (siehe oben: "Signale"). Starte nicht einfach durch, wenn du glaubst eine Lücke zu sehen, während der Ball gerade rollt bzw. noch kein Pass zu dir möglich ist.
+Very important: Only start running for a through ball, when the teammate on the ball is facing your direction. Don't start running while the ball is rolling from A to B or while your teammate is facing the opposite direction. If you do that, you will be in offside once the through ball is actually ready.
 
-Bitte bleibe auch immer in der Mitte! Sprinte nicht auf die Flügel, laufe nicht diagonal auf die Flügel, biete dich nicht auf außen an, bleibe in der Mitte! Das ist enorm wichtig, denn wenn du auf den Flügeln geschickt wirst, fehlt ein Stürmer in der Mitte, der abschließen kann. Das einzige was dir am Flügel mit Ball bleibt ist zurück zu spielen, was verlorene Zeit und verlorenen Raum bedeuten kann.
+Very important, too: Please please please stay in the center and don't run towards the wings. The only thing you can do there, is pass back or lose the ball in a dribbling. The wings are for the wingers and full-backs and you would only take away their space. It is very important to understand this! If you do this, it is a sign that you only care about getting the ball and not about your teammates.
 
-Enorm wichtig, nicht nur für dich als ST: Ballannahmen in den Gegner DRINGENDST vermeiden! Wenn ein Ball auf dich zukommt schaue wo der Gegner steht, wo der Raum ist und wo das Tor steht. Ersteres ist schlecht, also orientiere dich Richtung Raum und Tor!
+Extremely important, especially for you: DO NOT TURN INTO THE OPPONENT! Always check, before receiving the ball: Where is space to turn into? Where is a teammate to pass to? If you start checking these things AFTER receiving the ball, it is almost always too late and you lose the ball, and, more importantly (even if they don't say it out of sympathy): You lose your teammate's trust.
 
 ----
 
-===== Shooting =====
-[size=3]//-> Main article: [[en:guides:shooting|Shooting]]//[/size]

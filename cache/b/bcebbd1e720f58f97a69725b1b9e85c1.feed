@@ -11,7 +11,7 @@
         <description></description>
         <link>http://cruyff-academy.crayos.de/</link>
         <image rdf:resource="http://cruyff-academy.crayos.de/lib/tpl/dokuwiki/images/favicon.ico" />
-       <dc:date>2017-05-15T07:45:43+02:00</dc:date>
+       <dc:date>2017-06-07T11:12:10+02:00</dc:date>
         <items>
             <rdf:Seq>
                 <rdf:li rdf:resource="http://cruyff-academy.crayos.de/doku.php?id=de:guides:index&amp;rev=1443229188&amp;do=diff"/>

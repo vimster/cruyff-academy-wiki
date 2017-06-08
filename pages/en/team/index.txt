@@ -9,9 +9,9 @@ We are proud of being a team comprising players from different European countrie
 |<100% 10em>|
 ^J_Cruyff__14 ^^
 |From |{{:en:team:de.png?25|}} Regensburg, Deutschland |
-|Positions | Any, Winger, CM, CDM, SW |
-|Club | Bayern Munich |
-|Role model |Lahm, Guardiola, Busquets, Sócrates |
+|Positions | SW, CDM, RB, LB, CM |
+|Club | Manchester City |
+|Role model |Lahm, Guardiola, Busquets, Dani Alves |
 |Qualities |Balance provider |
 
 |<100% 10em>|
@@ -188,14 +188,6 @@ We are proud of being a team comprising players from different European countrie
 |Role model | Xavi, Scholes, Verratti |
 |Qualities | Passing |
 
-|<100% 10em>|
-^acmacm123 ^^
-|From |{{:en:team:se.png?25|}} -, Sweden |
-|Member since |03/2017 |
-|Positions | Winger, CM, WB |
-|Club | _ |
-|Role model | _ |
-|Qualities | _ |
 
 |<100% 10em>|
 ^TomB97_ ^^
@@ -221,7 +213,7 @@ We are proud of being a team comprising players from different European countrie
 |Positions | Winger, CM, CDM |
 |Club | Rapid Vienna |
 |Role model | Schaub |
-|Qualities | |
+|Qualities |Pressing |
 
 |<100% 10em>|
 ^KingKrelliKrell ^^
