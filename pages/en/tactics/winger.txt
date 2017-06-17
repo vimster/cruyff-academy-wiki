@@ -1,5 +1,8 @@
 ====== Winger ======
 
+  Upcoming update: playing winger with attacking fullback on your side
+  
+  
 {{ :en:tactics:lwrwzones.png?200|}}
 
 **Without the ball:**
