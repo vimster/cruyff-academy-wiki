@@ -70,8 +70,56 @@ Metzelder, who played against Barcelona with Real Madrid, described it the follo
   "Fabio (Cannavaro) and I asked ourselves: What shall we do? Do we follow him or stay behind? 
   We didn't know what to do and we just couldn't stop him."
   
-==== Messi ====
+==== Discussion about False 9 ====
 
-<html><iframe width="560" height="315" src="https://www.youtube.com/embed/qWYR9ZtHn9Y" frameborder="0" allowfullscreen></iframe></html>  
-  
-https://www.youtube.com/shared?ci=QAWLC-e44vI
+=== What's the difference between a hanging striker and a False 9? ===
+
+Nominally, the F9 is the ST. The difference can be seen in the movement: The F9 is basically always in a vertical and/or diagonal line with the other players, like Messi does. He sometimes waits in attack without doing anything, then moves back to help in build up and contribute in combinations or moves to the right wing to create connections there.
+
+That means he has a vague connection to the ST position, in which he plays on the sheet, the hanging ST does not. He usually is playing horizontally, around another ST (playing with LS + RS for example), like with Müller when Van Gaal was at Bayern. Müller' position back then could be called a "Schattenstürmer" = "Shadow Striker".
+
+=== When do you play with a F9? ===
+
+If you play with much possession, want the wingers to have more possibilities to score goals and want another creative man in midfield. If the F9 isn't creative, then it doesn't make sense playing with it. One big advantage is, that you don't have a classic ST, which you have to ignore in build up and combinations, since he usually is limited on the ball and constantly makes runs. 
+
+With a F9 you have much more connections and possibilities to play through the center. Especially since it is the position in front of the opponent's defensive line, in which the most dangerous chances can be created. This space gets ignored with a real ST, you are not able to use this important space and you weaken yourself in the center.
+
+A F9 increases fluidity and flexibility in midfield a lot. With another player in midfield, the wingers and fullbacks can stay higher and wider without weakening build up play. 
+
+This is very important to understand Positional Play and Barcelona under Guardiola. One example was the match Barcelona vs Real Madrid that ended 6:2 for Barca. Before Messi, Eto'o was the ST and Xavi and Iniesta had to play extremely cautious and accurate. When Messi was told to go to the middle and got used to his new role, Xavi and Iniesta could move more and had an extra player in midfield who they could pass to, who didn't lose the ball and could pass back immediately to them. 
+
+Before that, Xavi had more missed passes than in other matches. With Messi, they could even move further up: Iniesta usually up in the left halfspace and Xavi made some vertical runs. All while Messi was both covering behind them, available for passes and combinations. 
+
+Also an important aspect to understand Barcelona is that especially Iniesta and Messi are two players who can keep the ball in attack in the important halfspaces between the lines, while others can make runs into spaces.
+
+Bayern under Heynckes could do that in build up with Schweinsteiger, who moved to the wing when he had someone covering behind him. But Bayern couldn't do that in a higher position, because they didn't have a dropping ST. 
+
+They especially had problems when they played with Schweinsteiger + Kroos CM, Müller CAM and Gomez ST. Müller and Gomez didn't drop and created no fluidity in midfield. So Kroos and Schweinsteiger were "stuck" on their positions and created no movement. 
+
+If there was a central attacker, that dropped deeper, the CM's would be able to make movements and you would have more possibilities in midfield. If they can't, the playstyle is predictable, static and has no flow. A F9 assures this important fluidity, especially in build up.
+
+=== Who should play with a False 9? ===
+
+Possession is very important for the F9. If you play counter attacks you have the ball for a very short time. The Striker can hardly fall back in build-up and immediately be at the front again, since you only play forward quickly in counter attacks. 
+
+However, if you are in possession, the F9 has more time to look for spaces rather than find the right spot quickly, react quickly and then run forward quickly, which is basically impossible. 
+
+In counter attack football, when you get the ball in defense, you look for the quickest way forward. This doesn't work with a F9, because if it drops back, it gets ignored anyway because the pass comes forward, mostly to the winger. The winger then has no option in the middle, because the F9 is too deep.
+
+A counter attack is an attack into one direction: You only play forward. If you have an attacker who is moving in the opposite direction, you can guess that it doesn't make sense and is counter productive (pun intended).
+
+If you play with much possession, the opponent is defending in a solid formation and is not moving very much. So if a F9 moves backwards and another player moves forward, you are in an advantage: You are moving and your opponent is not. So you are controlling both space and ball because you have enough players in the middle to play with and you also have players who can create space by running forward, without having the risk of losing the ball. 
+
+With a F9 you can create movements in an otherwise stiff formation without a F9.
+
+You could also see the that Barcelona tried to avoid playing counter attacks, before Tito Vilanova became coach. Same with the Spanish national team: One aspect of the 1:1 match Spain vs Italy in Euro 2012, where Italy opened up spaces for possible counter attacks on purpose, because they knew Spain doesn't exploit them. 
+
+Spain could have countered there, but they didn't have the players to play counter attacks. That's how they made it easier for Italy to attack them.
+
+==== Examples in FIFA 17 (False 9 in green) ====
+
+<html><iframe width="560" height="315" src="https://www.youtube.com/embed/xkqgcfJfibg" frameborder="0" allowfullscreen></iframe></html>
+
+<html><iframe width="560" height="315" src="https://www.youtube.com/embed/6opuo2rj5vY" frameborder="0" allowfullscreen></iframe></html>
+
+<html><iframe width="560" height="315" src="https://www.youtube.com/embed/32ASKEV5jrI" frameborder="0" allowfullscreen></iframe></html>

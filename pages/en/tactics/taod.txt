@@ -109,3 +109,9 @@ There are two ways of verticalising:
 <html><iframe src="https://player.vimeo.com/video/133880448" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></html>
 
 <html><iframe src="https://player.vimeo.com/video/133746319" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></html>
+
+<html><iframe width="560" height="315" src="https://www.youtube.com/embed/bnuzD1P7qk4" frameborder="0" allowfullscreen></iframe></html>
+
+<html><iframe width="560" height="315" src="https://www.youtube.com/embed/QNzq-NtR_Cg" frameborder="0" allowfullscreen></iframe></html>
+
+<html><iframe width="560" height="315" src="https://www.youtube.com/embed/bfTNo9BmfqM" frameborder="0" allowfullscreen></iframe></html>
