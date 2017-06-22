@@ -177,7 +177,56 @@ We are proud of being a team comprising players from different European countrie
 |Club | Borussia Dortmund |
 |Role model | Bürki |
 |Qualities | _ |
+
+|<100% 10em>|
+^TomB97_ ^^
+|From |{{:en:team:gb.png?25|}} , Britain |
+|Member since |05/2017 |
+|Positions | F9, CM, WB |
+|Club | _ |
+|Role model | _ |
+|Qualities | fast passing |
+
+|<100% 10em>|
+^JP_one6 ^^
+|From |{{:en:team:gb.png?25|}} , Britain |
+|Member since |04/2017 |
+|Positions | WB |
+|Club | _ |
+|Role model | _ |
+|Qualities |  |
+
 ===== Newcomer =====
+
+|<100% 10em>|
+^ciesla06 ^^
+|From |{{:en:team:dk.png?25|}} Cobenhaven, Denmark |
+|Member since |03/2016 |
+|Positions | CB |
+|Club | N/A |
+|Role model | |
+|Qualities | |
+
+
+|<100% 10em>|
+^jojoclem ^^
+|From |{{:en:team:fr.png?25|}} Nantes, France |
+|Member since |06/2017 |
+|Positions | CB |
+|Club | _ |
+|Role model | _ |
+|Qualities |  |
+
+|<100% 10em>|
+^FgT_xZaoza17^^
+|From |{{:en:team:fr.png?25|}} Paris, France |
+|Member since |06/2017 |
+|Positions | F9, Winger, CM |
+|Club | _ |
+|Role model | _ |
+|Qualities |  |
+
+===== Friends =====
 
 |<100% 10em>|
 ^Heiwa-Shizen ^^
@@ -188,16 +237,6 @@ We are proud of being a team comprising players from different European countrie
 |Role model | Xavi, Scholes, Verratti |
 |Qualities | Passing |
 
-
-|<100% 10em>|
-^TomB97_ ^^
-|From |{{:en:team:gb.png?25|}} , Britain |
-|Member since |05/2017 |
-|Positions | F9, CM, WB |
-|Club | _ |
-|Role model | _ |
-|Qualities | fast passing |
-===== Friends =====
 
 |<100% 10em>|
 ^OmelDonya           ^^
@@ -266,14 +305,7 @@ We are proud of being a team comprising players from different European countrie
 |Role model | Thiago, Berbatov, Scholes |
 |Qualities | Raumdeuter |
 
-|<100% 10em>|
-^ciesla06 ^^
-|From |{{:en:team:dk.png?25|}} Cobenhaven, Denmark |
-|Member since |03/2016 |
-|Positions | CB |
-|Club | N/A |
-|Role model | |
-|Qualities | |
+
 
 |<100% 10em>|
 ^Heatkiger ^^

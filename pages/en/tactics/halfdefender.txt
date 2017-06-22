@@ -53,22 +53,23 @@ There are two ways of verticalising:
 === Boateng's vertical pass from C3 to C4 ends in a goal ===
 <html><iframe src="http://gfycat.com/ifr/EminentLinedCoral" frameborder="0" scrolling="no" width="800" height="450" style="-webkit-backface-visibility: hidden;-webkit-transform: scale(1);" ></iframe></html>
 
-=== Various verticalizations by Boateng ===
-<html><iframe src="http://gfycat.com/ifr/SpectacularSpotlessBoto" frameborder="0" scrolling="no" width="800" height="450" style="-webkit-backface-visibility: hidden;-webkit-transform: scale(1);" ></iframe></html>
-=== Emre Can switches the play from D3 to A5 ===
-<html><iframe src="http://gfycat.com/ifr/FrighteningCrispChrysalis" frameborder="0" scrolling="no" width="800" height="450" style="-webkit-backface-visibility: hidden;-webkit-transform: scale(1);" ></iframe></html>
-
 If both wingers and CM's are covered, the central sweeper (CDM or CB) is requested to drop deeper. Either an opponent follows him and you need to reconsider the situation or the sweeper stays free for a pass, which leads to a new situation. The same applies to passes back to the goalkeeper. Keep in mind: As long as you don't lose the ball and the ball is circulated a new situation in game might occur generating a free man.
 
 Nonetheless, do not limit yourself to passes to the goalkeeper or the wingers because you are afraid of keeping the ball or passing into the center. 
 
-Many passes in "U" shape, as has been played by FC Bayern under the coach Van Gaal, may destroy the whole offensive efforts of a team. Any cross pass in the own half invites the opponent to move up and cover free men.
-This may result in never getting out of the own half.
+Many passes in "U" shape, as has been played by FC Bayern or Man United under the coach Van Gaal, may destroy the whole offensive efforts of a team. Any cross pass in the own half invites the opponent to move up and cover free men.
+
+This may result in never getting out of the own half. We may have over 70% possession, but 50% of it is pointless passing in the back if we don't verticalize.
+
+== It should NOT look like this: ==
+{{ :en:tactics:65ffdb_efef2a6d545f48b6a9a05f168af31deb-mv1.png?400 |}}
 
 Especially for the halfdefender as first player in the build up phase applies: 
 
-**Don't play hectic direct passes, if you aren't pressed!**
-**Keep the Ball and dribble forward as long as no opponent is attacking you. In the meantime always look forward and search for passes to a central teammate or onto the wing. Thereby make the decision, wheather a high, low, through or short pass is most suited.** 
+  ***Do not play hectic direct passes, if you aren't pressed!**
+  ***Keep the Ball and dribble forward as long as no opponent is attacking you.** 
+  ***In the meantime always look forward and search for passes to a central teammate (high priority!) or onto the wing (low priority!).** 
+  ***Decide, whether a high, low, through or short pass is most suited.** 
 
 Don't be a coward, who always looks for safety passes and refuses to assume responsibility.
 
@@ -77,6 +78,30 @@ Don't be a coward, who always looks for safety passes and refuses to assume resp
 <html><iframe width="560" height="315" src="https://www.youtube.com/embed/QNzq-NtR_Cg" frameborder="0" allowfullscreen></iframe></html>
 
 <html><iframe width="560" height="315" src="https://www.youtube.com/embed/bfTNo9BmfqM" frameborder="0" allowfullscreen></iframe></html>
+
+<html><iframe width="560" height="315" src="https://www.youtube.com/embed/7qIvGELPQF4" frameborder="0" allowfullscreen></iframe></html>
+
+==== What happens if there is no verticalization ====
+
+=== Various missed opportunities to verticalize, playing backwards and sideways in a giant "U" instead: ===
+
+<html><iframe width="560" height="315" src="https://www.youtube.com/embed/ngM3BF-Ii28" frameborder="0" allowfullscreen></iframe></html>
+
+Must verticalize here:
+{{ :en:tactics:youtu.be-ngm3bf-ii28.png?600 |}}
+
+...and here:
+{{ :en:tactics:youtu.be-ngm3bf-ii28_1_.png?600 |}}
+
+...possibly here:
+{{ :en:tactics:youtu.be-ngm3bf-ii28_2_.png?600 |}}
+
+...2nd chance here:
+{{ :en:tactics:youtu.be-ngm3bf-ii28_3_.png?600 |}}
+
+=== Getting stuck on one side, LCB only passing short to LB: ===
+
+<html><iframe width="560" height="315" src="https://www.youtube.com/embed/HAIxuZeIMhk" frameborder="0" allowfullscreen></iframe></html>
 ===== Winning the ball =====
 [size=3]//-> Main article: [[en:guides:defending|Defending]]//[/size]
 
@@ -103,14 +128,6 @@ He always gets thrown back by injuries but if he plays you can see why Van Gaal 
 He is actually pretty similar to Boateng's style of play, while Badstuber is a tad slower (he ran the 100m the fastest in Bayern's team until Boateng joined) and prefers lobbed passes more than Boateng does (Boateng prefers low and strong passes).
 ----
 
-==== Sergio Ramos ====
-
-<html><iframe width="640" height="390" src="https://www.youtube.com/embed/v8M1_WVE0Io" frameborder="0" allowfullscreen></iframe></html>
-
-As right fullback already a regular player at Real Madrid at a young age, and later put on CB. He was one of the technically best fullbacks of the world, which also applies to the center back. He is strong in build up, at switching the play and in tight situations.
-
-If he wouldn't be such an idiot in [[http://gfycat.com/HandyNastyAnemoneshrimp|some]] [[http://gfycat.com/UntidyBlushingGlobefish|situations]], maybe he would get the much higher credit he deserves.
-
 ~~CLEARFLOAT~~
 ----
 
@@ -124,13 +141,28 @@ He sort of "invented" what we like to call a "laserpass": Long, hard and precise
   
 <html><iframe width="640" height="390" src="https://www.youtube.com/embed/i_4J6pfBb6M" frameborder="0" allowfullscreen></iframe></html>
 
-==== Honorable mentions ====
+==== Leonardo Bonucci ====
 
-  *Piqué(nbauer)
-  *Javi Martínez
-  *Leonardo Bonucci
-  *Mats Hummels
-  *Daley Blind
-  *Toby Alderweireld
-  *Jan Vertonghen
-  *Thomas Vermaelen
+<html><iframe width="560" height="315" src="https://www.youtube.com/embed/Hkw4MmqFvEM" frameborder="0" allowfullscreen></iframe></html>
+
+<html><iframe width="560" height="315" src="https://www.youtube.com/embed/-xs3BP-1WZ0" frameborder="0" allowfullscreen></iframe></html>
+
+Another perfect player for Positional Play.
+
+==== Mats Hummels ====
+
+<html><iframe width="560" height="315" src="https://www.youtube.com/embed/8hDTM5_PzUw" frameborder="0" allowfullscreen></iframe></html>
+
+Hummels should never be forgotten when talking about defenders.
+
+==== Gerard Piqué ====
+
+<html><iframe width="560" height="315" src="https://www.youtube.com/embed/Ph9iVWWLgWQ" frameborder="0" allowfullscreen></iframe></html>
+
+Piquenbauer.
+
+==== David Luiz ====
+
+<html><iframe width="560" height="315" src="https://www.youtube.com/embed/i94WgsAA2go" frameborder="0" allowfullscreen></iframe></html>
+
+
