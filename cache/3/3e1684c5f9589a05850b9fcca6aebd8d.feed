@@ -11,10 +11,10 @@
         <description></description>
         <link>http://cruyff-academy.crayos.de/</link>
         <image rdf:resource="http://cruyff-academy.crayos.de/lib/tpl/dokuwiki/images/favicon.ico" />
-       <dc:date>2017-06-07T10:39:56+02:00</dc:date>
+       <dc:date>2017-06-24T02:47:56+02:00</dc:date>
         <items>
             <rdf:Seq>
-                <rdf:li rdf:resource="http://cruyff-academy.crayos.de/doku.php?id=sidebar&amp;rev=1460612899&amp;do=diff"/>
+                <rdf:li rdf:resource="http://cruyff-academy.crayos.de/doku.php?id=sidebar&amp;rev=1496829202&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -23,11 +23,11 @@
         <link>http://cruyff-academy.crayos.de/</link>
         <url>http://cruyff-academy.crayos.de/lib/tpl/dokuwiki/images/favicon.ico</url>
     </image>
-    <item rdf:about="http://cruyff-academy.crayos.de/doku.php?id=sidebar&amp;rev=1460612899&amp;do=diff">
+    <item rdf:about="http://cruyff-academy.crayos.de/doku.php?id=sidebar&amp;rev=1496829202&amp;do=diff">
         <dc:format>text/html</dc:format>
-        <dc:date>2016-04-14T07:48:19+02:00</dc:date>
+        <dc:date>2017-06-07T11:53:22+02:00</dc:date>
         <title>sidebar</title>
-        <link>http://cruyff-academy.crayos.de/doku.php?id=sidebar&amp;rev=1460612899&amp;do=diff</link>
+        <link>http://cruyff-academy.crayos.de/doku.php?id=sidebar&amp;rev=1496829202&amp;do=diff</link>
         <description>Willkommen in der Cruyff Academy
 
 Spielstrategie
@@ -48,8 +48,6 @@ Rollen im Positionsspiel
 	* Falsche 9
 	* Flügelstürmer
 
-Spielanalysen
-
 Spielhilfen und Anleitungen
 
 	* Trainingsübungen
@@ -61,6 +59,6 @@ Spielhilfen und Anleitungen
 
 Psychologische Aspekte
 
-	* Fu…</description>
+	* Fußball in den Me…</description>
     </item>
 </rdf:RDF>
